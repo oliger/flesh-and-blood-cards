@@ -885,7 +885,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated functional text for Bittering Thorns, FLic Flak, Flying Kick, Give and Take, Razor Reflex, Snatch, Soulbead Strike, Torrent of Tempo, and Whirling Mist Blossom
 
 TODO:
-- Added set data for SUP
-- Added card data for SUP
-- Added printing data for LGS422-LGS425, SUP???-SUP???
+- Added set data for APS, SUP
+- Added card data for APS, SUP
+- Added printing data for APS???-APS???, FAB381-FAB383, FAB387-FAB389, HER146-HER149, LGS422-LGS425, SUP???-SUP???
 - Added Revered and Reviled types
+- Added Suspense keyword

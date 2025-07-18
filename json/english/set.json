@@ -168,6 +168,27 @@
         ]
     },
     {
+        "unique_id": "qRrM9fKHKgwWwzh9rcrGg",
+        "id": "APS",
+        "name": "Armory Deck - Pleiades",
+        "printings": [
+            {
+                "unique_id": "npPLBdtF6fRmmMgTjgP9j",
+                "edition": "",
+                "start_card_id": "APS002",
+                "end_card_id": "APS032",
+                "initial_release_date": "2025-09-19T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "7LbfKJbkWGGwFJDWJn8GB",
         "id": "ARA",
         "name": "Arakni Blitz Deck",
@@ -785,7 +806,7 @@
                 "unique_id": "j76qTFctqc8krqh9GKGmT",
                 "edition": "N",
                 "start_card_id": "FAB001",
-                "end_card_id": "FAB333",
+                "end_card_id": "FAB389",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -890,7 +911,7 @@
                 "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
                 "edition": "N",
                 "start_card_id": "HER000",
-                "end_card_id": "HER135",
+                "end_card_id": "HER149",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1534,7 +1555,7 @@
                 "unique_id": "wJwjGbHjzbbFJdGdGJMMh",
                 "edition": "N",
                 "start_card_id": "SUP001",
-                "end_card_id": "SUP100",
+                "end_card_id": "SUP216",
                 "initial_release_date": "2025-09-26T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": null,
