@@ -8669,7 +8669,7 @@ zzHRCMBmNTF9KpJMqKWq8	Star Struck	Yellow	2	7	10	3				Guardian, Action, Attack		B
 **Crush** - When this deals 4 or more damage to a hero, the only attacks they may play or activate during their next turn are attacks with base {p} greater than the damage dealt this way.
 
 **Unity** - When this defends together with a card from hand, create a Seismic Surge token under any number of heroes' control."	Guardian Action - Attack				No	
-dCkbCnQ7pcjfbQ7k8GhFk	Starlight Striders									Lightning, Runeblade, Equipment, Legs		Blade Break						"When this defends, you may reveal an instant card from your hand. If you do, create an Embodiment of Lightning token.
+dCkbCnQ7pcjfbQ7k8GhFk	Starlight Striders					1				Lightning, Runeblade, Equipment, Legs		Blade Break						"When this defends, you may reveal an instant card from your hand. If you do, create an Embodiment of Lightning token.
 
 **Blade Break**"	Lightning Runeblade Equipment - Legs				No	
 h8WG7GncNP7qN7hnzTdN9	Starting Point					0				Assassin, Warrior, Equipment, Legs			Attack Reaction		Go again			**Attack Reaction** - Destroy this: Target attack gets **go again**. Activate this only if you've played a card or activated an ability this reaction step.	Assassin / Warrior Equipment - Legs					
@@ -10278,7 +10278,7 @@ nrMg9kDMg9KwBPPtJLJph	Yorick, Weaver of Tales						20	4		Bard, Hero, Young						
 NLkgcrjgGCQdWqGdg8gpj	Zap	Red	1	0		3			3	Wizard, Action								Deal 3 arcane damage to target hero.	Wizard Action					
 cNDwrcdgP7RdhDqDjdknB	Zap	Yellow	2	0		3			2	Wizard, Action								Deal 2 arcane damage to target hero.	Wizard Action					
 nGFNqP9BddjFmfBNcQGpq	Zap	Blue	3	0		3			1	Wizard, Action								Deal 1 arcane damage to target hero.	Wizard Action					
-TgrQPtPTGpMznMJPJKPGC	Zap Clappers									Lightning, Runeblade, Equipment, Arms		Blade Break						"When this defends, you may reveal an instant card from your hand. If you do, deal 1 arcane damage to the attacking hero.
+TgrQPtPTGpMznMJPJKPGC	Zap Clappers					2				Lightning, Runeblade, Equipment, Arms		Blade Break						"When this defends, you may reveal an instant card from your hand. If you do, deal 1 arcane damage to the attacking hero.
 
 **Blade Break**"	Lightning Runeblade Equipment - Arms				No	
 mQTLKRNWqhbJRtNNdWHHj	Zealous Belting	Red	1	2	5	2				Generic, Action, Attack		Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
