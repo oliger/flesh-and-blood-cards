@@ -1,35 +1,4 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	LL Legal
-DcwnhL66BkhqjFcfzwwfQ	Pleiades						20	4		Revered, Guardian, Hero, Young			Instant				The Crowd Cheers	"**Instant** - {t}, remove a suspense counter from an aura you control: You may put a suspense counter on an aura of suspense you control.
-
-Whenever the crowd cheers you, create a Confidence token."	Revered Guardian Hero - Young			No		No
-CDWJGrPLQbrqwkj7mzQ8B	Old Leather and Vim	Red	1	2	6	3				Revered, Brute, Action, Attack								"If you control a Toughness or Vigor token, this gets +1{p}.
-
-When this hits a hero, create a Toughness and a Vigor token."	Revered Brute Action - Attack				No	
-PQLpnnKFRhCrdMnwgdNHH	Uplifting Performance	Blue	3	3	5	3				Revered, Guardian, Action, Attack								"If you control a Confidence or Toughness token, this gets +1{p}.
-
-When this hits a hero, create a Confidence and a Toughness token."	Revered Guardian Action - Attack				No	
-f98CNTJTLWWTgPzmRpmGK	Outside Interference	Blue	3	3	6	0				Reviled, Brute, Action, Attack			Instant					**Instant** - Discard this: You may reveal a Reviled attack action card from your inventory and put it into your hand.	Reviled Brute Action - Attack				No	
-qLttRBczGdzDtWNtFTGMn	Offensive Behavior	Blue	3	0	2	3				Reviled, Brute, Action, Attack								"If you control a Might or Vigor token, this gets +1{p}.
-
-When this hits a hero, create a Might and a Vigor token."	Reviled Brute Action - Attack				No	
-cfcQjNKbBQ6WtGcFRrhHd	Spew Obscenities	Yellow	2	0	3	3				Reviled, Guardian, Action, Attack								"If you control a Confidence or Might token, this gets +1{p}.
-
-When this hits a hero, create a Confidence and a Might token."	Reviled Guardian Action - Attack				No	
-qqDbjmjjfHK9d8KJ8PcGm	In the Palm of Your Hand	Red	1	2		3				Guardian, Instant, Aura		Suspense						"**Suspense**
-
-When this enters or leaves the arena, draw a card."	Guardian Instant - Aura				No	
-HKqcfqWBCP9T6CHdQRCtn	Helm of Hindsight					0				Generic, Equipment, Head			Instant					**Instant** - {r}{r}{r}, destroy this: Put target attack action card from your graveyard on top of your deck.	Generic Equipment - Head					
-cz8WjTHRfmKBGtRfPrCWr	Garland of Spring					0				Generic, Equipment, Chest			Action	Go again				**Action** - Destroy this: Gain {r}. **Go again**	Generic Equipment - Chest					
-BJrdzPnKR6zFhPhpWkLqr	Punching Gloves					0				Generic, Equipment, Arms			Action	Go again				**Action** - {r}{r}, destroy this: The next attack card you play this turn gets +2{p}. **Go again**	Generic Equipment - Arms					
-rKwFK8LDKhPht6b9pNF7P	Topy Jugs					0				Generic, Equipment, Legs		Blade Break						"When this defends, you may pay {r}. If you do, it gets +2{d} this turn.
-
-**Blade Break**"	Generic Equipment - Legs					
-9zW8NL8CktpnMwmD7dWrh	Overcrowded	Blue	3	0	1	2				Generic, Action, Attack		Ambush						"**Ambush**
-
-When this attacks or defends, it gets +1{p} +1{d} for each different name among aura tokens in the arena."	Generic Action - Attack				No	
-GzWDLbC8WgKLHkgBnQ8mc	Standing Ovation	Blue	3	6	8	3				Revered, Guardian, Action, Attack						Suspense	"If 3 or more auras of suspense have left the arena this turn, this gets ""When this hits a hero, take an extra turn after this one. At the beginning of the next end phase, they draw up to their {i}."""	Revered Guardian Action - Attack				No		
-WBFjTCfmbwHCr8WNmz8RQ	Confidence									Generic, Token, Aura							At the start of your turn, destroy this, then the next attack card you play this turn can't be defended by more than 2 non-block cards.	Generic Token - Aura						
-Cn8tK9KRm7d9KbcQk6Pqm	Toughness									Generic, Token, Aura							At the start of your opponent's turn, destroy this, then the next action card you defend with this turn gets +1{d} this chain link.	Generic Token - Aura						
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	Red	1	8		3				Illusionist, Action, Aura		Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	
@@ -1890,6 +1859,7 @@ You may destroy an aura you control. If you do, each opponent destroys an aura p
 dzP7wmmnGhcPk78jJpwQ6	Conduit of Frostburn					0				Ice, Wizard, Equipment, Arms		Quell 1	Instant					"**Instant** - Destroy Conduit of Frostburn: The next card you play this turn with an effect that deals arcane damage gains ""When this deals arcane damage to a hero, destroy a **frozen** card in their arsenal.""
 
 **Quell 1**"	Ice Wizard Equipment - Arms					
+WBFjTCfmbwHCr8WNmz8RQ	Confidence									Generic, Token, Aura								At the start of your turn, destroy this, then the next attack card you play this turn can't be defended by more than 2 non-block cards.	Generic Token - Aura					
 GtL9zmpkGKMqgBcFfCQgN	Confront Adversity					2				Generic, Equipment, Chest		Blade Break						"This may only defend an attack if the attack's controller has destroyed a Vigor token this turn.
 
 **Blade Break**"	Generic Equipment - Chest					
@@ -3730,6 +3700,7 @@ FdBq9qFfNpMbk67f7FRFL	Galvanic Bender					1				Mechanologist, Equipment, Arms		M
 
 **Battleworn**"	Mechanologist Equipment - Arms					
 nC7DHjMkPCgnPbjPdCTdj	Gambler's Gloves					0				Generic, Equipment, Arms								If a hero would roll one or more 6 sided dice, instead after the roll you may destroy Gambler's Gloves. If you do, that hero rerolls all 6 sided dice rolled this way.	Generic Equipment - Arms				No	
+cz8WjTHRfmKBGtRfPrCWr	Garland of Spring					0				Generic, Equipment, Chest			Action	Go again				**Action** - Destroy this: Gain {r}. **Go again**	Generic Equipment - Chest					
 MNLgkBbQcz8fQrqzfTjTj	Gas Guzzler	Red	1	3	6	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack					
 6gFbdhHwNwJmRJPqTfHRc	Gas Guzzler	Yellow	2	3	5	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack					
 c9cWTPgkgQQJPQDFMJw7W	Gas Guzzler	Blue	3	3	4	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack					
@@ -4213,6 +4184,7 @@ When the combat chain closes, if this attacked, banish it.
 TKbBnD6hMmqHfhDPtmHjL	Helm of Halo's Grace					2				Light, Warrior, Equipment, Head		Charge, Blade Break						"When this defends, you may **charge** your hero's soul. If a yellow card is **charged** this way, draw a card.
 
 **Blade Break**"	Light Warrior Equipment - Head				No	
+HKqcfqWBCP9T6CHdQRCtn	Helm of Hindsight					0				Generic, Equipment, Head			Instant					**Instant** - {r}{r}{r}, destroy this: Put target attack action card from your graveyard on top of your deck.	Generic Equipment - Head					
 rjhDRz7JGN7kpDdjHQfrg	Helm of Isen's Peak					1				Guardian, Equipment, Head		Battleworn	Action					"**Action** - {r}, destroy Helm of Isen Peak: Your hero gains +1{i} until end of turn.
 
 **Battleworn**"	Guardian Equipment - Head					
@@ -4634,6 +4606,9 @@ Whenever this banishes a reaction or instant card, gain 1{h}."	Assassin Action -
 When this hits a hero, banish the top card of their deck.
 
 Whenever this banishes a reaction or instant card, gain 1{h}."	Assassin Action - Attack					
+qqDbjmjjfHK9d8KJ8PcGm	In the Palm of Your Hand	Red	1	2		3				Guardian, Instant, Aura		Suspense						"**Suspense**
+
+When this enters or leaves the arena, draw a card."	Guardian Instant - Aura				No	
 tFcNdRJcpB69qcCBpTL7c	In the Swing	Red	1	0		3				Warrior, Attack Reaction								"Play In the Swing only if you have attacked 2 or more times with weapons this turn.
 
 Target weapon attack gains +3{p}."	Warrior Attack Reaction					
@@ -5832,6 +5807,9 @@ DWcKpdjNKBcK67WpPb9Qf	Ode to Wrath	Yellow	2	4						Light, Illusionist, Instant, 
 Illusionist attack action cards you control have **go again**.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
+qLttRBczGdzDtWNtFTGMn	Offensive Behavior	Blue	3	0	2	3				Reviled, Brute, Action, Attack								"If you control a Might or Vigor token, this gets +1{p}.
+
+When this hits a hero, create a Might and a Vigor token."	Reviled Brute Action - Attack				No	
 ph6zmRnbqhCtD7T7FwpdB	Okana Scar Wraps					2				Ninja, Equipment, Arms		Blade Break	Attack Reaction					"**Attack Reaction** - {t}, banish an Edge of Autumn you control: Target Ninja attack action card gets +1{p}.
 
 Whenever an attack you control with Vengeance in its name hits, you may equip an Edge of Autumn from your banished zone.
@@ -5840,6 +5818,9 @@ Whenever an attack you control with Vengeance in its name hits, you may equip an
 KTh89nLtmJWQcQQJPwgDW	Old Knocker					1				Generic, Equipment, Chest		Blade Break	Instant					"**Instant** - {t} your hero, destroy this: Gain {r}
 
 Blade Break"	Generic Equipment - Chest					
+CDWJGrPLQbrqwkj7mzQ8B	Old Leather and Vim	Red	1	2	6	3				Revered, Brute, Action, Attack								"If you control a Toughness or Vigor token, this gets +1{p}.
+
+When this hits a hero, create a Toughness and a Vigor token."	Revered Brute Action - Attack				No	
 hw6qHfWdqQGfRPfKJMgR7	Oldhim						20	4		Elemental, Guardian, Hero, Young		Essence of Earth and Ice	Once per Turn Defense Reaction					"**Essence of Earth and Ice**
 
 **Once per Turn Defense Reaction** - {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck."	Elemental Guardian Hero - Young			No		No
@@ -5952,6 +5933,7 @@ The next time a weapon hits this turn, create a Copper token.
 The next time a weapon hits this turn, create a Copper token.
 
 **Go again**"	Warrior Action					
+f98CNTJTLWWTgPzmRpmGK	Outside Interference	Blue	3	3	6	0				Reviled, Brute, Action, Attack			Instant					**Instant** - Discard this: You may reveal a Reviled attack action card from your inventory and put it into your hand.	Reviled Brute Action - Attack				No	
 dR8hjTth9bHpdLfTBPLNM	Ouvia				1		6			Draconic, Illusionist, Dragon, Ally		Transform						At the start of your turn or when Ouvia enters the arena, **transform** up to 1 ash you control into an Aether Ashwing.	Draconic Illusionist - Dragon Ally				No	
 WWPf7JkLnRcmfhdfw8M9g	Over Flex	Red	1	1		2				Ranger, Action		Reload, Go again						"Your next arrow attack this turn gains +4{p}.
 
@@ -5986,6 +5968,9 @@ JHRhwNCKG97trbQLfhg9j	Overblast	Blue	3	2	3	3				Mechanologist, Action, Attack			
 BrCKk9JLw8r69fGgNt8BH	Overcome Adversity					2				Generic, Equipment, Legs		Blade Break						"This may only defend an attack if the attack's controller has destroyed an Agility token this turn.
 
 **Blade Break**"	Generic Equipment - Legs					
+9zW8NL8CktpnMwmD7dWrh	Overcrowded	Blue	3	0	1	2				Generic, Action, Attack		Ambush						"**Ambush**
+
+When this attacks or defends, it gets +1{p} +1{d} for each different name among aura tokens in the arena."	Generic Action - Attack				No	
 CMbWnJbGKW8JdmD7TB8JF	Overflow the Aetherwell	Red	1	0		3			3	Wizard, Action		Surge						"Deal 3 arcane damage to target hero.
 
 **Surge** - If this deals more than 3 damage, gain {r}{r}."	Wizard Action					
@@ -6278,6 +6263,9 @@ QmBfhgrGL6JDrhkn6ccg8	Platinum Amulet	Blue	3	0						Generic, Action, Item		Legen
 
 **Legend of the Watery Grave**"	Generic Action - Item				No	
 LQDwqpNddrmqQQb8J9dht	Pledge Fealty	Red	1	0						Draconic, Instant								Create a Fealty token.	Draconic Instant					
+DcwnhL66BkhqjFcfzwwfQ	Pleiades						20	4		Revered, Guardian, Hero, Young			Instant				The Crowd Cheers	"**Instant** - {t}, remove a suspense counter from an aura you control: You may put a suspense counter on an aura of suspense you control.
+
+Whenever the crowd cheers you, create a Confidence token."	Revered Guardian Hero - Young			No		No
 JhgRJb6nfctWkndbzrgnj	Pleiades, Superstar						40	4		Revered, Guardian, Hero			Instant				The Crowd Cheers	"**Instant** - {t}, remove a suspense counter from an aura you control: You may put a suspense counter on an aura of suspense you control.
 
 Whenever the crowd cheers you, create a Confidence token."	Revered Guardian Hero		No		No	
@@ -6674,6 +6662,7 @@ pG9mTDdBkd7gPmGkPhpGd	Pummel	Yellow	2	2		2				Generic, Attack Reaction								"C
 ktRRh7cTpqgTzFRg8HJK6	Pummel	Blue	3	2		2				Generic, Attack Reaction								"Choose 1;
 - Target club or hammer weapon attack gains +2{p}.
 - Target attack action with cost 2 or greater gains +2{p} and ""If this hits a hero, they discard a card."""	Generic Attack Reaction					
+BJrdzPnKR6zFhPhpWkLqr	Punching Gloves					0				Generic, Equipment, Arms			Action	Go again				**Action** - {r}{r}, destroy this: The next attack card you play this turn gets +2{p}. **Go again**	Generic Equipment - Arms					
 jtk8JgcJHLBK9kqdNf7FG	Puncture	Red	1	1		3				Warrior, Attack Reaction					Piercing 1			Target sword or dagger attack gains +3{p} and **piercing 1**.	Warrior Attack Reaction					
 Q9wCKDmjFwjdjdL6rkcLJ	Puncture	Yellow	2	1		3				Warrior, Attack Reaction					Piercing 1			Target sword or dagger attack gains +2{p} and **piercing 1**.	Warrior Attack Reaction					
 CLw8wRQNbjMTbFLR6bQQf	Puncture	Blue	3	1		3				Warrior, Attack Reaction					Piercing 1			Target sword or dagger attack gains +1{p} and **piercing 1**.	Warrior Attack Reaction					
@@ -8524,6 +8513,9 @@ At the beginning of your end phase, destroy Spellbound Creepers unless you have 
 7hLHLm8qkPm6fjhHnqdWd	Spellfire Cloak					0				Wizard, Equipment, Chest		Arcane Barrier 1	Instant					"**Instant** - Destroy Spellfire Cloak: Gain {r}. Activate this ability only during an opponent's turn.
 
 **Arcane Barrier 1**"	Wizard Equipment - Chest					
+cfcQjNKbBQ6WtGcFRrhHd	Spew Obscenities	Yellow	2	0	3	3				Reviled, Guardian, Action, Attack								"If you control a Confidence or Might token, this gets +1{p}.
+
+When this hits a hero, create a Confidence and a Might token."	Reviled Guardian Action - Attack				No	
 B6QBPpJtzFp6btg87zpqH	Spew Shadow	Red	1	2		2				Shadow, Action		Go again						"Choose an attack action card with cost 2 or less in your banished zone. You may play it this turn. If it attacks a Light hero, it gains +2{p}.
 
 **Go again**"	Shadow Action					
@@ -8668,6 +8660,7 @@ If you control a Vigor token, this gets +1{d}.
 
 **Temper**"	Guardian Equipment - Legs					
 GCWFNNQtKW9JFqJjqtCjP	Standing Order	Red	1	0	4	3				Generic, Action, Attack								When this attacks or defends, you may put a card from your arsenal on the bottom of your deck. If you do, this gets +2{p} and +2{d}.	Generic Action - Attack				No	
+GzWDLbC8WgKLHkgBnQ8mc	Standing Ovation	Blue	3	6	8	3				Revered, Guardian, Action, Attack							Suspense	"If 3 or more auras of suspense have left the arena this turn, this gets ""When this hits a hero, take an extra turn after this one. At the beginning of the next end phase, they draw up to their {i}."""	Revered Guardian Action - Attack				No	
 m7NGBRdNftTh9ntBzppbB	Star Fall				1					Lightning, Runeblade, Weapon, Sword, 2H		Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**."	Lightning Runeblade Weapon - Sword (2H)					
@@ -9371,6 +9364,9 @@ JQqp6Ctw7QMLRDMgTnW6g	Tomeltai				5		5			Draconic, Illusionist, Dragon, Ally				
 gwLCKHWBWwMwH7McRRDzF	Tongue Tied	Red	1	3	7	2				Generic, Action, Attack								When this hits a hero, turn a card in their arsenal face-up, then banish an instant card from their arsenal.	Generic Action - Attack				No	
 cLkt677NMWGgPTNCBcJjn	Tooth and Claw	Red	1	0	4	3				Mystic, Ninja, Action, Attack		Go again						When this attacks, you may reveal any number of Crouching Tigers from your hand. If you reveal 1 or more, this gets **go again**. 2 or more, this gets +1{p}. 3 or more, draw a card.	Mystic Ninja Action - Attack				No	
 bCLK9nFBJjmHFjLQmL8Kt	Tooth of the Dragon	Red	1	0						Draconic, Instant								Your next Draconic attack this turn gets +3{p}.	Draconic Instant					
+rKwFK8LDKhPht6b9pNF7P	Topy Jugs					0				Generic, Equipment, Legs		Blade Break						"When this defends, you may pay {r}. If you do, it gets +2{d} this turn.
+
+**Blade Break**"	Generic Equipment - Legs					
 fCB6H9HqcnhNkhKjtcG69	Torque Tuned	Red	1	2	6	2				Mechanologist, Action, Attack		Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
 
 **Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
@@ -9387,6 +9383,7 @@ KwphDpWLnJrjGGMGnJc9n	Tough Old Wrench	Red	1	2	6	2				Mechanologist, Action, Att
 9dPrwcgFKcd8zk8PpwfRJ	Tough Old Wrench	Yellow	2	2	5	2				Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
 zLMWLzKGcdNnndTcD89gT	Tough Old Wrench	Blue	3	2	4	2				Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
 QQJMKL7hLRfLcMhQCwTpN	Toughen Up	Blue	3	2		4				Generic, Defense Reaction									Generic Defense Reaction					
+Cn8tK9KRm7d9KbcQk6Pqm	Toughness									Generic, Token, Aura								At the start of your opponent's turn, destroy this, then the next action card you defend with this turn gets +1{d} this chain link.	Generic Token - Aura					
 7rNHHrKTMQDhQdp6tgKhD	Towering Titan	Red	1	9		3				Guardian, Action, Aura								At the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +10{p}.	Guardian Action - Aura				No	
 6QjFBg8DFzJBbLNmzKjPj	Towering Titan	Yellow	2	9		3				Guardian, Action, Aura								At the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +9{p}.	Guardian Action - Aura				No	
 dDJjK9RbrTTMp7cBkgdqJ	Towering Titan	Blue	3	9		3				Guardian, Action, Aura								At the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +8{p}.	Guardian Action - Aura				No	
@@ -9680,6 +9677,9 @@ dH8jGBhdrCK7gbf9NhtGJ	Uphold Tradition									Mystic, Illusionist, Equipment, A
 **Instant** - {r}, turn this face-up: Put a +1{p} counter on an aura you control with **ward**.
 
 **Ward 1**"	Mystic Illusionist Equipment - Arms					
+PQLpnnKFRhCrdMnwgdNHH	Uplifting Performance	Blue	3	3	5	3				Revered, Guardian, Action, Attack								"If you control a Confidence or Toughness token, this gets +1{p}.
+
+When this hits a hero, create a Confidence and a Toughness token."	Revered Guardian Action - Attack				No	
 N9RMNzqcJCBQ98hchcLpb	Uprising	Red	1	0		3				Draconic, Action		Go again						"Your next 4 Draconic attacks this turn gain +1{p}.
 
 **Go again**"	Draconic Action				No	
