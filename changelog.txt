@@ -883,3 +883,14 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added images for ASR002, ASR004, ASR006-ASR007, and ASR009-ASR027
 - Added card db info for ASR set
 - Updated functional text for Bittering Thorns, FLic Flak, Flying Kick, Give and Take, Razor Reflex, Snatch, Soulbead Strike, Torrent of Tempo, and Whirling Mist Blossom
+
+07-20-25:
+- Added printing data for MPG003, MPG004 (marvel back), MPG044, and MPG045
+- Added images for MPG003, MPG004 (marvel back), MPG044, and MPG045
+- Updated image URL for FAB340
+- Fixed an issue with Starlight Striders and Zap Clappers missing defense values - bug report: Aegisworn
+- Fixed an issue with FAB333 having the incorrect image URL - bug report: manwaring
+- Fixed an issue with MPG Seismic Surges not having AA treatment - bug report: manwaring
+- Fixed an issue with LGS367 and LGS368 having swapped artists - bug report: manwaring
+- Fixed an issue with FNG009 being marked as C rarity instead of R rarity - bug report: manwaring
+- Fixed an issue with SEA245 printings being marked as C foiling instead of R foiling - bug report: manwaring
