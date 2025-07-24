@@ -1211,6 +1211,7 @@ At the start of your turn, you may reveal an Earth, an Ice, and a Lightning card
 GgpnHWbh8m96MdHdCRmnW	Break Ground	Red	1	3	7	2				Earth, Action, Attack								When you attack with Break Ground, you may put a card from your arsenal on the bottom of your deck. If you do, draw a card.	Earth Action - Attack					
 bmLJpC7grdNJm9cdfhTTc	Break Ground	Yellow	2	3	6	2				Earth, Action, Attack								When you attack with Break Ground, you may put a card from your arsenal on the bottom of your deck. If you do, draw a card.	Earth Action - Attack					
 FTnCF8qDgpz9T9LDbpbf8	Break Ground	Blue	3	3	5	2				Earth, Action, Attack								When you attack with Break Ground, you may put a card from your arsenal on the bottom of your deck. If you do, draw a card.	Earth Action - Attack					
+GLqfqt8qLhgfwrM6rWckN	Break Stature	Yellow	2	5	8	3				Guardian, Action, Attack		Clash						**Crush** - When this deals 4 or more damage to a hero, destroy an aura token they control. They can't create auras with that token's name until the end of their next turn.	Guardian Action - Attack				No	
 wgLPnnJb8QW7WH6zRFbNr	Break Tide	Yellow	2	0	2	3				Ninja, Action, Attack		Combo, Dominate						"**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, Break Tide gains +3{p}, **dominate**, and ""If Break Tide hits, banish the top card of your deck. Until the end of your next turn, you may play it."""	Ninja Action - Attack				No	
 jWrgGqDQrJcHQ8PF7htmc	Break of Dawn	Red	1	0						Light, Instant								The next time a Shadow source would deal damage this turn, prevent 4 of that damage.	Light Instant					
 L9ckNFnGCDh9tQtCg8rm6	Break of Dawn	Yellow	2	0						Light, Instant								The next time a Shadow source would deal damage this turn, prevent 3 of that damage.	Light Instant					
@@ -1628,6 +1629,7 @@ M8HJKTz7QwHTjGtjdHqDM	Clarity Potion	Blue	3	0						Generic, Action, Item			Insta
 gRpHwzjCr7Q6RQwnGTT7t	Clash of Agility	Red	1	2	6	3				Brute, Warrior, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
 8dw7PGfBNcKMcRkgMdPJz	Clash of Agility	Yellow	2	2	5	3				Brute, Warrior, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
 ghCPQqFqNjMq9cn7nTrzJ	Clash of Agility	Blue	3	2	4	3				Brute, Warrior, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
+GFNmknDkQm8tdbNCcWGR9	Clash of Bravado	Yellow	2	4	7	3				Guardian, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner destroys an aura the other hero controls.	Guardian Action - Attack				No	
 NGMpfnrcHzjWtB6bmGC6C	Clash of Might	Red	1	2	6	3				Brute, Guardian, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
 HQGTg8btKJgCCrhmBGrDN	Clash of Might	Yellow	2	2	5	3				Brute, Guardian, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
 KnJTJP7KPKfpNC7FNLJB8	Clash of Might	Blue	3	2	4	3				Brute, Guardian, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
@@ -3275,6 +3277,9 @@ mbF7WMCnnpGHh9bwBwBKf	Fate Foreseen	Blue	3	0		2				Generic, Defense Reaction		Op
 BtjHtqNphG79QrFCG6TQ9	Fatigue Shot	Red	1	1	5	3				Ranger, Action, Arrow, Attack								When Fatigue Shot hits a hero, the base {p} of the first attack action card they play during their next turn is halved, rounded up.	Ranger Action - Arrow Attack					
 LcwPJL87FjznLJQjKdhfN	Fatigue Shot	Yellow	2	1	4	3				Ranger, Action, Arrow, Attack								When Fatigue Shot hits a hero, the base {p} of the first attack action card they play during their next turn is halved, rounded up.	Ranger Action - Arrow Attack					
 wDQpwcjHkdqjhpJhCHLft	Fatigue Shot	Blue	3	1	3	3				Ranger, Action, Arrow, Attack								When Fatigue Shot hits a hero, the base {p} of the first attack action card they play during their next turn is halved, rounded up.	Ranger Action - Arrow Attack					
+bzPDgqKBRNH7JQjcqWbfk	Fault Line	Red	1	3	7	3				Guardian, Action, Attack		Crush						"If you have a card in your arsenal, this gets +1{p}.
+
+**Crush** - When this deals 4 or more damage to a hero, put all cards in all arsenals on bottom of their owner's deck."	Guardian Action - Attack					
 n9FtLHDg97rfrTNJDMBG6	Fealty									Draconic, Token, Aura								**Instant** - Destroy this: The next card you play this turn is Draconic. At the beginning of your end phase, if you haven't created a Fealty token or played a Dragonic card this turn, destroy this.	Draconic Token - Aura					
 pdwzQtmTgqMnFqkPQKNhq	Feign Death	Yellow	2	1						Ranger, Instant								"Play Feign Death only if your hero has been dealt damage this turn.
 
@@ -3745,6 +3750,9 @@ drgrrjBH9rz9k67qc6WnF	Germinate	Blue	3	XX		3				Earth, Runeblade, Action		Floria
 Create a Runechant or Embodiment of Earth token. Repeat this process X more times.
 
 Gain X+1{h}"	Earth Runeblade Action				No	
+KRf9kpGR6rQKwWCdwJL8b	Gesture of Goodwill	Blue	3			3				Generic Block		Protect						"**Protect**
+
+When this **protects** another hero, they may give you a token they control."	Generic Block					
 rmdqRKFwTMWr97GPqNd6Q	Ghostly Touch					0				Illusionist, Equipment, Arms			Once per Turn Action	Go again				"Whenever an Illusionist attack you control is destroyed by **phantasm**, put a haunt counter on Ghostly Touch.
 
 **Once per Turn Action** - Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {h} equal to the number of haunt counters on it, and ""**Once per Turn Action** - {r}{r}{r}: **Attack**"". **Go again**"	Illusionist Equipment - Arms				No	
@@ -4390,6 +4398,9 @@ DW7LjrR6RwKPhNB8d9CGM	Hope Merchant's Hood					0				Generic, Equipment, Head			I
 kHTFbHM7GGctRFhMm8hBg	Hornet's Sting					1				Ranger, Equipment, Arms		Blade Break						"Whenever Hornet's Sting defends, reveal the top card of your deck. If it's an arrow, deal 1 damage to the attacking hero or ally. Otherwise, put it on the bottom of your deck.
 
 **Blade Break**"	Ranger Equipment - Arms					
+NKBJGDhp7TDQ7CzdQtpJM	Hostile Encroachment	Red	1	3	8	3				Guardian, Action, Attack		Crush						"When this attacks a hero, they draw a card.
+
+**Crush** - When this deals 4 or more damage to a hero, they discard a card."	Guardian Action - Attack					
 WKGJ7ktHDWrtCBnC9J7gW	Hot Streak				2					Warrior, Weapon, Sword, 1H		Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 When this is defended by 1 or more attack action cards, Hot Streak's attacks get **go again** this turn."	Warrior Weapon - Sword (1H)					
@@ -7059,6 +7070,9 @@ Banish Remembrance."	Generic Instant				No
 M9wDtMRwDFB9chfhJRNWJ	Remorseless	Red	1	1	5	3				Ranger, Action, Arrow, Attack								"If Remorseless is put into your arsenal face up, until end of turn it gains ""Defense reaction cards can't be played from arsenal to Remoreseless's chain link.""
 
 If Remorseless hits a hero, until the end of their next turn, whenever they play an action card, they lose 1{h}."	Ranger Action - Arrow Attack				No	
+6dCLFb9TTGPNKHFqH7mzw	Renounce Grandeur	Red	1	3	7	3				Guardian, Action, Attack		Crush						"If the defending hero controls an aura token, this gets +1{p}.
+
+**Crush** - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn."	Guardian Action - Attack					
 dkWqMzLQfPdRHktgJrMK8	Requiem for the Damned	Red	1	0		3				Shadow, Runeblade, Action		Blood Debt						"You may play this from your banished zone.
 
 If a hero has lost {h} this turn, you may play this as though it were an instant.
