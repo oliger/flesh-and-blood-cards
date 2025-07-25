@@ -899,3 +899,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 07-23-25:
 - Added card data for Break Stature, Fault Line, Hostile Encroachment, Renounce Grandeur, Gesture of Goodwill, and Clash of Bravado
 - Added printing data for FAB328-FAB330, LGS361, and MPG014-MPG015
+
+07-24-25:
+- Added card data for Visit Anvilheim, Test of Iron Grip, and Base of the Mountain - data entry assistance: manwaring
+- Added printing data for MPG021, MPG025, MPG032-MPG034, and MPG113 - data entry assistance: manwaring
