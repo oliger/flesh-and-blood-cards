@@ -583,6 +583,11 @@ While Barraging Big Horn is defended by less than 2 non-equipment cards, it has 
 8h9W9mdd6djDk6JCMCdGt	Barraging Brawnhide	Red	1	3	7	2				Generic, Action, Attack								While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 hJdQ9Bfwm8Fz8kdtzHHqL	Barraging Brawnhide	Yellow	2	3	6	2				Generic, Action, Attack								While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
 9FcqNtGpHg68zzCggJkkP	Barraging Brawnhide	Blue	3	3	5	2				Generic, Action, Attack								While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack					
+gBQnWLRkrTJNGGm7dWPBN	Base of the Mountain					*				Generic, Equipment, Legs		Blade Break						"When this defends, banish any number of action cards from your hand, then add them to the chain link as defending cards.
+
+This card's {d} is equal to the number of action cards defending on the active chain link.
+
+**Blade Break**"	Generic Equipment - Legs				No	
 kJzkbhWtqDJcCD6ngwkBH	Bask in Your Own Greatness	Red	1	0	4	2				Reviled, Action, Attack								When this attacks, you may pay up to {r}{r}{r}. Create that many Might tokens.	Reviled Action - Attack					
 jg7dz6tkjTTqgmcNQbLRW	Bask in Your Own Greatness	Yellow	2	0	3	2				Reviled, Action, Attack								When this attacks, you may pay up to {r}{r}{r}. Create that many Might tokens.	Reviled Action - Attack					
 CdnTg7KmhKzWpJcd9JHrR	Bask in Your Own Greatness	Blue	3	0	2	2				Reviled, Action, Attack								When this attacks, you may pay up to {r}{r}{r}. Create that many Might tokens.	Reviled Action - Attack					
@@ -9171,6 +9176,7 @@ JbQPwq8DkLpDdjHCP9www	Terra						20	4		Elemental, Guardian, Hero, Young		Essence
 **Essence of Earth**"	Elemental Guardian Hero - Young			No		No
 DJQQGbkdhhkMkqpDzWwrw	Territorial Domain	Blue	3	0		2				Ninja, Defense Reaction								While this is defending, if you've created a Crouching Tiger this turn, this gets +3{d}.	Ninja Defense Reaction				No	
 6ChQcHfgrFqCLTrFppwQG	Test of Agility	Red	1			4				Brute, Warrior, Block		Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Block				No	
+kMbtCPhmRMRr9fJnGRtPj	Test of Iron Grip	Red	1			4				Guardian, Block		Clash						When this defends, **clash** with the attacking hero. If there is a winner, the other hero discards a card.	Guardian Block				No	
 QBwMd7jJGmz7cFKLRDjHd	Test of Might	Red	1			4				Brute, Guardian, Block		Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Block				No	
 zmkd9LqrNQFfqHCWKcQNr	Test of Strength	Red	1			4				Generic, Block		Clash						When this defends, **clash** with the attacking hero. The winner creates a Gold token.	Generic Block					
 zt8NGKPrTHDJ8pDrDdJgw	Test of Vigor	Red	1			4				Guardian, Warrior, Block		Clash						When this defends, **clash** with the attacking hero. The winner creates a Vigor token.	Guardian / Warrior Block				No	
@@ -9866,6 +9872,7 @@ z78cKCmLRbWfftGfpcJGd	Virulent Touch	Blue	3	0	2	2				Assassin, Ranger, Action, A
 When this chain link resolves, if Virulent Touch is defended by a card from hand, create a Bloodrot Pox token under the defending hero's control."	Assassin / Ranger Action - Attack					
 RHnFkKb8FKdFzp9rdzGjF	Viserai						20	4		Runeblade, Hero, Young								Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.	Runeblade Hero - Young			No		No
 TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood						40	4		Runeblade, Hero								Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.	Runeblade Hero		No		No	
+mTbD9zFpgmNQc7qzmfG8M	Visit Anvilheim	Blue	3	X		3				Guardian, Action								Remove X -1{d} counters from a Guardian off-hand you have equipped.	Guardian Action				No	
 n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	Blue	3	1		3				Guardian, Action		Victor Specialization, Go again						"**Victor Specialization**
 
 Create a Gold token. Then if you control 3 or more Gold, create that many Might tokens.
