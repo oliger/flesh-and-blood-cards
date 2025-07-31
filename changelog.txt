@@ -905,7 +905,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for MPG021, MPG025, MPG032-MPG034, and MPG113 - data entry assistance: manwaring
 
 07-31-25:
-- Added card data for Annexation of All Things Known, Call for Backup, Captain of the Guard, Clash of Heads, Craterhoof, Daily Grind, Fearless Confrontation, Geyser of Seismic Stirrings, Headbutt, Leave a Dent, Ley Line of the Old Ones, Little Big Foot, Overswing, Pec Perfect, Sunkwater Lookout, and Sunkwater Pincers
-- Added printing data for LGS388, MPG008, MPG013, MPG016-MPG017, MPG020, MPG022, MPG025 (RF EA), MPG029, MPG040, MPG047, MPG061-MPG063 (RF), MPG091, MPG104, MPG113 (RF), MPG114, MPG116, and MPG126-MPG128
+- Added card data for Annexation of All Things Known, Annexation of the Forge, Call for Backup, Captain of the Guard, Clash of Heads, Clash of Legs, Clash of Shields, Craterhoof, Daily Grind, Fearless Confrontation, Geyser of Seismic Stirrings, Headbutt, Leave a Dent, Ley Line of the Old Ones, Little Big Foot, Overswing, Pec Perfect, Richter Scale, Rubble Raiser, Sunkwater Exoshell, Sunkwater Lookout, Sunkwater Pincers, and Tremor of Resistance
+- Added card data for remaining event cards from the SMP event data
+- Added printing data for LGS388, MPG006, MPG008, MPG012-MPG013, MPG016-MPG017, MPG020, MPG022, MPG025 (RF EA), MPG029, MPG031, MPG040, MPG047, MPG050-MPG051, MPG061-MPG063 (RF), MPG084, MPG091, MPG104, MPG113 (RF), MPG114-MPG116, MPG126-MPG128, SMP007, SMP009, SMP011-SMP019, SMP021-SMP029, and SMP031-SMP032
 - Added printing data for HER144-HER146 - data entry credit: awlsring
 - Added images for LGS387-LGS390, MPG013-MPG017, MPG020, MPG022, MPG025, MPG061-MPG063 (RF), MPG113, and MPG128
