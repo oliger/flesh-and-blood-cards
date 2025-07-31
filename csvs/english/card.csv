@@ -201,6 +201,7 @@ JjKJRwQPTtgpcCcLrDRwF	Anka, Drag Under	Yellow	2	2	5		3			Pirate, Necromancer, Ac
 
 **Watery Grave**"	Pirate Necromancer Action - Ally				No	
 9gnHtCMJBbDQjqk8cWmhN	Annals of Sutcliffe									Runeblade, Weapon, Book, 2H								**Once per Turn Action** - {r}{r}{r}: Draw a card. If an attack action card and a 'non-attack' action card were pitched this way, create a Runechant token.	Runeblade Weapon - Book (2H)					
+nh8bCzbkjmR6hPkTCFLrz	Annexation of All Things Known	Yellow	2	5	8	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a Guardian hero, until the end of your next turn, they can't play face-up cards from arsenal, and you may play face-up cards from their arsenal.	Guardian Action - Attack				No	
 qJfJ7wBLmBtGnBpqQttNK	Annihilate the Armed	Red	1	1	5	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' attack action cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
@@ -1352,6 +1353,7 @@ zqbcPKK9npDdLNNLNhdnN	Cadaverous Tilling	Blue	3	3	4	2				Earth, Action, Attack		
 Your attacks this turn get ""Whenever the defending hero adds 1 or more defending cards from hand to this chain link, this deals 1 damage to them."" **Go again**
 
 **Unity** - When this defends together with a card from hand, create an Embodiment of Lightning token under any number of heroes' control."	Lightning Action				No	
+JCcpbgdrTMnnLdhGJcDGD	Call for Backup	Red	1	3	7	2				Generic, Action, Attack								When this defends, choose 2 attack action cards with different names in your graveyard. An opponent chooses 1 of them. Banish that card and put the other on top of your deck.	Generic Action - Attack				No	
 7c9KRd7Rh7hbGJ8kRCrFr	Call in the Big Guns	Red	1	0		2				Ranger, Action		Go again						"Your next arrow attack this turn gets +3{p}.
 
 You may put an arrow from your hand face-up into your arsenal.
@@ -1379,6 +1381,7 @@ nDkh8FDGwNNpLghj6grmK	Calming Gesture									Illusionist, Equipment, Arms		Arca
 **Arcane Barrier 1**"	Illusionist Equipment - Arms				No	
 N6FgtcT8gMP7PMj7hCkgP	Canopy Shelter	Blue	3			2				Earth, Block								When this defends, create a Might token.	Earth Block				No	
 GkcwtGfWGcDBmQ7BbFNRt	Cap of Quick Thinking									Lightning, Equipment, Head			Instant					**Instant** - Destroy this: If you would be dealt damage by a source an opponent controls this turn, you may discard an instant card to prevent 1 of that damage and draw a card.	Lightning Equipment - Head				No	
+HpFndzDqQGcQWpzcKjJLc	Captain of the Guard	Blue	3	3	5	2				Generic, Action, Attack								While this is defending, cards with {p} greater than the attack they are defending get +1{d}.	Generic Action - Attack				No	
 b7NNmKqCcHRLdbGHBdNj8	Captain's Call	Red	1	0		2				Generic, Action		Go again			Go again			"Choose 1;
 
 The next attack action card with cost 2 or less you play this turn gains +2{p}.
@@ -1627,6 +1630,7 @@ gRpHwzjCr7Q6RQwnGTT7t	Clash of Agility	Red	1	2	6	3				Brute, Warrior, Action, At
 8dw7PGfBNcKMcRkgMdPJz	Clash of Agility	Yellow	2	2	5	3				Brute, Warrior, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
 ghCPQqFqNjMq9cn7nTrzJ	Clash of Agility	Blue	3	2	4	3				Brute, Warrior, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates an Agility token.	Brute / Warrior Action - Attack				No	
 GFNmknDkQm8tdbNCcWGR9	Clash of Bravado	Yellow	2	4	7	3				Guardian, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner destroys an aura the other hero controls.	Guardian Action - Attack				No	
+qTWFgWrznmRnFtJH9hwcd	Clash of Heads	Yellow	2			4				Guardian, Block		Clash						When this defends a Guardian attack, **clash** with the attacking hero. If there is a winner, the other hero puts a -1{d} counter on a head they have equipped. If they don't, they lose 1{h}.	Guardian Block				No	
 NGMpfnrcHzjWtB6bmGC6C	Clash of Might	Red	1	2	6	3				Brute, Guardian, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
 HQGTg8btKJgCCrhmBGrDN	Clash of Might	Yellow	2	2	5	3				Brute, Guardian, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
 KnJTJP7KPKfpNC7FNLJB8	Clash of Might	Blue	3	2	4	3				Brute, Guardian, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Might token.	Brute / Guardian Action - Attack				No	
@@ -1957,6 +1961,9 @@ tCKk7THm9bNKJh8F6Dmzk	Crash and Bash	Yellow	2			3				Guardian, Block							Crush
 DbpdPtLqk9zqfp6bdQTP6	Crater Fist					2				Guardian, Equipment, Arms		Temper	Action	Go again			Crush	"**Action** - {r}{r}{r}, destroy Crater Fist: Your attacks with **crush** gain +2{p} this turn. **Go again**
 
 **Temper**"	Guardian Equipment - Arms				No	
+8LDQbNHPK7NC9Lg8phzrk	Craterhoof					1				Guardian, Equipment, Legs		Battleworn	Action	Go again	Dominate			"**Action** - {r}{r}{r}, destroy this: The next Guardian attack action card you play from arsenal this turn gets **dominate**. **Go again**
+
+**Battleworn**"	Guardian Equipment - Legs					
 zHBTDcDtMLgTrqfnmTB9q	Crazy Brew	Blue	3	0						Generic, Action, Item			Action	Go again				"**Action** - Destroy this: Roll a 6 sided die. On;
 
 - 1 or 2 - Lose 2{h}. **Go again**
@@ -2070,6 +2077,9 @@ fMTdMtzzft7bLzG9DpjNc	Cyclone Roundhouse	Yellow	2	2	5	3				Ninja, Action, Attack
 Ddqz6QF9FNMT8qJjjr8Q9	Dabble in Darkness	Red	1	0	5	3				Shadow, Action, Attack		Blood Debt						"When this attacks, banish the top card of your deck. This gets -X{p}, where X is the pitch value of the card banished this way.
 
 **Blood Debt**"	Shadow Action - Attack				No	
+wKRRTFLrpKDJRLQTnb7Ld	Daily Grind	Blue	3	0		3				Guardian, Action, Aura					Clash			"Attack action cards you control get ""When this defends, **clash** with the attacking hero. The winner destroys the top card of the other hero's deck.""
+
+At the start of your turn, destroy this."	Guardian Action - Aura				No	
 rzGrbqkdk7nptwNhTJKCb	Dampen	Red	1	2		3			4	Wizard, Action								"Deal 4 arcane damage to any target.
 
 Prevent the next X arcane damage that would be dealt to your hero this turn, where X is the damage dealt by Dampen."	Wizard Action				No	
@@ -3264,6 +3274,7 @@ bzPDgqKBRNH7JQjcqWbfk	Fault Line	Red	1	3	7	3				Guardian, Action, Attack		Crush	
 
 **Crush** - When this deals 4 or more damage to a hero, put all cards in all arsenals on bottom of their owner's deck."	Guardian Action - Attack					
 n9FtLHDg97rfrTNJDMBG6	Fealty									Draconic, Token, Aura								**Instant** - Destroy this: The next card you play this turn is Draconic. At the beginning of your end phase, if you haven't created a Fealty token or played a Dragonic card this turn, destroy this.	Draconic Token - Aura					
+h6J7CzPwdkTCKcbK7Jc8T	Fearless Confrontation	Blue	3	3	5	3				Generic, Action, Attack			Instant			Dominate		**Instant** - Discard this: Target attack gets -1{p} and loses and can't gain **dominate**.	Generic Action - Attack				No	
 pdwzQtmTgqMnFqkPQKNhq	Feign Death	Yellow	2	1						Ranger, Instant								"Play Feign Death only if your hero has been dealt damage this turn.
 
 The next time your hero would be dealt damage this turn, prevent it."	Ranger Instant				No	
@@ -3735,6 +3746,11 @@ Gain X+1{h}"	Earth Runeblade Action				No
 KRf9kpGR6rQKwWCdwJL8b	Gesture of Goodwill	Blue	3			3				Generic Block		Protect						"**Protect**
 
 When this **protects** another hero, they may give you a token they control."	Generic Block					
+wmWRPQHrrDHMcQw69k6MP	Geyser of Seismic Stirrings	Yellow	2	2		3				Guardian, Action, Aura		Go again						"**Go again**
+
+This enters the arena with 2 energy counters. When it has none, destroy it.
+
+At the beginning of your end phase, remove an energy counter from this and create a Seismic Surge token."	Guardian Action - Aura					
 rmdqRKFwTMWr97GPqNd6Q	Ghostly Touch					0				Illusionist, Equipment, Arms			Once per Turn Action	Go again				"Whenever an Illusionist attack you control is destroyed by **phantasm**, put a haunt counter on Ghostly Touch.
 
 **Once per Turn Action** - Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {h} equal to the number of haunt counters on it, and ""**Once per Turn Action** - {r}{r}{r}: **Attack**"". **Go again**"	Illusionist Equipment - Arms				No	
@@ -4094,6 +4110,11 @@ zNgcmTJjnWHfGKcLmPw8G	Head Shot	Blue	3	1	2	3				Ranger, Action, Arrow, Attack			
 Pm8jQMDcJhBnT8wj6rwFD	Head Stone					1				Necromancer, Equipment, Head		Battleworn						"**Instant** - Destroy this: Destroy the top card of your deck.
 
 **Battleworn**"	Necromancer Equipment - Head					
+WgJjBtrhDPDrQgnzTtqCT	Headbutt	Blue	3	4	6	3				Guardian, Action, Attack		Crush						"This can't be defended by non-head equipment.
+
+If you have a head equipped and the defending hero doesn't, this gets +1{p}.
+
+**Crush** - When this deals 4 or more damage to a hero, put a -1{d} counter on a head they have equipped, then if it has 0{d}, destroy it."	Guardian Action - Attack				No	
 BB7nwJkKWfznpRkt6gcCF	Headliner Helm					*				Generic, Equipment, Head		Blade Break						"Headliner Helm's {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Head					
@@ -5035,6 +5056,9 @@ TQL89gnkPdTLrbr8HNtgf	Leap Frog Slime Skin					1				Assassin, Ninja, Equipment, 
 zWjNwt6zMt9hMq9TDKJWp	Leave No Witnesses	Red	1	0	4	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck and up to 1 card in their arsenal."	Assassin Action - Attack				No	
+WpmPhMcL97wRCPfz8nzgR	Leave a Dent	Blue	3	0		3				Guardian, Action		Go again			Crush			"Your next Guardian attack this turn gets ""**Crush** - When this deals 4 or more damage to a hero, destroy the top 4 cards of their deck.""
+
+**Go again**"	Guardian Action				No	
 Thbcg9RW9t8WNfMCpgNmk	Leg Tap	Red	1	1	4	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack					
 9K6tW9Kcqfc67PtcgmNTP	Leg Tap	Yellow	2	1	3	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack					
 dcWdcd8Q6tnPKDT6nKkjH	Leg Tap	Blue	3	1	2	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack					
@@ -5061,6 +5085,9 @@ GFc7t8wNTwC8rCFwrqTfh	Lexi						20	4		Elemental, Ranger, Hero, Young		Essence of
 PFmgFK9dFr8q6PrpJFpPG	Lexi, Livewire						40	4		Elemental, Ranger, Hero		Essence of Ice and Lightning	Once per Turn Action	Go again	Go again			"**Essence of Ice and Lightning**
 
 **Once per Turn Action** - Turn a face down card in your arsenal face up: If it's a Lightning card, your next attack this turn gains **go again**. If it's an Ice card, create a Frostbite token under target hero's control. **Go again**"	Elemental Ranger Hero		No		No	
+LWD8GBDqqgnWHmLBzdTh7	Ley Line of the Old Ones	Blue	3	0						Guardian, Instant, Aura		Legendary						"**Legendary**
+
+When this enters the arena and whenever you deal damage, create a Seismic Surge token. At the beginning of your end phase, if you control no Seismic Surge tokens, destroy this."	Guardian Instant - Aura				No	
 qqzmLCbJJ6nwQGtzrJMcL	Life for a Life	Red	1	1	4	2				Generic, Action, Attack		Go again						"When this is played, if you have less {h} than an opposing hero, it gets **go again**.
 
 When this hits, gain 1{h}."	Generic Action - Attack					
@@ -5136,6 +5163,7 @@ qKWKLWtD8fBWHrRbKrwkT	Liquefy	Red	1	1		2				Draconic, Attack Reaction		Rupture		
 p7QGFtHCDtj6b8r6wLFwB	Liquid-Cooled Mayhem	Red	1	4	6	3				Mechanologist, Action, Attack		Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
 BzhRqCc9TLjNgJ9dKDPfc	Liquid-Cooled Mayhem	Yellow	2	4	5	3				Mechanologist, Action, Attack		Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
 WrpTBBHz9Qgf79MwRGtCP	Liquid-Cooled Mayhem	Blue	3	4	4	3				Mechanologist, Action, Attack		Evo Upgrade						**Evo Upgrade** - This costs {r} less to play for each Evo you have equipped.	Mechanologist Action - Attack				No	
+DTzNKfTmjP6QLP8W8TpdF	Little Big Foot	Blue	3	4	3	3				Guardian, Action, Attack								If there are two or more cards with cost 3 or more in your pitch zone, this gets +4{p}.	Guardian Action - Attack				No	
 88GhcGBpR8WDWQRr87hcn	Loan Shark	Yellow	2	0		3				Pirate, Action, Aura		Go again						"**Go again**
 
 When this enters the arena, create 2 Gold tokens.
@@ -5955,6 +5983,11 @@ BDbLKmLQzJTjHjgJrtLWT	Overpower	Red	1	3		3				Warrior, Attack Reaction		Reprise	
 68PDzWMgFLKpqQNpQGQFB	Overpower	Blue	3	3		3				Warrior, Attack Reaction		Reprise						"Target weapon attack gains +2{p}
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, instead it gains +4{p}."	Warrior Attack Reaction				No	
+M9TP7nmfQ7FhJQbJfnkRW	Overswing	Red	1	2		3				Guardian, Action		Go again, Heave 2						"The next Guardian attack action card you play this turn gets +3{p}.
+
+**Go again**
+
+**Heave 2**"	Guardian Action					
 fDMt9jWjpCQKJPQbfcpWg	Oysten, Heart of Gold	Yellow	2	0	3		1			Pirate, Necromancer, Action, Ally		Watery Grave	Action, Instant	Attack				"**Action** - {t}: Attack
 
 When this dies, create a Gold token.
@@ -6029,6 +6062,7 @@ Create a Ponder token."	Generic Instant
 rKb97mmPGtmm9R9dMDW8d	Pearl Amulet	Blue	3	0						Generic, Action, Item		Legendary, Watery Grave	Action	Go again				"**Action** - Destroy this: {u} target permanent. **Go again**
 
 **Legend of the Watery Grave**"	Generic Action - Item				No	
+LNtDknLJmNDk6wDhQdQb8	Pec Perfect	Red	1	5	9	3				Guardian, Action, Attack		Clash						Whenever a card defends this, **clash** with the defending hero. The winner destroys the top card of the other hero's deck.	Guardian Action - Attack				No	
 rkKktHBPDLQDfpddktPwn	Pedal to the Metal	Red	1	2	5	3				Mechanologist, Action, Attack		Boost			Dominate			"If Pedal to the Metal hits, your next attack this turn gains **dominate**.
 
 **Boost**"	Mechanologist Action - Attack				No	
@@ -8804,6 +8838,12 @@ rcCgrhCWrcPC9RGFqMqm9	Sun Kiss	Blue	3	0		2				Generic, Action		Go again						"Ga
 
 If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again**."	Generic Action					
 RjKRwHmnd9Dh87HHhr9mw	Sunken Treasure	Blue	3			3				Pirate, Block								When this defends, you may turn a card in a graveyard face-down. If it's yellow, create a Gold token.	Pirate Block				No	
+DQLmKzJKKHKfFWBqQkgCT	Sunkwater Lookout					0				Generic, Equipment, Head		Blade Break						"When this defends, put a face-up card from your arsenal on the bottom of your deck. If you do, draw a card and this gets +1{d} until end of turn.
+
+**Blade Break**"	Generic Equipment - Head					
+qBMWrpjH8JGrk6Tw7FrHL	Sunkwater Pincers					0				Generic, Equipment, Arms		Blade Break						"When this defends, put a face-up card from your arsenal on the bottom of your deck. If you do, draw a card and this gets +1{d} until end of turn.
+
+**Blade Break**"	Generic Equipment - Arms					
 H99k8wdCTRgwmHP7ftWt7	Supercell	Blue	3	X		2				Mechanologist, Action								"Put X steam counters on X target Hyper Drivers you control.
 
 Create a Hyper Driver token with X steam counters.

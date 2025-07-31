@@ -903,3 +903,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 07-24-25:
 - Added card data for Visit Anvilheim, Test of Iron Grip, and Base of the Mountain - data entry assistance: manwaring
 - Added printing data for MPG021, MPG025, MPG032-MPG034, and MPG113 - data entry assistance: manwaring
+
+07-31-25:
+- Added card data for Annexation of All Things Known, Call for Backup, Captain of the Guard, Clash of Heads, Craterhoof, Daily Grind, Fearless Confrontation, Geyser of Seismic Stirrings, Headbutt, Leave a Dent, Ley Line of the Old Ones, Little Big Foot, Overswing, Pec Perfect, Sunkwater Lookout, and Sunkwater Pincers
+- Added printing data for LGS388, MPG008, MPG013, MPG016-MPG017, MPG020, MPG022, MPG025 (RF EA), MPG029, MPG040, MPG047, MPG061-MPG063 (RF), MPG091, MPG104, MPG113 (RF), MPG114, MPG116, and MPG126-MPG128
+- Added images for LGS387-LGS390, MPG013-MPG017, MPG020, MPG022, MPG025, MPG061-MPG063 (RF), MPG113, and MPG128
