@@ -912,3 +912,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for HER144-HER146 - data entry credit: awlsring
 - Added remaining images for MPG
 - Added images for LGS387-LGS390
+
+08-02-25:
+- Fixed an issue with Little Big Foot having incorrect power values - bug notice credit: Aegisworn
