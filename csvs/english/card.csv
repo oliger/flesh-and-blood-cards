@@ -516,6 +516,11 @@ TbhnTBPLncChnLHTcG7jz	Bad Beats	Yellow	2	0		3				Brute, Action		Go again						"R
 B7rWtLgFHDgNJ6LJmCqJc	Bad Beats	Blue	3	0		3				Brute, Action		Go again						"Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"	Brute Action					
+ndNkP7p6FDnNWzt7ckjPf	Bait				0					Ranger, Token, Aura			Action, Once per Turn Attack Reaction	Attack, Go again				"You can't play or activate cards you own.
+
+**Action** - Destroy this when the chain link resolves: **Attack**
+
+**Once per Turn Attack Reaction** - 0: This gets +1{p} and **go again**."	Ranger Token - Aura					
 fFHTT7tCd9NDBqn9qCgh6	Balance of Justice					2				Generic, Equipment, Head		Guardwell	Instant					"**Instant** - Destroy this: Draw a card. Activate this ability only if an opponent has drawn 2 or more cards this turn.
 
 **Guardwell**"	Generic Equipment - Head				No	
@@ -974,6 +979,9 @@ zRDdtf8Tm6tfzKtjcThCC	Blood Drop	Red	1	1	2	3				Draconic, Ninja, Action, Attack	
 
 **Go again**"	Draconic Ninja Action - Attack					
 JfBCWJdFBcrnhdkjRj6tz	Blood Drop Brocade					0				Generic, Equipment, Chest			Instant					**Instant** - Destroy Blood Drop Brocade: Gain {r}. Activate this ability only if you have dealt or been dealt {p} damage this turn.	Generic Equipment - Chest					
+MBgNKqpNwzwM8n6KjMtFN	Blood Follows Blade	Yellow	2	0		3				Warrior, Attack Reaction		Kassai Specialization			Go again			"**Kassai Specialization**
+
+Target sword attack gets **go again** and ""When this hits, create a Cintari Sellsword token."""	Warrior Attack Reaction				No	
 cjKPgLQmgG9QwFQKWPrrM	Blood Line	Red	1	2	3	3				Draconic, Ninja, Action, Attack		Go again						"This costs {r} less to play for each Draconic chain link you control.
 
 **Go again**"	Draconic Ninja Action - Attack					
@@ -9153,6 +9161,13 @@ DkcD8cfprKB8RPWLKdMhf	Take a Stab	Red	1	0		2				Assassin, Warrior, Attack Reacti
 b7j6PpNMGdBQndqjMtcHt	Take a Stab	Yellow	2	0		2				Assassin, Warrior, Attack Reaction							Mark	"Target dagger attack gets +2{p} and ""When this hits a **marked** hero, you may attack with it an additional time this turn."""	Assassin / Warrior Attack Reaction					
 mrHRpJzKbQPN9TnLb6mjd	Take a Stab	Blue	3	0		2				Assassin, Warrior, Attack Reaction							Mark	"Target dagger attack gets +1{p} and ""When this hits a **marked** hero, you may attack with it an additional time this turn."""	Assassin / Warrior Attack Reaction					
 TChD6cjwh6bQmkf7kQFqP	Take it on the Chin	Red	1	0						Brute, Warrior, Instant								The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create an Agility token.	Brute / Warrior Instant				No	
+7MhmQ8chFGLcdjP66Jgj6	Take the Bait	Red	1	0		3				Ranger, Action		Riptide Specialization, Go again						"**Riptide Specialization**
+
+Search your deck for a card, then shuffle and put it on top.
+
+Create a Bait token under an opponent's control.
+
+**Go again**"	Ranger Action				No	
 TtF8Q9WNQqPmJdrd6qp7k	Take the Tempo	Red	1	1	5	3				Ninja, Action, Attack								When Take the Tempo hits, if you've hit 3 or more times this combat chain, banish the top card of your deck. If it's an attack action card, you may play it until the end of your next turn.	Ninja Action - Attack				No	
 p6Q8Fw6T7dfBwGGpwQDrq	Take the Upper Hand	Red	1	0		3				Warrior, Attack Reaction							Wager	"Play this only if you've **wagered** this chain link.
 
@@ -9482,6 +9497,9 @@ mc7J7CkCptbQQttbfJGMt	Titanium Bauble	Blue	3			3				Generic, Resource									Ge
 hznLkw6NwCdwhnH9KbKdF	To the Point	Red	1	0		2				Assassin, Warrior, Attack Reaction							Mark	Target dagger attack gets +3{p}. If the defending hero is **marked**, instead it gets +4{p}.	Assassin / Warrior Attack Reaction				No	
 zGMwPW7DFJjTJBBdnmfwD	To the Point	Yellow	2	0		2				Assassin, Warrior, Attack Reaction							Mark	Target dagger attack gets +2{p}. If the defending hero is **marked**, instead it gets +3{p}.	Assassin / Warrior Attack Reaction				No	
 7tkH9LH8hHKQLmBGNJrM6	To the Point	Blue	3	0		2				Assassin, Warrior, Attack Reaction							Mark	Target dagger attack gets +1{p}. If the defending hero is **marked**, instead it gets +2{p}.	Assassin / Warrior Attack Reaction				No	
+rKwFK8LDKhPht6b9pNF7P	Toby Jugs					0				Generic, Equipment, Legs		Blade Break						"When this defends, you may pay {r}. If you do, it gets +2{d} this turn.
+
+**Blade Break**"	Generic Equipment - Legs					
 Jdmqz8NgGbBJp88BN8TwK	Tome of Aeo	Blue	3	1		2				Illusionist, Action, Aura		Ward 1						"At the beginning of your action phase, destroy Tome of Aeo then draw a card.
 
 **Ward 1**"	Illusionist Action - Aura				No	
@@ -9521,9 +9539,6 @@ JQqp6Ctw7QMLRDMgTnW6g	Tomeltai				5		5			Draconic, Illusionist, Dragon, Ally				
 gwLCKHWBWwMwH7McRRDzF	Tongue Tied	Red	1	3	7	2				Generic, Action, Attack								When this hits a hero, turn a card in their arsenal face-up, then banish an instant card from their arsenal.	Generic Action - Attack				No	
 cLkt677NMWGgPTNCBcJjn	Tooth and Claw	Red	1	0	4	3				Mystic, Ninja, Action, Attack		Go again						When this attacks, you may reveal any number of Crouching Tigers from your hand. If you reveal 1 or more, this gets **go again**. 2 or more, this gets +1{p}. 3 or more, draw a card.	Mystic Ninja Action - Attack				No	
 bCLK9nFBJjmHFjLQmL8Kt	Tooth of the Dragon	Red	1	0						Draconic, Instant								Your next Draconic attack this turn gets +3{p}.	Draconic Instant					
-rKwFK8LDKhPht6b9pNF7P	Toby Jugs					0				Generic, Equipment, Legs		Blade Break						"When this defends, you may pay {r}. If you do, it gets +2{d} this turn.
-
-**Blade Break**"	Generic Equipment - Legs					
 fCB6H9HqcnhNkhKjtcG69	Torque Tuned	Red	1	2	6	2				Mechanologist, Action, Attack		Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
 
 **Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
