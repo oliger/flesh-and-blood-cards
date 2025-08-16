@@ -129,6 +129,9 @@ DgpbP8LBpCffdNgH8t9LB	Alluvion Constellas					0				Wizard, Equipment, Chest		Arc
 **Instant** - Remove 2 energy counters from Alluvion Constellas: The next staff ability you activate this turn costs {r}{r}{r} less.
 
 **Arcane Barrier 1**"	Wizard Equipment - Chest				No	
+kBJJjzp8KMrRWcwMwKWcW	Alpha Instinct	Blue	3	3	6	0				Brute, Action, Attack	Rhinar Specialization							"**Rhinar Specialization**
+
+When this is discard to beat chest, create a Might token."	Brute Action - Attack				No	
 GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	Red	1	3	9	3				Brute, Attack, Action		Rhinar Specialization, Intimidate						"**Rhinar Specialization**
 
 As an additional cost to play Alpha Rampage, discard a random card.
@@ -5482,6 +5485,12 @@ KFh8LdDmdJdmn9RJc8hhJ	Mechanical Strength	Red	1	3	5	3				Mechanologist, Action, 
 pHCcrc7zRQnTFLfqcpgjd	Mechanical Strength	Yellow	2	3	4	3				Mechanologist, Action, Attack		Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 7FfRqNrB8z7L6HjzTpbJd	Mechanical Strength	Blue	3	3	3	3				Mechanologist, Action, Attack		Evo Upgrade						**Evo Upgrade** - This gets +X{p}, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	
 BWQhCMHmkKGCnHfNQ8jKH	Medkit	Blue	3	0						Mechanologist, Action, Item			Action					**Action** - Put this on the bottom of its owner's deck: Gain 2{h}	Mechanologist Action - Item				No	
+GmnHWfMKzgJgpWKhQBmrM	Meet Madness	Red	1	0	3	3				Chaos, Assassin, Action, Attack	Stealth							"**Stealth**
+
+When this hits a hero, choose 1 at random;
+- They choose a card in their hand. Banish it.
+- They choose a card in their arsenal. Banish it.
+- Banish the top card of their deck."	Chaos Assassin Action - Attack				No	
 DG7DRnLw6kjDcMGH6hCmg	Meganetic Lockwave	Blue	3	XXX		3				Mechanologist, Action		Go Again						"Target hero chooses X equipment they control, then you choose 1 from among them. That hero must defend your attacks this turn with that equipment if able. 
 
 **Go again**"	Mechanologist Action				No	
