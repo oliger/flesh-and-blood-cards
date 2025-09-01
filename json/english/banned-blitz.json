@@ -526,5 +526,13 @@
         "date_announced": "2025-05-19T00:00:00.000Z",
         "date_in_effect": "2025-05-20T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-19-05-25/"
+    },
+    {
+        "unique_id": "hf7dTwNqNgWjNBPHTwRdK",
+        "card_unique_id": "Cqr7rhqq8hQPPhpHQBCHr",
+        "status_active": true,
+        "date_announced": "2025-09-01T00:00:00.000Z",
+        "date_in_effect": "2025-09-01T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/en/articles/scheduled-banned-and-restricted-announcement-01-09-25/"
     }
 ]
