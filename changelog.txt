@@ -921,6 +921,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Meet Madness and Alpha Instinct - data entry assistance: manwaring
 - Added card printing data for AAC014 and ARR022 - data entry assistance: manwaring
 
+09-01-25:
+- Updated CC Legality for Bonds of Agony, Golden Tipple (Red and Yellow), Plume of Evergrowth, Talk a Big Game, and Germinate
+- Updated Blitz Legality for Talk a Big Game
+- Update LL Restricted status for Deadwood Dirge
+
 TODO:
 - Added set data for APS, SUP
 - Added card data for APS, SUP
