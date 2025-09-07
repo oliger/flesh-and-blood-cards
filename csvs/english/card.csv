@@ -1567,6 +1567,9 @@ Create a Gold token for each yellow card put into your graveyard this way.
 
 **Go again**"	Pirate Necromancer Action				No	
 WRGBnNRjPprcPjd67kBqM	Chase the Tail	Red	1	1	4	3				Ninja, Action, Attack		Combo						**Combo** - When this attacks, if Crouching Tiger was the last attack this combat chain, this gets go again and the next Crouching Tiger you play this combat chain gets +3{p}.	Ninja Action - Attack				No	
+PQzMRpfQWLmdbqNQqjWnH	Cheap Shot	Yellow	2	0		2				Reviled, Action							The Crowd Boos	"If you've been booed this turn, you may play this as though it were an instant.
+
+Deal 2 damage to target hero unless they discard a card."	Reviled Action				No	
 7bfH9wkNGQKGzHKfGrQfd	Cheater's Charm	Yellow	2	0						Reviled, Brute, Instant		Steal, The Crowd Boos						"Choose any number;
 - **Steal** a Confidence or Toughness token.
 - **The crowd boos** you.
@@ -2131,6 +2134,7 @@ Look at the top card of the defending hero's deck. You may put it on the bottom.
 MMpKrnJcBQRmBP9thgWG6	Cut to the Chase	Blue	3	0		3				Assassin, Attack Reaction							Contract	"Target Assassin attack action card with **contract** gains +1{p}.
 
 Look at the top card of the defending hero's deck. You may put it on the bottom."	Assassin Attack Reaction					
+8mP7k9zMRB7P6bnKCbKmr	Cutting Retort	Red	1	0	4	3				Generic, Action, Attack								When this attacks a hero, you may pay up to {r}{r}{r}. Destroy that many aura tokens with different names they control. If you do, this gets +1{p} for each aura destroyed this way.	Generic Action - Attack				No	
 zFb8FTK6fL7wtcRdcR8gj	Cutty Shark, Quick Clip	Yellow	2	1	3		4			Pirate, Necromancer, Action, Ally		Watery Grave	Action, Once per Turn Action	Attack, Go again				"**Action** - {r}, {t}: **Attack**
 
 **Once per Turn Action** - {r}: Your next ally attack this turn gets +1{p}. **Go again**
@@ -3393,6 +3397,12 @@ p7CLrzj7kGMtt8cLfMdqT	Fiddle-dee					0				Bard, Equipment, Arms			Action	Go agai
 6dNCtnqWjTwr88JCckKDG	Fiddler's Green	Red	1			1				Generic, Block								When this is put into your graveyard from anywhere, gain 3{h}.	Generic Block				No	
 bR7C7tbtGczDWnbDHjTD7	Fiddler's Green	Yellow	2			1				Generic, Block								When this is put into your graveyard from anywhere, gain 2{h}.	Generic Block				No	
 7bLzzWQGtNWkHWzjkcdQn	Fiddler's Green	Blue	3			1				Generic, Block								When this is put into your graveyard from anywhere, gain 1{h}.	Generic Block				No	
+CdcPgtHftqzGHjTcWNBJp	Fight Dirty	Red	1	3	7	2				Reviled, Action, Attack								"If this is defended by a Revered card, this gets +1{p}.
+
+When this hits a Revered hero, destroy the top card of their deck."	Reviled Action - Attack				No	
+7ckBwwLJzbdbMHW7kWnNw	Fight Fair	Red	1	2	6	2				Revered, Action, Attack								"If this is defended by a Reviled card, this gets +1{p}.
+
+When this hits a Reviled hero, put this on the bottom of its owner's deck."	Revered Action - Attack				No	
 TMKn79cNDqQp6PJGGrBqj	Fight Night Prize Purse									Event								Choose an opponent. You each create a Gold token.	Event		No	No	No	No
 rd8gCbPjLCWcPLdqbMRWm	Fightmaster Kox						19	4		Guardian, Hero, Pit-Fighter			Action					**Action** - {t}, destroy a Gold you control: Look at the top 3 cards of the event deck, then put them back in any order. **Go again**	Guardian Hero - Pit-Fighter		No	No	No	No
 cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	Yellow	2	4						Light, Illusionist, Instant, Figment		Legendary						"**Legendary**
@@ -3460,6 +3470,9 @@ PGCBWLPcTWcHRh7CwW8K7	Fist Pump					1				Mechanologist, Equipment, Arms		Battlew
 
 **Battleworn**"	Mechanologist Equipment - Arms				No	
 FwDRt9TR7CCJd9NnNBmfP	Fisticuffs									Generic, Equipment, Arms			Attack Reaction					**Attack Reaction** - {r}{r}, destroy Fisticuffs: Target attack action card gains +1{p}.	Generic Equipment - Arms					
+R7B9m6hKjCKhRFpfcNzbT	Fix the Match	Yellow	2	0	3	2				Reviled, Action, Attack		Clash						"When this attacks, search your deck for a card, then shuffle and put that card on top.
+
+Whenever a card defends this, **clash** with the defending hero. The winner creates a Might token."	Reviled Action - Attack				No	
 KthQj9HCRMDRfngK88kCw	Flail of Agony				1					Shadow, Runeblade, Weapon, Flail, 1H		Vynnset Specialization	Once per Turn Action	Attack				"**Vynnset Specialization**
 
 **Once per Turn Action** - {h}: **Attack**
@@ -3769,6 +3782,9 @@ FdBq9qFfNpMbk67f7FRFL	Galvanic Bender					1				Mechanologist, Equipment, Arms		M
 
 **Battleworn**"	Mechanologist Equipment - Arms					
 nC7DHjMkPCgnPbjPdCTdj	Gambler's Gloves					0				Generic, Equipment, Arms								If a hero would roll one or more 6 sided dice, instead after the roll you may destroy Gambler's Gloves. If you do, that hero rerolls all 6 sided dice rolled this way.	Generic Equipment - Arms				No	
+cdzFBWhFnBfNbH7cMppct	Gang Robbery	Yellow	2	0	1	3				Reviled, Action, Attack		Steal						"When this attacks a hero, **steal** an aura token they control.
+
+If you control 3 or more auras, this gets +3{p}."	Reviled Action - Attack				No	
 cz8WjTHRfmKBGtRfPrCWr	Garland of Spring					0				Generic, Equipment, Chest			Action	Go again				**Action** - Destroy this: Gain {r}. **Go again**	Generic Equipment - Chest					
 MNLgkBbQcz8fQrqzfTjTj	Gas Guzzler	Red	1	3	6	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack					
 6gFbdhHwNwJmRJPqTfHRc	Gas Guzzler	Yellow	2	3	5	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack					
@@ -4386,6 +4402,21 @@ rk9986mQCBfcCRTwFJRdL	Herald of Triumph	Blue	3	2	5	3				Light, Illusionist, Acti
 When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack				No	
+z8f8PqBmdGwK9ftBbcBMb	Heroic Pose	Red	1	1		2				Revered, Action		Go again, The Crowd Cheers						"Your next attack this turn gets +3{p}.
+
+**The crowd cheers** you.
+
+**Go again**"	Revered Action					
+GFMCKpFRhPcGpD9NzhpGm	Heroic Pose	Yellow	2	1		2				Revered, Action		Go again, The Crowd Cheers						"Your next attack this turn gets +2{p}.
+
+**The crowd cheers** you.
+
+**Go again**"	Revered Action					
+KMChcRLgKq8tLHQwffNpP	Heroic Pose	Blue	3	1		2				Revered, Action		Go again, The Crowd Cheers						"Your next attack this turn gets +1{p}.
+
+**The crowd cheers** you.
+
+**Go again**"	Revered Action					
 j8jNwqCDtMqHPbCrnLcbf	Heron's Flight	Red	1	0	3	3				Ninja, Action, Attack		Combo						"**Combo** - If Crane Dance was the last attack this combat chain, when you attack with Heron's Flight, it gains +2{p} and you choose 1;
 
 - Heron's flight can only be defended by attack action cards.
@@ -5179,6 +5210,11 @@ TQL89gnkPdTLrbr8HNtgf	Leap Frog Slime Skin					1				Assassin, Ninja, Equipment, 
 zWjNwt6zMt9hMq9TDKJWp	Leave No Witnesses	Red	1	0	4	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck and up to 1 card in their arsenal."	Assassin Action - Attack				No	
+jhcWTqd8Thf6gwbNGKqwh	Leave Them Hanging	Red	1	3		3				Reviled, Guardian, Instant, Aura		Suspense, Intimidate						"**Suspense**
+
+When this enters or leaves the arena, **intimidate** target hero.
+
+When this leaves the arena, your next attack this turn gets +4{p}."	Reviled Guardian Instant - Aura				No	
 WpmPhMcL97wRCPfz8nzgR	Leave a Dent	Blue	3	0		3				Guardian, Action		Go again			Crush			"Your next Guardian attack this turn gets ""**Crush** - When this deals 4 or more damage to a hero, destroy the top 4 cards of their deck.""
 
 **Go again**"	Guardian Action				No	
@@ -6168,6 +6204,7 @@ NMzW9mGgTcFdFQFntwG7P	Overswing	Blue	3	2		3				Guardian, Action		Go again, Heave
 **Go again**
 
 **Heave 2**"	Guardian Action					
+LhDDmCt6MkphNPfdFWrj7	Overturn the Results	Blue	3	3	5	3				Reviled, Action, Attack		The Crowd Boos						If you would fail to win a clash revealing this, instead you win the clash and **the crowd boos** you.	Reviled Action - Attack				No	
 fDMt9jWjpCQKJPQbfcpWg	Oysten, Heart of Gold	Yellow	2	0	3		1			Pirate, Necromancer, Action, Ally		Watery Grave	Action, Instant	Attack				"**Action** - {t}: Attack
 
 When this dies, create a Gold token.
@@ -7666,6 +7703,11 @@ If you've played another blue card this turn, choose 3. Otherwise, choose 1;
 - Create a Fang Strike and Slither in your hand.
 - Banish up to 2 cards in an opposing hero's graveyard.
 - **Transcend**"	Mystic Assassin Instant				No	
+jFTctWqJnnwKqbbdphWjQ	Sadistic Scowl	Red	1	3		2				Reviled, Action		Intimidate, Go again						"Your next attack this turn gets +5{p}.
+
+**Intimidate** target hero.
+
+**Go again**"	Reviled Action				No	
 zKtm8BQzLMCwJRgqcGLNm	Salt the Wound	Yellow	2	0	2	3				Ninja, Action, Attack								This gets +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack					
 c9hrdrfn8dNhkBcfQmqWn	Saltwater Swell	Red	1	1	3	3				Pirate, Action, Attack		Go again						"When this attacks, reveal the top card of your deck. If it's blue, pitch it.
 
@@ -9395,6 +9437,7 @@ QcgncKTnLcdGKQnwDjqdz	The Librarian					3				Illusionist, Mentor							Specializ
 
 While The Librarian is face up in arsenal, once per turn when you create a Spectral Shield token, draw a card and put a lesson counter on The Librarian. Then if there are 3 or more lesson counters on him, banish him, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Illusionist Mentor			No	No	No
 qhgBBWfkQcrgzKMTqQ7RC	The Moat Exchange									Event								Each hero may put any number of cards from their hand or arsenal on the bottom of their deck, then they draw a card for each card they put on the bottom this way.	Event		No	No	No	No
+QhRMMbB6zPRzJJk7hJQwj	The Old Switcheroo	Blue	3	0	2	3				Reviled, Action, Attack								**Instant** - Discard this: the next time you would clash with target hero this turn, instead you reveal the top card of their deck and they reveal the top card of your deck. If you win the clash, they discard a card.	Reviled Action - Attack				No	
 JjHcGC99TqTf6Mz697hng	The Weakest Link	Red	1	2	6	3				Generic, Action, Attack								When this hits a hero, look at their hand and choose a card without base {d}. If you do, they discard it and you draw a card.	Generic Action - Attack				No	
 HBMfgJPgbmbWzJrRtJCjk	Themai				3		4			Draconic, Illusionist, Dragon, Ally								Opponents can't play cards or activate abilities during your turn.	Draconic Illusionist - Dragon Ally				No	
 8cQmdjw8zKNzddKkwcHWj	Themis, Archangel of Judgment				4		4			Light, Angel, Ally		Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
@@ -9745,6 +9788,24 @@ If Turn Timber was **fused**, it gains +2{d}."	Elemental Guardian Defense Reacti
 jR6rqDqWjjg79LTCFHMNQ	Turn Timber	Blue	3	2		4				Elemental, Guardian, Defense Reaction		Earth Fusion						"**Earth Fusion**
 
 If Turn Timber was **fused**, it gains +2{d}."	Elemental Guardian Defense Reaction				No	
+8ftjHwrjqNCWp9gMTmfmJ	Turn the Crowd Grateful	Red	1	3	7	2				Revered, Action, Attack		The Crowd Cheers						"When this attacks a Reviled hero, this gets +1{p}.
+
+When this hits a Reviled hero, **the crowd cheers** you."	Revered Action - Attack					
+DL9MJCFT6dnwF6njTbWRR	Turn the Crowd Grateful	Yellow	2	3	6	2				Revered, Action, Attack		The Crowd Cheers						"When this attacks a Reviled hero, this gets +1{p}.
+
+When this hits a Reviled hero, **the crowd cheers** you."	Revered Action - Attack					
+WKHKRfzFkrRhJgwj7BWrb	Turn the Crowd Grateful	Blue	3	3	5	2				Revered, Action, Attack		The Crowd Cheers						"When this attacks a Reviled hero, this gets +1{p}.
+
+When this hits a Reviled hero, **the crowd cheers** you."	Revered Action - Attack					
+dW8jcQzzbnTnQfkBrb7wP	Turn the Crowd Hateful	Red	1	3	5	2				Reviled, Action, Attack		The Crowd Boos						"When this attacks a Revered hero, this gets +3{p}.
+
+When this hits a Revered hero, **the crowd boos** you."	Reviled Action - Attack					
+Nn6WdqdrNhkFMKNGzkbrB	Turn the Crowd Hateful	Yellow	2	3	4	2				Reviled, Action, Attack		The Crowd Boos						"When this attacks a Revered hero, this gets +3{p}.
+
+When this hits a Revered hero, **the crowd boos** you."	Reviled Action - Attack					
+gqbjwbhDzHzdjzP8WdBCn	Turn the Crowd Hateful	Blue	3	3	3	2				Reviled, Action, Attack		The Crowd Boos						"When this attacks a Revered hero, this gets +3{p}.
+
+When this hits a Revered hero, **the crowd boos** you."	Reviled Action - Attack					
 kQcrWWddhc7qJJrtdpggp	Twelve Petal Kāṣāya					2				Mystic, Ninja, Equipment, Chest		Blade Break	Instant				Transcend	"Whenever you **transcend**, you may gain {r}.
 
 **Instant** - {c}{c}{c}, destroy this: Create a Zen State token.
@@ -9790,6 +9851,7 @@ RnW9QJmpHNcgmnzB9bmLm	Twist and Turn	Blue	3	0		3				Warrior, Action		Go again			
 wNtNbFgrfzcjJTMwRbkcg	Two Sides to the Blade	Red	1	1		3				Assassin, Attack Reaction					Mark		Stealth	"Choose 1;
 - Target dagger attack gets +3{p}.
 - Target attack action card with **stealth** gets +3{p} and ""When this hits a hero, **mark** them."""	Assassin Attack Reaction					
+CdDbm8CBpkbBRg9d6Hdck	Two Steps Ahead	Blue	3	0		3				Reviled, Guardian, Action, Aura								At the start of your turn, destroy this, then create a Confidence and 3 Might tokens.	Reviled Guardian Action - Aura				No	
 gmR7DG76HhtdgwwTqQngT	Under Loop	Red	1	1	4	3				Mechanologist, Action, Attack		Boost						"**Boost**
 
 When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack				Yes	
@@ -10057,6 +10119,21 @@ rDbWdFWLzh9Q8KFmg9jnj	Vile Inquisition	Blue	3	2		3				Shadow, Action		Blood Debt
 Target hero banishes the top card of their deck. If it's blue, they lose 1{h}.
 
 **Blood Debt**"	Shadow Action				No	
+9PrjWmJjJtqFLctkQ7wLC	Villainous Pose	Red	1	2		2				Reviled, Action		Go again, The Crowd Boos						"Your next attack this turn gets +4{p}.
+
+**The crowd boos** you.
+
+**Go again**"	Reviled Action					
+rdrfQMmGfPwjrcKRtPpzf	Villainous Pose	Yellow	2	2		2				Reviled, Action		Go again, The Crowd Boos						"Your next attack this turn gets +3{p}.
+
+**The crowd boos** you.
+
+**Go again**"	Reviled Action					
+hJgFfDPRWWmknCPnHCrrL	Villainous Pose	Blue	3	2		2				Reviled, Action		Go again, The Crowd Boos						"Your next attack this turn gets +2{p}.
+
+**The crowd boos** you.
+
+**Go again**"	Reviled Action					
 mcF6F69HgBntfh7QKkHWw	Vipox	Red	1	0	1	3				Generic, Action, Attack								When Vipox hits a hero, they lose {h} equal to the number of cards in their hand.	Generic Action - Attack				No	
 JrjbG9mbwQC8zQcnPRhHg	Virulent Touch	Red	1	0	4	2				Assassin, Ranger, Action, Attack								"Virulent Touch can't be played from hand.
 
