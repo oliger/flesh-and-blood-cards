@@ -623,6 +623,9 @@ t79k8WMTmQBDnk6DcqzP8	Batter to a Pulp	Red	1	6	10	3				Guardian, Action, Attack	
 
 **Crush** - When this deals 4 or more damage to a hero, destroy an equipment they control with no defense value."	Guardian Action - Attack				No	
 RKqGdm6WndJLgwRtTQkpc	Battered Not Broken	Red	1	0						Brute, Guardian, Instant								The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create a Might token.	Brute / Guardian Instant				No	
+NdkHWNBQkBdTHTt7FTgFz	Battered, Beaten, and Broken	Yellow	2	0	1	3				Reviled, Action, Attack		Intimidate						"When this attacks a hero, **intimidate** them.
+
+If you control 3 or more auras, this gets +3{p} and ""When this hits a hero, destroy an intimidated card they own."""	Reviled Action - Attack				No	
 jnptttBbHJCwHBC99PMkF	Battering Bolt	Red	1	2	6	3				Ranger, Action, Arrow, Attack								If Battering Bolt hits a hero, they reveal their hand and discard all cards other than action cards. Then they lose 1{h} for each card discarded this way.	Ranger Action - Arrow Attack				No	
 f8wtgfmb6wRGbJH9bqtRw	Battlefield Blitz	Red	1	1	5	3				Light, Warrior, Action, Attack		Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
 Wg7zz9866gDH6BmjMNGd8	Battlefield Blitz	Yellow	2	1	4	3				Light, Warrior, Action, Attack		Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack					
@@ -669,6 +672,9 @@ GCQjzHBLkpLKfW89ckp7q	Beast Mode	Red	1	3	6	3				Brute, Action, Attack							Inti
 qChkdKF86TQpR6ctdDhRw	Beast Mode	Yellow	2	3	5	3				Brute, Action, Attack							Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
 Gtz9rhLqmgQNLCBWWrhn6	Beast Mode	Blue	3	3	4	3				Brute, Action, Attack							Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
 dHNcBPjwggj8GdFnqbkrD	Beast Within	Yellow	2	3	6	3				Brute, Action, Attack								If Beast Within is put into a graveyard from anywhere other than the combat chain, banish the top card of your deck and lose 1{h}. If it has 6 or more {p}, put it into your hand, otherwise, repeat this process.	Brute Action - Attack				No	
+KjRNNfzGJJh68Fwk7QmWc	Beat the Same Drum	Blue	3	0		3				Generic, Action		Go again						"If you've controlled an Agility token this turn, create an Agility token, then repeat for Confidence, Might, Toughness, and Vigor.
+
+**Go again**"	Generic Action				No	
 zCWhR7jRCmH7D7fKDGKcF	Beaten Trackers					1				Brute, Equipment, Legs		Battleworn						"Whenever you discard a random card with 6 or more {p}, you may destroy this. If you do, gain 1 action point.
 
 **Battleworn**"	Brute Equipment - Legs					
@@ -743,6 +749,9 @@ When this is banished from boosting, put a steam counter on a Hyper Driver you c
 L6rgnMGtzqKkLfHdkTPph	Big Bop	Red	1	3		2				Guardian, Action, Aura					Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +5{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
 c7LrgMPzh9mcqbCqM9mmw	Big Bop	Yellow	2	3		2				Guardian, Action, Aura					Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +4{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
 LFnMwmW9pgdNwzHCtfNnL	Big Bop	Blue	3	3		2				Guardian, Action, Aura					Wager			"At the start of your turn, destroy this, then your next Guardian attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Vigor token with them."""	Guardian Action - Aura					
+QwPWQnB7zg7kBPkNT9Mqp	Big Bully	Red	1	2	4	3				Reviled, Brute, Action, Attack		The Crowd Boos					The Crowd Boos	"When this attacks a hero, if you have more {h} than them, **the crowd boos** you.
+
+If you've been booed this turn, this card's base {p} is doubled."	Reviled Brute Action - Attack				No	
 mcWPGtmMHtkG7RrMpnKgq	Big Game Trophy Shot	Yellow	2	2		3				Pirate, Ranger, Action		Go again						"Your next arrow attack this turn gets +4{p}. If it has harpoon in its name, it gets ""When this hits a hero, create a Gold token.""
 
 Draw a card, then discard a card.
@@ -1502,6 +1511,9 @@ At the start of your turn, destroy this unless you remove a doom counter from it
 If a hero would draw a card during an action phase, instead they banish the top card of their deck and may play it this turn.
 
 **Blood Debt**"	Shadow Action - Aura				No	
+7hj8PM86DzGwgkdK7LqGM	Challenge the Alpha	Yellow	2	3	6	3				Brute, Action, Attack								"When this attacks a Brute hero, this gets +2{p}.
+
+When this hits a Brute hero, they discard a card. If it has 6 or more {p}, you lose 2{h}."	Brute Action - Attack				No	
 mCCnJrJQkqJ7KfqKNHGnc	Chane						20	4		Shadow, Runeblade, Hero, Young			Once per Turn Action	Go again	Go again			**Once per Turn Action** - Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again. Go again**	Shadow Runeblade Hero - Young			No		No
 MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow						40	4		Shadow, Runeblade, Hero			Once per Turn Action	Go again	Go again			**Once per Turn Action** - Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again. Go again**	Shadow Runeblade Hero		No		No	
 frQkkTNgtwqhkN6Hgq6cj	Channel Lake Frigid	Blue	3	2		3				Ice, Action, Aura		Go again, Channel Ice						"**Go again**
@@ -1895,6 +1907,11 @@ cPR8tmfTh9wKmwtzbtRKR	Compass of Sunken Depths									Pirate, Necromancer, Equi
 The first card with watery grave you play from your graveyard each turn gets **go again**."	Pirate Necromancer Equipment - Off-Hand					
 G6kR7rLFDQDjLrLNLL6tp	Compounding Anger	Red	1	3	5	3				Draconic, Action, Attack								This costs {r} less to play for each Draconic chain link you control.	Draconic Action - Attack				No	
 GQzfCQbchkDFn7crcnkrg	Concealed Blade	Blue	3	0		3				Assassin, Ninja, Attack Reaction								"Target Assassin or Ninja attack action card gains +1{p} and ""When this hits, equip a dagger from your inventory."""	Assassin / Ninja Attack Reaction				No	
+DdnDzmhwpNWtCjm7TqFQM	Concealed Object	Blue	3	0						Reviled, Instant, Item		The Crowd Boos	Instant					"When this enters the arena, **the crowd boos** you.
+
+**Instant** - {t}: Target attack gets +1{p}.
+
+At the beginning of your end phase, destroy this."	Reviled Instant - Item				No	
 LFHpbg9HjJqrGt8jHNGHN	Concuss	Red	1	3	6	3				Guardian, Action, Attack								When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
 8GRgqRnNmTCMH8NnfzKPg	Concuss	Yellow	2	3	5	3				Guardian, Action, Attack								When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
 fLpMkKFnPn9qGw7LgJhmQ	Concuss	Blue	3	3	4	3				Guardian, Action, Attack								When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack					
@@ -3028,7 +3045,8 @@ NdcgmHW9WJnCHKNfLRhDd	Escalate Bloodshed	Red	1	0						Warrior, Instant, Aura				
 At the beginning of each hero's action phase, they draw a card.
 
 At the beginning of each hero's end phase, if a weapon did not attack this turn, destroy this."	Warrior Instant - Aura				No	
-MpFfQjRhkdrL8QhmgbhgM	Escalate Order	Red	1	6	2	3				Revered, Action, Attack								When this attacks, if you control a Toughness token, create 3 more.	Revered Action - Attack				No	
+MpFfQjRhkdrL8QhmgbhgM	Escalate Order	Red	1	2	6	3				Revered, Action, Attack								When this attacks, if you control a Toughness token, create 3 more.	Revered Action - Attack				No	
+CrhRqD9BkQGpHpmRN8JwC	Escalate Violence	Blue	3	1	3	3				Reviled, Action, Attack								When this attacks, if you control a Might token, create 3 more.	Reviled Action - Attack				No	
 qMzCjGnnHpbqRJPtJfp6T	Essence of Ancestry: Body	Red	1	0		3				Illusionist, Action, Aura		Ward 2						"When this leaves the arena, if you control no Illusionist auras, the next time you would be dealt damage by a red source this turn, prevent it.
 
 **Ward 2**"	Illusionist Action - Aura				No	
@@ -3814,6 +3832,9 @@ CHNL9gtPrf8NhTwLWjT6w	Gauntlet of Might					1				Brute, Guardian, Equipment, Arm
 z6GNFrJctrhjhmJMLFQt9	Gauntlets of Iron Will					2				Guardian, Equipment, Arms		Temper						"When this defends, the next time an attack would gain {p} this chain link, instead it gains that much minus 1.
 
 **Temper**"	Guardian Equipment - Arms				No	
+pFdwP78gRGn89wqbB9prr	Gauntlets of Tyrannical Rex					2				Brute, Equipment, Arms		Temper	Action	Go again				"**Action** - {r}, {t}: Your next attack this turn gets +1{p}. Activate this only if there is a card with 6 or more {p} in your pitch zone. **Go again**
+
+**Temper**"	Brute Equipment - Arms				No	
 HTF6WHdnfmgHD7pBFhMQL	Gauntlets of the Boreal Domain					2				Earth, Ice, Guardian, Equipment, Arms		Temper	Once per Turn Action	Go again	Dominate			"**Once per Turn Action** - {r}{r}: If an Earth card is pitched this way, your attacks named Mangle get +2{p} this turn. If an Ice card is pitched this way, your attacks named Mangle get **dominate** this turn. **Go again**
 
 **Temper**"	Earth Ice Guardian Equipment - Arms				No	
@@ -5397,6 +5418,7 @@ bctJhnLdnWB9tqBJ6nNTN	Lost in Thought	Red	1	1		2				Illusionist, Action		Go agai
 
 **Go again**"	Illusionist Action				No	
 KddkfBmzB78rpH6j6CfBC	Lost in Transit	Yellow	2			3				Pirate, Block								When this defends, you may remove a gold counter from Treasure Island. If you do and you are a Thief, create a Gold token.	Pirate Block				No	
+mnFrMd8TfpRFw7zrQ7b8B	Low Blow	Red	1	1	3	3				Reviled, Action, Attack							The Crowd Boos	If you've been booed this turn, this gets +3{p}.	Reviled Action - Attack					
 9PCRhmGdjtCwJcn8hgn6t	Loyalty Beyond the Grave	Red	1	0		3				Draconic, Defense Reaction								While this is in your graveyard, at the start of your turn, you may banish 2 cards named Loyalty Beyond the Grave from your graveyard. If you do, draw a card.	Draconic, Defense Reaction				No	
 pKtKBmHB8P6Nwr8TP7p6D	Lubricate	Blue	3	0						Mechanologist, Instant								{u} up to 3 cogs you control.	Mechanologist Instant				No	
 L8wq9HzdqTwM8tLWCRGcR	Lumina Ascension	Yellow	2	0		3				Light, Warrior, Action		Boltyn Specialization, Go again					Charge	"**Boltyn Specialization**
@@ -7162,6 +7184,7 @@ mRjQC9fPztGKb7NJ68gkc	Reckless Charge	Blue	3	0		3				Brute, Action		Kayo Special
 Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.
 
 If you've rolled a 6 on a die this turn, draw a card."	Brute Action				No	
+bK9BLkb6M9JHT798FHgLP	Reckless Stampede	Red	1	2	7	0				Brute, Action, Attack		Clash						Whenever a card defends this, **clash** with the defending hero. The winner deals 1 damage to each other hero. Each hero may put their revealed card on the bottom of its owner's deck.	Brute Action - Attack				No	
 mmtHRdGFhPtwR8LF8tq6p	Reckless Swing	Blue	3	0		4				Brute, Defense Reaction								"As an additional cost to play Reckless Swing, discard a random card.
 
 If the discarded card has 6 or more {p}, deal 2 damage to the attacking hero."	Brute Defense Reaction				No	
@@ -7327,6 +7350,11 @@ If Reverberate deals damage, you may banish a Wizard 'non-attack' action card fr
 JBKPrLhtDj77ttccNgnqD	Reverberate	Blue	3	1		3			1	Wizard, Action								"Deal 1 arcane damage to target opposing hero.
 
 If Reverberate deals damage, you may banish a Wizard 'non-attack' action card from your hand with {r} cost less than or equal to the damage dealt by Reverberate. If you do, you may play it this turn as though it were an instant."	Wizard Action					
+GCrJthLPkqzBMpRFmnFFK	Revolting Gesture	Red	1	1		2				Reviled, Action		Go again						"Your next attack this turn gets +3{p}.
+
+Create a Might token.
+
+**Go again**"	Reviled Action					
 jBcWwLwbkkMjtgW7pTW8J	Rewind	Blue	3	1						Wizard, Instant		Negate						**Negate** target 'non-attack' action card and return it to its owner's hand. Then that hero gains 1 action point.	Wizard Instant				No	
 KnwNm8LC9DNpT8wMzDnFn	Reya, the Unyielding						21	4		Guardian, Hero, Pit-Fighter								"Block cards you own and equipment you control with 1 or greater {d} get **protect**.
 
@@ -8530,6 +8558,7 @@ qKcPMkLrbMpqn9Nck97WL	Smashing Good Time	Blue	3	0		2				Generic, Action		Go agai
 If Smashing Good Time is played from arsenal, the next attack action card you play this turn gains +1{p}.
 
 **Go again**"	Generic Action				No	
+pB7j8qpB8jcJ98N9MWz8Q	Smashing Ground	Blue	3	3	5	3				Brute, Action, Attack								"If this has 6 or more {p}, it gets ""When this hits a hero, destroy a card in their arsenal."""	Brute Action - Attack				No	
 cHd8RnCfp9h8MNkQnL9Md	Smashing Performance	Yellow	2	3	6					Brute, Action, Attack								When this attacks draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, destroy a random item in the arena.	Brute Action - Attack				No	
 6q8j8bjLPkBrkJCBPGbKb	Smelting of the Old Ones	Red	1	6	10	3				Guardian, Action, Attack		Crush, Heave 2						"**Crush** - When this deals 4 or more damage to a Guardian hero, destroy all equipment they control with -1{d} counters.
 
@@ -8923,6 +8952,7 @@ CJmNCDkwJKGMbhbnjh6Q9	Staunch Response	Blue	3	2		5				Guardian, Defense Reaction
 GzDfCdCfWPNTfP6KkN6pJ	Steadfast	Red	1	3						Guardian, Instant								Prevent the next 6 damage that would be dealt to your hero this turn by a source of your choice.	Guardian Instant					
 J6wkdw6GbBPtzKqHrWbhC	Steadfast	Yellow	2	3						Guardian, Instant								Prevent the next 5 damage that would be dealt to your hero this turn by a source of your choice.	Guardian Instant					
 pJgqNQCKBhKhr9rTrj7Dp	Steadfast	Blue	3	3						Guardian, Instant								Prevent the next 4 damage that would be dealt to your hero this turn by a source of your choice.	Guardian Instant					
+GFNmBDr67mL9cbfjDdGf9	Steal Victory	Blue	3			3				Reviled, Brute, Block		Steal						When this defends, **steal** an aura token the attacking hero controls.	Reviled Brute Block				No	
 G8bkfPWkjKCjR6qWKBLFF	Steam Canister	Blue	3	0						Mechanologist, Action, Item			Instant				Crank	**Instant** - Put this on the bottom of its owner's deck: Put a steam counter on an item you control with **crank**.	Mechanologist Action - Item				No	
 RhgwRgbM8Q8WBdBMTtwQR	Steel Street Enforcement	Blue	3			1				Mechanologist, Block		Evo Upgrade						**Evo Upgrade** - While this is defending, it gets +X{d}, where X is the number of Evos you have equipped.	Mechanologist Block				No	
 MGGw9K9QMqmFBjLLTrbhq	Steel Street Hoons	Blue	3	3	3	2				Mechanologist, Action, Attack		Boost, Galvanize						"**Boost**
