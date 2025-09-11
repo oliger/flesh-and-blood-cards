@@ -28,6 +28,11 @@ When this leaves the arena, your next attack this turn gets +5{p}."	Guardian Ins
 mb9NWzptP6Cnzk9tjMP8f	Act of Glory	Blue	3	4		3				Guardian, Instant, Aura		Suspense						"**Suspense**
 
 When this leaves the arena, your next attack this turn gets +4{p}."	Guardian Instant - Aura					
+Wmr8NmHdQCmPCbMBPncTq	Adaptive Alpha Mold					1				Mechanologist, Equipment, Base		Modular, Battleworn						"**Modular**
+
+**Action** - 0: Equip this to another equipment zone.
+
+**Battleworn**"	Mechanologist Equipment - Base				No	
 8TPwpCdF6GRn7cQRRGjQJ	Adaptive Dissolver									Mechanologist, Equipment, Base		Modular, Arcane Barrier 1	Action					"**Modular**
 
 **Action** - 0: Equip this to another equipment zone.
@@ -197,6 +202,11 @@ qdbgkqgpTRMQQPr7jcdQL	Ancestral Harmony	Blue	3	0		3				Ninja, Action		Go again		
 Banish the top card of your deck. If it has **combo**, you may play it this turn.
 
 **Go again**"	Ninja Action				No	
+CFkkCCFjGpQMLrRgFd87W	Angelic Attendant	Yellow	2	0		3				Light, Illusionist, Action		Awaken, Go again						"**Awaken** target figment you control.
+
+Put this into your soul.
+
+**Go again**"	Light Illusionist Action				No	
 bnhnjB7ggkRhpfqQHn6D6	Angelic Descent	Red	1	0						Light, Illusionist, Instant					Go again			"Target attack action card with Herald in its name gets **go again**.
 
 Your next angel attack this turn gets +3{p}."	Light Illusionist Instant					
@@ -637,6 +647,10 @@ NdkHWNBQkBdTHTt7FTgFz	Battered, Beaten, and Broken	Yellow	2	0	1	3				Reviled, Ac
 
 If you control 3 or more auras, this gets +3{p} and ""When this hits a hero, destroy an intimidated card they own."""	Reviled Action - Attack				No	
 jnptttBbHJCwHBC99PMkF	Battering Bolt	Red	1	2	6	3				Ranger, Action, Arrow, Attack								If Battering Bolt hits a hero, they reveal their hand and discard all cards other than action cards. Then they lose 1{h} for each card discarded this way.	Ranger Action - Arrow Attack				No	
+pNc7mQN79mQRRB86pnwGt	Battlefield Beacon	Yellow	2	0	3	3				Light, Warrior, Action, Attack								"When this attacks, choose 1 for each card you've banished from your soul this combat chain. You may choose the same mode up to 3 times;
+- Create a Courage token.
+- Create a Toughness token.
+- Create a Vigor token."	Light Warrior Action - Attack				No	
 f8wtgfmb6wRGbJH9bqtRw	Battlefield Blitz	Red	1	1	5	3				Light, Warrior, Action, Attack		Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
 Wg7zz9866gDH6BmjMNGd8	Battlefield Blitz	Yellow	2	1	4	3				Light, Warrior, Action, Attack		Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack					
 MCnQLD9M7WTthcfmtJhD8	Battlefield Blitz	Blue	3	1	3	3				Light, Warrior, Action, Attack		Go again					Charge	If you've **charged** this turn, Battlefield Blitz gains **go again**.	Light Warrior Action - Attack				No	
@@ -682,6 +696,11 @@ GCQjzHBLkpLKfW89ckp7q	Beast Mode	Red	1	3	6	3				Brute, Action, Attack							Inti
 qChkdKF86TQpR6ctdDhRw	Beast Mode	Yellow	2	3	5	3				Brute, Action, Attack							Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
 Gtz9rhLqmgQNLCBWWrhn6	Beast Mode	Blue	3	3	4	3				Brute, Action, Attack							Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack				No	
 dHNcBPjwggj8GdFnqbkrD	Beast Within	Yellow	2	3	6	3				Brute, Action, Attack								If Beast Within is put into a graveyard from anywhere other than the combat chain, banish the top card of your deck and lose 1{h}. If it has 6 or more {p}, put it into your hand, otherwise, repeat this process.	Brute Action - Attack				No	
+kGqgWbR9dbWjWQNC6JCCm	Beat of the Ironsong	Blue	3	0		3				Warrior, Attack Reaction					Go again			"Choose X+1, where X is the number of +1{p} counters on an attacking Dawnblade;
+- Target Dawnblade attack gets +1{p}.
+- Target Dawnblade attack gets **go again**.
+- Cards defending target Dawnblade attack can't gain {d}.
+- Damage target Dawnblade attack would deal can't be prevented."	Warrior Attack Reaction				No	
 KjRNNfzGJJh68Fwk7QmWc	Beat the Same Drum	Blue	3	0		3				Generic, Action		Go again						"If you've controlled an Agility token this turn, create an Agility token, then repeat for Confidence, Might, Toughness, and Vigor.
 
 **Go again**"	Generic Action				No	
@@ -1487,6 +1506,11 @@ Create a Silver token for each permanent destroyed this way.
 6KQdhWqcGdhFgmRzwBrnh	Cast Bones	Red	1	0		3				Brute, Action								"Reveal the top 6 cards of your deck. Create a Might token for each card with 6 or more {p} revealed this way. Put the revealed cards on top of your deck in a random order.
 
 If you control 6 or more Might tokens, create an Agility token."	Brute Action				No	
+fwLrdwk7MMpphzHTLPCNK	Catch of the Day	Blue	3	0		3				Pirate, Ranger, Action		Go again					Go Fish	"Your next arrow attack this turn gets +2{p}.
+
+If a go fish effect would trigger this turn, instead it triggers twice.
+
+**Go again**"	Pirate Ranger Action				No	
 RLBLjtFb8gPjJLmTPL9j9	Celestial Cataclysm	Yellow	2	0	7	3				Light, Action, Attack		Go again						"As an additional cost to play Celestial Cataclysm, banish 3 cards from your hero's soul.
 
 **Go again**"	Light Action - Attack				No	
@@ -5507,6 +5531,9 @@ If the discarded card has 6 or more {p}, Madcap Muscle has +3{p}."	Brute Action 
 JDBd7rjPKpDDWWHQFRLND	Madcap Muscle	Blue	3	3	4	3				Brute, Action, Attack								"As an additional cost to play Madcap Muscle, discard a random card.
 
 If the discarded card has 6 or more {p}, Madcap Muscle has +3{p}."	Brute Action - Attack					
+NgGrjfPkc9BMGcrDBKNCT	Mage Hunter Arrow	Red	1	1	5	3				Ranger, Action, Arrow, Attack			Instant					"**Instant** - Destroy this: The next time you would be dealt arcane damage this turn, prevent 3 of that damage. Activate this only while this is face-up in your arsenal.
+
+When this hits a Runeblade or Wizard hero, you may destroy an aura they control."	Ranger Action - Arrow Attack				No	
 T6b7mmKBRHjBq9TQwfRB7	Mage Master Boots					0				Generic, Equipment, Legs			Action	Go again	Go again			**Action** - {r}, destroy Mage Master Boots: The next 'non-attack' action card you play this turn gains **go again**. **Go again**	Generic Equipment - Legs					
 W8qgQqqTzWMFFcCCzTLGg	Magrar									Merchant, Equipment, Off-Hand		Genis Specialization	Action					"**Genis Specialization**
 
@@ -6286,6 +6313,9 @@ PJQgmWWftPgbC9Nz7zzKD	Paddle Faster	Red	1	0	4	3				Pirate, Necromancer, Action, 
 N6LPcMrTJHqQGMctQKWTQ	Pain in the Backside	Red	1	0	3	2				Assassin, Ninja, Action, Attack		Go again						"When this hits a hero, target dagger you control deals 1 damage to them. If damage is dealt this way, the dagger has hit.
 
 **Go again**"	Assassin / Ninja Action - Attack				No	
+hNMR9pM9djfm8m9FHdmRb	Painful Passage	Red	1	0		3				Shadow, Runeblade, Action		Go again			Go again			"You may banish an attack action card from your hand. If you do, it gets +3{p} or **go again** until end of turn.
+
+**Go again**"	Shadow Runeblade Action				No	
 c9TrL6MwcrMKtmTbCHL76	Palantir Aeronought	Red	1	2	6	3				Mechanologist, Action, Attack			Thrice per Turn Instant					"The defending hero must defend this with an equipment they control if able.
 
 **Thrice per Turn Instant** - {t} a cog you control: This gets +1{p}. If this is the third time you've activated this ability, destroy a defending card."	Mechanologist Action - Attack				No	
@@ -9473,6 +9503,9 @@ LWgK7g7ftJ6kWhjg9RQH7	Tempest Aurora	Yellow	2	0		2				Wizard, Action		Go again		
 RLFbbtnr6PH8fKBQmHLCg	Tempest Aurora	Blue	3	0		2				Wizard, Action		Go again						"The next card you play this turn with cost 0 and an arcane damage effect, instead deals that much arcane damage plus 1.
 
 **Go again**"	Wizard Action					
+D9rHcGbwmfHRQw9CkhHFd	Tempest Palm Gustwave	Yellow	2	0	3	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, this gets +2{p}.
+
+If this is played at chain link 3 or higher, this gets **go again**."	Ninja Action - Attack				No	
 F8hkwqJTR9m8bRKnbr6JB	Ten Foot Tall and Bulletproof	Red	1	3	10	10				Generic, Action, Attack								When this attacks or defends, your hero gets -2{i} during your next end phase.	Generic Action - Attack				No	
 hJbgjmKWm7PKWGrrRhMf6	Tenacity	Yellow	2	0	2	3				Generic, Action, Attack								When this attacks, it gets +X{p}, where X is the number of defending cards on the combat chain.	Generic Action - Attack				No	
 hGrNPzMgNPK9zJ68bk987	Tension in the Air	Red	1	2		3				Guardian, Instant, Aura		Suspense						"**Suspense**
@@ -9966,6 +9999,9 @@ When this hits a hero, steal an item they control."	Assassin Action - Attack				
 7FKzc7kNTqjg78RNqwM77	Undertow Stilettos					1				Mystic, Assassin, Equipment, Legs		Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy this: Create a Slither in your hand.
 
 **Battleworn**"	Mystic Assassin Equipment - Legs					
+jRKRwjgNT8QKhtPLqTnbW	Unexpected Backhand	Red	1	3	7	3				Brute, Action, Attack							Clash	When you win a clash revealing this, deal 1 damage to the other hero.	Brute Action - Attack					
+WrcmbDDzNGLwfGmd9CMmR	Unexpected Backhand	Yellow	2	3	6	3				Brute, Action, Attack							Clash	When you win a clash revealing this, deal 1 damage to the other hero.	Brute Action - Attack					
+cm8pHKrnCKB7NtmbjkKBd	Unexpected Backhand	Blue	3	3	5	3				Brute, Action, Attack							Clash	When you win a clash revealing this, deal 1 damage to the other hero.	Brute Action - Attack					
 DKFj9DK7f9nHrQffkdfDm	Unforgetting Unforgiving	Red	1			4				Guardian, Block		Jarl Specialization						"**Jarl Specialization**
 
 When this defends, if the attacking hero controls an equipment with a -1{d} counter, you may search your deck for a Mangle, banish it, then shuffle. You may play it during your next action phase."	Guardian Block				No	
