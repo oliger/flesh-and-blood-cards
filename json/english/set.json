@@ -196,11 +196,11 @@
             {
                 "unique_id": "npPLBdtF6fRmmMgTjgP9j",
                 "edition": "N",
-                "start_card_id": "APS002",
+                "start_card_id": "APS001",
                 "end_card_id": "APS032",
                 "initial_release_date": "2025-09-19T00:00:00.000Z",
                 "out_of_print": false,
-                "card_database": null,
+                "card_database": "https://cards.fabtcg.com/products/armory-deck-pleiades-superstar/",
                 "product_page": null,
                 "collectors_center": null,
                 "card_gallery": null,

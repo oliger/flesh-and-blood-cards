@@ -384,6 +384,18 @@
         "description_plain": "Temper is a keyword that exists on equipment. Usually high in defense, Temper equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability."
     },
     {
+        "unique_id": "RMDzb6t96FCQ7cnQt7WMF",
+        "name": "The Crowd Boos",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "jCFcdHRFLDhRzH6mgBjmJ",
+        "name": "The Crowd Cheers",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "LwJpTqDGKM96gQzcKwW76",
         "name": "Tower",
         "description": "",

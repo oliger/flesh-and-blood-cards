@@ -449,6 +449,9 @@ If you control a Spectral Shield, you may play this as though it were an instant
 DpWbbCGtWQJwRhrKr9Cwm	Astral Etchings	Blue	3	1		3				Illusionist, Action							Ward	"Put a +1{p} counter on target aura with **ward** you control.
 
 If you control a Spectral Shield, you may play this as though it were an instant."	Illusionist Action				No	
+wGgcM7RtPfm8PtFhrcchm	Attention Grabbers					1				Guardian, Equipment, Arms		Blade Break					Suspense	"When this defends, you may remove a suspense counter from an aura you control. If you do, this gets +2{d} this chain link.
+
+**Blade Break**"	Guardian Equipment - Arms				No	
 QTk8NJWmtGQnw9WFTkkP7	Attune with Cosmic Vibrations	Blue	3	0	2	2				Mystic, Action, Attack								When this attacks a hero or defends a hero's attack, reveal the top card of their deck. If the revealed card is blue, this gets +3{p} and +3{d}.	Mystic Action - Attack				No	
 TDrmKkRWGKWnqfQkT9QML	Aurora						20	4		Elemental, Runeblade, Hero, Young		Essence of Lightning	Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Create an Embodiment of Lightning token. Activate this only if you've played a Lightning card this turn.
 
@@ -1215,6 +1218,10 @@ CKmN6WtD9mjNbMHwdbKMp	Boom Grenade	Blue	3	0						Mechanologist, Action, Item		Cr
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 When a Mechanologist attack action card you control hits a hero, destroy this and deal 2 damage to them."	Mechanologist Action - Item					
+bCKDD6gGb8dKzNdprDzff	Boots to the Boards					2				Revered, Equipment, Legs		Temper						"When this defends, pay up to {r}{r}{r}. Create that many Toughness tokens.
+
+**Temper**"	Revered Equipment - Legs				No	
+tJftFH7gQMpj7cQtCdQ76	Boulder Drop	Red	1	3	7	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 jLqRGt6GqBn9NbHrzbKKm	Boulder Drop	Yellow	2	3	6	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 wwKjnd7RF7HJwWCLkN78L	Boulder Drop	Blue	3	3	5	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 9T6MpdKGz7bnbQpJrNQjq	Boulder Trap	Yellow	2	0		3				Ranger, Defense Reaction, Trap								When this defends an attack with {p} greater than its base, put a -1{d} counter on an equipment the attacking hero controls.	Ranger Defense Reaction - Trap				No	
@@ -5822,6 +5829,9 @@ If you've been booed this turn, this gets +3{p}."	Reviled Action - Attack				No
 kTNFffN8hnrk7cr8zNkQP	Mocking Blow	Blue	3	0	1	3				Reviled, Action, Attack							The Crowd Boos	"When this attacks a hero, if you have more {h} than them, **the crowd boos** you.
 
 If you've been booed this turn, this gets +2{p}."	Reviled Action - Attack				No	
+6kFn87DgtCPtJ9J9M6zGL	Moment Maker				4					Revered, Guardian, Weapon, Hammer, Axe, 2H		The Crowd Cheers	Once per Turn Action	Attack			Suspense	"**Once per Turn Action** - {r}{r}{r}: **Attack**
+
+If you control 3 or more auras of suspense, this gets +2{p} and ""When this hits a hero, **the crowd cheers** you."""	Revered Guardian Weapon - Hammer Axe (2H)				No	
 7mgnPjCmmLc9K9WwLdhJ6	Money Where Ya Mouth Is	Red	1	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +3{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 B7Db99Nw9PFrJLmRzPT7t	Money Where Ya Mouth Is	Yellow	2	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +2{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
 9BM9L9zrh8BgBWkPDdJgf	Money Where Ya Mouth Is	Blue	3	1		2				Generic, Action		Go again			Wager			"Your next attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Gold token with them."""	Generic Action					
@@ -6563,10 +6573,10 @@ QmBfhgrGL6JDrhkn6ccg8	Platinum Amulet	Blue	3	0						Generic, Action, Item		Legen
 
 **Legend of the Watery Grave**"	Generic Action - Item				No	
 LQDwqpNddrmqQQb8J9dht	Pledge Fealty	Red	1	0						Draconic, Instant								Create a Fealty token.	Draconic Instant					
-DcwnhL66BkhqjFcfzwwfQ	Pleiades						20	4		Revered, Guardian, Hero, Young			Instant				The Crowd Cheers	"**Instant** - {t}, remove a suspense counter from an aura you control: You may put a suspense counter on an aura of suspense you control.
+DcwnhL66BkhqjFcfzwwfQ	Pleiades						20	4		Revered, Guardian, Hero, Young			Instant				Suspense, The Crowd Cheers	"**Instant** - {t}, remove a suspense counter from an aura you control: You may put a suspense counter on an aura of suspense you control.
 
 Whenever the crowd cheers you, create a Confidence token."	Revered Guardian Hero - Young			No		No
-JhgRJb6nfctWkndbzrgnj	Pleiades, Superstar						40	4		Revered, Guardian, Hero			Instant				The Crowd Cheers	"**Instant** - {t}, remove a suspense counter from an aura you control: You may put a suspense counter on an aura of suspense you control.
+JhgRJb6nfctWkndbzrgnj	Pleiades, Superstar						40	4		Revered, Guardian, Hero			Instant				Suspense, The Crowd Cheers	"**Instant** - {t}, remove a suspense counter from an aura you control: You may put a suspense counter on an aura of suspense you control.
 
 Whenever the crowd cheers you, create a Confidence token."	Revered Guardian Hero		No		No	
 T8TC8nQ6HCgPGGLKRhpwh	Plow Through	Red	1	1		3				Warrior, Action		Go again						"Your next weapon attack this turn gains +3{p} and ""If this weapon is defended by an attack action card, it gains +1{p} until end of turn.""
@@ -9211,6 +9221,9 @@ H99k8wdCTRgwmHP7ftWt7	Supercell	Blue	3	X		2				Mechanologist, Action								"Put
 Create a Hyper Driver token with X steam counters.
 
 If X is 3 or greater, you may shuffle a Construct Nitro Mechanoid from your banished zone into your deck."	Mechanologist Action				No	
+PBrb69BLQLtMLLQJgBqww	Superstar	Blue	3	1		3				Revered, Guardian, Instant, Aura		Suspense, The Crowd Cheers						"**Suspense**
+
+When this enters or leaves the arena, **the crowd cheers** you."	Revered Guardian Instant - Aura				No	
 JR9JmbdnQ8mTLfjMHf9n8	Suraya, Archangel of Erudition				4		4			Light, Angel, Ally		Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When Suraya attacks, you may banish a card from your hero's soul. If you do, draw 2 cards.
@@ -9408,7 +9421,7 @@ BPHDqTPTT6nKHGjRqjFzR	Tarpit Trap	Yellow	2	0		3				Ranger, Defense Reaction, Tra
 PkD89rQPqTmdPjzH6GMhf	Taylor						18	4		Shapeshifter, Hero, Young								"You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.
 
 At the start of your turn, you may banish an equipment you control. If you do, equip a card of the same subtype from your inventory."	Shapeshifter Hero - Young		No	No	No	No
-C8r9mHpCfPTcgggPdbMLB	Tear Asunder	Blue	3	3		3				Guardian, Action		Go again			Dominate			"Your next Guardian attack this turn gains +1{p}, **dominate**, and ""If this hits a hero, they discard 2 cards.""
+C8r9mHpCfPTcgggPdbMLB	Tear Asunder	Blue	3	3		3				Guardian, Action		Go again			Dominate			"Your next Guardian attack this turn gains +1{p}, **dominate**, and ""When this hits a hero, they discard 2 cards.""
 
 **Go again**"	Guardian Action				No	
 6FrqKM6Ckpz9NCG8wGcGq	Tear Limb from Limb	Blue	3	2						Brute, Action		Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, the next Brute attack action card you play this turn gains +X{p}, where X is its base {p}.
@@ -9560,6 +9573,9 @@ QcgncKTnLcdGKQnwDjqdz	The Librarian					3				Illusionist, Mentor							Specializ
 While The Librarian is face up in arsenal, once per turn when you create a Spectral Shield token, draw a card and put a lesson counter on The Librarian. Then if there are 3 or more lesson counters on him, banish him, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Illusionist Mentor			No	No	No
 qhgBBWfkQcrgzKMTqQ7RC	The Moat Exchange									Event								Each hero may put any number of cards from their hand or arsenal on the bottom of their deck, then they draw a card for each card they put on the bottom this way.	Event		No	No	No	No
 QhRMMbB6zPRzJJk7hJQwj	The Old Switcheroo	Blue	3	0	2	3				Reviled, Action, Attack								**Instant** - Discard this: the next time you would clash with target hero this turn, instead you reveal the top card of their deck and they reveal the top card of your deck. If you win the clash, they discard a card.	Reviled Action - Attack				No	
+RBWKndBPqQHwdWCzPnj8k	The Suspense is Killing Me	Blue	3	0		2				Guardian, Instant, Aura		Suspense						"**Suspense**
+
+Your first attack each turn gets +1{p}."	Guardian Instant - Aura				No	
 JjHcGC99TqTf6Mz697hng	The Weakest Link	Red	1	2	6	3				Generic, Action, Attack								When this hits a hero, look at their hand and choose a card without base {d}. If you do, they discard it and you draw a card.	Generic Action - Attack				No	
 HBMfgJPgbmbWzJrRtJCjk	Themai				3		4			Draconic, Illusionist, Dragon, Ally								Opponents can't play cards or activate abilities during your turn.	Draconic Illusionist - Dragon Ally				No	
 8cQmdjw8zKNzddKkwcHWj	Themis, Archangel of Judgment				4		4			Light, Angel, Ally		Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
@@ -9618,6 +9634,9 @@ MfFH89gTLWnFjfJjF9WFw	Thunder Quake	Blue	3	6	8	3				Guardian, Action, Attack		He
 PDPbhCGj7twzTP8HGfhBb	Thunk	Red	1	5	8	3				Guardian, Action, Attack							Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack					
 KqtjpgTftPFhRbhwQkcBQ	Thunk	Yellow	2	5	7	3				Guardian, Action, Attack							Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack					
 7HFBMWtFrdmQpQkLLwHGJ	Thunk	Blue	3	5	6	3				Guardian, Action, Attack							Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack					
+m7QtkDW9dbfgKbkWcbR68	Tiara of Suspense					2				Revered, Guardian, Equipment, Head		Guardwell	Instant				Suspense, The Crowd Cheers	"**Instant** - Destroy this: Put a suspense counter on an aura of suspense you control. Activate this only if you've been cheered this turn.
+
+**Guardwell**"	Revered Guardian Equipment - Head				No	
 hhfqThRH8RttBMmDMr7H6	Tick Tock Clock	Red	1	0						Mechanologist, Action, Item		Crank						"**Crank**
 
 This enters the arena with a steam counter. At the start of your turn, destroy this and it deals 1 damage to you unless you remove a steam counter from it.
@@ -9695,6 +9714,9 @@ cTRhTc7kkHWQrwpRgtrM9	Titan's Fist				3					Guardian, Weapon, Hammer, 1H			Once 
 
 If there is a card with cost 3 or greater in your pitch zone, Titan's Fist has +1{p}."	Guardian Weapon - Hammer (1H)					
 mc7J7CkCptbQQttbfJGMt	Titanium Bauble	Blue	3			3				Generic, Resource									Generic Resource					
+RrLpMzrnbdgWFJh7D8r6q	To Be Continued...	Blue	3	0		2				Guardian, Instant, Aura		Suspense						"**Suspense**
+
+The first time you would be dealt damage each turn, prevent 1 of that damage."	Guardian Instant - Aura				No	
 hznLkw6NwCdwhnH9KbKdF	To the Point	Red	1	0		2				Assassin, Warrior, Attack Reaction							Mark	Target dagger attack gets +3{p}. If the defending hero is **marked**, instead it gets +4{p}.	Assassin / Warrior Attack Reaction				No	
 zGMwPW7DFJjTJBBdnmfwD	To the Point	Yellow	2	0		2				Assassin, Warrior, Attack Reaction							Mark	Target dagger attack gets +2{p}. If the defending hero is **marked**, instead it gets +3{p}.	Assassin / Warrior Attack Reaction				No	
 7tkH9LH8hHKQLmBGNJrM6	To the Point	Blue	3	0		2				Assassin, Warrior, Attack Reaction							Mark	Target dagger attack gets +1{p}. If the defending hero is **marked**, instead it gets +2{p}.	Assassin / Warrior Attack Reaction				No	
@@ -10267,6 +10289,9 @@ hJgFfDPRWWmknCPnHCrrL	Villainous Pose	Blue	3	2		2				Reviled, Action		Go again, 
 
 **Go again**"	Reviled Action					
 mcF6F69HgBntfh7QKkHWw	Vipox	Red	1	0	1	3				Generic, Action, Attack								When Vipox hits a hero, they lose {h} equal to the number of cards in their hand.	Generic Action - Attack				No	
+qrgHbhCHptKd9Lj7hzDQQ	Virtuoso Bodice					2				Guardian, Equipment, Chest		Blade Break					Suspense	"When this defends, you may remove a suspense counter from an aura you control. If you do, gain {r}{r}.
+
+**Blade Break**"	Guardian Equipment - Chest				No	
 JrjbG9mbwQC8zQcnPRhHg	Virulent Touch	Red	1	0	4	2				Assassin, Ranger, Action, Attack								"Virulent Touch can't be played from hand.
 
 When this chain link resolves, if Virulent Touch is defended by a card from hand, create a Bloodrot Pox token under the defending hero's control."	Assassin / Ranger Action - Attack					
@@ -10529,6 +10554,9 @@ Bc9QPMHJ7dP6c8mtrhjrQ	Weave Lightning	Blue	3	0		2				Lightning, Action		Go again
 
 **Go again**"	Lightning Action				No	
 zngmGjhrGpJfmnbMP87JP	Well Grounded					0				Earth, Equipment, Legs			Instant					**Instant** - Destroy this: Prevent the next 2 damage that would be dealt to you this turn. Activate this only if there are 4 or more Earth cards in your banished zone.	Earth Equipment - Legs					
+zLcR9wbtJCfBQLFpntDFg	What Happens Next?	Blue	3	0		2				Guardian, Instant, Aura		Suspense						"**Suspense**
+
+The first card with cost 1 or more you play each turn costs {r} less to play."	Guardian Instant - Aura				No	
 zgP9HWNCqbrQPLMNP8Bwf	Whelming Gustwave	Red	1	0	3	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and ""If this hits, draw a card."""	Ninja Action - Attack					
 jCrd8h9kPW8rJ9KwgRr8L	Whelming Gustwave	Yellow	2	0	2	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and ""If this hits, draw a card."""	Ninja Action - Attack					
 M7gFnB7zpwHWCbzWCWKpd	Whelming Gustwave	Blue	3	0	1	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and ""If this hits, draw a card."""	Ninja Action - Attack					
