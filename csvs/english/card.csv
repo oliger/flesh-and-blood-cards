@@ -402,6 +402,7 @@ When you pitch Arknight Shard, create a Runechant token."	Runeblade Resource - G
 z6hzjr7zdqfrh8nQMf6CH	Arousing Wave					1				Mystic, Assassin, Equipment, Arms		Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy this: Create a Fang Strike in your hand.
 
 **Battleworn**"	Mystic Assassin Equipment - Arms					
+mcgDWKjwLQ9thKbjmqBJG	Arrogant Showboating	Blue	3	0						Reviled, Instant								Create a Might token for each defending card controlled by an opponent on the combat chain.	Reviled Instant				No	
 KmwdjTRNdP6LTTrwm8NN8	Art of Desire: Body	Red	1	0	3	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
 When this hits a hero, banish the top card of their deck.
@@ -1224,6 +1225,11 @@ When a Mechanologist attack action card you control hits a hero, destroy this an
 bCKDD6gGb8dKzNdprDzff	Boots to the Boards					2				Revered, Equipment, Legs		Temper						"When this defends, pay up to {r}{r}{r}. Create that many Toughness tokens.
 
 **Temper**"	Revered Equipment - Legs				No	
+6JztkHqwkFCGJgfBwKgq8	Booze!	Blue	3	0		3				Reviled, Action, Aura		Go again, The Crowd Boos						"**Go again**
+
+When this enters or leaves the arena, **the crowd boos** you.
+
+At the start of your turn, destroy this."	Reviled Action - Aura					
 tJftFH7gQMpj7cQtCdQ76	Boulder Drop	Red	1	3	7	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 jLqRGt6GqBn9NbHrzbKKm	Boulder Drop	Yellow	2	3	6	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
 wwKjnd7RF7HJwWCLkN78L	Boulder Drop	Blue	3	3	5	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.	Guardian Action - Attack				No	
@@ -1778,6 +1784,9 @@ qBRhRDtgwwmgTb68dqTQW	Clearing Bellow	Blue	3	0		3				Brute, Action		Intimidate, 
 bPJzLWhH7G7BnHL9fNJw6	Cleave	Red	1	1		3				Warrior, Action		Go again						"Your next axe attack this turn gains +4{p} and ""When this hits a hero or ally, you may deal that much damage to another ally controlled by the same hero.""
 
 **Go again**"	Warrior Action				No	
+hFdDjPwdMw7dd678RzRPH	Clench the Upper Hand	Red	1	0	4	2				Reviled, Action, Attack		The Crowd Boos						When this attacks or defends, if you have less {h} than each other hero, **the crowd boos** you.	Reviled Action - Attack					
+mtrtdmqhkkjnQNNk7kFr8	Clench the Upper Hand	Yellow	2	0	3	2				Reviled, Action, Attack		The Crowd Boos						When this attacks or defends, if you have less {h} than each other hero, **the crowd boos** you.	Reviled Action - Attack					
+JdpQPQQbBNbHqQNhrBNnw	Clench the Upper Hand	Blue	3	0	2	2				Reviled, Action, Attack		The Crowd Boos						When this attacks or defends, if you have less {h} than each other hero, **the crowd boos** you.	Reviled Action - Attack					
 TtgGwwdkkjjMHBbMztjrG	Cloak of Darkness									Shadow, Equipment, Chest		Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
 
 **Blood Debt**"	Shadow Equipment - Chest					
@@ -2142,6 +2151,9 @@ MkjQ7zw7Bpc8BMJDnJ9fC	Crown of Reflection					0				Illusionist, Equipment, Head	
 **Arcane Barrier 1**"	Illusionist Equipment - Head				No	
 Lbp8pFhph9wMqMHDw8JWq	Crown of Seeds					0				Earth, Equipment, Head			Once per Turn Instant					**Once per Turn Instant** - {r}, put a face down card from your arsenal on the bottom of your deck: Draw a card and prevent the next 1 damage that would be dealt to your hero this turn.	Earth Equipment - Head				No	
 nzDWrNMqGWgmJfgJhChNb	Crucible of Aetherweave									Wizard, Weapon, Staff, 2H			Once per Turn Instant					**Once per Turn Instant** - {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.	Wizard Weapon - Staff (2H)					
+fJjNtpB6PRFbDhM9Brndh	Cruel Ambition	Red	1	0		2				Reviled, Action		Go again						"Create 3 Might tokens.
+
+**Go again**"	Reviled Action					
 mnKzqjmdQbtKgBLT6bFBj	Crumble to Eternity	Blue	3	0		3				Ice, Earth, Action, Aura		Jarl Specialization			Dominate			"**Jarl Specialization**
 
 When this enters the arena, you may put a -1{d} counter on an equipment.
@@ -2506,6 +2518,7 @@ fgrK7Mbp8qQcbMtQDwk9F	Disable	Yellow	2	5	8	3				Guardian, Action, Attack		Crush	
 WjfRfczmQcbQknfRdD8JJ	Disarm	Yellow	2	3	6	3				Revered, Action, Attack							The Crowd Cheers	"When this attacks, if you've been cheered this turn, create a Toughness token.
 
 When this defends, if it has 6 or more {d}, the attacking hero puts a card from their hand on the bottom of their deck."	Revered Action - Attack				No	
+qmrkpcDjBHQb9g6pqCFMd	Disdainful Delight	Yellow	2			3				Reviled, Block							The Crowd Boos	While this is defending, if you've been booed this turn, this gets +1{d}.	Reviled Block					
 PLpmc6rb9nqRdNGDczpg7	Disembody	Red	1	3	7	3				Revered, Action, Attack							The Crowd Cheers	"When this attacks, if you've been cheered this turn, create a Toughness token.
 
 When this defends, if it has 6 or more {d}, the attacking hero puts an aura they control on the bottom of their deck."	Revered Action - Attack				No	
@@ -4111,6 +4124,9 @@ JJqgR7zTPJmjWNtnFdQ88	Good Time Chapeau					2				Guardian, Equipment, Head		Bets
 **Action** - Destroy a Gold you control: Your next attack this turn gets ""When this attacks a hero, **wager** a Might and a Vigor token with them."" **Go again**
 
 **Temper**"	Guardian Equipment - Head					
+WnzRKrcc8cLMN8BKPhnck	Goon Battery	Blue	3	0	1	3				Reviled, Action, Attack								"If you control 3 or more auras, this gets +3{p} and ""When this hits a hero, {t} them."""	Reviled Action - Attack					
+JBC8TcFBdKmzKCRtJngJT	Goon Beatdown	Blue	3	0	1	3				Reviled, Action, Attack		The Crowd Boos						"If you control 3 or more auras, this gets +3{p} and ""When this hits a hero, **the crowd boos** you."""	Reviled Action - Attack					
+QmJG8pMhhgzJHgRRJTGb6	Goon Tactics	Blue	3	0	1	3				Reviled, Action, Attack								"If you control 3 or more auras, this gets +3{p} and ""When this hits a hero, destroy the top card of their deck."""	Reviled Action - Attack					
 mJbdJCLQD9jgQRMPjBrLB	Gore Belching	Red	1	0	7					Generic, Action, Attack								When this attacks, reveal cards from the top of your deck until you reveal an attack action card. If you do, banish it and this gets -X{p}, where X is the {p} of the card banished this way. Otherwise, this gets -7{p}. Shuffle.	Generic Action - Attack				No	
 rbMGNnJJBHjnNMdRCWBhw	Gorganian Tome			0						Generic, Action		Legendary, Go again						"**Legendary**
 
@@ -4662,6 +4678,9 @@ DW7LjrR6RwKPhNB8d9CGM	Hope Merchant's Hood					0				Generic, Equipment, Head			I
 kHTFbHM7GGctRFhMm8hBg	Hornet's Sting					1				Ranger, Equipment, Arms		Blade Break						"Whenever Hornet's Sting defends, reveal the top card of your deck. If it's an arrow, deal 1 damage to the attacking hero or ally. Otherwise, put it on the bottom of your deck.
 
 **Blade Break**"	Ranger Equipment - Arms					
+667jCHDNcTc6zNTcjFk8m	Horns of the Despised					1				Reviled, Equipment, Head		The Crowd Boos, Blade Break						"When this defends, **the crowd boos** you.
+
+**Blade Break**"	Reviled Equipment - Head					
 NKBJGDhp7TDQ7CzdQtpJM	Hostile Encroachment	Red	1	3	8	3				Guardian, Action, Attack		Crush						"When this attacks a hero, they draw a card.
 
 **Crush** - When this deals 4 or more damage to a hero, they discard a card."	Guardian Action - Attack					
@@ -4969,6 +4988,9 @@ If Inspire Lightning was **fused**, deal 2 arcane damage to target hero."	Elemen
 W8hhkFmqt8rDrBnTfCCPw	Inspire Lightning	Blue	3	1		2			1	Elemental, Runeblade, Action		Lightning Fusion						"**Lightning Fusion**
 
 If Inspire Lightning was **fused**, deal 1 arcane damage to target hero."	Elemental Runeblade Action					
+J6mDdKqWNHBGLWFW9PQqf	Instill Fear	Red	1	0	3	3				Reviled, Action, Attack		Intimidate						When this attacks a hero, **intimidate** them.	Reviled Action - Attack					
+6rkDBBFc9rN7rpqqNbnrD	Instill Fear	Yellow	2	0	2	3				Reviled, Action, Attack		Intimidate						When this attacks a hero, **intimidate** them.	Reviled Action - Attack					
+ChWC6JfLg9hcmHd9JcMBk	Instill Fear	Blue	3	0	1	3				Reviled, Action, Attack		Intimidate						When this attacks a hero, **intimidate** them.	Reviled Action - Attack					
 QGjhRDwJdHr68gtkNqCWm	Intellect Penalty									Macro								"Your hero has -1{i}.
 
 If you would create an Intellect Penalty with X counters on it, instead add X turn counters onto this.
@@ -5175,6 +5197,11 @@ NcQMQ79gb9P7CTMfWfBz8	Kayo, Berserker Runt						19	4		Brute, Hero, Young								
 - 1 to 4 - Halve the attack's base {p}, rounded down.
 
 - 5 to 6 - Double the attack's base {p}."	Brute Hero - Young			No		No
+rwntmhkHtPGcKCbzJWjNn	Kayo, Strong-arm						20	4		Reviled, Brute, Hero, Young			Instant				The Crowd Boos	"You start the game with 1 weapon zone.
+
+**Instant** - {r}{r}{r}{r}, {t}: Target attack action card you control has 6 base {p}.
+
+Whenever the crowd boos you, create a Vigor token."	Reviled Brute Hero - Young			No		No
 fMDbBJHTPL7dcMMFNkCCm	Kayo, Underhanded Cheat						40	4		Reviled, Brute, Hero			Instant				The Crowd Boos	"You start the game with 1 weapon zone.
 
 **Instant** - {r}{r}{r}{r}, {t}: Target attack action card you control has 6 base {p}.
@@ -5248,6 +5275,9 @@ rpqF9GbWN7Kkb6hPKPnJk	Lady Barthimont					3				Brute, Mentor					Dominate		Speci
 While Barthimont is face up in arsenal, whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, the attack gains **dominate** and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on her, banish her, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Brute Mentor			No	No	No
 mMzzGF76cFfFHJQJTFcnB	Lair of the Spider	Red	1	0		3				Assassin, Ninja, Defense Reaction, Trap		Mark					Go again	When this defends an attack with **go again**, **mark** the attacking hero.	Assassin / Ninja Action Defense Reaction - Trap					
 qmzNwRPnh8gkrdKdLwCbt	Last Ditch Effort	Blue	3	3	4	3				Generic, Action, Attack		Go again						When you play Last Ditch Effort, if you have no cards in your deck, it gains +4{p} and **go again**.	Generic Action - Attack				No	
+mm6rHKbCkKKfD6h6tCMcK	Laughing Knee-Slappers					1				Reviled, Brute, Equipment, Legs		Blade Break						"If you control a Might and a Vigor token, this gets +2{d}.
+
+**Blade Break**"	Reviled Brute Equipment - Legs					
 GzTpzLGB99zRcW9w7tKd8	Lava Burst	Red	1	0	2	3				Draconic, Action, Attack		Rupture						**Rupture** - If Lava Burst is played as chain link 4 or higher, it has +3{p}.	Draconic Action - Attack					
 BFpBkbT788fWNrCgGcWHt	Lava Vein Loyalty	Red	1	0	3	3				Draconic, Ninja, Action, Attack		Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack					
 pdfbRhNQ7rBq8r8HfcBbt	Lava Vein Loyalty	Yellow	2	0	2	3				Draconic, Ninja, Action, Attack		Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack					
@@ -5548,6 +5578,11 @@ z8GG8N7Lkg6BQR7FnWcwp	Luminaris, Celestial Fury									Light, Illusionist, Weap
 GkJfHHnhbDNWnfwGNTznm	Lunartide Plunderer	Yellow	2	3	6	2				Shadow, Action, Attack								If Lunartide Plunderer hits a hero, banish it and a card from their soul.	Shadow Action - Attack					
 wFPpjqhRHHNdNkDbRffBF	Lunartide Plunderer	Blue	3	3	5	2				Shadow, Action, Attack								If Lunartide Plunderer hits a hero, banish it and a card from their soul.	Shadow Action - Attack					
 KTHGJMmtDhhmTdbm9zcQC	Lunging Press	Blue	3	0		2				Generic, Attack Reaction								Target attack action card gains +1{p}.	Generic Attack Reaction					
+QrHJnzKzpMwgfJMcKQ8Dp	Lyath Goldmane						20	5		Reviled, Guardian, Hero, Young			Instant	The Crowd Boos			The Crowd Boos	"The base {p} and {d} of cards you control are halved, rounded up.
+
+**Instant** - {r}{r}, {t}: **The crowd boos** you. Defending action cards you control get +1{d} this turn.
+
+Whenever the crowd boos you, create a Might token."	Reviled Guardian Hero - Young			No		No
 MgKprw8PQjNKC7JDmppHh	Lyath Goldmane, Vile Savant						40	5		Reviled, Guardian, Hero			Instant	The Crowd Boos			The Crowd Boos	"The base {p} and {d} of cards you control are halved, rounded up.
 
 **Instant** - {r}{r}, {t}: **The crowd boos** you. Defending action cards you control get +1{d} this turn.
@@ -5797,6 +5832,9 @@ mFpKJrtphdgPmTDK7T7PJ	Midas Touch	Yellow	2	1		3				Generic, Action		Go again				
 RGHRQgGJdBhBPgM9Pfgw7	Mighty Windup	Red	1	3	7	2				Brute, Guardian, Action, Attack			Instant					**Instant** - Discard this: Create a Might token.	Brute / Guardian Action - Attack					
 wWrJrBcLPWcwc7RTrc6Bk	Mighty Windup	Yellow	2	3	6	2				Brute, Guardian, Action, Attack			Instant					**Instant** - Discard this: Create a Might token.	Brute / Guardian Action - Attack					
 RjjGjcfnzzmwGGw6DcLWj	Mighty Windup	Blue	3	3	5	2				Brute, Guardian, Action, Attack			Instant					**Instant** - Discard this: Create a Might token.	Brute / Guardian Action - Attack					
+kjJTFcHjQdjkfFNr8kRQw	Mightybone Knuckles					1				Reviled, Equipment, Arms		Blade Break	Action	Go again				"**Action** - {r}{r}{r}, destroy this: Create 3 Might tokens. Activate this only if you have more {h} than each other hero. **Go again**
+
+**Blade Break**"	Reviled Equipment - Arms					
 RRfwzgrbMbFGNqppnD8rB	Miller's Grindstone				4					Guardian, Weapon, Hammer, 1H		Clash	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Attack**
 
 When this hits a hero, **clash** with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this."	Guardian Weapon - Hammer (1H)					
@@ -6071,6 +6109,7 @@ F7mqQWTKzmNmMfgmQbHFw	Not So Fast	Yellow	2	0						Pirate, Instant		Scurv Special
 
 The next time an opponent would draw a card from the effect of a Gold token this turn, instead you draw a card."	Pirate Instant				No	
 wmGCKjjh6QbD6WTqNFqn9	Not So Mighty	Blue	3			2				Revered, Block								When this defends a Reviled hero's attack, destroy a Might token they control. If you do, create a Toughness token.	Revered Block					
+hNbHKGgQDmpBmQWDDTnkR	Not So Tuff	Blue	3			2				Reviled, Block								When this defends a Revered hero's attack, destroy a Toughness token they control. If you do, create a Might token.	Reviled Block					
 7Tpfm7Ccf8rKcztfFngM9	Nourishing Emptiness	Red	1	2	6	3				Generic, Action, Attack		Dominate						"While there are no attack action cards in your graveyard, Nourishing Emptiness has **dominate** and ""If this hits, your hero gains +1{i} until end of turn."""	Generic Action - Attack				No	
 JTrNBd8TcnPmB6KdDmjRN	Null // Shock	Yellow	2	1					1	Wizard, Instant, Lightning, Instant		Meld, Negate						"**Meld**
 
@@ -7573,6 +7612,7 @@ pkLRpwfMwHKhkdBGJmFW6	Rip Through Reality	Blue	3	2	2	3				Shadow, Runeblade, Act
 If you have dealt arcane damage to an opposing hero this turn, Rip Through Reality gains **go again**.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack					
+g89MkbrrTtJkGwFwDKpfB	Rip Up Their Virtues	Blue	3	0						Reviled, Instant								Destroy up to 3 Toughness tokens. Create a Might token for each token destroyed this way.	Reviled Instant				No	
 QqfKkBhgJfFFnDLmwcHfL	Ripple Away	Blue	3	2	4	3				Generic, Action, Attack			Instant					**Instant** - Discard this: If an action card effect would create 1 or more tokens this turn, instead it creates that many minus 1 of each of those tokens.	Generic Action - Attack				No	
 DhffBQC7PHwzdJpjTjNBm	Riptide						19	4		Ranger, Hero, Young								"Whenever you play a card from hand, you may put a card from hand face down into your arsenal.
 
@@ -9214,6 +9254,9 @@ cmqfjzTmDDt9DLCRkLGMC	Stroke of Foresight	Yellow	2	1		3				Warrior, Attack React
 8TnQLCqNKhPqNhD9CmGPz	Stroke of Foresight	Blue	3	1		3				Warrior, Attack Reaction		Reprise						"Target weapon attack gains +1{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck."	Warrior Attack Reaction					
+BdnFGgLNjHbmMd7jQnjQz	Strong Stomach for Adversity					1				Reviled, Guardian, Equipment, Chest		Blade Break						"If you control a Confidence and a Might token, this gets +2{d}.
+
+**Blade Break**"	Reviled Guardian Equipment - Chest					
 7KdwKrNcWjFQMnpq8DfmQ	Strong Wood	Red	1	3	6	3				Elemental, Guardian, Action, Attack		Earth Bond						**Earth Bond** - If an Earth card was pitched to play this, this gets +1{p}.	Elemental Guardian Action - Attack					
 qLNqpbKwBJPMLz9TTDHdW	Strong Wood	Yellow	2	3	5	3				Elemental, Guardian, Action, Attack		Earth Bond						**Earth Bond** - If an Earth card was pitched to play this, this gets +1{p}.	Elemental Guardian Action - Attack					
 DrQ9nkJKpqLJCr9TgDMNn	Strong Yield	Red	1	1		2				Earth, Action, Aura		Go again						"**Go again**
@@ -9414,6 +9457,9 @@ If you've **charged** this turn, Take Flight gains **go again**."	Light Warrior 
 hhQwdkFWGnMzRtpDBTzQ9	Take Flight	Blue	3	1	2	3				Light, Warrior, Action, Attack		Charge					Charge	"As an additional cost to play Take Flight, you may **charge** your hero's soul.
 
 If you've **charged** this turn, Take Flight gains **go again**."	Light Warrior Action - Attack					
+NRb9nNnt9qMMLRqj9R96w	Take That!	Red	1	0	5	2				Reviled, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Might token.	Reviled Action - Attack					
+Nqzj9MrbgtzjcKdhdGcf8	Take That!	Yellow	2	0	4	2				Reviled, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Might token.	Reviled Action - Attack					
+wMrpDKMP9BqdqWfhBG6mm	Take That!	Blue	3	0	3	2				Reviled, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Might token.	Reviled Action - Attack					
 C7rGNWzwQJpMRcmLBbbQP	Take Up the Mantle	Yellow	2	0		3				Assassin, Attack Reaction							Stealth, Mark	Target attack action card with **stealth** gets +2{p}. If it's attacking a **marked** hero, instead it gets +3{p} and you may banish an attack action card with **stealth** from your graveyard. If you do, the target becomes a copy of the banished card.	Assassin Attack Reaction				No	
 DkcD8cfprKB8RPWLKdMhf	Take a Stab	Red	1	0		2				Assassin, Warrior, Attack Reaction							Mark	"Target dagger attack gets +3{p} and ""When this hits a **marked** hero, you may attack with it an additional time this turn."""	Assassin / Warrior Attack Reaction					
 b7j6PpNMGdBQndqjMtcHt	Take a Stab	Yellow	2	0		2				Assassin, Warrior, Attack Reaction							Mark	"Target dagger attack gets +2{p} and ""When this hits a **marked** hero, you may attack with it an additional time this turn."""	Assassin / Warrior Attack Reaction					
@@ -9484,6 +9530,9 @@ At the start of your turn, you may banish an equipment you control. If you do, e
 C8r9mHpCfPTcgggPdbMLB	Tear Asunder	Blue	3	3		3				Guardian, Action		Go again			Dominate			"Your next Guardian attack this turn gains +1{p}, **dominate**, and ""When this hits a hero, they discard 2 cards.""
 
 **Go again**"	Guardian Action				No	
+zbbcnPDqrfQTdmGgMTzh7	Tear Down the Idols	Red	1	3	7	3				Reviled, Action, Attack		Intimidate						"When this attacks a Revered hero, **intimidate** them.
+
+When this hits a Revered hero, they discard a card."	Reviled Action - Attack				No	
 6FrqKM6Ckpz9NCG8wGcGq	Tear Limb from Limb	Blue	3	2						Brute, Action		Go again						"Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, the next Brute attack action card you play this turn gains +X{p}, where X is its base {p}.
 
 **Go again**"	Brute Action				No	
