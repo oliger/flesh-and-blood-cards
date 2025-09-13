@@ -464,6 +464,9 @@ qMpdhqQqktTKQHcQJ8f6B	Aurum Aegis					2				Guardian, Equipment, Off-Hand		Victor
 This counts as a Gold.
 
 **Temper**"	Guardian Equipment - Off-Hand				No	
+Wkg8Fp6Wg7Cnb8rzHGqFh	Authority of Ataya	Blue	3							Generic, Resource, Gem		Legendary						"**Legendary**
+
+When this is pitched, defense reaction cards cost opponents an additional {r} to play this turn."	Generic Resource - Gem				No	
 Frp76KgppTJBPkQGbJ87J	Autosave Script	Blue	3	0						Mechanologist, Action, Item		Crank						"**Crank**
 
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
@@ -1632,6 +1635,11 @@ Deal 2 damage to target hero unless they discard a card."	Reviled Action				No
 - **Steal** a Confidence or Toughness token.
 - **The crowd boos** you.
 - If you control an attack with 6 or more {p}, deal 2 damage to target hero unless they discard a card."	Reviled Brute Instant				No	
+KdtJWqCTGNwRGHbhB8dbq	Cheers!	Blue	3	0		3				Revered, Action, Aura		Go again, The Crowd Cheers						"**Go again**
+
+When this enters or leaves the arena, **the crowd cheers** you.
+
+At the start of your turn, destroy this."	Revered Action - Aura					
 LrjhhdFHqndpWG8d66GJz	Chief Ruk'utan					3				Brute, Mentor		Intimidate						"While Ruk'utan is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While Ruk'utan is face up in arsenal, whenever you play a card with 6 or more {p}, **intimidate**, and put a lesson counter on him. Then if there are 2 or more lesson counters on Ruk'utan, banish him, search your deck for Alpha Rampage, put it face up in arsenal, and shuffle."	Brute Mentor			No	No	No
@@ -2229,6 +2237,7 @@ HjgMJg6DrhJqR6fMnp6fc	Dance of Darkness									Shadow, Equipment, Legs		Blood D
 
 **Blood Debt**"	Shadow Equipment - Legs					
 kDCzjqmjjMT9hdnJTfRJb	Danger Digits					0				Assassin, Ninja, Equipment, Arms			Attack Reaction					**Attack Reaction** - Destroy this: Target dagger you control that isn't on the active chain link deals 1 damage to the defending hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.	Assassin / Ninja Equipment - Arms					
+rFpG8LW6fRmGgJ6dpWj8Q	Darling of the Crowd	Yellow	2			3				Revered, Block							The Crowd Cheers	While this is defending, if you've been cheered this turn, it gets +1{d}.	Revered Block					
 kftPnNkrBLJ7rPmFGgQCm	Dash						20	4		Mechanologist, Hero, Young								You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero - Young			No		No
 LkqQpr7QL8KpnqMh7dHpR	Dash I/O						36	4		Mechanologist, Hero								"You may look at the top card of your deck at any time.
 
@@ -2494,12 +2503,21 @@ Each hero banishes a card from their arsenal.
 TtMnqPqJNGgrjmMJ99KWn	Disable	Red	1	5	9	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
 fgrK7Mbp8qQcbMtQDwk9F	Disable	Yellow	2	5	8	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
 7LPnw9zFRhGmKHzCzMpdJ	Disable	Blue	3	5	7	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.	Guardian Action - Attack				No	
+WjfRfczmQcbQknfRdD8JJ	Disarm	Yellow	2	3	6	3				Revered, Action, Attack							The Crowd Cheers	"When this attacks, if you've been cheered this turn, create a Toughness token.
+
+When this defends, if it has 6 or more {d}, the attacking hero puts a card from their hand on the bottom of their deck."	Revered Action - Attack				No	
+PLpmc6rb9nqRdNGDczpg7	Disembody	Red	1	3	7	3				Revered, Action, Attack							The Crowd Cheers	"When this attacks, if you've been cheered this turn, create a Toughness token.
+
+When this defends, if it has 6 or more {d}, the attacking hero puts an aura they control on the bottom of their deck."	Revered Action - Attack				No	
 CkHnpRcfgkcrmJqTpDztp	Disenchantment of the Old Ones	Red	1	6	10	3				Guardian, Action, Attack		Crush, Heave 2						"**Crush** - When this deals 4 or more damage to a Guardian hero, destroy all auras they control.
 
 **Heave 2**"	Guardian Action - Attack				No	
 WRhC8n6HHNkRn6MjzDHDL	Dishonor	Blue	3	0	2	3				Ninja, Action, Attack		Combo						"**Combo** - If Bonds of Ancestry was the last attack this combat chain, this has +2{p}.
 
 When this hits a hero, if you control Surging Strike, Descendent Gustwave, and Bonds of Ancestry, that hero loses all abilities for the rest of the game."	Ninja Action - Attack				No	
+h7bnkbFjNTLjdGdCNg8RJ	Disperse	Blue	3	3	5	3				Revered, Action, Attack							The Crowd Cheers	"When this attacks, if you've been cheered this turn, create a Toughness token.
+
+When this defends, if it has 6 or more {d}, the attacking hero puts a card from their arsenal on the bottom of their deck."	Revered Action - Attack				No	
 cKp6hPc7WTW8Q98cHPM9P	Display Loyalty	Red	1	0	3	2				Draconic, Ninja, Action, Attack		Go again						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this attacks a hero, create a Fealty token."""	Draconic Ninja Action - Attack				No	
 HGhtMHhF6dqdNccmNK7w8	Dissipation Shield	Yellow	2	2						Mechanologist, Action, Item			Instant					"Dissipation Shield enters the arena with 4 steam counters on it.
 
@@ -2946,6 +2964,7 @@ MhJphRFQWwMc7JpbJQfGt	Emissary of Wind	Red	1	0	4	2				Generic, Action, Attack		G
 QgqNQGbtcF6NNBMDbDMhh	Emperor, Dracai of Aesir						15	4		Royal, Draconic, Warrior, Wizard, Hero, Young			Action	Attack				"You may only have red cards in your deck.
 
 **Action** - {r}{r}{r}: Search your deck for Command and Conquer, **attack** with it, then shuffle."	Royal Draconic Warrior Wizard Hero - Young			No	No	No
+rTWLDhwKJcwrK8mqwDJpb	Empowering Ruckus	Yellow	2	3	6	3				Revered, Action, Attack							The Crowd Cheers	If you've been cheered this turn, this gets +1{p}.	Revered Action - Attack					
 Mr6TbnRrKTrJWndKh8QwF	Empyrean Rapture									Light, Illusionist, Equipment, Chest			Once per Turn Instant	Ward 1				"If a card with Herald in its name has been put into your hero's soul during your turn, the first hero ability you activate that turn costs {r}{r} less to activate.
 
 **Once per Turn Instant** - {r}: This gets **ward 1** until end of turn."	Light Illusionist Equipment - Chest				No	
@@ -3484,6 +3503,9 @@ When this hits a Revered hero, destroy the top card of their deck."	Reviled Acti
 
 When this hits a Reviled hero, put this on the bottom of its owner's deck."	Revered Action - Attack				No	
 TMKn79cNDqQp6PJGGrBqj	Fight Night Prize Purse									Event								Choose an opponent. You each create a Gold token.	Event		No	No	No	No
+fpbDMC7pMtnNHCJrkcTww	Fight from Behind	Red	3	2	6	2				Revered, Action, Attack		The Crowd Cheers						When this attacks or defends, if you have less {h} than each other hero, **the crowd cheers** you.	Revered Action - Attack					
+mqjq8Pk9hNz6gK8bck9Hm	Fight from Behind	Yellow	2	2	5	2				Revered, Action, Attack		The Crowd Cheers						When this attacks or defends, if you have less {h} than each other hero, **the crowd cheers** you.	Revered Action - Attack					
+K6zRWPRdP76bFfKgHw7Fd	Fight from Behind	Blue	1	2	4	2				Revered, Action, Attack		The Crowd Cheers						When this attacks or defends, if you have less {h} than each other hero, **the crowd cheers** you.	Revered Action - Attack					
 rd8gCbPjLCWcPLdqbMRWm	Fightmaster Kox						19	4		Guardian, Hero, Pit-Fighter			Action					**Action** - {t}, destroy a Gold you control: Look at the top 3 cards of the event deck, then put them back in any order. **Go again**	Guardian Hero - Pit-Fighter		No	No	No	No
 cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	Yellow	2	4						Light, Illusionist, Instant, Figment		Legendary						"**Legendary**
 
@@ -4409,6 +4431,9 @@ rjhDRz7JGN7kpDdjHQfrg	Helm of Isen's Peak					1				Guardian, Equipment, Head		Ba
 MfBtnKK96JRR8Nb7RWMBn	Helm of Sharp Eye					1				Warrior, Equipment, Head		Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.
 
 **Battleworn**"	Warrior Equipment - Head				No	
+cWfNbbz7WB9nfNd8BbcNM	Helm of the Adored					1				Revered, Equipment, Head		The Crowd Cheers, Blade Break						"When this defends, **the crowd cheers** you.
+
+**Blade Break**"	Revered Equipment - Head					
 ffLDbK7CGgrjL7R68jKJC	Helm of the Arknight					2				Runeblade, Equipment, Head		Temper						**Temper**	Runeblade Equipment - Head				No	
 PMh8LjJm6jmBKfm8FqfkW	Helmsman's Peak					1				Generic, Equipment, Head		Blade Break						"When this defends, look at the top card of your deck.
 
@@ -4486,6 +4511,11 @@ rk9986mQCBfcCRTwFJRdL	Herald of Triumph	Blue	3	2	5	3				Light, Illusionist, Acti
 When this hits, put it into your hero's soul.
 
 **Phantasm**"	Light Illusionist Action - Attack				No	
+r96wGNm66Fft8RcWcQj7f	Heroic Grit	Yellow	2	0		2				Revered, Action		Go again						"Your next attack this turn gets ""This gets +1{p} for each Toughness token you control.""
+
+Create a Toughness token.
+
+**Go again**"	Revered Action					
 z8f8PqBmdGwK9ftBbcBMb	Heroic Pose	Red	1	1		2				Revered, Action		Go again, The Crowd Cheers						"Your next attack this turn gets +3{p}.
 
 **The crowd cheers** you.
@@ -4605,6 +4635,9 @@ HhJtCMW6nLMfzGJLn7g8m	Hold 'em	Yellow	2	1		3				Warrior, Action		Go again, Wager
 WHLRchgdMH8Bjb8TDngkp	Hold 'em	Blue	3	1		3				Warrior, Action		Go again, Wager			Wager			"Your next Warrior attack this turn gets +1{p} and ""When this attacks a hero, you may **wager** a Vigor token with them.""
 
 **Go again**"	Warrior Action					
+6cfpHFn7czfqJDTRhw7fp	Hold Firm					1				Revered, Equipment, Arms		Blade Break	Action	Go again				"**Action** - {r}{r}, destroy this: Create 3 Toughness tokens. Activate this only if you have less {h} than each other hero. **Go again**
+
+**Blade Break**"	Revered Equipment - Arms					
 mTWd9JgNqM9bGj9H87Jpq	Hold Focus					0				Wizard, Equipment, Arms			Action	Amp 1, Go again				**Action** - Destroy this: **Amp 1**. **Go again**	Wizard Equipment - Arms					
 77rDjRrtRKDHTpNwbHWDW	Hold the Line	Blue	3	0		2				Generic, Defense Reaction								If the attacking hero has drawn 2 or more cards this turn, prevent the next 3 damage that would be dealt to your hero this turn.	Generic Defense Reaction				No	
 mzKLGwTBmFHFd8KNdPQ7n	Homage to Ancestors	Blue	3	0						Mystic, Instant		Legendary, Transcend						"**Legendary**
@@ -4660,6 +4693,9 @@ The next attack action card you play this turn gains +1{p}.
 Ck8jCNWQmgKkcmD98bdjG	Humble	Red	1	2	6	2				Generic, Action, Attack								When this hits a hero, they lose all hero card abilities until the end of their next turn.	Generic Action - Attack				No	
 RJn7qQFgkNz6qR9rwntCc	Humble	Yellow	2	2	5	2				Generic, Action, Attack								When this hits a hero, they lose all hero card abilities until the end of their next turn.	Generic Action - Attack				No	
 JnQ8mtr69DWrhqmrWkJ8z	Humble	Blue	3	2	4	2				Generic, Action, Attack								When this hits a hero, they lose all hero card abilities until the end of their next turn.	Generic Action - Attack				No	
+R8W7dzcQdMj9BNjKQp6bd	Humble Entrance	Blue	3	0		2				Revered, Action		Go again						"Create 3 Toughness tokens.
+
+**Go again**"	Revered Action					
 mgrmPqRmdHfMbptFfDcbC	Hummingbird, Call of Adventure									Bard, Weapon, Lute, 2H								"At the start of your turn, choose 1;
 - Each hero creates a Quicken token.
 - Each hero draws a card.
@@ -6034,6 +6070,7 @@ CGhtqrGGT7TL9C89GjF8R	Northern Winds	Blue	3	0		2				Ice, Action		Oldhim Speciali
 F7mqQWTKzmNmMfgmQbHFw	Not So Fast	Yellow	2	0						Pirate, Instant		Scurv Specialization						"**Scurv Specialization**
 
 The next time an opponent would draw a card from the effect of a Gold token this turn, instead you draw a card."	Pirate Instant				No	
+wmGCKjjh6QbD6WTqNFqn9	Not So Mighty	Blue	3			2				Revered, Block								When this defends a Reviled hero's attack, destroy a Might token they control. If you do, create a Toughness token.	Revered Block					
 7Tpfm7Ccf8rKcztfFngM9	Nourishing Emptiness	Red	1	2	6	3				Generic, Action, Attack		Dominate						"While there are no attack action cards in your graveyard, Nourishing Emptiness has **dominate** and ""If this hits, your hero gains +1{i} until end of turn."""	Generic Action - Attack				No	
 JTrNBd8TcnPmB6KdDmjRN	Null // Shock	Yellow	2	1					1	Wizard, Instant, Lightning, Instant		Meld, Negate						"**Meld**
 
@@ -6112,6 +6149,9 @@ ph6zmRnbqhCtD7T7FwpdB	Okana Scar Wraps					2				Ninja, Equipment, Arms		Blade Br
 Whenever an attack you control with Vengeance in its name hits, you may equip an Edge of Autumn from your banished zone.
 
 **Blade Break**"	Ninja Equipment - Arms				No	
+9WTLj9NnpqnWnpJNjpW6F	Old Favorite	Yellow	2	3	6	3				Revered, Action, Attack							The Crowd Cheers	"When this attacks, if you've been cheered this turn, create a Toughness token.
+
+When this defends, if it has 6 or more {d}, put it on the bottom of its owner's deck when the combat chain closes."	Revered Action - Attack				No	
 KTh89nLtmJWQcQQJPwgDW	Old Knocker					1				Generic, Equipment, Chest		Blade Break	Instant					"**Instant** - {t} your hero, destroy this: Gain {r}
 
 Blade Break"	Generic Equipment - Chest					
@@ -6577,6 +6617,9 @@ When a Mechanologist item with cost 2 or less enters the arena under your contro
 rmdHP7ttKz7NqLwwwGGKg	Plasma Purifier	Red	1	2						Mechanologist, Action, Item			Action, Once per Turn Action	Go again				"**Action** - {r}: If there are no steam counters on Plasma Purifier, put a steam counter on it. **Go again**
 
 **Once per Turn Action** - Remove a steam counter from Plasma Purifier: Target Mechanologist pistol you control gains +1{p} until end of turn. **Go again**"	Mechanologist Action - Item				No	
+qRKjzf8nTgdBt8BMMgRPJ	Plate of Tough Love					1				Revered, Guardian, Equipment, Chest		Blade Break						"If you control a Confidence and a Toughness token, this gets +2{d}.
+
+**Blade Break**"	Revered Guardian Equipment - Chest					
 QmBfhgrGL6JDrhkn6ccg8	Platinum Amulet	Blue	3	0						Generic, Action, Item		Legendary, Watery Grave	Instant					"**Instant** - Destroy this: Target defending card gets +1{d} until end of turn.
 
 **Legend of the Watery Grave**"	Generic Action - Item				No	
@@ -7144,6 +7187,9 @@ DbKkp8BjFgtCBGjQCbwjH	Rapid Fire	Yellow	2	0		2				Ranger, Action		Reload			Go ag
 RCbbcgDkg87qdrBzwpRrD	Rapid Reflex	Red	1	1		3				Ninja, Attack Reaction								Target attack action card with cost 0 gains +3{p}.	Ninja Attack Reaction				No	
 qJcckjdDhr8gK9nTnpTFC	Rapid Reflex	Yellow	2	1		3				Ninja, Attack Reaction								Target attack action card with cost 0 gains +2{p}.	Ninja Attack Reaction				No	
 CKPhFMj8GJGRNdKrRnpzG	Rapid Reflex	Blue	3	1		3				Ninja, Attack Reaction								Target attack action card with cost 0 gains +1{p}.	Ninja Attack Reaction				No	
+Hnc99LmRWtdBFGgrdMNnr	Rapturous Applause	Red	1	3	7	3				Revered, Action, Attack		The Crowd Cheers					Clash	When you win a clash revealing this, **the crowd cheers** you.	Revered Action - Attack					
+zH7KjrFjPkpQdjFLzN7Kd	Rapturous Applause	Yellow	2	3	6	3				Revered, Action, Attack		The Crowd Cheers					Clash	When you win a clash revealing this, **the crowd cheers** you.	Revered Action - Attack					
+t7WKR6b9wFcWTd9rRBGHp	Rapturous Applause	Blue	3	3	5	3				Revered, Action, Attack		The Crowd Cheers					Clash	When you win a clash revealing this, **the crowd cheers** you.	Revered Action - Attack					
 KcrHDMhMgQNfzHwKnPDgt	Ratchet Up	Red	1	1	5	2				Mechanologist, Action, Attack		Galvanize						"If an item you control has been destroyed this turn, action cards get -1{d} while defending this.
 
 **Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
@@ -8283,6 +8329,9 @@ If a Chi was pitched to play this, create 2 Crouching Tigers in your hand.
 bjggdCWtfTmLNBzq8Jt9L	Shimmers of Silver	Blue	3	0		2				Illusionist, Action, Aura		Spectra	Once per Turn Effect					"**Once per Turn Effect** - Whenever you attack with an Illusionist aura weapon, put a +1{p} counter on it.
 
 **Spectra**"	Illusionist Action - Aura				No	
+FngCwjRtgtcHbcNJnPmJM	Shining Courage	Red	1	0						Revered, Instant		The Crowd Cheers						"Up to one target defending action card gets +3{d} this turn.
+
+**The crowd cheers** you."	Revered Instant				No	
 WDJgQgDCwjbKRTJ8BTz8C	Shitty Xmas Present	Yellow	2	0		2				Generic, Action								Put a Cracked Bauble from outside the game on top of target hero's deck.	Generic Action		No	No	No	No
 8GDdMNbcnhmwGmTgqnJJK	Shiver									Elemental, Ranger, Weapon, Bow, 2H			Once per Turn Instant		Dominate			"**Once per Turn Instant** - {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;
 
@@ -9420,6 +9469,9 @@ JTNgbmMDfnz69RKFpjrrR	Talismanic Lens					0				Generic, Equipment, Head			Instan
 Cqr7rhqq8hQPPhpHQBCHr	Talk a Big Game	Blue	3	0		3				Brute, Guardian, Action		Go again						"Choose a number. The next time you deal that much or more {p} damage to a hero this turn, create that many Might tokens.
 
 **Go again**"	Brute / Guardian Action				No	
+JWhM8H7f8tLhnHtgtGkMn	Tame the Beastly Behavior	Red	1	3	7	3				Revered, Action, Attack								"When this attacks a Reviled hero, this gets +1{p}.
+
+When this hits a Reviled hero, put a card from their arsenal on the bottom of their deck."	Revered Action - Attack				No	
 BfCHDqCQHfNgqQGckhq7d	Tarantula Toxin	Red	1	0		3				Assassin, Attack Reaction							Stealth	"Choose 1 or both;
 
 * Target dagger attack gets +3{p}.
@@ -9782,9 +9834,15 @@ MkJgPht7nFRJFBKCgThrP	Torque Tuned	Blue	3	2	4	2				Mechanologist, Action, Attack
 9F67fMDKzMkLMJFr7GN67	Torrent of Tempo	Red	1	1	5	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack					
 TR8gpGqrWD7JrKtjMqKbJ	Torrent of Tempo	Yellow	2	1	4	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack					
 hRbLKmtGT7DJQqr9Q7MNN	Torrent of Tempo	Blue	3	1	3	3				Ninja, Action, Attack		Go again						When this hits, it gets **go again**.	Ninja Action - Attack					
+BPkPddj9wRpjhfhWcb6bw	Tough Leather Boots					1				Revered, Brute, Equipment, Legs		Blade Break						"If you control a Toughness and a Vigor token, this gets +2{d}.
+
+**Blade Break**"	Revered Brute Equipment - Legs					
 KwphDpWLnJrjGGMGnJc9n	Tough Old Wrench	Red	1	2	6	2				Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
 9dPrwcgFKcd8zk8PpwfRJ	Tough Old Wrench	Yellow	2	2	5	2				Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
 zLMWLzKGcdNnndTcD89gT	Tough Old Wrench	Blue	3	2	4	2				Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, create a Golden Cog token.	Mechanologist Action - Attack					
+cDn9RLz6KTKccHFb8CdrW	Tough Smashup	Red	1	3	7	3				Revered, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Toughness token. You may put your revealed card on the bottom of its owner's deck.	Revered Action - Attack					
+jJhngckczLmdhGHBKPkrB	Tough Smashup	Yellow	2	3	6	3				Revered, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Toughness token. You may put your revealed card on the bottom of its owner's deck.	Revered Action - Attack					
+rjfPdq8HCMQqtPPT8zTkz	Tough Smashup	Blue	3	3	5	3				Revered, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Toughness token. You may put your revealed card on the bottom of its owner's deck.	Revered Action - Attack					
 QQJMKL7hLRfLcMhQCwTpN	Toughen Up	Blue	3	2		4				Generic, Defense Reaction									Generic Defense Reaction					
 Cn8tK9KRm7d9KbcQk6Pqm	Toughness									Generic, Token, Aura								At the start of your opponent's turn, destroy this, then the next action card you defend with this turn gets +1{d} this chain link.	Generic Token - Aura					
 7rNHHrKTMQDhQdp6tgKhD	Towering Titan	Red	1	9		3				Guardian, Action, Aura								At the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +10{p}.	Guardian Action - Aura				No	
@@ -9929,6 +9987,9 @@ WnPNGc8HLQHhbFKFrLkPM	Truths Retold									Mystic, Illusionist, Equipment, Head
 **Instant** - {r}, turn this face-up: Put an aura from your graveyard on the bottom of your deck.
 
 **Ward 1**"	Mystic Illusionist Equipment - Head					
+wKnhnNTHKHqFfjgdn9LLP	Tuffnut						20	3		Revered, Brute, Hero, Young			Instant	The Crowd Cheers				"**Instant** - {t}: Pitch the top card of your deck. If it has 6 or more {p}, **the crowd cheers** you.
+
+Whenever the crowd cheers you, create a Toughness token."	Revered Brute Hero - Young			No		No
 wqmMJj8PqzNHg7Q7LMqTR	Tuffnut, Bumbling Hulkster						40	3		Revered, Brute, Hero			Instant	The Crowd Cheers			The Crowd Cheers	"**Instant** - {t}: Pitch the top card of your deck. If it has 6 or more {p}, **the crowd cheers* you.
 
 Wheenver the crowd cheers you, create a Toughness token."	Revered Brute Hero		No		No	
@@ -10591,6 +10652,9 @@ When this attacks a **marked** hero, equip a Graphene Chelicera token."	Assassin
 kBGMnLgMjhm9DPqzNCWwb	Whittle from Bone	Blue	3	0	1	3				Assassin, Action, Attack		Stealth					Mark	"**Stealth**
 
 When this attacks a **marked** hero, equip a Graphene Chelicera token."	Assassin Action - Attack				No	
+FQ89dPqtqmkWFJDRrrHHg	Who's the Tough Guy?	Red	1	2	7	2				Revered, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Toughness token.	Revered Action - Attack					
+hwJmzPDqWwfPPRBDqDQm7	Who's the Tough Guy?	Yellow	2	2	6	2				Revered, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Toughness token.	Revered Action - Attack					
+kKGTFjLBcLrKRcJzHRRnQ	Who's the Tough Guy?	Blue	3	2	5	2				Revered, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Toughness token.	Revered Action - Attack					
 GHJwMBntf9h6wFk7Dfk7j	Wide Blue Yonder	Blue	3	0		2				Mystic, Attack Reaction								Target attack gets +1{p} for each blue card you've pitched this turn.	Mystic Attack Reaction				No	
 QMWDbQKHnWCcj8zrpmTMk	Widespread Annihilation	Blue	3	4	6	3				Shadow, Runeblade, Action, Attack		Rune Gate, Blood Debt						"**Rune Gate**
 
