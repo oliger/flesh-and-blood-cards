@@ -638,6 +638,9 @@ gBQnWLRkrTJNGGm7dWPBN	Base of the Mountain					*				Generic, Equipment, Legs		Bl
 This card's {d} is equal to the number of action cards defending on the active chain link.
 
 **Blade Break**"	Generic Equipment - Legs				No	
+7rnnDLtmFtcWqz6nC8J9M	Bash Brute	Red	1	3	7	2				Guardian, Action, Attack								"If this is defended by a Brute card, this gets +1{p}.
+
+When this hits a Brute hero, destroy an aura token they control."	Guardian Action - Attack					
 MdMgf8jkmJP6gGqNrTqRF	Bash Guardian	Red	1	2	6	2				Brute, Action, Attack								"If this is defended by a Guardian card, this gets +1{p}.
 
 When this hits a Guardian hero, destroy an aura token they control."	Brute Action - Attack					
@@ -2197,6 +2200,9 @@ Kn7f7Dn6KnfF7JW8TMnLz	Cut Deep	Blue	3	0		3				Warrior, Action		Go again						"Yo
 wb9JwfqjqdfgtdKBDmtbw	Cut Down to Size	Red	1	2	6	2				Generic, Action, Attack								When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
 gGnD9FWMjp89q8PGwThGr	Cut Down to Size	Yellow	2	2	5	2				Generic, Action, Attack								When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
 wDqGGmznKnwnMBQT6thmt	Cut Down to Size	Blue	3	2	4	2				Generic, Action, Attack								When this hits a hero, if they have 4 or more cards in hand, they discard a card.	Generic Action - Attack					
+Krn6kqpHkw6JkTwzMqTNk	Cut Off at the Knees	Yellow	2	0	3	3				Guardian, Action, Attack		Tower						"If this has {p} greater than its base, it gets +1{p}.
+
+**Tower** - If this has 13 or more {p}, it gets ""When this hits a hero, destroy the top 3 cards of their deck."""	Guardian Action - Attack				No	
 qwHFTzdTJW6mjr8hmtnWp	Cut Through	Red	1	0	3	2				Assassin, Ninja, Action, Attack		Go again						If you've hit with a dagger this combat chain, this gets +1{p} and **go again**.	Assassin / Ninja Action - Attack				No	
 cDBkbnjNDfkWKjqtWL7qq	Cut Through	Yellow	2	0	2	2				Assassin, Ninja, Action, Attack		Go again						If you've hit with a dagger this combat chain, this gets +1{p} and **go again**.	Assassin / Ninja Action - Attack				No	
 wd7RGtzFkH9Ftj6qTbBpN	Cut Through	Blue	3	0	1	2				Assassin, Ninja, Action, Attack		Go again						If you've hit with a dagger this combat chain, this gets +1{p} and **go again**.	Assassin / Ninja Action - Attack				No	
@@ -2224,6 +2230,9 @@ Your next dagger attack this turn gets +2{p}.
 6jHQz9TfCjcddBGqKkWgJ	Cut the Deck	Red	1	1		3				Warrior, Attack Reaction								Target Warrior attack gets +3{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction				No	
 NWz7896QdrKM7p9nzfCcP	Cut the Deck	Yellow	2	1		3				Warrior, Attack Reaction								Target Warrior attack gets +2{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction				No	
 knbbJdFrQgDbdzh8r8hTd	Cut the Deck	Blue	3	1		3				Warrior, Attack Reaction								Target Warrior attack gets +1{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction				No	
+D77NtkfPpRhpwjGbPJd8n	Cut the Small Talk	Yellow	2	0	3	3				Guardian, Action, Attack		Tower						"If this has {p} greater than its base, it gets +1{p}.
+
+**Tower** - If this has 13 or more {p}, it gets ""When this hits a hero, destroy all auras they control."""	Guardian Action - Attack				No	
 N8LcRHMmCMTbwRNRm9P7q	Cut to the Chase	Red	1	0		3				Assassin, Attack Reaction							Contract	"Target Assassin attack action card with **contract** gains +3{p}.
 
 Look at the top card of the defending hero's deck. You may put it on the bottom."	Assassin Attack Reaction					
@@ -2652,6 +2661,15 @@ You may put this in your deck in place of an invocation you own. Mark the box ne
 Tn6HrNTBn7GQJt8pGTLwQ	Dragonscaler Flight Path					1				Draconic, Equipment, Legs		Battleworn	Instant		Go again			"**Instant** - {r}{r}{r}, destroy this: Target Draconic attack gets **go again**. If it's a weapon or ally attack, you may attack with it an additional time this turn. This ability costs {r} less to activate for each Draconic chain link you control.
 
 **Battleworn**"	Draconic Equipment - Legs				No	
+hwD7gkp8L8WgQjjdGPdtD	Dramatic Pause	Red	1	0						Guardian, Instant, Aura		Suspense						"**Suspense**
+
+When this enters the arena, target defending action card gets +3{d} this chain link."	Guardian Instant - Aura					
+RGWMn6WwnDpnmB7HHB7jz	Dramatic Pause	Yellow	2	0						Guardian, Instant, Aura		Suspense						"**Suspense**
+
+When this enters the arena, target defending action card gets +2{d} this chain link."	Guardian Instant - Aura					
+pQNwNwRMwLPkfq96NB7GP	Dramatic Pause	Blue	3	0						Guardian, Instant, Aura		Suspense						"**Suspense**
+
+When this enters the arena, target defending action card gets +1{d} this chain link."	Guardian Instant - Aura					
 L9p7KwzTpjnpPGqjnDgqn	Draw Back the Hammer	Red	1	1		2				Mechanologist, Action		Go again						"Your next Mechanologist attack this turn gets +4{p}.
 
 You may {u} a gun you control.
@@ -3441,6 +3459,7 @@ MgM8rpdGfh97ChtG7RQ9L	Falcon Wing	Blue	3	0	1	3				Ranger, Action, Arrow, Attack	
 
 **Go again**"	Ranger Action - Arrow Attack					
 Trqb96WQpRWK88QHt9WrL	Familiar Stench	Red	1	2	6	2				Brute, Action, Attack								When 1 or more Brute cards defend this, create a Vigor token.	Brute Action - Attack					
+pNJRPDHg7LnKQWhNctPkD	Familiar Story	Red	1	3	7	2				Guardian, Action, Attack								When 1 or more Guardian cards defend this, create a Confidence token.	Guardian Action - Attack					
 RBcRMcBrm89m6pcTDQnP9	Fang						20	4		Royal, Draconic, Warrior, Hero, Young							Mark	"Whenever you hit a **marked** hero, create a Fealty token.
 
 If you control 3 or more Fealty tokens, dagger attacks cost you {r} less to activate."	Royal Draconic Warrior Hero - Young			No		No
@@ -3884,6 +3903,9 @@ DnfHnbnMCChJD9zfLbgmJ	Fuel Injector	Blue	3	0						Mechanologist, Action, Item			
 fwGHMG68wcDm6TmkfqC7w	Full Tilt	Red	1	2	5	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack					
 Nfg6BhjddbLDCRHQgLzkf	Full Tilt	Yellow	2	2	4	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack					
 JmQmLGBfp6bRfqBqchfzN	Full Tilt	Blue	3	2	3	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack					
+8BPPFHfbG97tr7N7QPdcn	Full of Bravado	Red	1	3	7	2				Guardian, Action, Attack							Suspense	When this attacks or defends, if you control an aura of suspense, create a Confidence token.	Guardian Action - Attack				No	
+NzMLbBFDbWCrRWKbddqGb	Full of Bravado	Yellow	2	3	7	2				Guardian, Action, Attack							Suspense	When this attacks or defends, if you control an aura of suspense, create a Confidence token.	Guardian Action - Attack				No	
+nDH7rpttjqDt8Nb9zD768	Full of Bravado	Blue	3	3	7	2				Guardian, Action, Attack							Suspense	When this attacks or defends, if you control an aura of suspense, create a Confidence token.	Guardian Action - Attack				No	
 8RMfQqNQGhPfD6WrdPzHG	Fulminate	Yellow	2	2		2				Elemental, Action		Earth and/or Lightning Fusion, Go again			Go again			"**Earth and/or Lightning Fusion**
 
 If Fulminate was **fused** with an Earth card, attack action cards you control gain +3{p} this turn.
@@ -6884,6 +6906,9 @@ If you have **boosted** this turn, put a steam counter on it.
 
 **Go again**"	Mechanologist Action				No	
 dkT9ghbNpFJ9qCfrPQq88	Powder Keg	Blue	3	0						Mechanologist, Action, Item								Whenever a Mechanologist gun you control hits, you may destroy Powder Keg and a defending equipment.	Mechanologist Action - Item				No	
+tWPTFLgzJcgw7nkn8rT7F	Power Play	Red	1	3	3	3				Guardian, Action, Attack								If this was played from arsenal, it gets +5{p}.	Guardian Action - Attack					
+r7J9m7TcMRndwCLRTKBjN	Power Play	Yellow	2	3	2	3				Guardian, Action, Attack								If this was played from arsenal, it gets +5{p}.	Guardian Action - Attack					
+g99FP9tt8L7dtmfqwDnH8	Power Play	Blue	3	3	1	3				Guardian, Action, Attack								If this was played from arsenal, it gets +5{p}.	Guardian Action - Attack					
 qFzrQChhnbgNcnQ7d9tKW	Power Stance	Blue	3	0		3				Warrior, Action, Aura		Go again						"**Go again**
 
 At the start of your turn, destroy this, then your dagger attacks get +1{p} this turn."	Warrior Action - Aura				No	
@@ -8422,6 +8447,12 @@ wwCjCpWgjmHMPNGhtQBwT	Shock Frock					1				Lightning, Equipment, Chest		Battlewo
 zrmt6g9QChNNTDw7Gm68D	Shock Striker	Red	1	1	5	2				Lightning, Action, Attack			Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Shock Striker gains ""If Shock Striker hits a hero, deal 1 damage to them."""	Lightning Action - Attack					
 THjm6N9TQgQdbdkpqJnmR	Shock Striker	Yellow	2	1	4	2				Lightning, Action, Attack			Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Shock Striker gains ""If Shock Striker hits a hero, deal 1 damage to them."""	Lightning Action - Attack					
 qhkDp7nLqrh6PDNW7QtMq	Shock Striker	Blue	3	1	3	2				Lightning, Action, Attack			Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Shock Striker gains ""If Shock Striker hits a hero, deal 1 damage to them."""	Lightning Action - Attack					
+JbKQF8GNNBgDNQzBwkM6J	Shoot Your Mouth Off	Red	1	3	8	2				Guardian, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Confidence token.	Guardian Action - Attack					
+JhCTzpKz8JCrQGBLBMwnM	Shoot Your Mouth Off	Yellow	2	3	7	2				Guardian, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Confidence token.	Guardian Action - Attack					
+wGK7jP9wGLhMzDTr8HWzR	Shoot Your Mouth Off	Blue	3	3	6	2				Guardian, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Confidence token.	Guardian Action - Attack					
+NLqGrKTD8WmMfrFcrwRhc	Short Shrift	Yellow	2	0	3	3				Guardian, Action, Attack		Crush						"If this has {p} greater than its base, it gets +1{p}.
+
+**Crush** - When this deals 4 or more damage to a hero, they discard a card."	Guardian Action - Attack					
 w9HnkqMCpr6WNFKF8wpH6	Short and Sharp	Red	1	1		2				Assassin, Ninja, Attack Reaction								"Choose 1;
 - Target dagger attack gains +3{p}.
 - Target attack action card with 2 or less base {p} gains +3{p}."	Assassin / Ninja Attack Reaction					
@@ -8624,6 +8655,7 @@ PqpzLCTzp6Q6JkwqtDPhf	Sirens of Safe Harbor	Blue	3	2	4	2				Generic, Action, Att
 Hbpw6FWPgCtwPKCnW8jMQ	Sisters of Fire	Red	1	0		3				Draconic, Warrior, Attack Reaction								"Play this only if you control 2 or more Draconic chain links.
 
 Target dagger attack gets +3{p}."	Draconic Warrior Attack Reaction					
+QFPqG8Wtc6WdDKhn7fzBk	Sit!	Red	1			2				Guardian, Block								When this defends a Brute attack, this gets +3{d}.	Guardian Block					
 jkbMCtNCWghQGKqkDtGQr	Sizzle	Red	1	0		2				Lightning, Action		Go again						"Your next Lightning or Elemental attack this turn gets +3{p}.
 
 **Go again**"	Lightning Action					
@@ -8737,6 +8769,9 @@ PhTkFwKHqwmWW8NjCbKHG	Sloggism	Blue	3	3		2				Generic, Action		Go again						"Th
 
 **Go again**"	Generic Action					
 bbLpjmWJ6cpDGhhgmCBTR	Smack of Reality	Red	1	5	9	3				Guardian, Action, Attack		Tower						"**Tower** - If this has 13 or more {p}, it gets ""When this hits a hero, destroy all aura tokens they control."""	Guardian Action - Attack				No	
+mqR8pjFLG8mK6km6KBTFh	Small Problem	Yellow	2	0	3	3				Guardian, Action, Attack		Crush						"If this has {p} greater than its base, it gets +1{p}.
+
+**Crush** - When this deals 4 or more damage to a hero, destroy an aura they control."	Guardian Action - Attack					
 WNp6DbGwLqPchCNDmGq66	Smash Instinct	Red	1	3	7	3				Brute, Action, Attack		Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
 GH9kGJN7nDbcD9GRbwPNH	Smash Instinct	Yellow	2	3	6	3				Brute, Action, Attack		Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
 BDBWNGBLdhNLcKLQ6dcdw	Smash Instinct	Blue	3	3	5	3				Brute, Action, Attack		Intimidate						When this attacks, **intimidate**.	Brute Action - Attack					
@@ -9132,6 +9167,9 @@ WJzNjPfQGqdTtjTHQP6rL	Stand Ground					0				Guardian, Equipment, Legs		Temper			
 If you control a Vigor token, this gets +1{d}.
 
 **Temper**"	Guardian Equipment - Legs					
+ggMjPPrkLjJJwWPFGdnDq	Stand Strong					1				Guardian, Equipment, Legs		Blade Break	Action	Go again			Suspense	"**Action** - {r}{r}{r}, destroy this: Create a Confidence token. Activate this only if you control an aura of suspense. **Go again**
+
+**Blade Break**"	Guardian Equipment - Legs					
 GCWFNNQtKW9JFqJjqtCjP	Standing Order	Red	1	0	4	3				Generic, Action, Attack								When this attacks or defends, you may put a card from your arsenal on the bottom of your deck. If you do, this gets +2{p} and +2{d}.	Generic Action - Attack				No	
 GzWDLbC8WgKLHkgBnQ8mc	Standing Ovation	Blue	3	6	8	3				Revered, Guardian, Action, Attack							Suspense	"If 3 or more auras of suspense have left the arena this turn, this gets ""When this hits a hero, take an extra turn after this one. At the beginning of the next end phase, they draw up to their {i}."""	Revered Guardian Action - Attack				No	
 m7NGBRdNftTh9ntBzppbB	Star Fall				1					Lightning, Runeblade, Weapon, Sword, 2H		Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
@@ -9238,6 +9276,9 @@ hpMnhtBmjM7zFBTDMkf87	Storm Striders					0				Wizard, Equipment, Legs		Arcane Ba
 
 **Arcane Barrier 2**"	Wizard Equipment - Legs				No	
 PQm7zFjBPCzc68JDd8D6z	Storm of Sandikai									Draconic, Illusionist, Weapon, Scepter, 2H					Attack			"Dragon allies you control have ""**Once per Turn Action** - 0: **Attack**""."	Draconic Illusionist Weapon - Scepter (2H)					
+9Lkp6qzHGh7z78K9cFjrJ	Story Beats	Red	1	3	7	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack				No	
+DwhgmJpg6hHzFJPPK6n7T	Story Beats	Yellow	2	3	7	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack				No	
+f6WNBKPkNJzpTBMTfkTHG	Story Beats	Blue	3	3	7	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack				No	
 gpj6g9tmrG7rjGKzBzNpN	Strategic Planning	Red	1	1		2				Generic, Action		Go again						"Put an action card with cost 2 or less from a graveyard on the bottom of its owner's deck. At the beginning of the end phase, draw a card.
 
 **Go again**"	Generic Action				No	
@@ -10715,6 +10756,9 @@ mpCqjNRwttQWMNRFFFhtD	Weave Lightning	Yellow	2	0		2				Lightning, Action		Go aga
 Bc9QPMHJ7dP6c8mtrhjrQ	Weave Lightning	Blue	3	0		2				Lightning, Action		Go again			Go again		Fusion	"The next Lightning or Elemental attack action card you play this turn gains +1{p}. If it's **fused**, it gains **go again**.
 
 **Go again**"	Lightning Action				No	
+DHrjJHjkLLHGd8FPnBrwW	Wee Wrecking Ball	Yellow	2	0	3	3				Guardian, Action, Attack		Crush						"If this has {p} greater than its base, it gets +1{p}.
+
+**Crush** - When this deals 4 or more damage to a hero, destroy a card in their arsenal."	Guardian Action - Attack					
 zngmGjhrGpJfmnbMP87JP	Well Grounded					0				Earth, Equipment, Legs			Instant					**Instant** - Destroy this: Prevent the next 2 damage that would be dealt to you this turn. Activate this only if there are 4 or more Earth cards in your banished zone.	Earth Equipment - Legs					
 zLcR9wbtJCfBQLFpntDFg	What Happens Next?	Blue	3	0		2				Guardian, Instant, Aura		Suspense						"**Suspense**
 
@@ -10745,6 +10789,9 @@ When this attacks a **marked** hero, equip a Graphene Chelicera token."	Assassin
 kBGMnLgMjhm9DPqzNCWwb	Whittle from Bone	Blue	3	0	1	3				Assassin, Action, Attack		Stealth					Mark	"**Stealth**
 
 When this attacks a **marked** hero, equip a Graphene Chelicera token."	Assassin Action - Attack				No	
+9R96qhGFQKHCLr8jzKTKg	Who Blinks First?	Blue	3	3		3				Guardian, Instant, Aura		Suspense						"**Suspense**
+
+When this leaves the arena, you may destroy an aura permanent that a Guardian hero controls."	Guardian Instant - Aura				No	
 FQ89dPqtqmkWFJDRrrHHg	Who's the Tough Guy?	Red	1	2	7	2				Revered, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Toughness token.	Revered Action - Attack					
 hwJmzPDqWwfPPRBDqDQm7	Who's the Tough Guy?	Yellow	2	2	6	2				Revered, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Toughness token.	Revered Action - Attack					
 kKGTFjLBcLrKRcJzHRRnQ	Who's the Tough Guy?	Blue	3	2	5	2				Revered, Action, Attack								When the combat chain closes, if this didn't hit, the defending hero creates a Toughness token.	Revered Action - Attack					
