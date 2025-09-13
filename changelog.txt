@@ -932,4 +932,4 @@ TODO:
 - Added printing data for APS???-APS???, FAB381-FAB383, FAB387-FAB389, HER146-HER149, LGS422-LGS425, SUP???-SUP???
 - Added Revered and Reviled types
 - Added Suspense, The Crowd Boos, and The Crowd Boos keywords
-- Updated functional text for Tear Asunder
+- Updated functional text for Brotherse in Arms, Feisty Locals, New Horizon, and Tear Asunder

@@ -1131,6 +1131,7 @@ KtQQggkn6LkFz7dGHNLWj	Blue Fin Harpoon	Blue	3	2	4	3				Pirate, Ranger, Action, A
 8TbK6kFJcDtRjqwNzBbmp	Blue Sea Tricorn					1				Pirate, Equipment, Head		Blade Break	Action	Go again				"**Action** - {r}{r}{r}, destroy this: Draw a card. **Go again**
 
 **Blade Break**"	Pirate Equipment - Head					
+rmgJwFTgdKNFc8LcPKbJJ	Bluster Buff	Red	1	1	6	3				Generic, Action, Attack								When this attacks, it gets -1{p} unless you pay {r}.	Generic Action - Attack				No	
 nGCNDPFfPdhBFqBQBPWwk	Board the Ship	Red	1	2	6	3				Pirate, Necromancer, Action, Attack		Overpower						When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.	Pirate Necromancer Action - Attack				No	
 LmKFmh8JznLWB8mTjmRcC	Boast	Blue	3			3				Guardian, Block							Clash	This gets +X{d} while defending, where X is twice the number of **clashes** you've won this turn.	Guardian Block				No	
 CdFkL9pbDdFj8DKnRHHGn	Bolfar, Bear Hands						20	4		Guardian, Hero, Pit-Fighter			Action	Go again			Crush	"You can't equip weapons.
@@ -1363,9 +1364,9 @@ cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns						40	4		Elemental, Runeblade, H
 The first time an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.
 
 Whenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token."	Elemental Runeblade Hero		No		No	
-nhf89Hr9rJkp9qDjDCCpt	Brothers in Arms	Red	1	2	6	2				Generic, Action, Attack								When you defend with Brothers in Arms, you may pay {r}. If you do, it gains +2{d}.	Generic Action - Attack					
-B7BNkF6nJChrRQ6kpWKPw	Brothers in Arms	Yellow	2	2	5	2				Generic, Action, Attack								When you defend with Brothers in Arms, you may pay {r}. If you do, it gains +2{d}.	Generic Action - Attack					
-TtJpTpjBbDpPhFb7bzLwD	Brothers in Arms	Blue	3	2	4	2				Generic, Action, Attack								When you defend with Brothers in Arms, you may pay {r}. If you do, it gains +2{d}.	Generic Action - Attack					
+nhf89Hr9rJkp9qDjDCCpt	Brothers in Arms	Red	1	2	6	2				Generic, Action, Attack								When this defends, you may pay {r}. If you do, it gets +2{d}.	Generic Action - Attack					
+B7BNkF6nJChrRQ6kpWKPw	Brothers in Arms	Yellow	2	2	5	2				Generic, Action, Attack								When this defends, you may pay {r}. If you do, it gets +2{d}.	Generic Action - Attack					
+TtJpTpjBbDpPhFb7bzLwD	Brothers in Arms	Blue	3	2	4	2				Generic, Action, Attack								When this defends, you may pay {r}. If you do, it gets +2{d}.	Generic Action - Attack					
 tkHRmr67MT8GCPJBHMwBH	Brothers of Flame	Red	1	1		3				Draconic, Warrior, Attack Reaction								"Play this only if you control 2 or more Draconic chain links.
 
 Target dagger attack gets +4{p}."	Draconic Warrior Attack Reaction					
@@ -1659,6 +1660,7 @@ KdtJWqCTGNwRGHbhB8dbq	Cheers!	Blue	3	0		3				Revered, Action, Aura		Go again, Th
 When this enters or leaves the arena, **the crowd cheers** you.
 
 At the start of your turn, destroy this."	Revered Action - Aura					
+hmdFwhcDWLWTfL7MwkhPp	Chest Puff	Red	1	2	7	3				Generic, Action, Attack								When this attacks, it gets -1{p} unless you pay {r}.	Generic Action - Attack				No	
 LrjhhdFHqndpWG8d66GJz	Chief Ruk'utan					3				Brute, Mentor		Intimidate						"While Ruk'utan is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While Ruk'utan is face up in arsenal, whenever you play a card with 6 or more {p}, **intimidate**, and put a lesson counter on him. Then if there are 2 or more lesson counters on Ruk'utan, banish him, search your deck for Alpha Rampage, put it face up in arsenal, and shuffle."	Brute Mentor			No	No	No
@@ -3497,9 +3499,9 @@ h6J7CzPwdkTCKcbK7Jc8T	Fearless Confrontation	Blue	3	3	5	3				Generic, Action, At
 pdwzQtmTgqMnFqkPQKNhq	Feign Death	Yellow	2	1						Ranger, Instant								"Play Feign Death only if your hero has been dealt damage this turn.
 
 The next time your hero would be dealt damage this turn, prevent it."	Ranger Instant				No	
-KGLtMJpW96RGNDCDf9P7T	Feisty Locals	Red	1	0	3	2				Generic, Action, Attack								If this is defended by an action card, this has +2{p}.	Generic Action - Attack					
-Bzd7tkQJqf6MhKpQhDH6r	Feisty Locals	Yellow	2	0	2	2				Generic, Action, Attack								If this is defended by an action card, this has +2{p}.	Generic Action - Attack					
-BtFKjW9dLTMfpqcB8jkwT	Feisty Locals	Blue	3	0	1	2				Generic, Action, Attack								If this is defended by an action card, this has +2{p}.	Generic Action - Attack					
+KGLtMJpW96RGNDCDf9P7T	Feisty Locals	Red	1	0	3	2				Generic, Action, Attack								If this is defended by an action card, this gets +2{p}.	Generic Action - Attack					
+Bzd7tkQJqf6MhKpQhDH6r	Feisty Locals	Yellow	2	0	2	2				Generic, Action, Attack								If this is defended by an action card, this gets +2{p}.	Generic Action - Attack					
+BtFKjW9dLTMfpqcB8jkwT	Feisty Locals	Blue	3	0	1	2				Generic, Action, Attack								If this is defended by an action card, this gets +2{p}.	Generic Action - Attack					
 W8khCTMWQrNPPPCpH6cgL	Felling Swing	Red	1	3		3				Warrior, Action		Go again						"Your next axe attack this turn gains +6{p}.
 
 **Go again**"	Warrior Action					
@@ -3936,6 +3938,11 @@ If Galaxxi Black hits a hero, deal 1 arcane damage to that hero."	Shadow Runebla
 rwLmwBWMRMnd9tzGBwng7	Gallantry Gold					1				Warrior, Equipment, Arms		Battleworn	Action	Go again				"**Action** - {r}, destroy Gallantry Gold: Your weapon attacks gain +1{p} this turn. **Go again**
 
 **Battleworn**"	Warrior Equipment - Arms					
+WPRGGkHPnLnLhMPFjjkfF	Gallow, End of the Line	Yellow	2	3	4	3				Pirate, Necromancer, Action, Ally		Watery Grave	Action, Instant	Attack			Watery Grave	"**Action** - {r}, {t}: **Attack**
+
+**Instant** - {t}, discard a card with watery grave: Until end of turn, effects controlled by opponents don't trigger when their attacks hit.
+
+**Watery Grave**"	Pirate Necromancer Action - Ally				No	
 FdBq9qFfNpMbk67f7FRFL	Galvanic Bender					1				Mechanologist, Equipment, Arms		Material, Battleworn						"**Material** - While this is under a permanent, that permanent has +1{p}.
 
 **Battleworn**"	Mechanologist Equipment - Arms					
@@ -5581,6 +5588,7 @@ wcQzjTdhBwLkDWQbjLG8c	Long Shot	Blue	3	0	1	3				Ranger, Action, Arrow, Attack			
 tNBLJKrbDpBL9TMb678wM	Longdraw Half-glove					1				Ranger, Equipment, Arms		Battleworn	Instant					"**Instant** - Destroy this, put 2 cards from your hand and/or arsenal on the bottom of your deck: Your next arrow attack this turn gets +4{p}.
 
 **Battleworn**"	Ranger Equipment - Arms				No	
+MFbG9dt7gfRHbqpNKTJwR	Look Tuff	Red	1	3	8	3				Generic, Action, Attack								When this attacks, it gets -1{p} unless you pay {r}.	Generic Action - Attack				No	
 JckmT8QFTgHWrGCBPNWKh	Looking for a Scrap	Red	1	1	4	2				Generic, Action, Attack		Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack				No	
 ntNzmrhJNcwpc9pbjbFmL	Looking for a Scrap	Yellow	2	1	3	2				Generic, Action, Attack		Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack				No	
 bpQN7JWMfcWndWkjWkJwb	Looking for a Scrap	Blue	3	1	2	2				Generic, Action, Attack		Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack				No	
@@ -6098,7 +6106,7 @@ knzHtdhJNF9wrJgzWmwMW	Never Give Up	Yellow	2			3				Revered, Block			Instant				
 JtmjqNPR7JcNHJGFNtWNR	Never Yield	Blue	3	3		3				Guardian, Action, Aura								At the start of your turn, destroy Never Yield then if you have no cards in hand, draw a card. If you have less {h} than all other heroes, gain 2{h}. If you control less equipment than all other heroes, remove a -1{d} counter from an equipment you control.	Guardian Action - Aura				No	
 BqJ76BGQWgFpPddRMQrQc	New Horizon					2				Ranger, Equipment, Head		Blade Break						"If you have a face up card in your arsenal, you have an additional arsenal zone.
 
-If New Horizon is destroyed, destroy all cards in your arsenal.
+When this is destroyed, destroy all cards in your arsenal.
 
 **Blade Break**"	Ranger Equipment - Head				No	
 tfgqfmpf8PtwhJqcBKDwB	Nimble Strike	Red	1	1	4	2				Generic, Action, Attack								As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.	Generic Action - Attack					
@@ -6480,6 +6488,9 @@ This gets +X{p}, where X is the number of equipment defending it."	Mechanologist
 Gq8RtNNrR7hz6QB9gj7CG	Parable of Humility	Yellow	2	4						Light, Illusionist, Instant, Aura		Spectra						"Attack action cards controlled by an opposing hero have -1{p} while attacking and defending.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
+9HncGgPTznnKwPwHCJMgb	Parched Terrain	Red	1	1						Draconic, Instant, Aura								"Heroes can't gain {h}.
+
+At the beginning of your end phase, put a sand counter on this, then destroy it unless you banish a red card from your graveyard for each sand counter on it."	Draconic Instant - Aura				No	
 8RgDcJhnpLP9j6DqNqPfp	Parry Blade				2	0				Warrior, Weapon, Equipment, Sword, 1H		Blade Break	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
 This gets +2{d} while defending a weapon attack.
@@ -6951,6 +6962,27 @@ jpWjmrzckFnCzG8tFMppt	Preserve Tradition	Blue	3	0						Mystic, Instant		Legendar
 Put target action card from your graveyard on the bottom of your deck.
 
 If you've played another blue card this turn, **transcend**."	Mystic Instant					
+qR8DkwWmrqGqzd9BbCDbH	Prime the Crowd	Red	1	2		2				Generic, Action		The Crowd Cheers, The Crowd Boos, Go again						"The next attack action card you play this turn gets +4{p}.
+
+**The crowd cheers** each Revered hero.
+
+**The crowd boos** each Reviled hero.
+
+**Go again**"	Generic Action					
+DnWNQrGqLW69pqRdTDhmT	Prime the Crowd	Yellow	2	2		2				Generic, Action		The Crowd Cheers, The Crowd Boos, Go again						"The next attack action card you play this turn gets +3{p}.
+
+**The crowd cheers** each Revered hero.
+
+**The crowd boos** each Reviled hero.
+
+**Go again**"	Generic Action					
+8N7gGzcDDNK7d8jFGPrR6	Prime the Crowd	Blue	3	2		2				Generic, Action		The Crowd Cheers, The Crowd Boos, Go again						"The next attack action card you play this turn gets +2{p}.
+
+**The crowd cheers** each Revered hero.
+
+**The crowd boos** each Reviled hero.
+
+**Go again**"	Generic Action					
 DTNR6KNnBDCBqkczc9PnT	Primed to Fight	Red	1	5	9	3				Guardian, Action, Attack								"If you've controlled a Vigor token this turn, this costs {r} less to play.
 
 If you've controlled a Might token this turn, this gets +1{p}."	Guardian Action - Attack				No	
@@ -7117,6 +7149,9 @@ pG9mTDdBkd7gPmGkPhpGd	Pummel	Yellow	2	2		2				Generic, Attack Reaction								"C
 ktRRh7cTpqgTzFRg8HJK6	Pummel	Blue	3	2		2				Generic, Attack Reaction								"Choose 1;
 - Target club or hammer weapon attack gains +2{p}.
 - Target attack action with cost 2 or greater gains +2{p} and ""If this hits a hero, they discard a card."""	Generic Attack Reaction					
+nfWLDhWBqKhGMtQMKFjdm	Punch Above Your Weight	Red	1	0	2	2				Generic, Action, Attack								When this attacks, you may pay {r}{r}{r}. If you do, this gets +5{p}.	Generic Action - Attack				No	
+9g6wWCRkpgW7brDgFb7Bg	Punch Above Your Weight	Yellow	2	0	2	2				Generic, Action, Attack								When this attacks, you may pay {r}{r}{r}. If you do, this gets +4{p}.	Generic Action - Attack				No	
+NQQdqRGPQtMnf6LGdBJn6	Punch Above Your Weight	Blue	3	0	2	2				Generic, Action, Attack								When this attacks, you may pay {r}{r}{r}. If you do, this gets +3{p}.	Generic Action - Attack				No	
 BJrdzPnKR6zFhPhpWkLqr	Punching Gloves					0				Generic, Equipment, Arms			Action	Go again				**Action** - {r}{r}, destroy this: The next attack card you play this turn gets +2{p}. **Go again**	Generic Equipment - Arms					
 jtk8JgcJHLBK9kqdNf7FG	Puncture	Red	1	1		3				Warrior, Attack Reaction					Piercing 1			Target sword or dagger attack gains +3{p} and **piercing 1**.	Warrior Attack Reaction					
 Q9wCKDmjFwjdjdL6rkcLJ	Puncture	Yellow	2	1		3				Warrior, Attack Reaction					Piercing 1			Target sword or dagger attack gains +2{p} and **piercing 1**.	Warrior Attack Reaction					
@@ -7645,6 +7680,9 @@ jNHCpjQbFbfjnj8KD9rjg	Rifting	Blue	3	2	4	2				Generic, Action, Attack								If 
 jrGCfgFzjRwjWMNCCPzmc	Riggermortis	Yellow	2	1	6		1			Pirate, Necromancer, Action, Ally		Watery Grave	Action	Attack				"**Action** - {r}, {t}: **Attack**
 
 **Watery Grave**"	Pirate Necromancer Action - Ally					
+GqCNMQPtbqzPLdDPpgMMf	Right Behind You	Red	1	3	7	2				Generic, Action, Attack								When this defends together with another card from hand, this gets +1{d} and you may look at the top card of your deck. You may put it on the bottom.	Generic Action - Attack					
+BcfndcHwnNwgDkzbrCPJF	Right Behind You	Yellow	2	3	6	2				Generic, Action, Attack								When this defends together with another card from hand, this gets +1{d} and you may look at the top card of your deck. You may put it on the bottom.	Generic Action - Attack					
+CKzzwp7mqrF6C68bPDcHm	Right Behind You	Blue	3	3	5	2				Generic, Action, Attack								When this defends together with another card from hand, this gets +1{d} and you may look at the top card of your deck. You may put it on the bottom.	Generic Action - Attack					
 WjTbCjjCgPncF9w7WH9Q8	Righteous Cleansing	Yellow	2	7	10	3				Guardian, Action, Attack		Crush						**Crush** - If Righteous Cleansing deals 4 or more damage to a hero, look at the top 5 cards of their deck. Banish 1 or more cards with the same name from among them, then put the rest on top of their deck in any order.	Guardian Action - Attack				No	
 FDktk7t9NkNdLDQQhCPBR	Riled Up	Red	1	3	7	3				Brute, Action, Attack								If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
 B9HmMb6jB9M8kWFLH86fT	Riled Up	Yellow	2	3	6	3				Brute, Action, Attack								If you've discarded a card with 6 or more {p} this turn, this gets +1{p}.	Brute Action - Attack					
@@ -9871,6 +9909,11 @@ pK8JkmbJz7PNtMJCLPTHN	Tighten the Screws	Red	1	1		2				Mechanologist, Action		Go
 You may {u} a cog you control.
 
 **Go again**"	Mechanologist Action					
+LGdLm7LrmzDDnWFRnnw9J	Time Flies When You're Having Fun	Red	1	0		2				Generic, Action		Go again						"The next time an attack action card hits a hero this turn, you may destroy an aura they control.
+
+If this was played from arsenal, the next attack action card you play this turn gets +3{p}.
+
+**Go again**"	Generic Action				No	
 8bQNhwM8ftgcPwJzLKjKF	Time Skippers					0				Generic, Equipment, Legs			Action					**Action** - {r}{r}{r}, destroy Time Skippers: Gain 2 action points.	Generic Equipment - Legs					
 kJNj9QRmJzpTNrrdn98rn	Timekeeper's Whim	Red	1	3		3			5	Wizard, Action								"Deal 5 arcane damage to target hero.
 
@@ -10260,6 +10303,9 @@ qTJLpcMt6WFTDHRgD87tw	Untamed	Red	1	1	4	2				Ninja, Action, Attack		Go again				
 BfJLtP7NqCGQM8m6LGHdq	Untamed	Blue	3	1	2	2				Ninja, Action, Attack		Go again						"When this attacks, the next Crouching Tiger you play this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack					
+9tDcwRQnBbDwBW7LdTgGc	Unwavering Resolve	Red	1	3	6	2				Generic, Action, Attack		Go again						"If you have no cards in your deck, this gets +4{p}.
+
+If this is defended by 3 or more cards, it gets **go again**."	Generic Action - Attack				No	
 pdW9W9GphNLfdHDHNBW9g	Unworldly Bellow	Red	1	1		3				Shadow, Brute, Action		Go again						"As an additional cost to play Unworldly Bellow, banish 3 random cards from your graveyard.
 
 The next Brute or Shadow attack action card you play this turn gains +4{p}.
