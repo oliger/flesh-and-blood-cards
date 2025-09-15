@@ -7,7 +7,7 @@ CqNB8MLzfCh6tRP6RRMdj	A Drop in the Ocean	Blue	3	0						Mystic, Instant		Legenda
 Target attack gets -1{p}.
 
 If you've played another blue card this turn, **transcend**."	Mystic Instant					
-MJBz8WMNzRWccphkkbMzc	A Good Clean Fight	Red	1	7	3	3				Revered, Action, Attack								If this is attacking a hero, non-equipment cards they own lose and can't gain abilities.	Revered Action - Attack				No	
+MJBz8WMNzRWccphkkbMzc	A Good Clean Fight	Red	1	3	7	3				Revered, Action, Attack								If this is attacking a hero, non-equipment cards they own lose and can't gain abilities.	Revered Action - Attack				No	
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	Red	1	1		4				Wizard, Defense Reaction								The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	Yellow	2	1		3				Wizard, Defense Reaction								The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	Blue	3	1		2				Wizard, Defense Reaction								The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -3552,9 +3552,9 @@ When this hits a Revered hero, destroy the top card of their deck."	Reviled Acti
 
 When this hits a Reviled hero, put this on the bottom of its owner's deck."	Revered Action - Attack				No	
 TMKn79cNDqQp6PJGGrBqj	Fight Night Prize Purse									Event								Choose an opponent. You each create a Gold token.	Event		No	No	No	No
-fpbDMC7pMtnNHCJrkcTww	Fight from Behind	Red	3	2	6	2				Revered, Action, Attack		The Crowd Cheers						When this attacks or defends, if you have less {h} than each other hero, **the crowd cheers** you.	Revered Action - Attack					
+fpbDMC7pMtnNHCJrkcTww	Fight from Behind	Red	1	2	6	2				Revered, Action, Attack		The Crowd Cheers						When this attacks or defends, if you have less {h} than each other hero, **the crowd cheers** you.	Revered Action - Attack					
 mqjq8Pk9hNz6gK8bck9Hm	Fight from Behind	Yellow	2	2	5	2				Revered, Action, Attack		The Crowd Cheers						When this attacks or defends, if you have less {h} than each other hero, **the crowd cheers** you.	Revered Action - Attack					
-K6zRWPRdP76bFfKgHw7Fd	Fight from Behind	Blue	1	2	4	2				Revered, Action, Attack		The Crowd Cheers						When this attacks or defends, if you have less {h} than each other hero, **the crowd cheers** you.	Revered Action - Attack					
+K6zRWPRdP76bFfKgHw7Fd	Fight from Behind	Blue	3	2	4	2				Revered, Action, Attack		The Crowd Cheers						When this attacks or defends, if you have less {h} than each other hero, **the crowd cheers** you.	Revered Action - Attack					
 rd8gCbPjLCWcPLdqbMRWm	Fightmaster Kox						19	4		Guardian, Hero, Pit-Fighter			Action					**Action** - {t}, destroy a Gold you control: Look at the top 3 cards of the event deck, then put them back in any order. **Go again**	Guardian Hero - Pit-Fighter		No	No	No	No
 cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	Yellow	2	4						Light, Illusionist, Instant, Figment		Legendary						"**Legendary**
 
