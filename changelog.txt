@@ -926,7 +926,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated Blitz Legality for Talk a Big Game
 - Update LL Restricted status for Deadwood Dirge
 
-TODO:
+10-07-25:
 - Added set data for APS, SUP
 - Added card data for APS, SUP - data assistance credit: manwaring
 - Added printing data for APS001-APS032, FAB321-FAB322, FAB325-FAB327, FAB331-FAB332, FAB334-FAB339, FAB341-FAB383, FAB387-FAB389, GEM069-GEM104, HER146-HER149, LGS342-LGS345, LGS382-LGS386, LGS391-LGS394, LGS414-LGS425, SUP000-SUP275 - data assistance credit: manwaring
