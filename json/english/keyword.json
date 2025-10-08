@@ -372,10 +372,28 @@
         "description_plain": "Surge is an effect that applies if a card deals more arcane damage than it's printed amount."
     },
     {
+        "unique_id": "Rgmhwhz6wPfJQqQ9jTq6d",
+        "name": "Suspense",
+        "description": "",
+        "description_plain": ""
+    },
+    {
         "unique_id": "RnrzPrG6KfnCPhDCF8bpB",
         "name": "Temper",
         "description": "**Temper** is a keyword that exists on equipment. Usually high in defense, **Temper** equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability.",
         "description_plain": "Temper is a keyword that exists on equipment. Usually high in defense, Temper equipment presents a choice when it is down to 1{d}, of whether to defend with it one last time and see it destroyed, or save it to use for its ability."
+    },
+    {
+        "unique_id": "RMDzb6t96FCQ7cnQt7WMF",
+        "name": "The Crowd Boos",
+        "description": "",
+        "description_plain": ""
+    },
+    {
+        "unique_id": "jCFcdHRFLDhRzH6mgBjmJ",
+        "name": "The Crowd Cheers",
+        "description": "",
+        "description_plain": ""
     },
     {
         "unique_id": "LwJpTqDGKM96gQzcKwW76",
