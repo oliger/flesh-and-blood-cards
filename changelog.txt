@@ -934,11 +934,11 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added TCGPlayer IDs for APS001-APS030 and MPG001-MPG129
 - Added Revered and Reviled types
 - Added Suspense, The Crowd Boos, and The Crowd Boos keywords
-- Updated functional text for Brothers in Arms, Feisty Locals, Helm of Isen's Peak, New Horizon, and Tear Asunder
+- Updated functional text for Bravo, Brothers in Arms, Buckling Blow, Cartilage Crush, Chokeslam, Crush Confidence, Crush the Weak, Debilitate, Disable, Embolden, Feisty Locals, Heartened Cross Strap, Helm of Isen's Peak, Hope Merchant's Hood, New Horizon, Stonewall Confidence, Tear Asunder, Thunder Quake, Time Skippers
 - Fixed incorrect foiling listed for SEA000 - bug notice credit: manwaring
 - Fixed missing printings for MPG000 and MPG085-MPG091 - bug notice credit: manwaring
 - Fixed incorrect rarity listed for MPG002 - bug notice credit: manwaring
-- Fixed commoner legality for Bravo, Buckling Blow, Cartilage Crush, Chokeslam, Crush Confidence, Crush the Weak, Debilitate, Disable, Embolden, Fault Line, Heartened Cross Strap, Hope Merchant's Hood, Hostile Encroachment, Renounce Grandeur, Stonewall Confidence, Thunder Quake, Time Skippers, and Valda Brightaxe - bug notice credit: manwaring
+- Fixed commoner legality for Clash of Arms, Clash of Chests, Disable, Embolden, Fault Line, Hostile Encroachment, Renounce Grandeur, Thunder Quake, Valda, Brightaxe - bug notice credit: manwaring
 - Fixed incorrect artist for LGS406 and MPG048-MPG049 - bug notice credit: manwaring
 - Replace all instances of Wírawan Pranoto with Wirawan Pranoto - bug notice credit: manwaring
 - Removed RF foiling printing of GEM058 - bug notice credit: n21lv
