@@ -212,6 +212,7 @@ function calculateBlitzLegality(name, types) {
     if (
         (types.includes("Hero") && !types.includes("Young")) ||
         types.includes("Event") ||
+        types.includes("Pit-Fighter") ||
         specialUsePromos.includes(name)
     ) {
         return false
@@ -225,6 +226,7 @@ function calculateCcLegality(name, types) {
         (types.includes("Hero") && types.includes("Young")) ||
         types.includes("Event") ||
         types.includes("Mentor") ||
+        types.includes("Pit-Fighter") ||
         specialUsePromos.includes(name)
     ) {
         return false
@@ -237,6 +239,7 @@ function calculateCommonerLegality(uniqueId, name, types, printingDictionary) {
     if (
         (types.includes("Hero") && !types.includes("Young")) ||
         types.includes("Event") ||
+        types.includes("Pit-Fighter") ||
         specialUsePromos.includes(name)
     ) {
         return false
@@ -269,6 +272,7 @@ function calculateLlLegality(name, types) {
         (types.includes("Hero") && types.includes("Young")) ||
         types.includes("Event") ||
         types.includes("Mentor") ||
+        types.includes("Pit-Fighter") ||
         specialUsePromos.includes(name)
     ) {
         return false
@@ -281,6 +285,7 @@ function calculateSilverAgeLegality(uniqueId, name, types, printingDictionary) {
     if (
         (types.includes("Hero") && !types.includes("Young")) ||
         types.includes("Event") ||
+        types.includes("Pit-Fighter") ||
         specialUsePromos.includes(name)
     ) {
         return false
