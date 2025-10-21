@@ -942,3 +942,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed incorrect artist for LGS406 and MPG048-MPG049 - bug notice credit: manwaring
 - Replace all instances of Wírawan Pranoto with Wirawan Pranoto - bug notice credit: manwaring
 - Removed RF foiling printing of GEM058 - bug notice credit: n21lv
+
+10-20-25:
+- Breaking: Added new banned-silver-age.csv and associated JSON and documentation, as well as Silver Age Legal field to cards.csv
