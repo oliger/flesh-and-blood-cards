@@ -591,9 +591,18 @@ jPfMCnKDptNbCbp6T96dT	Barbed Castaway									Ranger, Weapon, Bow, 2H			Once per
 
 **Once per Turn Instant** - {r}: You may turn a face down arrow in your arsenal face up. If you do, put an aim counter on it."	Ranger Weapon - Bow (2H)					
 jNbd7cDQccq8zTwgTT8Rb	Barbed Undertow	Red	1	1	5	3				Ranger, Action, Arrow, Attack								"If Barbed Undertow has an aim counter, it gains ""When this hits a hero, choose red, yellow, or blue. Until the start of your next turn, they can't pitch cards of the chosen color."""	Ranger Action - Arrow Attack				No	
+CWcTdDfFHrQjKz8dLqfTp	Bare Destruction	Red	1	2	6	3				Brute, Action, Attack	Beat Chest, Go again					Beat Chest		"**Beat Chest**
+
+When this attacks, if you've beaten chest this turn and you don't control a chest equipment, this gets **go again** and the next Brute attack action card you play this turn gets +2{p}."	Brute Action - Attack				No	
 WDqWgDfRpTjWdMdTMM666	Bare Fangs	Red	1	2	6					Brute, Action, Attack								When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.	Brute Action - Attack					
 zznJbCwttpMHdRkQHccHp	Bare Fangs	Yellow	2	2	5					Brute, Action, Attack								When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.	Brute Action - Attack					
 g7DBTGtKGzCtWWfLKdFcr	Bare Fangs	Blue	3	2	4					Brute, Action, Attack								When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Bare Fangs gains +2{p}.	Brute Action - Attack					
+M6MBhFjDJcgfrm8mdNccR	Bare Swing	Red	1	3	7	3				Brute, Action, Attack	Beat Chest					Beat Chest		"**Beat Chest**
+
+When this attacks, if you've beaten chest this turn and you don't control a chest equipment, this gets +2{p}."	Brute Action - Attack				No	
+NNTdggPjQtGCjBmLG99Lc	Bare Swing	Yellow	2	3	6	3				Brute, Action, Attack	Beat Chest					Beat Chest		"**Beat Chest**
+
+When this attacks, if you've beaten chest this turn and you don't control a chest equipment, this gets +2{p}."	Brute Action - Attack				No	
 b9pTrmh7f78CMLGgtTrhB	Bark Obscenities	Red	1	0		2				Brute, Action		Go again						"Your next attack that targets a Guardian hero this turn gets +4{p}.
 
 **Go again**"	Brute Action					
@@ -2876,6 +2885,9 @@ j9QzcDTJGBRJgntCrH88m	Earthlore Surge	Blue	3	2		2				Earth, Action		Go again				
 RKDPjzdGtKWMQnNcHBdF8	Ebon Fold					0				Shadow, Equipment, Head		Spellvoid 2	Instant					"**Instant** - {r}, destroy Ebon Fold: Banish a card from your hand. If it's a Shadow card, draw a card.
 
 **Spellvoid 2**"	Shadow Equipment - Head					
+P8KtKdKjn8HN6rLmckJkP	Echo Casque					1				Brute, Equipment, Head	Battleworn					Beat Chest		"Whenever you beat chest, you may {r} and destroy this. If you do, draw a card.
+
+**Battleworn**"	Brute Equipment - Head				No	
 wJcJBPNg8mD6m9778FnLn	Eclectic Magnetism	Red	1	1	5	3				Lightning, Action, Attack								When this attacks, you may play a non-attack action card this chain link as though it were an instant.	Lightning Action - Attack				No	
 PDHFDfPrn8TwBGw6h7cFr	Eclipse	Blue	3	0						Shadow, Instant		Legendary, Chane Specialization					Blood Debt	"**Legendary Chane Specialization**
 
@@ -3834,6 +3846,9 @@ KPWKQmMgm7rmM7bfFw9gF	Frailty									Generic, Token, Aura								"Your attack a
 
 At the beginning of your end phase destroy Frailty."	Generic Token - Aura					
 gpwqqHDD7DwWNrJPdpzRT	Frailty Trap	Red	1	0		3				Assassin, Ranger, Defense Reaction, Trap							Go again	When this defends an attack with **go again**, create a Frailty token under the attacking hero's control.	Assassin / Ranger Defense Reaction - Trap					
+qJdwq7GGjFb96CzLDqCdk	Frankie, Make Ends Meat						20	4		Necromancer, Hero, Young			Action	Go again				"Whenever an equipment you control would be put into a graveyard, instead banish it.
+
+**Action** - {r}{r}{r}, {t}: Equip an equipment from a graveyard. **Go again**"	Necromancer Hero - Young		No	No	No	No
 DL7gtdthCmhqGfQq8RJjj	Frazzle	Red	1	1	5	3				Elemental, Ranger, Action, Arrow, Attack		Lightning Fusion						"**Lightning Fusion**
 
 If Frazzle was **fused**, whenever an attack would deal damage this turn, instead it deals that much damage plus 1."	Elemental Ranger Action - Arrow Attack					
@@ -6237,6 +6252,11 @@ DWcKpdjNKBcK67WpPb9Qf	Ode to Wrath	Yellow	2	4						Light, Illusionist, Instant, 
 Illusionist attack action cards you control have **go again**.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	
+HrhpmTCdRFLw9HnqcqCrT	Off Cuts	Blue	3	3		3				Necromancer, Action	Frankie Specialization, Go again							"**Frankie Specialization**
+
+Each hero destroys an equipment they control.
+
+**Go again**"	Necromancer Action		No	No	No	No
 qLttRBczGdzDtWNtFTGMn	Offensive Behavior	Blue	3	0	2	3				Reviled, Brute, Action, Attack								"If you control a Might or Vigor token, this gets +1{p}.
 
 When this hits a hero, create a Might and a Vigor token."	Reviled Brute Action - Attack				No	
@@ -8839,6 +8859,20 @@ If Smashing Good Time is played from arsenal, the next attack action card you pl
 **Go again**"	Generic Action				No	
 pB7j8qpB8jcJ98N9MWz8Q	Smashing Ground	Blue	3	3	5	3				Brute, Action, Attack								"If this has 6 or more {p}, it gets ""When this hits a hero, destroy a card in their arsenal."""	Brute Action - Attack				No	
 cHd8RnCfp9h8MNkQnL9Md	Smashing Performance	Yellow	2	3	6					Brute, Action, Attack								When this attacks draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, destroy a random item in the arena.	Brute Action - Attack				No	
+gWHWkrDqc9mKhHGRGrp6p	Smell Fear	Yellow	2	0		3				Brute, Action	Beat Chest, Intimidate, Go again					Beat Chest		"**Beat Chest**
+
+If you've beaten chest this turn, **intimidate**.
+
+Your next Brute attack this turn gets ""If you've intimidated 2 or more times this turn, this gets +3{p}.""
+
+**Go again**"	Brute Action				No	
+QwkRmndddLgfWPBLLMKMB	Smell Fear	Blue	3	0		3				Brute, Action	Beat Chest, Intimidate, Go again					Beat Chest		"**Beat Chest**
+
+If you've beaten chest this turn, **intimidate**.
+
+Your next Brute attack this turn gets ""If you've intimidated 2 or more times this turn, this gets +2{p}.""
+
+**Go again**"	Brute Action				No	
 6q8j8bjLPkBrkJCBPGbKb	Smelting of the Old Ones	Red	1	6	10	3				Guardian, Action, Attack		Crush, Heave 2						"**Crush** - When this deals 4 or more damage to a Guardian hero, destroy all equipment they control with -1{d} counters.
 
 **Heave 2**"	Guardian Action - Attack				No	
@@ -9991,6 +10025,9 @@ JQqp6Ctw7QMLRDMgTnW6g	Tomeltai				5		5			Draconic, Illusionist, Dragon, Ally				
 gwLCKHWBWwMwH7McRRDzF	Tongue Tied	Red	1	3	7	2				Generic, Action, Attack								When this hits a hero, turn a card in their arsenal face-up, then banish an instant card from their arsenal.	Generic Action - Attack				No	
 cLkt677NMWGgPTNCBcJjn	Tooth and Claw	Red	1	0	4	3				Mystic, Ninja, Action, Attack		Go again						When this attacks, you may reveal any number of Crouching Tigers from your hand. If you reveal 1 or more, this gets **go again**. 2 or more, this gets +1{p}. 3 or more, draw a card.	Mystic Ninja Action - Attack				No	
 bCLK9nFBJjmHFjLQmL8Kt	Tooth of the Dragon	Red	1	0						Draconic, Instant								Your next Draconic attack this turn gets +3{p}.	Draconic Instant					
+pwjrCwDQn9Tb7MgRRRnGf	Torc of Vim					1				Brute, Equipment, Chest	Battleworn					Beat Chest		"Whenever you beat chest, you may destroy this. If you do, the next Brute attack action card you play this turn costs {r}{r} less to play.
+
+**Battleworn**"	Brute Equipment - Chest				No	
 fCB6H9HqcnhNkhKjtcG69	Torque Tuned	Red	1	2	6	2				Mechanologist, Action, Attack		Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
 
 **Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}."	Mechanologist Action - Attack				No	
@@ -10047,6 +10084,9 @@ DhMTNwfDKnwhRqgkPB6gq	Trailblazing Aether	Yellow	2	0		3			2	Wizard, Action		Surg
 DRqfHtKT6mfqNFRDMdDBp	Trailblazing Aether	Blue	3	0		3			1	Wizard, Action		Surge	Go again					"Deal 1 arcane damage to target hero.
 
 **Surge** - If this deals more than 1 damage, it gets **go again**."	Wizard Action					
+bkdFB6qNrhLBgrTrmRpNJ	Trampling Trackers					2				Brute, Equipment, Legs	Temper					Beat Chest		"Whenever you beat chest, you may destroy this. If you do, create an Agility token.
+
+**Temper**"	Brute Equipment - Legs				No	
 JqKMJnbpL76gbCMHj7JPt	Tranquil Passing	Red	1	1		2				Illusionist, Action, Aura		Ward 1						"When Tranquil Passing enters the arena, you may banish target aura token or aura permanent with cost 3 or less controlled by an opponent until Tranquil Passing leaves the arena.
 
 **Ward 1**"	Illusionist Action - Aura				No	
