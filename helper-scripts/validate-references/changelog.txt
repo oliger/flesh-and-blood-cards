@@ -4,5 +4,5 @@
 10-05-24:
 - Updated script to handle new banned-ll.csv
 
-10-20-25:
+11-14-25:
 - Updated script to handle new banned-silver-age.csv
