@@ -2144,6 +2144,9 @@ zHBTDcDtMLgTrqfnmTB9q	Crazy Brew	Blue	3	0						Generic, Action, Item			Action	Go
 - 1 or 2 - Lose 2{h}. **Go again**
 - 3 or 4 - Gain 2{h}. **Go again**
 - 5 or 6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}."	Generic Action - Item				No	No	
+77dWGRQb88WqJDbh6dtcd	Creep	Red	1	0	3	3				Assassin, Action, Attack		Stealth			Go again		Stealth	"**Stealth**
+
+When this attacks, the next attack with stealth you play this combat chain gets **go again**."	Assassin Action - Attack					No	
 JdRffqrPCN9BQRd8gq9BW	Cries of Encore	Red	1	3	7	3				Revered, Guardian, Action, Attack		The Crowd Cheers					The Crowd Cheers	"When this attacks a hero, if you have less {h} than them, **the crowd cheers** you.
 
 If you've been cheered this turn, this gets ""When this hits a hero, you may plan an aura of suspense from your graveyard this turn."""	Revered Guardian Action - Attack				No	No	
@@ -4350,6 +4353,7 @@ When you **boost** an attack, destroy this. If you do, the attack gets +X{p}, wh
 rWqFtWTCDnrgzPJthDHkR	Hala Goldenhelm					3				Warrior, Mentor					Go again			"While Hala is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Hala is face up in arsenal, whenever a sword attack you control hits, it gains **go again** and put a lesson counter on Hala. Then if there are 2 or more lesson counters on Hala, banish her, search your deck for Glistening Steelblade, put it face up in arsenal, and shuffle."	Warrior Mentor			No	No	No	No
+FQFkLFgp9pJqdd8mQkJTQ	Hala, Bladesaint of the Vow						40	4		Warrior, Hero			Action	Sharpen, Go again				**Action** - {r}{r}{r}, {t}: **Sharpen** target sword you control. **Go again**	Warrior Hero			No	No		
 phPFrDkRwGDrqrwq8M8T6	Halo of Illumination					0				Light, Equipment, Head		Spellvoid 2	Instant					"**Instant** - {r}, destroy Halo of Illumination: Put a card from your hand into your hero's soul. If it's a Light card, draw a card.
 
 **Spellvoid 2**"	Light Equipment - Head						
@@ -4762,6 +4766,9 @@ kHTFbHM7GGctRFhMm8hBg	Hornet's Sting					1				Ranger, Equipment, Arms		Blade Bre
 667jCHDNcTc6zNTcjFk8m	Horns of the Despised					1				Reviled, Equipment, Head		The Crowd Boos, Blade Break						"When this defends, **the crowd boos** you.
 
 **Blade Break**"	Reviled Equipment - Head						
+dCFNBWG66KFGWzrfkM7cQ	Horrors of the Past	Yellow	2	0	2	3				Assassin, Action, Attack		Stealth					Stealth	"**Stealth**
+
+When this attacks, it gets the base abilities of the last attack action card with stealth you control on the combat chain."	Assassin Action - Attack				No	No	
 NKBJGDhp7TDQ7CzdQtpJM	Hostile Encroachment	Red	1	3	8	3				Guardian, Action, Attack		Crush						"When this attacks a hero, they draw a card.
 
 **Crush** - When this deals 4 or more damage to a hero, they discard a card."	Guardian Action - Attack					No	
@@ -7293,6 +7300,9 @@ gmKLgjmBKHDRjnCf7Q7kh	Radiant Raiment									Light, Equipment, Chest			Instant	
 c6fzD8D8LdtQ8cwnqgTgq	Radiant Touch									Light, Equipment, Arms			Instant					**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Arms						
 mMbkbwz6rkpPTLcjthNJT	Radiant View									Light, Equipment, Head			Instant					**Instant** - Banish this and a card from your hero's soul: Prevent the next 2 damage that would be dealt to your hero this turn.	Light Equipment - Head						
 bfbfWCWnHw6zP7bfrPGdC	Ragamuffin's Hat					0				Generic, Equipment, Head			Instant					**Instant** - Destroy Ragamuffin's Hat: Draw a card then put a card from your hand on the top or bottom of your deck. Activate this ability only if you have 1 card in hand.	Generic Equipment - Head						
+z6fz9gMGF7DDJWfj7D6Wp	Rage Baiters					1				Assassin, Equipment, Arms		Blade Break	Attack Reaction		Mark			"**Attack Reaction** - {r}, {t}: Target attack with stealth gets ""When this hits a hero, **mark** them.""
+
+**Blade Break**"	Assassin Equipment - Arms				No	No	
 nfhcD8HGDHLDNCGhfLnKK	Rage Specter	Blue	3	2		3				Illusionist, Action, Aura		Ward 1, Ward 6						"When this enters the arena, if you control no other Illusionist auras, gain 1 action point.
 
 During your turn, this has **ward 6**. Otherwise, this has **ward 1**."	Illusionist Action - Aura				No	No	
