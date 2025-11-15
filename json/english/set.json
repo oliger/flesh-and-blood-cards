@@ -168,6 +168,27 @@
         ]
     },
     {
+        "unique_id": "Gc8MTgWpCN6wJKdQqftFq",
+        "id": "ANQ",
+        "name": "Compendium of Rathe - Antiquity Pack",
+        "printings": [
+            {
+                "unique_id": "nLHMCLWr6cnfBgpFjKLWW",
+                "edition": "N",
+                "start_card_id": "ANQ002",
+                "end_card_id": "ANQ010",
+                "initial_release_date": "2026-02-13T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/compendium-of-rathe-antiquity-pack",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "7JCQ7LLWpwmJJ9JFLNgpF",
         "id": "APR",
         "name": "Armory Deck Legends - Prism",
@@ -1414,6 +1435,27 @@
                 "card_database": null,
                 "product_page": null,
                 "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "7KtM6HBqwGfTpGNmCQbt9",
+        "id": "PEN",
+        "name": "Compendium of Rathe",
+        "printings": [
+            {
+                "unique_id": "chrqPgpJpgRWztmTpTGFD",
+                "edition": "N",
+                "start_card_id": "PEN001",
+                "end_card_id": "PEN321",
+                "initial_release_date": "2026-02-13T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/compendium-of-rathe/",
+                "product_page": null,
+                "collectors_center": null,
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null

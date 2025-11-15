@@ -553,7 +553,7 @@ ndNkP7p6FDnNWzt7ckjPf	Bait				0					Ranger, Token, Aura			Action, Once per Turn 
 **Action** - Destroy this when the chain link resolves: **Attack**
 
 **Once per Turn Attack Reaction** - 0: This gets +1{p} and **go again**."	Ranger Token - Aura						
-fFHTT7tCd9NDBqn9qCgh6	Balance of Justice					2				Generic, Equipment, Head		Guardwell	Instant					"**Instant** - Destroy this: Draw a card. Activate this ability only if an opponent has drawn 2 or more cards this turn.
+fFHTT7tCd9NDBqn9qCgh6	Balance of Justice					2				Generic, Equipment, Head		Guardwell	Instant					"**Instant** - Destroy this: Draw a card. Activate this only if an opponent has drawn 2 or more cards this turn.
 
 **Guardwell**"	Generic Equipment - Head				No	No	
 jW9czbpr7pQHgHwcq9dNH	Ball Breaker				3					Brute, Weapon, Flail, 1H			Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
@@ -1155,6 +1155,9 @@ If you've **charged** this turn, Bolt of Courage gains ""If this hits, draw a ca
 8H9zn9bBbkGfwbDrRjCRQ	Bolt of Courage	Blue	3	0	1	3				Light, Warrior, Action, Attack		Charge					Charge	"As an additional cost to play Bolt of Courage, you may **charge** your hero's soul.
 
 If you've **charged** this turn, Bolt of Courage gains ""If this hits, draw a card."""	Light Warrior Action - Attack						
+dMgNNhpNmBbDpjQHKC8j7	Bolt'n Boots					1				Ranger, Equipment, Legs		Battleworn	Attack Reaction		Go again			"**Attack Reaction** - {r}, destroy this: Target arrow attack with {p} greater than its base gets **go again**.
+
+**Battleworn**"	Ranger Equipment - Legs					No	
 qrRLQz7cjpKL6dGrjnbDp	Bolt'n' Shot	Red	1	0	4	3				Ranger, Action, Arrow, Attack		Go again, Reload						"If Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and ""If this hits, **reload.**"""	Ranger Action - Arrow Attack					No	
 rD7Jt7QKft9cPBKgjmTNq	Bolt'n' Shot	Yellow	2	0	3	3				Ranger, Action, Arrow, Attack		Go again, Reload						"If Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and ""If this hits, **reload.**"""	Ranger Action - Arrow Attack					No	
 fCNzFrbKLkdgtrnMdp7D8	Bolt'n' Shot	Blue	3	0	2	3				Ranger, Action, Arrow, Attack		Go again, Reload						"If Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and ""If this hits, **reload.**"""	Ranger Action - Arrow Attack					No	
@@ -1933,6 +1936,7 @@ If Cold Wave was **fused**, cards and activated abilities cost opposing heroes a
 NzT7pTMkkPCfNr79ftFtG	Collapsing Trap	Blue	3	0		3				Ranger, Defense Reaction, Trap		Legendary, Riptide Specialization					Go again	"**Legendary Riptide Specialization**
 
 When this defends an attack with **go again**, the attacking hero discards their hand then draws that many cards minus 1."	Ranger Defense Reaction - Trap				No	No	
+CQkQQG8z8z8kQLNm8PHDM	Colors of Aria	Red	1	3	7	3				Elemental, Action, Attack								While this is face-up in any zone, it's Earth, Ice, and Lightning.	Elemental Action - Attack					No	
 p89Wnh7dDNTLmhGjhMkKD	Colossal Bearing	Red	1	4	8	3				Guardian, Action, Attack		Tower						"**Tower** - If this has 13 or more {p}, it gets ""When this hits a hero, destroy an equipment they control with 1 or less {d}."""	Guardian Action - Attack					No	
 KwnFBgNNkWthnbL6kC8Cj	Combustible Courier	Red	1	2	4	3				Mechanologist, Action, Attack		Boost					Boost	"If Combustible Courier hits, the next attack you **boost** this combat chain gains +3{p}.
 
@@ -1955,6 +1959,9 @@ qr8WW79Hrfcj8DkpKzRfd	Come to Fight	Yellow	2	1		3				Generic, Action		Go again		
 Dc8cHfKHFHkg98Pwn6H96	Come to Fight	Blue	3	1		3				Generic, Action		Go again						"The next attack action card you play this turn gains +1{p}.
 
 **Go again**"	Generic Action						
+6fPwHjKFPwPTCfRgmrkB9	Comeback Kicks					1				Revered, Equipment, Legs		Battleworn					The Crowd Cheers	"Whenever the crowd cheers you, if you have less {h} than each other hero, you may destroy this. If you do, gain 1 action point.
+
+**Battleworn**"	Revered Equipment - Legs					No	
 RLDRbkhHqH6DQCjtqPrMQ	Comeback Kid	Red	1	3	7	3				Revered, Action, Attack		The Crowd Cheers					The Crowd Cheers	"When this attacks a hero, if you have less {h} than them, **the crowd cheers** you.
 
 If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack					No	
@@ -2940,6 +2947,7 @@ TjdM8c7NpJjpjdLDbt7KG	Electromagnetic Somersault	Blue	3	0						Lightning, Instan
 NFLNtzkpfQDgdPkHfjknf	Electrostatic Discharge	Red	1	0						Lightning, Instant								The next attack action card you play this turn with cost 1 or less gets +3{p}.	Lightning Instant						
 gMQ9qN89b76Fz9CwfBf6q	Electrostatic Discharge	Yellow	2	0						Lightning, Instant								The next attack action card you play this turn with cost 1 or less gets +2{p}.	Lightning Instant						
 D6DtJ7kmNcPBMHWrghGTj	Electrostatic Discharge	Blue	3	0						Lightning, Instant								The next attack action card you play this turn with cost 1 or less gets +1{p}.	Lightning Instant						
+Gn89Bw77qcNMHW6fTCRTj	Elemental Strike	Red	1	0	5	3				Elemental, Action, Attack		Go again, Dominate						As an additional cost to play this, banish a card from your hand. If it's Earth, this gets +2{p}. Lightning, this gets **go again**. Ice, this gets **dominate**.	Elemental Action - Attack				No	No	
 jKhMgndCGwjzKLHQMM7Cj	Eloquence									Generic, Token, Aura					Go again			When you play a non-attack action card, destroy this and the card gets **go again**.	Generic Token - Aura						
 zjjTKPFFzRh9fMGmR6jPR	Eloquent Eulogy	Red	1	1	4	3				Shadow, Runeblade, Action, Attack		Rune Gate, Blood Debt						"**Rune Gate**
 
@@ -3902,6 +3910,7 @@ If Frost Lock was **fused**, it gains +1{p} and ""If this hits a hero, until the
 GHG6KkBzPkHDnMf7hL7K7	Frostbite									Elemental, Token, Aura								"Cards and abilities cost you an additional {r} to play or activate.
 
 At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite."	Elemental Token - Aura						
+bGjFwg8ztdMPhnRmdmfRn	Frosthaven Sheath	Red	1	1		5				Elemental, Defense, Reaction		Ice Bond						**Ice Bond** - If an Ice card was pitched to play this, create a Frostbite token under the attacking hero's control.	Elemental Defense Reaction						
 pqPKGCqKntcTpQRjGwLpF	Frosting	Red	1	0		3			3	Ice, Wizard, Action								Deal 3 arcane damage to any target.	Ice Wizard Action						
 wQwFMHb6LtTgHF6FJKnqQ	Frosting	Yellow	2	0		3			2	Ice, Wizard, Action								Deal 2 arcane damage to any target.	Ice Wizard Action						
 mfbBCQnMpDR7PMbkgF9RP	Frosting	Blue	3	0		3			1	Ice, Wizard, Action								Deal 1 arcane damage to any target.	Ice Wizard Action						
@@ -4270,6 +4279,7 @@ BkFwNf9wHWK8LBdN9b9t6	Grim Feast	Blue	3	3		2				Shadow, Action		Blood Debt						
 Gain 1{h}
 
 **Blood Debt**"	Shadow Action					No	
+fjzKPPn6MD6qHWGTbwWtM	Grimoire of Fellingsong									Runeblade, Equipment, Off-Hand			Instant					**Instant** - {r}, destroy this: Create a Runechant token.	Runeblade Equipment - Off-Hand				No	No	
 bpcWc9DJf9pzfBczMWczJ	Grimoire of the Haunt									Shadow, Runeblade, Equipment, Off-Hand		Blood Debt, Arcane Barrier 1	Instant					"**Instant** - {r}, banish this: Create an Eloquence token.
 
 **Arcane Barrier 1**
@@ -5452,6 +5462,7 @@ When this leaves the arena, your next attack this turn gets +4{p}."	Reviled Guar
 WpmPhMcL97wRCPfz8nzgR	Leave a Dent	Blue	3	0		3				Guardian, Action		Go again			Crush			"Your next Guardian attack this turn gets ""**Crush** - When this deals 4 or more damage to a hero, destroy the top 4 cards of their deck.""
 
 **Go again**"	Guardian Action				No	No	
+qftcQd6NJhpQkfCczqLF7	Leaven Sheath	Red	1	1		5				Elemental, Defense, Reaction		Earth Bond						**Earth Bond** - If an Earth card was pitched to play this, create an Embodiment of Earth token.	Elemental Defense Reaction						
 Thbcg9RW9t8WNfMCpgNmk	Leg Tap	Red	1	1	4	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack						
 9K6tW9Kcqfc67PtcgmNTP	Leg Tap	Yellow	2	1	3	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack						
 dcWdcd8Q6tnPKDT6nKkjH	Leg Tap	Blue	3	1	2	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack						
@@ -5693,6 +5704,9 @@ NgGrjfPkc9BMGcrDBKNCT	Mage Hunter Arrow	Red	1	1	5	3				Ranger, Action, Arrow, At
 
 When this hits a Runeblade or Wizard hero, you may destroy an aura they control."	Ranger Action - Arrow Attack				No	No	
 T6b7mmKBRHjBq9TQwfRB7	Mage Master Boots					0				Generic, Equipment, Legs			Action	Go again	Go again			**Action** - {r}, destroy Mage Master Boots: The next 'non-attack' action card you play this turn gains **go again**. **Go again**	Generic Equipment - Legs						
+JH8mLKJQjfKTt9Nb7Whf6	Magmatic Carapace					2				Guardian, Equipment, Chest		Guardwell						"Whenever you play an aura, you may {t} this and pay {r}. If you do, create a Seismic Surge token.
+
+**Guardwell**"	Guardian Equipment - Chest					No	
 W8qgQqqTzWMFFcCCzTLGg	Magrar									Merchant, Equipment, Off-Hand		Genis Specialization	Action					"**Genis Specialization**
 
 **Action** - Destroy this: Create a Zen State and an Inertia token."	Merchant Equipment - Off-Hand		No	No	No	No	No
@@ -8074,6 +8088,9 @@ pGWLw8bBqKqTQHnrhg6b6	Sap	Blue	3	0		3			1	Wizard, Action		Surge						"Deal 1 arc
 As an additional cost to play this, discard a random card.
 
 If the discarded card has 6 or more {p}, this gets +6{p}."	Brute Action - Attack				No	No	
+cM6R7TqbFHp76wfPTjrzM	Savage Claw				3					Brute, Weapon, Claw, 1H			Action	Attack				"**Action** - {r}{r}, {t}: **Attack**
+
+If a card with 6 or more {p} was pitched to attack with this, the attack gets +1{p}."	Brute Weapon - Claw (1H)				No	No	
 mFdkTGPQDnWjLB9Tgmdmm	Savage Feast	Red	1	1	6	3				Brute, Action, Attack								"As an additional cost to play Savage Feast discard a random card.
 
 When you attack with Savage Feast, if a card with 6 or more {p} was discarded as an additional cost to play it, draw a card."	Brute Action - Attack					No	
@@ -9348,6 +9365,7 @@ hpMnhtBmjM7zFBTDMkf87	Storm Striders					0				Wizard, Equipment, Legs		Arcane Ba
 
 **Arcane Barrier 2**"	Wizard Equipment - Legs				No	No	
 PQm7zFjBPCzc68JDd8D6z	Storm of Sandikai									Draconic, Illusionist, Weapon, Scepter, 2H					Attack			"Dragon allies you control have ""**Once per Turn Action** - 0: **Attack**""."	Draconic Illusionist Weapon - Scepter (2H)						
+jwDzJCPgGpnn6QgPJkNTH	Stormwind Sheath	Red	1	1		5				Elemental, Defense, Reaction		Lightning Bond						**Lightning Bond** - If a Lightning card was pitched to play this, create an Embodiment of Lightning token.	Elemental Defense Reaction						
 9Lkp6qzHGh7z78K9cFjrJ	Story Beats	Red	1	3	7	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack					No	
 DwhgmJpg6hHzFJPPK6n7T	Story Beats	Yellow	2	3	6	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack					No	
 f6WNBKPkNJzpTBMTfkTHG	Story Beats	Blue	3	3	5	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack					No	
@@ -9558,6 +9576,9 @@ tPW6ffbwKnNCWf9hKLKTN	Symbiosis Shot				2					Mechanologist, Weapon, Gun, 2H		Da
 **Action** - Remove a steam counter from this: **Attack**
 
 Whenever a Mechanologist item enters the arena under your control, if this has fewer than 6 steam counters, you may put a steam counter on this."	Mechanologist Weapon - Gun (2H)						
+HGKWRtMqN8D6rtGHkb7RB	Synapse Sparkcap					1				Mechanologist, Equipment, Base, Head		Battleworn	Action					"**Action** - {t}, banish an Evo from your hand: Create a Ponder token.
+
+**Battleworn**"	Mechanologist Equipment - Base Head				No	No	
 GTWTq8HRqQM9nCCqQcTPD	System Failure	Yellow	2	1		2				Mechanologist, Action								Remove all steam counters from target equipment, item, or weapon. If 2 or more steam counters are removed this way, deal 2 damage to its controler.	Mechanologist Action				No	No	
 bh7RktHmCjjn9mKNmT6QK	System Reset	Yellow	2	X		3				Mechanologist, Action								Banish X Mechanologist items you control with cost 0 or 1, then return them to the arena under their owners' control.	Mechanologist Action				No	No	
 7kwDMdkW6h7bMH8ctTjPC	T-Bone	Red	1	0	3	3				Mechanologist, Action, Attack		Boost					Boost	"If you control a card on the combat chain that was boosted, the defending hero must defend this with an equipment they control if able.
@@ -10137,6 +10158,9 @@ rmTKDcDNJrDFRMdKrRmdH	Trench of Sunken Treasure					1				Ranger, Equipment, Ches
 **Arcane Barrier 1**
 
 **Blade Break**"	Ranger Equipment - Chest				No	No	
+wr9jWmbRhHJ7th99rbPGd	Trench of Watery Depths					1				Pirate, Equipment, Chest		Blade Break						"When this defends, you may pitch a blue card from your graveyard.
+
+**Blade Break**"	Pirate Equipment - Chest					No	
 6GBcGgr77phGjWjbjNbRn	Tri-shot	Blue	3	0		3				Ranger, Action		Go again						"You may activate target bow you control 2 additional times this turn.
 
 **Go again**"	Ranger Action				No	No	
@@ -10361,6 +10385,9 @@ j9DCRLfzFKbQzprNRw8Ld	Unworldly Bellow	Blue	3	1		3				Shadow, Brute, Action		Go 
 The next Brute or Shadow attack action card you play this turn gains +2{p}.
 
 **Go again**"	Shadow Brute Action						
+WmjGRT9w9pHtBDc8zQkHB	Unyielding Grip					0				Generic, Equipment, Arms		Blade Break						"If you have no cards in your hand, this gets +3{d}.
+
+**Blade Break**"	Generic Equipment - Arms					No	
 QG8JhRkFBWF7GzrqMnkKq	Up Sticks and Run	Red	1	0		2				Assassin, Ninja, Action		Go again, Retrieve						"You may **retrieve** a dagger from your graveyard.
 
 Your next dagger attack this turn gets +4{p}.
