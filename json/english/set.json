@@ -28,11 +28,11 @@
             {
                 "unique_id": "qcgTbrR8GHqQhRGTRTtNr",
                 "edition": "N",
-                "start_card_id": "AAC014",
-                "end_card_id": "AAC014",
+                "start_card_id": "AAC006",
+                "end_card_id": "AAC022",
                 "initial_release_date": "2025-12-12T00:00:00.000Z",
                 "out_of_print": false,
-                "card_database": null,
+                "card_database": "https://cardvault.fabtcg.com/products/armory-deck-arakni-5lp3d-7hru-7h3-cr4x/",
                 "product_page": "https://fabtcg.com/en/products/booster-set/armory-deck-arakni/",
                 "collectors_center": null,
                 "card_gallery": null,
@@ -80,6 +80,27 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/gravybones_logo.original.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "GnCkQJBcdrfnddKT7NqFj",
+        "id": "AHA",
+        "name": "Armory Deck Origins - Hala",
+        "printings": [
+            {
+                "unique_id": "DJtrwcHHtBbDJH6Lb77PR",
+                "edition": "N",
+                "start_card_id": "AHA001",
+                "end_card_id": "AHA001",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },

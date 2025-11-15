@@ -945,3 +945,9 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 
 11-14-25:
 - Breaking: Added new banned-silver-age.csv and associated JSON and documentation, as well as Silver Age Legal field to cards.csv
+
+11-15-25:
+- Added card data for Rage Baiters, Creep, Horrors of the Past, and `Hala, Bladesaint of the Vow`
+- Added printing data for AAC006, AAC009, AAC022, and AHA001
+- Added Sharpen keyword
+- Added set data for AHA
