@@ -951,3 +951,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for AAC006, AAC009, AAC022, and AHA001
 - Added Sharpen keyword
 - Added set data for AHA
+
+11-24-25:
+- Added card data for Ghost Protocol: Architect and Ghost Protocol: Mainframe
+- Added printing data for LGS443-LGS445

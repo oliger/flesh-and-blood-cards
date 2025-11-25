@@ -4046,6 +4046,12 @@ ptffGM7RrcMzNz7dLtPp8	Geyser of Seismic Stirrings	Blue	3	2		3				Guardian, Actio
 This enters the arena with an energy counter. When it has none, destroy it.
 
 At the beginning of your end phase, remove an energy counter from this and create a Seismic Surge token."	Guardian Action - Aura						
+7qQ8nJLhDkq7b78HKHgHQ	Ghost Protocol: Architect	Red	1	0	1	3				Mechanologist, Action, Attack		Evo Upgrade					Boost	"If this was banished from boosting this turn, you may play this from your banished zone.
+
+**Evo Upgrade** - When this attacks, search your deck for an Evo with cost less than or equal to the number of Evos you have equipped, banish it, then shuffle."	Mechanologist Action - Attack				No	No	No
+HJ9JjdmGt7JdNcJ7MT68w	Ghost Protocol: Mainframe	Blue	3	0	1	3				Mechanologist, Action, Attack		Evo Upgrade					Boost	"If this was banished from boosting this turn, you may play this from your banished zone.
+
+**Evo Upgrade** - This gets +1{p} for each Evo you have equipped."	Mechanologist Action - Attack				No	No	No
 rmdqRKFwTMWr97GPqNd6Q	Ghostly Touch					0				Illusionist, Equipment, Arms			Once per Turn Action	Go again				"Whenever an Illusionist attack you control is destroyed by **phantasm**, put a haunt counter on Ghostly Touch.
 
 **Once per Turn Action** - Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {h} equal to the number of haunt counters on it, and ""**Once per Turn Action** - {r}{r}{r}: **Attack**"". **Go again**"	Illusionist Equipment - Arms				No	No	
