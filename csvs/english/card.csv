@@ -8099,7 +8099,7 @@ When you attack with Savage Feast, if a card with 6 or more {p} was discarded as
 FkLTfnTqkjBKt9Ch9m8C8	Savage Feast	Blue	3	1	4	3				Brute, Action, Attack								"As an additional cost to play Savage Feast discard a random card.
 
 When you attack with Savage Feast, if a card with 6 or more {p} was discarded as an additional cost to play it, draw a card."	Brute Action - Attack					No	
-WPkcWHhWGzFKcNWQFM7hf	Savage Sash					2				Brute, Equipment, Chest			Action	Go again				"**Action** - Destroy this: Attack action cards with 6 or more {p} cost you {r} less to play this turn. **Go again**
+WPkcWHhWGzFKcNWQFM7hf	Savage Sash					2				Brute, Equipment, Chest		Temper	Action	Go again				"**Action** - Destroy this: Attack action cards with 6 or more {p} cost you {r} less to play this turn. **Go again**
 
 **Temper**"	Brute Equipment - Chest				No	No	
 N8DMCFHgLPLrn9wQhhTjC	Savage Swing	Red	1	1	7	3				Brute, Action, Attack								As an additional cost to play Savage Swing, discard a random card.	Brute Action - Attack						
