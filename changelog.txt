@@ -957,4 +957,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for LGS443-LGS445
 
 12-06-25:
-- Fixed issue with Savage Sash missing Temper keyword
+- Fixed issue with Savage Sash missing Temper keyword - bug notice credit: PvtVoid
