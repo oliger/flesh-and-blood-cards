@@ -957,4 +957,14 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added printing data for LGS443-LGS445
 
 12-06-25:
-- Fixed issue with Savage Sash missing Temper keyword
+- Fixed issue with Savage Sash missing Temper keyword - bug notice credit: PvtVoid
+
+12-11-25:
+- Added card data for Prey Spotters, Inverter's Nightcowl, Stalker's Steps, and Night's Embrace - data entry assistance: manwaring
+- Added remaining printing data for AAC001-AAC031  - data entry assistance: manwaring
+- Added image data for AAC001-AAC031
+- Added image data for ARR005 and AAZ005 - notice credit: PvtVoid
+- Fixed Torc of Vim keywords incorrectly being in the traits and interacts with keywords incorrectly being in the removed keywords fields - bug notice credit: PvtVoid
+- Fixed Gallow health incorrectly being in the defense field - bug notice credit: PvtVoid
+- Fixed art variation for FAB048 - bug notice credit: PvtVoid
+- Fixed image url for SEA245 "marvel" - bug notice credit: PvtVoid
