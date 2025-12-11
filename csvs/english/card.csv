@@ -3956,7 +3956,7 @@ If Galaxxi Black hits a hero, deal 1 arcane damage to that hero."	Shadow Runebla
 rwLmwBWMRMnd9tzGBwng7	Gallantry Gold					1				Warrior, Equipment, Arms		Battleworn	Action	Go again				"**Action** - {r}, destroy Gallantry Gold: Your weapon attacks gain +1{p} this turn. **Go again**
 
 **Battleworn**"	Warrior Equipment - Arms						
-WPRGGkHPnLnLhMPFjjkfF	Gallow, End of the Line	Yellow	2	3	4	3				Pirate, Necromancer, Action, Ally		Watery Grave	Action, Instant	Attack			Watery Grave	"**Action** - {r}, {t}: **Attack**
+WPRGGkHPnLnLhMPFjjkfF	Gallow, End of the Line	Yellow	2	3	4		3			Pirate, Necromancer, Action, Ally		Watery Grave	Action, Instant	Attack			Watery Grave	"**Action** - {r}, {t}: **Attack**
 
 **Instant** - {t}, discard a card with watery grave: Until end of turn, effects controlled by opponents don't trigger when their attacks hit.
 
@@ -5100,6 +5100,9 @@ When this hits a hero, they create a Courage and Quicken token."	Ranger Action -
 Banish up to 2 cards in an opposing hero's graveyard. If an attack action card and a 'non-attack' action card are banished this way, deal 2 arcane damage to that hero.
 
 **Blood Debt**"	Shadow Runeblade Instant				No	No	
+gMWcDdjLpcdzMFDTBNpmM	Inverter's Nightcowl					1				Assassin, Equipment, Chest		Battleworn	Action	Go again			Stealth	"**Action** - Destroy this: Until end of turn, whenever you play an attack action card with stealth, gain {r}. **Go again**
+
+**Battleworn**"	Assassin Equipment - Chest				No	No	
 T8JWb9PmhhbtHkRwdPdMQ	Invigorate	Red	1	0		2				Elemental, Action		Go again						"The next attack you **fuse** this turn gains +4{p}.
 
 **Go again**"	Elemental Action						
@@ -6137,6 +6140,7 @@ BqJ76BGQWgFpPddRMQrQc	New Horizon					2				Ranger, Equipment, Head		Blade Break	
 When this is destroyed, destroy all cards in your arsenal.
 
 **Blade Break**"	Ranger Equipment - Head				No	No	
+qt8PTt8T8bzqm9jFJ8c8F	Night's Embrace	Blue	3							Assassin, Attack Reaction							Stealth	Your attacks with stealth get +1{p} this turn.	Assassin Attack Reaction					No	
 tfgqfmpf8PtwhJqcBKDwB	Nimble Strike	Red	1	1	4	2				Generic, Action, Attack								As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.	Generic Action - Attack						
 6M6NPTgtR8MTpJJrDMtRW	Nimble Strike	Yellow	2	1	3	2				Generic, Action, Attack								As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.	Generic Action - Attack						
 dKnLDB7TncwgzFwBf8jfz	Nimble Strike	Blue	3	1	2	2				Generic, Action, Attack								As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.	Generic Action - Attack						
@@ -6995,6 +6999,9 @@ jpWjmrzckFnCzG8tFMppt	Preserve Tradition	Blue	3	0						Mystic, Instant		Legendar
 Put target action card from your graveyard on the bottom of your deck.
 
 If you've played another blue card this turn, **transcend**."	Mystic Instant						
+9Rc87J7TGt8DWffqnKjCf	Prey Spotters					1				Assassin, Equipment, Head		Battleworn	Attack Reaction	Mark				"**Attack Reaction** - Destroy this: **Mark** target opposing hero.
+
+**Battleworn**"	Assassin Equipment - Head						
 qR8DkwWmrqGqzd9BbCDbH	Prime the Crowd	Red	1	2		2				Generic, Action		The Crowd Cheers, The Crowd Boos, Go again						"The next attack action card you play this turn gets +4{p}.
 
 **The crowd cheers** each Revered hero.
@@ -9245,6 +9252,9 @@ kzPMkNT6bGwHTdGCqGBBj	Stains of the Redback	Blue	3	1		3				Assassin, Attack Reac
 
 Target attack with **stealth** gets +1{p} and **go again**."	Assassin Attack Reaction					No	
 BCpDT6GfzNwKW8qz7WbrN	Stalagmite, Bastion of Isenloft					2				Ice, Guardian, Equipment, Off-Hand		Temper						Whenever you defend with Stalagmite, create a Frostbite token under the attacking hero's control. **Temper**	Ice Guardian Equipment - Off-Hand				No	No	
+mknwdmQhzHPbhmdtNqMfj	Stalker's Steps					0				Assassin, Equipment, Legs		Arcane Barrier 1	Attack Reaction		Go again		Stealth	"**Attack Reaction** - Destroy this: Target attack with stealth gets **go again**
+
+**Arcane Barrier 1**"	Assassin Equipment - Legs						
 6nBW69HNQRGM7mpMzNCGB	Stamp Authority	Blue	3	3		3				Guardian, Action, Aura								"When Stamp Authority enters the arena, if you have 2 or more cards in your pitch zone with cost 3 or greater, your hero gains +1{i} until end of turn.
 
 While Stamp Authority is in the arena, attack action card effects do not trigger when they hit.
@@ -10041,7 +10051,7 @@ JQqp6Ctw7QMLRDMgTnW6g	Tomeltai				5		5			Draconic, Illusionist, Dragon, Ally				
 gwLCKHWBWwMwH7McRRDzF	Tongue Tied	Red	1	3	7	2				Generic, Action, Attack								When this hits a hero, turn a card in their arsenal face-up, then banish an instant card from their arsenal.	Generic Action - Attack					No	
 cLkt677NMWGgPTNCBcJjn	Tooth and Claw	Red	1	0	4	3				Mystic, Ninja, Action, Attack		Go again						When this attacks, you may reveal any number of Crouching Tigers from your hand. If you reveal 1 or more, this gets **go again**. 2 or more, this gets +1{p}. 3 or more, draw a card.	Mystic Ninja Action - Attack				No	No	
 bCLK9nFBJjmHFjLQmL8Kt	Tooth of the Dragon	Red	1	0						Draconic, Instant								Your next Draconic attack this turn gets +3{p}.	Draconic Instant						
-pwjrCwDQn9Tb7MgRRRnGf	Torc of Vim					1				Brute, Equipment, Chest	Battleworn					Beat Chest		"Whenever you beat chest, you may destroy this. If you do, the next Brute attack action card you play this turn costs {r}{r} less to play.
+pwjrCwDQn9Tb7MgRRRnGf	Torc of Vim					1				Brute, Equipment, Chest		Battleworn					Beat Chest	"Whenever you beat chest, you may destroy this. If you do, the next Brute attack action card you play this turn costs {r}{r} less to play.
 
 **Battleworn**"	Brute Equipment - Chest				No	No	
 fCB6H9HqcnhNkhKjtcG69	Torque Tuned	Red	1	2	6	2				Mechanologist, Action, Attack		Overpower, Galvanize						"If an item you control has been destroyed this turn, this gets **overpower**.
