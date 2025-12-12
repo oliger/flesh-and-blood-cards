@@ -968,3 +968,4 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed Gallow health incorrectly being in the defense field - bug notice credit: PvtVoid
 - Fixed art variation for FAB048 - bug notice credit: PvtVoid
 - Fixed image url for SEA245 "marvel" - bug notice credit: PvtVoid
+- Fixed issue with XXX promo versions of young and adult Briar having swapped ids and image urls
