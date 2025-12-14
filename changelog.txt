@@ -969,3 +969,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Fixed art variation for FAB048 - bug notice credit: PvtVoid
 - Fixed image url for SEA245 "marvel" - bug notice credit: PvtVoid
 - Fixed issue with XXX promo versions of young and adult Briar having swapped ids and image urls
+
+12-14-25:
+- Fixed incorrect power for Full of Bravado (yellow and blue) - bug notice credit: PvtVoid
