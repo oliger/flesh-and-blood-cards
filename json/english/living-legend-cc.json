@@ -230,5 +230,21 @@
         "date_announced": "2025-07-15T00:00:00.000Z",
         "date_in_effect": "2025-07-18T00:00:00.000Z",
         "legality_article": "https://fabtcg.com/en/articles/living-legend-azalea-ace-in-the-hole/"
+    },
+    {
+        "unique_id": "Mnb9jrcPpdgtppBPgLCwk",
+        "card_unique_id": "kRPqHdCckKBKfRwjbfzNT",
+        "status_active": true,
+        "date_announced": "2025-12-16T00:00:00.000Z",
+        "date_in_effect": "2025-12-19T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-kano-dracai-of-aether/"
+    },
+    {
+        "unique_id": "q8t69FCHgw8b96wcQw8bC",
+        "card_unique_id": "nzDWrNMqGWgmJfgJhChNb",
+        "status_active": true,
+        "date_announced": "2025-12-16T00:00:00.000Z",
+        "date_in_effect": "2025-12-19T00:00:00.000Z",
+        "legality_article": "https://fabtcg.com/articles/living-legend-kano-dracai-of-aether/"
     }
 ]
