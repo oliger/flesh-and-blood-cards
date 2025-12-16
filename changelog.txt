@@ -974,3 +974,6 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Updated CC Legality for Brand with Cinderclaw, Chart the High Seas, Orb-Weaver Spinneret (yellow and blue), Rootbound Carapace, and Wrath of Retribution
 - Updated LL Legality for Count Your Blessings, Deadwood Dirge, Rosetta Thorn, Warmonger's Diplomacy, and Zephyr Needle
 - Fixed incorrect power for Full of Bravado (yellow and blue) - bug notice credit: PvtVoid
+
+12-15-25:
+- Updated CC Legality for `Kano, Dracai of Aether` and Crucible of Aetherweave
