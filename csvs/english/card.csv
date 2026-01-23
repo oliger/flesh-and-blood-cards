@@ -2919,6 +2919,11 @@ When this leaves the arena, your next attack this turn gets +4{p}."	Guardian Ins
 MTjzGdRDGRGGqHmpn6zCH	Edge of Their Seats	Blue	3	3		3				Guardian, Instant, Aura		Suspense						"**Suspense**
 
 When this leaves the arena, your next attack this turn gets +3{p}."	Guardian Instant - Aura						
+wKQrdNKc6tbpWbGfNDtcn	Edict of Steel	Red	1	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
+
+If it has 1 or more +1{p} counters, create a Flurry token.
+
+**Go again**"	Warrior Action						
 6KnWFFJk9CkMRMMc8LJ8n	Eirina's Prayer	Red	1	1						Generic, Instant								Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 6 minus the pitch value of the card revealed this way.	Generic Instant					No	
 kmz8jrQKpgQbqpTJFzJ6N	Eirina's Prayer	Yellow	2	1						Generic, Instant								Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 5 minus the pitch value of the card revealed this way.	Generic Instant					No	
 CMGR6k8cP8rmnMww6JrKK	Eirina's Prayer	Blue	3	1						Generic, Instant								Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 4 minus the pitch value of the card revealed this way.	Generic Instant					No	
@@ -3772,6 +3777,7 @@ RrrMdb8KPhtNTzKFrRRWQ	Flourish	Yellow	2	0		2				Earth, Action		Go again						"Th
 PK8zK8ngMjKPzjTLR9zfB	Flourish	Blue	3	0		2				Earth, Action		Go again						"The next time an attack would gain {p} this turn, instead it gains that much plus 2.
 
 **Go again**"	Earth Action					No	
+jdkmHT8QfQmMbPLBHPrHJ	Flurry									Warrior, Token, Aura								When you activate a weapon attack, destroy this and you may attack with the weapon twice this turn.	Warrior Token - Aura						
 G8kKjJCFCz6GMTWhQkdzT	Flurry Stance	Red	1	0		3				Warrior, Action, Aura		Go again						"**Go again**
 
 At the start of your turn, destroy this, then you may attack with each dagger you control an additional time this turn."	Warrior Action - Aura					No	
@@ -11074,6 +11080,11 @@ HhTPF8HGRqhFbTT8HnBBh	Zen State									Ninja, Token, Aura								"Zen State ent
 
 Whenever your hero would be dealt damage, prevent 1 damage that source would deal."	Ninja Token - Aura						
 GDbCgdDrFKCWWthrgD6h6	Zen, Tamer of Purpose						40	4		Mystic, Ninja, Hero			Once per Turn Instant				Combo	**Once per Turn Instant** - {c}{c}{c}: Create a Crouching Tiger in your hand. Search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.	Mystic Ninja Hero		No		No	No	
+D8JcCHRDPNWCRtgCMgbtp	Zenith Blade				3					Warrior, Weapon, Sword, 2H		Hala Specialization, Go again	Once per Turn Action	Attack			Sharpen	"**Hala Specialization**
+
+**Once per Turn Action** - {r}: **Attack**
+
+If this has been sharpened this turn, its first attack this turn gets **go again**."	Warrior Weapon - Sword (2H)						
 DC8RfMDzMnthBkWJgmWpQ	Zephyr Needle				2					Ninja, Weapon, Dagger, 1H			Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}: **Attack**. **Go again**
 
 When Zephyr Needle is defended by a card with {d} greater than Zephyr Needle's {p}, destroy it when the combat chain closes."	Ninja Weapon - Dagger (1H)						
