@@ -119,6 +119,7 @@ CrWjLrqtQtppQhQCMt9LH	Aether Wildfire	Red	1	2		3			4	Wizard, Action								"Deal
 
 If Aether Wildfire is played during an opponents turn, until end of turn, action card effects that deal arcane damage instead deal that much arcane damage plus X, where X is the damage dealt by Aether Wildfire."	Wizard Action				No	No	
 hp6NPdQkGkWhrwpd7JWTF	Aetherize	Blue	3	1						Wizard, Instant		Negate						**Negate** target instant card with cost {r} or less.	Wizard Instant				No	No	
+hTQgmpCHwLFgQnFbgf6tC	Aetherstorm Wellingtons					0				Wizard, Equipment, Legs		Arcane Barrier 2						**Arcane Barrier 2**	Wizard Equipment - Legs						
 7brgFMk9NrkLtzqKrhFFW	Affirm Loyalty	Red	1	0		2				Draconic, Warrior, Attack Reaction								Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.	Draconic Warrior Attack Reaction					No	
 QrQCpQFPnLLPqN8qKgpTp	Aftershock	Red	1	4	8	3				Guardian, Action, Attack								When this attacks, if you've controlled a Seismic Surge token this turn, create a Seismic Surge token.	Guardian Action - Attack					No	
 qjmwqndpkqntDpKCcTcbp	Aftershock	Yellow	2	4	7	3				Guardian, Action, Attack								When this attacks, if you've controlled a Seismic Surge token this turn, create a Seismic Surge token.	Guardian Action - Attack					No	
@@ -2626,6 +2627,9 @@ Create a Blasmophet, the Soul Harvester token."	Shadow Instant				No	No
 KGqRPDfRrnPqdj7Cm76fr	Dorinthea						20	4		Warrior, Hero, Young								**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.	Warrior Hero - Young			No			No
 Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong						40	4		Warrior, Hero								**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.	Warrior Hero		No		No	No	
 NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy						20	4		Warrior, Hero, Young							Go again	The first time Dawnblade, Resplendent gains **go again** each turn, you may attack an additional time with it this turn.	Warrior Hero - Young			No	No	No	No
+QnFfpGtbFWTWCRjMrJnc7	Double Cross Strap					0				Ninja, Equipment, Chest		Arcane Barrier 1						"**Instant** - Destroy this: Gain {r}. Activate this only if you've hit 2 or more times this combat chain.
+
+**Arcane Barrier 1**"	Ninja Equipment - Chest						
 8JF8CGqcQRDnGWNBhkhtD	Double Down	Red	1	2		3				Guardian, Warrior, Action		Go again			Overpower		Wager	"You may destroy a Gold you control rather than pay Double Down's {r} cost.
 
 The next attack that **wagers** this turn gets +3{p} and **overpower**.
@@ -3094,6 +3098,7 @@ If Endless Winter was **fused**, whenever the defending hero adds a defending ca
 If Endless Winter hits a hero, until the end of their next turn, whenever they activate an ability, create a Frostbite token under their control."	Elemental Guardian Action - Attack				No	No	
 gjGhfGCFbTtWRGrfcgMQN	Energetic Impact	Blue	3	3	5	3				Brute, Action, Attack								When this defends together with a card with 6 or more {p}, create a Vigor token.	Brute Action - Attack				No	No	
 nHTP6hGgLz6zfpdFH9Fpt	Energy Potion	Blue	3	0						Generic, Action, Item			Instant					**Instant** - Destroy this: Gain {r}{r}	Generic Action - Item					No	
+mpzTpgpKkq6TDRT8JK7fF	Enflame the Firebrand	Red	1	0	2	3				Draconic, Ninja, Action, Attack		Go again						When this attacks, if you control 2 or more Draconic chain links, this gets **go again**, 3 or more, your attacks are Draconic this combat chain, 4 or more, this gets +2{p}.	Draconic Ninja Action - Attack						
 BRg6rFMmGRn6kPpT96W89	Engaged Swiftblade	Red	1	1		3				Warrior, Action		Go again			Go again			"Your next Warrior attack this turn gets +3{p} and ""If this is defended by an attack action card, this gets **Go again**.""
 
 **Go again**"	Warrior Action						
@@ -3619,6 +3624,9 @@ wLWmztzbRkrFkgzPCP6hT	Fire Tenet: Strike First	Yellow	2	0	2	2				Ninja, Action, 
 M9QNfBrcmp9zBJhztzDM7	Fire Tenet: Strike First	Blue	3	0	1	2				Ninja, Action, Attack		Go again						"When this attacks, your next Draconic attack this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack						
+wtncTCQkTwF99wgkzMhTm	Fire That Burns Within	Red	1	1	2	2				Draconic, Action, Attack		Go again						"When this attacks, you may discard a Phoenix Flame. If you do, draw a card and this gets +2{p}.
+
+**Go again**"	Draconic Action - Attack					No	
 P8MBHdhfJLMQ6qdPdWpCL	Fire and Brimstone	Red	1	2		3				Draconic, Warrior, Attack Reaction		Legendary						"**Legendary**
 
 This costs {r} less to play for each Draconic chain link you control.
@@ -3916,6 +3924,7 @@ NTctCqpK7LLrnKr9BnJKq	Frost Lock	Blue	3	1	3	3				Elemental, Ranger, Action, Arro
 Cards and activated abilities cost opposing heroes an additional {r} this turn.
 
 If Frost Lock was **fused**, it gains +1{p} and ""If this hits a hero, until the end of their next turn they can't pitch or play cards with base cost 0."""	Elemental Ranger Action - Arrow Attack				No	No	
+nrj7b7pBJCfDBqC7MgkN7	Frost Spike	Blue	3	0						Ice, Wizard, Instant								Create a Frostbite token in an exposed head, chest, arms, or legs zone.	Ice Wizard Instant						
 GHG6KkBzPkHDnMf7hL7K7	Frostbite									Elemental, Token, Aura								"Cards and abilities cost you an additional {r} to play or activate.
 
 At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite."	Elemental Token - Aura						
@@ -5838,6 +5847,9 @@ W9G8Kpb9cNTqNqpm8nJdz	Mask of Wizened Whiskers					1				Ninja, Equipment, Head		
 GBDFTmjdTmgRCdHngGWNR	Mask of the Pouncing Lynx					2				Ninja, Equipment, Head		Blade Break						"When an attack action card you control hits, you may destroy Mask of the Pouncing Lynx. If you do, search your deck for an attack action card with 2 or less {p}, banish it, then shuffle. You may play it this turn.
 
 **Blade Break**"	Ninja Equipment - Head				No	No	
+g87mMPgfPPFTprgJCCkrQ	Mask of the Swarming Claw					0				Ninja, Equipment, Head		Arcane Barrier 1, Spellvoid X						"**Arcane Barrier 1**
+
+**Spellvoid X**, where X is the number of chain links you control."	Ninja Equipment - Head						
 dGqFDHg9FqzfbDcNcLPtP	Massacre	Red	1	3	6	3				Brute, Action, Attack		Intimidate			Intimidate			"When you attack with Massacre, if you have discarded a card with 6 or more {p} this turn, Massacre gains +2{p} and **intimidate**.
 
 If Massacre is discarded to pay the cost of a Brute attack action card, **intimidate**."	Brute Action - Attack				No	No	
