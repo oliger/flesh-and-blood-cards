@@ -2017,6 +2017,8 @@ DdnDzmhwpNWtCjm7TqFQM	Concealed Object	Blue	3	0						Reviled, Instant, Item		The
 
 At the beginning of your end phase, destroy this."	Reviled Instant - Item					No	
 wTwJPcMRB8jf7rwCKzKPF	Concoct Disorder	Red	1	1	4	3				Chaos, Action, Attack		Go again						When this attacks, each hero puts the top card of their deck face-down into their arsenal. If 2 or more cards are put into arsenals this way, this gets **go again**.	Chaos Action - Attack						
+pqtLFGFhtmWgjMTMHDJLQ	Concoct Disorder	Yellow	2	1	3	3				Chaos, Action, Attack		Go again						When this attacks, each hero puts the top card of their deck face-down into their arsenal. If 2 or more cards are put into arsenals this way, this gets **go again**.	Chaos Action - Attack						
+jhTpW6FqWNmdHzcHd9j8B	Concoct Disorder	Blue	3	1	2	3				Chaos, Action, Attack		Go again						When this attacks, each hero puts the top card of their deck face-down into their arsenal. If 2 or more cards are put into arsenals this way, this gets **go again**.	Chaos Action - Attack						
 LFHpbg9HjJqrGt8jHNGHN	Concuss	Red	1	3	6	3				Guardian, Action, Attack								When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack						
 8GRgqRnNmTCMH8NnfzKPg	Concuss	Yellow	2	3	5	3				Guardian, Action, Attack								When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack						
 fLpMkKFnPn9qGw7LgJhmQ	Concuss	Blue	3	3	4	3				Guardian, Action, Attack								When this hits a hero, if this has {p} greater than its base, they discard a card.	Guardian Action - Attack						
@@ -2042,6 +2044,9 @@ WBFjTCfmbwHCr8WNmz8RQ	Confidence									Generic, Token, Aura								At the star
 GtL9zmpkGKMqgBcFfCQgN	Confront Adversity					2				Generic, Equipment, Chest		Blade Break						"This may only defend an attack if the attack's controller has destroyed a Vigor token this turn.
 
 **Blade Break**"	Generic Equipment - Chest						
+pmfpWCMWmppfjkQJpTKqC	Conquer the Icy Terrain	Red	1	3	7	2				Ice, Action, Attack								When this hits a hero, they may pay {r}{r}. If they don't, you may destroy a frozen card in their arsenal or a frozen non-hero permanent they control.	Ice Action - Attack						
+j6CmmkDpqRc7nKtL9Hkc7	Conquer the Icy Terrain	Yellow	2	3	6	2				Ice, Action, Attack								When this hits a hero, they may pay {r}{r}. If they don't, you may destroy a frozen card in their arsenal or a frozen non-hero permanent they control.	Ice Action - Attack						
+q8bcn97LGDDMCWB7P69cJ	Conquer the Icy Terrain	Blue	3	3	5	2				Ice, Action, Attack								When this hits a hero, they may pay {r}{r}. If they don't, you may destroy a frozen card in their arsenal or a frozen non-hero permanent they control.	Ice Action - Attack						
 gHzNJcBw6rtnCgNqfftPz	Conqueror of the High Seas	Red	1	4	7	3				Pirate, Action, Attack		High Tide, Go again						"When this hits a hero, destroy all cards in their arsenal. Create a Gold token for each card destroyed this way.
 
 **High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +1{p} and **go again**."	Pirate Action - Attack				No	No	
@@ -3137,6 +3142,9 @@ If you've **charged** this turn, Engulfing Light gains ""If this hits, put it in
 DbFJncpjwQmp8mg99RPqL	Engulfing Light	Blue	3	0	1	3				Light, Warrior, Action, Attack		Charge					Charge	"As an additional cost to play Engulfing Light, you may **charge** your hero's soul.
 
 If you've **charged** this turn, Engulfing Light gains ""If this hits, put it into your hero's soul."""	Light Warrior Action - Attack						
+jrJHMtHfhk7bGFqhNkD8K	Engulfing Shadows	Yellow	2	0		4				Shadow, Defense Reaction		Blood Debt						"If this would be put into your graveyard from anywhere, instead banish it.
+
+**Blood Debt**"	Shadow Defense Reaction						
 JKPFKKFqnLtmctLkwNCmc	Enigma						20	4		Mystic, Illusionist, Hero, Young			Once per Turn Instant					"Your first Spectral Shield attack each turn costs {r} less to activate.
 
 **Once per Turn Instant** - {c}{c}{c}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero - Young			No			No
@@ -4289,6 +4297,9 @@ Ng9LqqDzcwcTmQmDzWzjT	Graven Call				1					Assassin, Weapon, Dagger, 1H		Piercin
 **Piercing 1**
 
 **Instant** - Destroy 2 Silver you control: Equip this with a +1{p} counter. Activate this ability only while this is in your graveyard."	Assassin Weapon - Dagger (1H)				No	No	
+wkgMjwtjQk7NCGLFt9wDw	Graven Gaslight									Assassin, Equipment, Off-Hand		Spellvoid 1	Instant					"**Instant** - Destroy 2 Silver you control: Equip this. Activate this only while this is in your graveyard.
+
+**Spellvoid 1**"	Assassin Equipment - Off-Hand				No		
 wTC7KKjRHpQdTrHCTgkJj	Graven Justaucorpse					1				Necromancer, Equipment, Chest		Battleworn	Instant					"**Instant** - Destroy this: Discard a card. Gain {r} equal to its pitch value.
 
 **Battleworn**"	Necromancer Equipment - Chest				No	No	
@@ -4941,6 +4952,12 @@ FwwCqJKcNDNMjJn9mTCgg	Hyper Driver									Mechanologist, Token, Item							Boos
 
 Once per turn, when you boost a card, remove a steam counter from this and gain {r}."	Mechanologist Token - Item						
 wFqQ8FbrPHqHWjBkQCm8R	Hyper Inflation	Red	1	0	4	3				Chaos, Action, Attack		Go again						"When this attacks, cards cost {r} more to play this turn.
+
+**Go again**"	Chaos Action - Attack						
+6RmpNRmdhQFNjJTqtRwbK	Hyper Inflation	Yellow	2	0	4	3				Chaos, Action, Attack		Go again						"When this attacks, cards cost {r} more to play this turn.
+
+**Go again**"	Chaos Action - Attack						
+BKJbdNkwdHcnC987TRDwg	Hyper Inflation	Blue	3	0	4	3				Chaos, Action, Attack		Go again						"When this attacks, cards cost {r} more to play this turn.
 
 **Go again**"	Chaos Action - Attack						
 mC76qgRmwnBBqMkgTTfJ8	Hyper Scrapper	Blue	3	X	2	3				Mechanologist, Action, Attack		Go Again						"As an additional cost to play this, banish X items from your graveyard.
@@ -8050,6 +8067,8 @@ zzWc8BBmC9T6bfQwDMBPH	Runehold Release					0				Runeblade, Equipment, Arms			Act
 8zcbgBnjjdmM6G9hCqC9f	Runerager Swarm	Yellow	2	0	2	3				Runeblade, Action, Attack		Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack						
 NHbgwmKj6z9GrPHGPdCDh	Runerager Swarm	Blue	3	0	1	3				Runeblade, Action, Attack		Go again						If you've played or created an aura this turn, this gets **go again**.	Runeblade Action - Attack						
 FrwgNQ6rgmfkn8DnNwTDH	Runic Fellingsong	Red	1	3	7	3				Runeblade, Action, Attack								When this attacks, you may banish an aura from your graveyard. If you do, deal 1 arcane damage to target hero.	Runeblade Action - Attack						
+KCkCjwwFqqmmmzMDRJbdw	Runic Fellingsong	Yellow	2	3	6	3				Runeblade, Action, Attack								When this attacks, you may banish an aura from your graveyard. If you do, deal 1 arcane damage to target hero.	Runeblade Action - Attack						
+djwkWbcLBTTbgtNJMHbzP	Runic Fellingsong	Blue	3	3	5	3				Runeblade, Action, Attack								When this attacks, you may banish an aura from your graveyard. If you do, deal 1 arcane damage to target hero.	Runeblade Action - Attack						
 QLtPbbtqrQ9hNtWH6jG6t	Runic Reaping	Red	1	1		2				Runeblade, Action		Go again						"The next Runeblade attack action card you play this turn gains ""When this hits, create 3 Runechant tokens"".
 
 If an attack card was pitched to play Runic Reaping, the next Runeblade attack action card you play this turn gains +1{p}.
