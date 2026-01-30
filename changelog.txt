@@ -982,3 +982,8 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added card data for Edict of Steel (red), Flurry, and Zenith Blade - data entry assistance: manwaring
 - Added printing data for AHA002, AHA012, and AHA027 - data entry assistance: manwaring
 - Added image data for AHA001, AHA002, AHA012, and AHA027
+
+TODO:
+- Added set data for ANQ, PEN, SBR, SDA, and SDO
+- Added card data for ANQ, PEN - data assistance credit: manwaring
+- Added printing data for ANQ???-ANQ???, PEN???-PEN???, SBR001-SBR036, SDA001-SDA034, SDO001-SDO036 - data assistance credit: manwaring

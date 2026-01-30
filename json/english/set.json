@@ -1738,7 +1738,7 @@
     {
         "unique_id": "Rjj6Bmh9qqzdJdd7ckQbg",
         "id": "SAR",
-        "name": "Silver Age Chapter 1 - Arakni, Web of Deceit",
+        "name": "Silver Age Chapter 2 - Arakni, Web of Deceit",
         "printings": [
             {
                 "unique_id": "8z8ghJpGPjjNkggqCCfN6",
@@ -1759,7 +1759,7 @@
     {
         "unique_id": "Q9J7zq9bG8ppKB8THHFMC",
         "id": "SAZ",
-        "name": "Silver Age Chapter 1 - Azalea",
+        "name": "Silver Age Chapter 2 - Azalea",
         "printings": [
             {
                 "unique_id": "RcFcBBH7DJCfNpmmKWkCM",
@@ -1807,7 +1807,7 @@
                 "unique_id": "6hTbnzjHTGKWMGNr7jWHq",
                 "edition": "N",
                 "start_card_id": "SDA001",
-                "end_card_id": "SDA031",
+                "end_card_id": "SDA034",
                 "initial_release_date": "2026-02-13T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/silver-age-chapter-1-dash/",
@@ -1822,13 +1822,13 @@
     {
         "unique_id": "HfpzLjmDRw6qDGMGWc7N6",
         "id": "SDO",
-        "name": "Silver Age Chapter 1 - Dorinthea",
+        "name": "Silver Age Chapter 2 - Dorinthea",
         "printings": [
             {
                 "unique_id": "RMFGGLpCHGfDkFCfCPDTF",
                 "edition": "N",
                 "start_card_id": "SDO001",
-                "end_card_id": "SDO007",
+                "end_card_id": "SDO036",
                 "initial_release_date": "2026-02-13T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/silver-age-chapter-1-dorinthea/",
@@ -1864,7 +1864,7 @@
     {
         "unique_id": "NJtgtNMRWjppPT9rFbcJp",
         "id": "SEN",
-        "name": "Silver Age Chapter 1 - Enigma",
+        "name": "Silver Age Chapter 2 - Enigma",
         "printings": [
             {
                 "unique_id": "chn7ptqRwMGHr6DLNKtkC",
@@ -1885,7 +1885,7 @@
     {
         "unique_id": "gcm9RnTbGttwffjFhTzFP",
         "id": "SFA",
-        "name": "Silver Age Chapter 1 - Fai",
+        "name": "Silver Age Chapter 2 - Fai",
         "printings": [
             {
                 "unique_id": "6FgCqjRwr7TJg6jmJgdbj",
