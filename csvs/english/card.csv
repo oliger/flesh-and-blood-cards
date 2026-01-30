@@ -1,23 +1,4 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Silver Age Legal	Commoner Legal	LL Legal
-K8qbPC8KHcW77BNH9czcr	Enclosed Firemind					0				Guardian, Equipment, Head		Arcane Barrier 1						**Arcane Barrier 1**	Guardian Equipment - Head						
-cW9gnhd9dmMghRfHjzdgF	Basalt Boots					1				Guardian, Equipment, Legs		Temper						"If you control a Seismic Surge token, this gets +1{d}.
-
-**Temper**"	Guardian Equipment - Legs						
-qBLKg67dFpCD8mWdbW9Qq	Teklo Trebuchet 2000	Blue	3	0	1	3				Mechanologist, Action, Attack		Boost					Boost	"When this attacks, the next attack you boost this combat chain gets +2{p}.
-
-**Boost**"	Mechanologist Action - Attack						
-pwMHKpWQbDFMbH8pm77qd	Helm of Unity					1				Warrior, Equipment, Head		Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
-
-**Temper**"	Warrior Equipment - Head						
-LjJ9tpDPzKQ8P68jQp7jF	Gauntlets of Unity					1				Warrior, Equipment, Arms		Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
-
-**Temper**"	Warrior Equipment - Arms						
-JRcHqqHkwdJML7wfMRhM7	Predatory Plating					2				Brute, Equipment, Chest		Guardwell	Instant					"**Instant** - Destroy this: Gain {r}. Activate this only if you control a card with 6 or more {p}.
-
-**Guardwell**"	Brute Equipment - Chest						
-JbPPdLhqj6mFbd8RmP8Kq	Bear Hug	Red	1	2	7	3				Brute, Action, Attack								Play this only if you've pitched a card with 6 or more {p} this turn.	Brute Action - Attack						
-WRnzTrTkDBdWpC8MnQ7LJ	Bear Hug	Yellow	2	2	6	3				Brute, Action, Attack								Play this only if you've pitched a card with 6 or more {p} this turn.	Brute Action - Attack						
-6dntPtjP6wmc6nMwb79GP	Bear Hug	Blue	3	2	5	3				Brute, Action, Attack								Play this only if you've pitched a card with 6 or more {p} this turn.	Brute Action - Attack						
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	Red	1	8		3				Illusionist, Action, Aura		Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	No	
@@ -662,6 +643,9 @@ While Barraging Big Horn is defended by less than 2 non-equipment cards, it has 
 8h9W9mdd6djDk6JCMCdGt	Barraging Brawnhide	Red	1	3	7	2				Generic, Action, Attack								While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack						
 hJdQ9Bfwm8Fz8kdtzHHqL	Barraging Brawnhide	Yellow	2	3	6	2				Generic, Action, Attack								While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack						
 9FcqNtGpHg68zzCggJkkP	Barraging Brawnhide	Blue	3	3	5	2				Generic, Action, Attack								While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.	Generic Action - Attack						
+cW9gnhd9dmMghRfHjzdgF	Basalt Boots					1				Guardian, Equipment, Legs		Temper						"If you control a Seismic Surge token, this gets +1{d}.
+
+**Temper**"	Guardian Equipment - Legs						
 gBQnWLRkrTJNGGm7dWPBN	Base of the Mountain					*				Generic, Equipment, Legs		Blade Break						"When this defends, banish any number of action cards from your hand, then add them to the chain link as defending cards.
 
 This card's {d} is equal to the number of action cards defending on the active chain link.
@@ -738,6 +722,9 @@ If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action 
 mGnLtgpdjnhKbGFhzBnrj	Beaming Bravado	Blue	3	0	1	3				Light, Warrior, Action, Attack		Charge						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, this gets +1{p}"	Light Warrior Action - Attack					No	
+JbPPdLhqj6mFbd8RmP8Kq	Bear Hug	Red	1	2	7	3				Brute, Action, Attack								Play this only if you've pitched a card with 6 or more {p} this turn.	Brute Action - Attack						
+WRnzTrTkDBdWpC8MnQ7LJ	Bear Hug	Yellow	2	2	6	3				Brute, Action, Attack								Play this only if you've pitched a card with 6 or more {p} this turn.	Brute Action - Attack						
+6dntPtjP6wmc6nMwb79GP	Bear Hug	Blue	3	2	5	3				Brute, Action, Attack								Play this only if you've pitched a card with 6 or more {p} this turn.	Brute Action - Attack						
 GCQjzHBLkpLKfW89ckp7q	Beast Mode	Red	1	3	6	3				Brute, Action, Attack							Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack					No	
 qChkdKF86TQpR6ctdDhRw	Beast Mode	Yellow	2	3	5	3				Brute, Action, Attack							Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack					No	
 Gtz9rhLqmgQNLCBWWrhn6	Beast Mode	Blue	3	3	4	3				Brute, Action, Attack							Intimidate	If you've **intimidated** this turn, this gets +2{p}.	Brute Action - Attack					No	
@@ -3088,6 +3075,7 @@ At the beginning of your end phase, destroy Enchanting Melody unless you have pl
 If your hero would be dealt damage, instead destroy Enchanting Melody and prevent 2 damage that source would deal.
 
 At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn."	Generic Action - Aura					No	
+K8qbPC8KHcW77BNH9czcr	Enclosed Firemind					0				Guardian, Equipment, Head		Arcane Barrier 1						**Arcane Barrier 1**	Guardian Equipment - Head						
 dzwfFWGJkBjbWtjK6qbtM	Encore	Yellow	2	1		2				Bard, Action		Go again						"Return a Bard attack action card from your graveyard to your hand.
 
 **Go again**"	Bard Action					No	
@@ -3812,6 +3800,7 @@ RrrMdb8KPhtNTzKFrRRWQ	Flourish	Yellow	2	0		2				Earth, Action		Go again						"Th
 PK8zK8ngMjKPzjTLR9zfB	Flourish	Blue	3	0		2				Earth, Action		Go again						"The next time an attack would gain {p} this turn, instead it gains that much plus 2.
 
 **Go again**"	Earth Action					No	
+DfDQKGMfKrkdtfkJKLQch	Fluid Motion	Blue	3	0	2	3				Mystic, Action, Attack		Go again						If you've created a card this turn, this gets **go again**.	Mystic Action - Attack						
 jdkmHT8QfQmMbPLBHPrHJ	Flurry									Warrior, Token, Aura								When you activate a weapon attack, destroy this and you may attack with the weapon twice this turn.	Warrior Token - Aura						
 G8kKjJCFCz6GMTWhQkdzT	Flurry Stance	Red	1	0		3				Warrior, Action, Aura		Go again						"**Go again**
 
@@ -4042,6 +4031,9 @@ z6GNFrJctrhjhmJMLFQt9	Gauntlets of Iron Will					2				Guardian, Equipment, Arms	
 pFdwP78gRGn89wqbB9prr	Gauntlets of Tyrannical Rex					2				Brute, Equipment, Arms		Temper	Action	Go again				"**Action** - {r}, {t}: Your next attack this turn gets +1{p}. Activate this only if there is a card with 6 or more {p} in your pitch zone. **Go again**
 
 **Temper**"	Brute Equipment - Arms				No	No	
+LjJ9tpDPzKQ8P68jQp7jF	Gauntlets of Unity					1				Warrior, Equipment, Arms		Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
+
+**Temper**"	Warrior Equipment - Arms						
 HTF6WHdnfmgHD7pBFhMQL	Gauntlets of the Boreal Domain					2				Earth, Ice, Guardian, Equipment, Arms		Temper	Once per Turn Action	Go again	Dominate			"**Once per Turn Action** - {r}{r}: If an Earth card is pitched this way, your attacks named Mangle get +2{p} this turn. If an Ice card is pitched this way, your attacks named Mangle get **dominate** this turn. **Go again**
 
 **Temper**"	Earth Ice Guardian Equipment - Arms				No	No	
@@ -4569,6 +4561,9 @@ rjhDRz7JGN7kpDdjHQfrg	Helm of Isen's Peak					1				Guardian, Equipment, Head		Ba
 MfBtnKK96JRR8Nb7RWMBn	Helm of Sharp Eye					1				Warrior, Equipment, Head		Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.
 
 **Battleworn**"	Warrior Equipment - Head				No	No	
+pwMHKpWQbDFMbH8pm77qd	Helm of Unity					1				Warrior, Equipment, Head		Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
+
+**Temper**"	Warrior Equipment - Head						
 cWfNbbz7WB9nfNd8BbcNM	Helm of the Adored					1				Revered, Equipment, Head		The Crowd Cheers, Blade Break						"When this defends, **the crowd cheers** you.
 
 **Blade Break**"	Revered Equipment - Head						
@@ -5788,6 +5783,7 @@ PRzqJ97HHdM6f8bLKhGzQ	Mandible Claw				3					Brute, Weapon, Claw, 1H			Once per 
 
 If you have discarded a card with 6 or more {p} this turn, this card's attacks **go again**."	Brute Weapon - Claw (1H)						
 q7GfHcHBpWqCbtghcpnTj	Mangle	Red	1	4	8	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, destroy target equipment they control with a -1{d} counter.	Guardian Action - Attack				No	No	
+tGKpbmMLD7nkRRmzmRckm	Manifest Muscle	Blue	3	3	5	3				Mystic, Action, Attack								If you've created a card this turn, this gets +1{p}.	Mystic Action - Attack						
 f8QrwNNrtgKcB8MwLRQh8	Manifestation of Miragai	Blue	3	3						Mystic, Illusionist, Instant, Aura		Ward X						"This enters the arena with two +1{p} counters. If a Chi was pitched to play this, instead this enters the arena with four +1{p} counters.
 
 **Ward X**, where X is the number of +1{p} counters on this."	Mystic Illusionist Instant - Aura				No	No	
@@ -7031,6 +7027,9 @@ RWDphL6CBKRwDcqCHKfTG	Precision Press	Blue	3	1		3				Warrior, Action		Go again		
 8zzHWnJ8WdM8HtWn7FFCF	Predatory Assault	Red	1	2	6	3				Brute, Action, Attack		Dominate						If you have discarded a card with 6 or more {p} this turn, Predatory Assault gains **dominate**.	Brute Action - Attack						
 dzkNcddzgqbwg8k6KmD8c	Predatory Assault	Yellow	2	2	5	3				Brute, Action, Attack		Dominate						If you have discarded a card with 6 or more {p} this turn, Predatory Assault gains **dominate**.	Brute Action - Attack						
 WRkGPfTHMdgBnGtNpBhnp	Predatory Assault	Blue	3	2	4	3				Brute, Action, Attack		Dominate						If you have discarded a card with 6 or more {p} this turn, Predatory Assault gains **dominate**.	Brute Action - Attack						
+JRcHqqHkwdJML7wfMRhM7	Predatory Plating					2				Brute, Equipment, Chest		Guardwell	Instant					"**Instant** - Destroy this: Gain {r}. Activate this only if you control a card with 6 or more {p}.
+
+**Guardwell**"	Brute Equipment - Chest						
 r9GQj9McpQbr8Jf9jhkch	Predatory Streak	Red	1	0		2				Ninja, Action		Go again						"Create 3 Crouching Tigers in your banished zone. You may play them this turn.
 
 **Go again**"	Ninja Action						
@@ -9822,6 +9821,9 @@ fNFqtdWLq6tCPnnwjLLWL	Teklo Plasma Pistol				2					Mechanologist, Weapon, Pistol
 DgWtHJjggBQdwKWNpMKLz	Teklo Pounder	Blue	3	2						Mechanologist, Action, Item			Once per Turn Effect					"Teklo Pounder enters the arena with 3 steam counters on it. When Teklo Pounder has no steam counters on it, destroy it.
 
 **Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."	Mechanologist Action - Item				No	No	
+qBLKg67dFpCD8mWdbW9Qq	Teklo Trebuchet 2000	Blue	3	0	1	3				Mechanologist, Action, Attack		Boost					Boost	"When this attacks, the next attack you boost this combat chain gets +2{p}.
+
+**Boost**"	Mechanologist Action - Attack						
 RHn8rJBnGbggWjkLcJjJL	Teklonetic Force Field	Red	1			3				Mechanologist, Block							Overpower	When this defends an attack with **overpower**, this gets +2{d}.	Mechanologist Block						
 WbkFQ7Dn6C8WjHp977dzJ	Teklonetic Force Field	Yellow	2			2				Mechanologist, Block							Overpower	When this defends an attack with **overpower**, this gets +2{d}.	Mechanologist Block						
 TNkkjRT7C7cpJTKbBRfDm	Teklonetic Force Field	Blue	3			1				Mechanologist, Block							Overpower	When this defends an attack with **overpower**, this gets +2{d}.	Mechanologist Block						
