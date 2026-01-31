@@ -3073,6 +3073,9 @@ jrcdWNnMQCtrjQqKjd9Fw	Embodiment of Earth									Elemental, Token, Aura								
 
 At the beginning of your action phase, destroy Embodiment of Earth."	Elemental Token - Aura						
 QBwTWNc9FMGQfwHRTTdHj	Embodiment of Lightning									Elemental, Token, Aura					Go again			When you play an attack action card, destroy this, then the attack gets **go again**.	Elemental Token - Aura						
+MNDjrGBMKh8LtjTdhPrfz	Embody Greatness	Yellow	2	0						Shapeshifter, Instant		Shiyana Specialization						"**Shiyana Specialization**
+
+Name a living legend hero. Become that hero until the start of your next turn, except your base {h} doesn't change."	Shapeshifter Instant					No	
 nFFr6KgcT7gWPgbfRQQhW	Embolden	Red	1	4		3				Guardian, Action, Aura		Go again						"**Go again**
 
 When this enters the arena, if you control another non-token aura, draw a card.
@@ -4091,6 +4094,9 @@ If a hero has lost {h} this turn, you may play this as though it were an instant
 Create a Runechant token.
 
 **Blood Debt**"	Shadow Runeblade Action				No	No	
+q9r9fMjDdFnT6Lq88pcj6	Future Sight	Red	1	1						Wizard, Instant								Create 3 Sigil of Fate tokens.	Wizard Instant						
+WFpMMm7wjK9wBmTnRBqHf	Future Sight	Yellow	2	1						Wizard, Instant								Create 2 Sigil of Fate tokens.	Wizard Instant						
+JdkJpKTbhNmzgKkBWffjk	Future Sight	Blue	3	1						Wizard, Instant								Create a Sigil of Fate token.	Wizard Instant						
 FMkTCF7CdfJK9Ljfzb7bk	Fyendal's Fighting Spirit	Red	1	3	7	2				Generic, Action, Attack								When this attacks or defends, if you have less {h} than an opposing hero, gain 1{h}.	Generic Action - Attack						
 7NWDCLJnCJHrTpzbzw7Hw	Fyendal's Fighting Spirit	Yellow	2	3	6	2				Generic, Action, Attack								When this attacks or defends, if you have less {h} than an opposing hero, gain 1{h}.	Generic Action - Attack						
 PchH8H7tWqQMjdRdwTLPR	Fyendal's Fighting Spirit	Blue	3	3	5	2				Generic, Action, Attack								When this attacks or defends, if you have less {h} than an opposing hero, gain 1{h}.	Generic Action - Attack						
@@ -4269,6 +4275,9 @@ Whenever Dawnblade hits a hero this turn, put a +1{p} counter on it.
 
 **Go again**"	Warrior Action				No	No	
 FcfhgdgwB6BBHjbNHkFtL	Glory Seeker									Generic, Equipment, Head			Instant					**Instant** - {r}{r}{r}, destroy this: Draw a card.	Generic Equipment - Head						
+gmwg8fzdNG8rMfrHgD7kw	Gloves of Erasure					0				Wizard, Equipment, Arms		Blade Break						"When this leaves the arena, destroy target aura token.
+
+**Blade Break**"	Wizard Equipment - Arms						
 7ztwtMfmmbnrhqM9F797p	Glyph Overlay	Red	1	1		3			3	Wizard, Action		Surge						"Deal X+3 arcane damage to target hero, where X is the number of aura permanents you control with Sigil in their name.
 
 **Surge** - If this deals more than 3 damage, gain 1{h}, then shuffle all aura permanents you control with Sigil in their name into their owner's deck."	Wizard Action					No	
@@ -4278,6 +4287,7 @@ R9WwPqkfTJnGhpN8fmnCt	Glyph Overlay	Yellow	2	1		3			2	Wizard, Action		Surge					
 fDz7TpcM8GPdLWPCjcnKh	Glyph Overlay	Blue	3	1		3			1	Wizard, Action		Surge						"Deal X+1 arcane damage to target hero, where X is the number of aura permanents you control with Sigil in their name.
 
 **Surge** - If this deals more than 3 damage, gain 1{h}, then shuffle all aura permanents you control with Sigil in their name into their owner's deck."	Wizard Action					No	
+6KW6hmRbDRRcrThDpMDDT	Glyph Power Spell	Red	1	2		3			4	Wizard, Action								Deal 4 arcane damage to any target. If you control a card with Sigil in its name, instead deal 6 arcane damage.	Wizard Action					No	
 Ngk6PkmH6JQnfdC9zg8fQ	Go Bananas	Yellow	2	0						Generic, Instant								Name an action card. Open and reveal a booster pack of Flesh and Blood and put all cards with the chosen name into your hand. If the booster pack does not contain a card with the chosen name, you may repeat this process.	Generic Instant		No	No	No	No	No
 gnCjFF9rFPTrhTrBcjJGc	Goblet of Bloodrun Wine	Blue	3	0		2				Warrior, Action		Go again						"Create an Agility and a Vigor token.
 
@@ -6703,6 +6713,15 @@ N6LPcMrTJHqQGMctQKWTQ	Pain in the Backside	Red	1	0	3	2				Assassin, Ninja, Actio
 hNMR9pM9djfm8m9FHdmRb	Painful Passage	Red	1	0		3				Shadow, Runeblade, Action		Go again			Go again			"You may banish an attack action card from your hand. If you do, it gets +3{p} or **go again** until end of turn.
 
 **Go again**"	Shadow Runeblade Action				No	No	
+rk8tgdRQmPwNrDfdTTFgF	Painful Premonition	Red	1	0		3			3	Wizard, Action								"Deal 3 arcane damage to any target.
+
+If this deals damage, create a Sigil of Fate token."	Wizard Action						
+CqfqDWQc8mbmcdmbrnPqz	Painful Premonition	Yellow	2	0		3			2	Wizard, Action								"Deal 2 arcane damage to any target.
+
+If this deals damage, create a Sigil of Fate token."	Wizard Action						
+W9kDJQqdh6k8CGr9gctd6	Painful Premonition	Blue	3	0		3			1	Wizard, Action								"Deal 1 arcane damage to any target.
+
+If this deals damage, create a Sigil of Fate token."	Wizard Action						
 c9TrL6MwcrMKtmTbCHL76	Palantir Aeronought	Red	1	2	6	3				Mechanologist, Action, Attack			Thrice per Turn Instant					"The defending hero must defend this with an equipment they control if able.
 
 **Thrice per Turn Instant** - {t} a cog you control: This gets +1{p}. If this is the third time you've activated this ability, destroy a defending card."	Mechanologist Action - Attack				No	No	
@@ -8080,6 +8099,9 @@ W99DkNW9tQLbq6w6prDQB	Robe of Autumn's Fall					0				Ninja, Equipment, Chest		Ar
 CKdtt7jhNp8DK9QzCqGkz	Robe of Rapture					0				Wizard, Equipment, Chest		Arcane Barrier 1	Action					"**Action** - Destroy Robe of Rapture: Gain {r}{r}{r}.
 
 **Arcane Barrier 1**"	Wizard Equipment - Chest						
+tPk9crbnHLtHTFPgJRWHC	Robe of Resourcefulness					0				Wizard, Equipment, Chest		Blade Break						"When this leaves the arena, gain {r}{r}.
+
+**Blade Break**"	Wizard Equipment - Chest						
 tJgBqNwrFDtHPqpzftbMj	Rockslide Trap	Blue	3	0		2				Ranger, Defense Reaction, Trap								"Rockslide Trap can only be played from arsenal.
 
 When this defends, target attack gets -2{p}, unless the attacking hero pays {r}."	Ranger Defense Reaction - Trap					No	
@@ -8801,6 +8823,9 @@ pNQrNGQ9HK6jDRJLDrgqj	Shrill of Skullform	Blue	3	2	2	3				Runeblade, Action, Att
 Lzr8Htn8MrNnMggczHwGd	Shroud of Darkness									Shadow, Equipment, Head		Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
 
 **Blood Debt**"	Shadow Equipment - Head						
+dBmtb8rdJtFtKh7Lqjw6r	Shroud of the Fate Watcher					0				Wizard, Equipment, Head		Blade Break						"When this leaves the arena, create a Sigil of Fate token.
+
+**Blade Break**"	Wizard Equipment - Head						
 TrRC6WMrRhbCtKzpRQLPM	Sic 'Em Shot	Red	1	1	4	3				Ranger, Action, Arrow, Attack		Go again						**Go again**	Ranger Action - Arrow Attack						
 TMBGhtBJMzbWMLPzNJCW9	Sic 'Em Shot	Yellow	2	1	3	3				Ranger, Action, Arrow, Attack		Go again						**Go again**	Ranger Action - Arrow Attack						
 FHfhK9rLHDcNCdQJQ79Wh	Sic 'Em Shot	Blue	3	1	2	3				Ranger, Action, Arrow, Attack		Go again						**Go again**	Ranger Action - Arrow Attack						
@@ -8839,6 +8864,9 @@ tHjRjBqDhJFRwbPwgwdzj	Sigil of Earth	Blue	3	0		2				Earth, Action, Aura		Go agai
 At the beginning of your action phase, destroy this.
 
 When this leaves the arena, create an Embodiment of Earth token."	Earth Action - Aura						
+qBqzbKjQwMKKnBtM7GJGH	Sigil of Fate									Wizard, Token, Aura		Opt 1						"When this leaves the arena, **opt 1**.
+
+At the beginning of your action phase, destroy this."	Wizard Token - Aura						
 rcHhthcM7zrmd8nFWQtLz	Sigil of Forethought	Blue	3	0						Wizard, Instant, Aura								"At the beginning of your action phase, destroy this.
 
 When this leaves the arena, create a Ponder token."	Wizard Instant - Aura						
