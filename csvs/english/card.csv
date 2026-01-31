@@ -124,6 +124,9 @@ hTQgmpCHwLFgQnFbgf6tC	Aetherstorm Wellingtons					0				Wizard, Equipment, Legs		
 QrQCpQFPnLLPqN8qKgpTp	Aftershock	Red	1	4	8	3				Guardian, Action, Attack								When this attacks, if you've controlled a Seismic Surge token this turn, create a Seismic Surge token.	Guardian Action - Attack					No	
 qjmwqndpkqntDpKCcTcbp	Aftershock	Yellow	2	4	7	3				Guardian, Action, Attack								When this attacks, if you've controlled a Seismic Surge token this turn, create a Seismic Surge token.	Guardian Action - Attack					No	
 Tdqgbj6LhfPt6HzTHTwFK	Aftershock	Blue	3	4	6	3				Guardian, Action, Attack								When this attacks, if you've controlled a Seismic Surge token this turn, create a Seismic Surge token.	Guardian Action - Attack					No	
+k7MhcFckGBzRHjNQ6WhMR	Aggressive Pounce	Red	1	2	6	3				Brute, Action, Attack		Go again					Intimidate	If you've intimidated an opponent this turn, this gets **go again**.	Brute Action - Attack						
+zRmqkJcWnz6H9cTjB8DqF	Aggressive Pounce	Yellow	2	2	5	3				Brute, Action, Attack		Go again					Intimidate	If you've intimidated an opponent this turn, this gets **go again**.	Brute Action - Attack						
+JCRhKzfTd6pJCpdrwL8rt	Aggressive Pounce	Blue	3	2	4	3				Brute, Action, Attack		Go again					Intimidate	If you've intimidated an opponent this turn, this gets **go again**.	Brute Action - Attack						
 tFKpRnDbfcwtC8dwqm9qm	Agile Engagement	Red	1	1		2				Warrior, Attack Reaction								Target Warrior attack gets +3{p}. If it's defended by an attack action card, create an Agility token.	Warrior Attack Reaction						
 9czLrcQJTpWrCcJRm8dnz	Agile Engagement	Yellow	2	1		2				Warrior, Attack Reaction								Target Warrior attack gets +2{p}. If it's defended by an attack action card, create an Agility token.	Warrior Attack Reaction						
 Mj9fkHtdrzzmDw8RNCKmT	Agile Engagement	Blue	3	1		2				Warrior, Attack Reaction								Target Warrior attack gets +1{p}. If it's defended by an attack action card, create an Agility token.	Warrior Attack Reaction						
@@ -1472,6 +1475,9 @@ If Buzz Bolt was **fused**, whenever an attack hits a hero this turn, it deals 1
 dDCQHQ9NwDjzrMFDq9wHg	Buzz Bolt	Blue	3	1	3	3				Elemental, Ranger, Action, Arrow, Attack		Lightning Fusion						"**Lightning Fusion**
 
 If Buzz Bolt was **fused**, whenever an attack hits a hero this turn, it deals 1 damage to them."	Elemental Ranger Action - Arrow Attack						
+Kw9PPtD6DbnRWtNctNrbD	Buzzard Helm					1				Brute, Equipment, Head		Temper						"When this defends, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets +1{d} this turn.
+
+**Temper**"	Brute Equipment - Head						
 chkQDQ6HN77r7hg8pmkKt	Buzzsaw Trap	Blue	3	0		3				Ranger, Defense Reaction, Trap		Legendary, Riptide Specialization						"**Legendary Riptide Specialization**
 
 When this defends an attack with {p} greater than its base, the attack can't gain {p} this turn."	Ranger Defense Reaction - Trap				No	No	
@@ -7807,6 +7813,9 @@ gnjKkBhQtpnDgQ6Q6KD9G	Riled Up	Blue	3	3	5	3				Brute, Action, Attack								If y
 qCzFmGMk9nBPJPWMwdL97	Ring of Roses	Yellow	2	0		3				Earth, Wizard, Action, Aura		Legendary, Verdance Specialization						"**Legendary Verdance Specialization**
 
 The first time you deal arcane damage each turn, gain 1{h}."	Earth Wizard Action - Aura				No	No	
+NNFqk8C7PnFchKpGJMfph	Rip Off the Top	Yellow	2	1		2				Brute, Action		Go again						"Draw a card, then pitch a random card from your hand. If it has 6 or more {p}, your next attack this turn gets +3{p}.
+
+**Go again**"	Brute Action						
 9dRcPdjTTpWLNzbfhJwqB	Rip Through Reality	Red	1	2	4	3				Shadow, Runeblade, Action, Attack		Go again, Blood Debt						"You may play Rip Through Reality from your banished zone.
 
 If you have dealt arcane damage to an opposing hero this turn, Rip Through Reality gains **go again**.
@@ -8546,6 +8555,7 @@ If 1 or more cards with 6 or more {p} are banished this way, this gets +1{p}. 2 
 DMH8PRWDTmMm6mWtQqttn	Shake Down	Red	1	2	6	3				Assassin, Action, Attack		Uzuri Specialization						"**Uzuri Specialization**
 
 If you've played or activated an attack reaction this chain link, Shake Down has ""When this hits a hero, choose red, yellow, or blue. They reveal their hand. Banish a card of the chosen color."""	Assassin Action - Attack				No	No	
+bMdwPwTh7FJBpzbqTctKB	Shamanic Shinbones					0				Brute, Equipment, Legs		Arcane Barrier 1						**Arcane Barrier 1**	Brute Equipment - Legs						
 dbWtMTc6H6qKnbwKnLfRc	Sharp Shooters					1				Ranger, Equipment, Arms		Battleworn	Action	Go again				"**Action** - Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. **Go again**
 
 **Battleworn**"	Ranger Equipment - Arms				No	No	
@@ -8832,6 +8842,7 @@ m9KtRPwMhWCwt8Gfp86cn	Sizzle	Yellow	2	0		2				Lightning, Action		Go again						"
 
 **Go again**"	Lightning Action						
 DPh9t9CPG8qjfbPNPbfBK	Sizzling Steel	Red	1	1		2				Draconic, Warrior, Attack Reaction								Target dagger attack gets +3{p}. If you control 2 or more Draconic chain links, instead it gets +4{p}.	Draconic Warrior Attack Reaction						
+LB6wBhCKpBWCJqd9tFR8B	Skera Strapping					0				Brute, Equipment, Arms		Spellvoid 3						If you've pitched a card with 6 or more {p} this turn, this gets **spellvoid 3**.	Brute Equipment - Arms						
 cjk6KqfdDWCF6pLdpQFdj	Skittering Sands	Red	1	0		2				Draconic, Illusionist, Action		Transform, Go again						"**Transform** target ash you control into an Aether Ashwing. It gains +3{p} until end of turn.
 
 **Go again**"	Draconic Illusionist Action						
