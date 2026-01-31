@@ -3514,6 +3514,15 @@ When this is equipped, up to 1 target attack gets **go again**."	Mechanologist I
 gwnNzfNWWNnk6KRQnp7MW	Evo Zoom Call	Yellow	2	0		0				Mechanologist, Instant, Equipment, Evo, Head		Transform						"If you have a base head equipped, **transform** it into this, then equip this.
 
 When this is equipped, you may banish a card from you hand. If you do, draw a card."	Mechanologist Instant Equipment - Evo Head						
+KMpjC8BHFrCfjpbNQTGnP	Excessive Bloodloss	Red	1	1	5	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
+
+When this hits a hero, banish the top card of their deck. If it's red, repeat this process once."	Assassin Action - Attack						
+B77ffmH8r7GWqrKcwgDwN	Excessive Bloodloss	Yellow	2	1	4	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
+
+When this hits a hero, banish the top card of their deck. If it's red, repeat this process once."	Assassin Action - Attack						
+wzB7GqTmmpNTjqtQcMk7C	Excessive Bloodloss	Blue	3	1	3	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
+
+When this hits a hero, banish the top card of their deck. If it's red, repeat this process once."	Assassin Action - Attack						
 dHGPHrcmzW8TJT6m8mrPp	Expedite	Red	1	0	3	3				Mechanologist, Action, Attack		Boost						"**Boost**
 
 When this hits, you may put an item with cost 0 or 1 from your hand into the arena."	Mechanologist Action - Attack						
@@ -4414,12 +4423,32 @@ Ng9LqqDzcwcTmQmDzWzjT	Graven Call				1					Assassin, Weapon, Dagger, 1H		Piercin
 **Piercing 1**
 
 **Instant** - Destroy 2 Silver you control: Equip this with a +1{p} counter. Activate this ability only while this is in your graveyard."	Assassin Weapon - Dagger (1H)				No	No	
+ctk8ztqbzqLTRGNrQkJwf	Graven Cowl					2				Assassin, Equipment, Head		Blade Break						"While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.
+
+When this is equipped from anywhere other than your graveyard, put a -1{d} counter on it.
+
+**Blade Break**"	Assassin Equipment - Head						
 wkgMjwtjQk7NCGLFt9wDw	Graven Gaslight									Assassin, Equipment, Off-Hand		Spellvoid 1	Instant					"**Instant** - Destroy 2 Silver you control: Equip this. Activate this only while this is in your graveyard.
 
 **Spellvoid 1**"	Assassin Equipment - Off-Hand				No	No	
+tbhqDHnRMTh9JtkGdpwpG	Graven Gloves					2				Assassin, Equipment, Arms		Blade Break						"While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.
+
+When this is equipped from anywhere other than your graveyard, put a -1{d} counter on it.
+
+**Blade Break**"	Assassin Equipment - Arms						
 wTC7KKjRHpQdTrHCTgkJj	Graven Justaucorpse					1				Necromancer, Equipment, Chest		Battleworn	Instant					"**Instant** - Destroy this: Discard a card. Gain {r} equal to its pitch value.
 
 **Battleworn**"	Necromancer Equipment - Chest				No	No	
+JccrcTgJrBnTWHqk6GnTP	Graven Vestment					2				Assassin, Equipment, Chest		Blade Break						"While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.
+
+When this is equipped from anywhere other than your graveyard, put a -1{d} counter on it.
+
+**Blade Break**"	Assassin Equipment - Chest						
+PjpbjQFgwwt6Bc6BcwRr9	Graven Walkers					2				Assassin, Equipment, Legs		Blade Break						"While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.
+
+When this is equipped from anywhere other than your graveyard, put a -1{d} counter on it.
+
+**Blade Break**"	Assassin Equipment - Legs						
 Fq9Cg9pKGFKrTbfHq9mBb	Gravy Bones						20	4		Pirate, Necromancer, Hero, Young			Instant					"**Instant** - {t}, destroy a Gold you control: Draw a card, then discard a card.
 
 If a blue card has been put into your graveyard this turn, you may play cards with watery grave from your graveyard."	Pirate Necromancer Hero - Young			No			No
@@ -5506,6 +5535,15 @@ When this hits a hero, they lose 1{h}."	Assassin Action - Dagger Attack				No	No
 jtJnCFHwQf7w9hwzbBtQt	Knick Knack Bric-a-brac	Red	1	3		2				Generic, Action								"As an additional cost to play Knick Knack Bric-a-brac, you may destroy any number of Copper, Silver, and/or Gold you control.
 
 Search your deck for a card with Amulet, Potion, or Talisman in its name, put it into the arena, then shuffle. For each 4 Copper, 2 Silver, and/or 1 Gold destroyed this way, repeat this process."	Generic Action				No	No	
+WqbqQqpFcbnChCQGT7mpm	Knife Through	Red	1	0	3	3				Assassin, Action, Attack		Stealth, Go again						"**Stealth**
+
+If you've hit with a dagger this combat chain, this gets **go again**."	Assassin Action - Attack						
+j9JKbN6mfRQRdDfQPnR76	Knife Through	Yellow	2	0	2	3				Assassin, Action, Attack		Stealth, Go again						"**Stealth**
+
+If you've hit with a dagger this combat chain, this gets **go again**."	Assassin Action - Attack						
+zdbmNLTKjH8QqFBbWhKCF	Knife Through	Blue	3	0	1	3				Assassin, Action, Attack		Stealth, Go again						"**Stealth**
+
+If you've hit with a dagger this combat chain, this gets **go again**."	Assassin Action - Attack						
 j8jg6Htq98C6ChrtPMhhJ	Knife Through Butter	Red	1	1		3				Warrior, Action		Go again			Go again		Mark	"Your next dagger attack this turn gets +4{p}.
 
 Whenever you attack a **marked** hero this turn, the attack gets **go again**.
@@ -6188,6 +6226,9 @@ dhmDDqtfNCPcBnzfTKzrp	Mischievous Meeps	Red	1	1	2	2				Generic, Action, Attack		
 bCqKMLLRmjkM7K9TPKrNb	Misfire Dampener					1				Mechanologist, Equipment, Arms		Blade Break	Instant				Boost	"**Instant** - Destroy this: Prevent the next 1 arcane damage that would be dealt to you this turn. If you've **boosted** this turn, instead prevent the next 2.
 
 **Blade Break**"	Mechanologist Equipment - Arms				No	No	
+wJkMnrWFtbnjLLtkCr6zC	Mist Hunter	Red	1	0	4	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' blue cards. Whenever you complete this contract, create a Silver token.
+
+When this hits a Mystic hero, search their deck for any number of Inner Chi and banish them. Then shuffle."	Assassin Action - Attack					No	
 gJH8NpPRNdFtTbDQTDzHL	Mistcloak Gully			1						Mystic, Instant, Landmark		Legendary, Transcend						"**Legendary**
 
 The first attack that targets you each turn gets -1{p}.
@@ -9274,6 +9315,7 @@ Search your deck for a Runeblade aura with cost X or less, put it into the arena
 
 If X is 2 or more, this gets **go again**."	Runeblade Action				No	No	
 PCLwwwtFMQmLLpj6TD7hj	Song of Jack-be-Quick	Blue	3	0		3				Bard, Action, Song								Create a Quicken token under each other hero's control.	Bard Action - Song						
+mpzgL9GqgdGMPdGMnDKrw	Song of Larinkmorth White	Blue	3	0		3				Bard, Action, Song								Create a Frostbite token under each other hero's control.	Bard Action - Song					No	
 gG6NLRhhPKLPh6Q7nJHBT	Song of Sinew	Yellow	2	0		2				Brute, Action		Go again						"Reveal the top 4 cards of your deck. Your next attack this turn gets +X{p}, where X is the number of cards with 6 or more {p} revealed this way. Put them back in any order.
 
 **Go again**"	Brute Action				No	No	
