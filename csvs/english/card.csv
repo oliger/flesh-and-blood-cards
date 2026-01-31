@@ -446,6 +446,11 @@ When this attacks, if you've **beaten chest** this turn, create an Agility token
 TgfHM6NJztn6HpbgjDNMg	Assault and Battery	Blue	3	3	5	3				Brute, Action, Attack		Beat Chest					Beat Chest	"**Beat Chest**
 
 When this attacks, if you've **beaten chest** this turn, create an Agility token."	Brute Action - Attack						
+BkRHdjBwFhwMwmBfDhpfb	Assembly Module	Blue	3	0						Mechanologist, Action, Item		Crank						"**Crank**
+
+This enters the arena with a stream counter. At the start of your turn, destroy this unless you remove a steam counter from it.
+
+**Action** - {t}: Search your deck for a Hyper Driver, put it into the arena, then shuffle."	Mechanologist Action - Item						
 9zdPMfzWLFq7PWbjKmCc6	Astral Etchings	Red	1	1		3				Illusionist, Action							Ward	"Put three +1{p} counters on target aura with **ward** you control.
 
 If you control a Spectral Shield, you may play this as though it were an instant."	Illusionist Action					No	
@@ -957,6 +962,9 @@ Once each turn, you may play a card with **blood debt** from your banished zone.
 qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester				6		6			Shadow, Token, Demon, Ally			Once per Turn Action	Attack				"**Once per Turn Action** - 0: **Attack**
 
 Whenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul."	Shadow Token - Demon Ally						
+JRNzhJqgLDf7Nr87B9KBT	Blast Rig	Red	1	0	1	3				Mechanologist, Action, Attack		Evo Upgrade, Boost						"**Evo Upgrade** - This gets +1{p} for each Evo you have equipped.
+
+**Boost**"	Mechanologist Action - Attack						
 P8KJ8nmGmLRgmccLWcz8p	Blast to Oblivion	Red	1	0	4	2				Lightning, Action, Attack								When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack					No	
 TKDWphdbTMPCrQtMDTmTB	Blast to Oblivion	Yellow	2	0	3	2				Lightning, Action, Attack								When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack					No	
 cCBDbFWGMWN7QgWFBznbw	Blast to Oblivion	Blue	3	0	2	2				Lightning, Action, Attack								When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack					No	
@@ -3333,6 +3341,26 @@ kD7rTHdWjpwfWR9mw8qG7	Evo Battery Pack	Yellow	2	0		2				Mechanologist, Action, E
 **Once per Turn Instant** - Destroy a card under this: Put a steam counter on an item you control with crank.
 
 **Blade Break**"	Mechanologist Action Equipment - Evo Chest						
+QT9MbtNRBFHRQdGhckjpk	Evo Beta Base Arms	Blue	3	0		1				Mechanologist, Action, Equipment, Evo, Base, Arms		Transform, Battleworn						"If you have a base arms equipped, **transform** it into this, then equip this.
+
+Evo arms cost you {r} less to play.
+
+**Battleworn**"	Mechanologist Action Equipment - Evo Base Arms						
+km9fGmwfBqRwGhccLtgJm	Evo Beta Base Chest	Blue	3	0		1				Mechanologist, Action, Equipment, Evo, Base, Chest		Transform, Battleworn						"If you have a base chest equipped, **transform** it into this, then equip this.
+
+Evo chests cost you {r} less to play.
+
+**Battleworn**"	Mechanologist Action Equipment - Evo Base Chest						
+hwJJhrDhBFrkWr678FMrL	Evo Beta Base Head	Blue	3	0		1				Mechanologist, Action, Equipment, Evo, Base, Head		Transform, Battleworn						"If you have a base head equipped, **transform** it into this, then equip this.
+
+Evo heads cost you {r} less to play.
+
+**Battleworn**"	Mechanologist Action Equipment - Evo Base Head						
+GQDtpfrtDcDkPDFPwjRmf	Evo Beta Base Legs	Blue	3	0		1				Mechanologist, Action, Equipment, Evo, Base, Legs		Transform, Battleworn						"If you have a base legs equipped, **transform** it into this, then equip this.
+
+Evo legs cost you {r} less to play.
+
+**Battleworn**"	Mechanologist Action Equipment - Evo Base Legs						
 8CdLzKHrrnjKTFKG77GjM	Evo Buzz Hive	Yellow	2	0		0				Mechanologist, Instant, Equipment, Evo, Chest		Transform						"If you have a base chest equipped, **transform** it into this, then equip this.
 
 When this is equipped, gain {r}."	Mechanologist Instant Equipment - Evo Chest						
@@ -4550,6 +4578,9 @@ hwFjtcMfQHTbj6whzfhk6	Healing Balm	Red	1	0		2				Generic, Action								Gain 3{h
 z6Ltnt69ChWMCDBTTdWkL	Healing Balm	Yellow	2	0		2				Generic, Action								Gain 2{h}	Generic Action						
 PdKcNzJNPJgpcF9TTCqm6	Healing Balm	Blue	3	0		2				Generic, Action								Gain 1{h}	Generic Action						
 mRhKjfhKd6K6DPB8f6Twg	Healing Potion	Blue	3	0						Generic, Action, Item			Action	Go again				**Action** - Destroy this: Gain 2{h}. **Go again**	Generic Action - Item					No	
+PDhbcdqqj7T9HJhGwTwCQ	Heart Wrencher	Red	1	0	3	3				Mechanologist, Action, Wrench, Attack		Boost						**Boost**	Mechanologist Action - Wrench Attack						
+bQHRKzBGCWzR8JQnHRKqc	Heart Wrencher	Yellow	2	0	2	3				Mechanologist, Action, Wrench, Attack		Boost						**Boost**	Mechanologist Action - Wrench Attack						
+GCMJTNF9q7MkjqWGc6zQd	Heart Wrencher	Blue	3	0	1	3				Mechanologist, Action, Wrench, Attack		Boost						**Boost**	Mechanologist Action - Wrench Attack						
 pBpLPQ7kg6mkBpNMMPdCD	Heart of Fyendal	Blue	3							Generic, Resource, Gem		Legendary						"**Legendary**
 
 When you pitch Heart of Fyendal, if you have less {h} than an opposing hero, gain 1{h}."	Generic Resource - Gem				No	No	
@@ -4594,6 +4625,15 @@ WgHWK8qbFHRzWFpH9NCWQ	Heavy Industry Ram Stop					1				Mechanologist, Equipment,
 HDgpj7cmFJwFWqdrHgngk	Heavy Industry Surveillance					1				Mechanologist, Equipment, Head		Temper						"When this defends, you may banish the top card of your deck. If it's a Mechanologist card, this gets +1{d} until end of turn.
 
 **Temper**"	Mechanologist Equipment - Head				No	No	
+kcf7qcRNnNdCk8NL9N7NJ	Heavy Metal Hardcore	Red	1	0	3	3				Mechanologist, Action, Attack		Boost					Boost	"If an Evo has been banished from boosting this turn, this gets +1{p}.
+
+**Boost**"	Mechanologist Action - Attack						
+JjM6fT8dmFTMdKMpRjqCJ	Heavy Metal Hardcore	Yellow	2	0	2	3				Mechanologist, Action, Attack		Boost					Boost	"If an Evo has been banished from boosting this turn, this gets +1{p}.
+
+**Boost**"	Mechanologist Action - Attack						
+LRT8g7gJKf6RwWLbLmcdd	Heavy Metal Hardcore	Blue	3	0	1	3				Mechanologist, Action, Attack		Boost					Boost	"If an Evo has been banished from boosting this turn, this gets +1{p}.
+
+**Boost**"	Mechanologist Action - Attack						
 z7HGHDCwMDgBmhdhTnRhW	Heirloom of Rabbit Hide									Mystic, Illusionist, Equipment, Chest		Cloaked, Ward 4						"**Cloaked**
 
 While this is equipped face-down, at the start of your turn, if you have exactly 1{h}, you may turn this face-up.
@@ -9265,6 +9305,11 @@ thLLBGbP8r8KLmBjmcmPw	Spectral Rider	Blue	3	3	6	3				Illusionist, Action, Attack
 
 **Phantasm**"	Illusionist Action - Attack						
 NwwnMqBg9tdRBp9NWHpgf	Spectral Shield									Illusionist, Token, Aura		Ward 1						**Ward 1**	Illusionist Token - Aura						
+TftHKTdmTmqMGK7cRNcCD	Speed Demon	Red	1	0	3	3				Mechanologist, Action, Attack		Scrap						"**Scrap**
+
+If you control a Hyper Driver, this gets +1{p}.
+
+When this attacks, if it scrapped a Hyper Driver, create a Hyper Driver token with 2 steam counters."	Mechanologist Action - Attack						
 HL7qqDC6G6pCMKFFRrNLg	Spell Fray Cloak					0				Generic, Equipment, Chest		Spellvoid 1						**Spellvoid 1**	Generic Equipment - Chest						
 ct8dbmGW77wb6TkJwJkFT	Spell Fray Gloves					0				Generic, Equipment, Arms		Spellvoid 1						**Spellvoid 1**	Generic Equipment - Arms						
 8JHRBmh8WLLgMgCrP7Tpk	Spell Fray Leggings					0				Generic, Equipment, Legs		Spellvoid 1						**Spellvoid 1**	Generic Equipment - Legs						
@@ -11289,3 +11334,13 @@ THmjft8HQNJtD6fcJHKCc	Zoom In	Yellow	2	2	4	3				Mechanologist, Action, Attack		O
 P7pftB6CpnWmQHcFrdJqQ	Zoom In	Blue	3	2	3	3				Mechanologist, Action, Attack		Opt X, Boost					Boost	"When you attack with Zoom in, **opt X**, where X is the number of times you have **boosted** this combat chain.
 
 **Boost**"	Mechanologist Action - Attack						
+JgFBnrrK6K8qTw8nk9jK9	mBrio Base Cortex					0				Mechanologist, Equipment, Base, Chest		Guardwell						"If you control a Hyper Driver, this gets +2{d}.
+
+**Guardwell**"	Mechanologist Equipment - Base Chest						
+RDcn7fQgNLdCnRwjJ8pPK	mBrio Base Digits					1				Mechanologist, Equipment, Base, Arms		Temper	Instant					"**Instant** - {t} this and a cog you control: This gets +1{d} until end of turn.
+
+**Temper**"	Mechanologist Equipment - Base Arms						
+MLfgFRDKbTbWj8fBgMrjJ	mBrio Base Vizier					0				Mechanologist, Equipment, Base, Head		Arcane Barrier 1						"If you would be dealt arcane damage, you may remove a steam counter from a Hyper Driver you control to prevent 1 of that damage.
+
+**Arcane Barrier 1**"	Mechanologist Equipment - Base Head						
+dBjPM7HpftQtBRzdTwhQj	mBrio Base Walkers					0				Mechanologist, Equipment, Base, Legs		Quell 1						**Quell 1**	Mechanologist Equipment - Base Legs						
