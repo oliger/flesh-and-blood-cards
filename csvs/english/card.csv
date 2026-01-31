@@ -762,6 +762,24 @@ FzmdMTfjQrhzn8bNBhhDw	Become the Arknight	Blue	3	0		3				Runeblade, Action		Vise
 You may discard an action card. If you discard an attack action card this way, search your deck for a Runeblade 'non-attack' action card, reveal it, and put it into your hand. If you discard a 'non-attack' action card this way, search your deck for a Runeblade attack action card, reveal it, and put it into your hand. Shuffle your deck.
 
 **Go again**"	Runeblade Action				No	No	
+HfC6DCG8tfLwCTmzrwfzt	Become the Bottle	Red	1	0	3	2				Ninja, Action, Attack		Go again						"When this attacks, choose a card on the combat chain. This gets the chosen card's name.
+
+**Go again**"							
+9NLM87BBTkHgdjJFPHtWN	Become the Bottle	Yellow	2	0	2	2				Ninja, Action, Attack		Go again						"When this attacks, choose a card on the combat chain. This gets the chosen card's name.
+
+**Go again**"							
+DnHbCNhbpDHTJ9GpknKrb	Become the Bottle	Blue	3	0	1	2				Ninja, Action, Attack		Go again						"When this attacks, choose a card on the combat chain. This gets the chosen card's name.
+
+**Go again**"							
+NtqJQk8hdRWHTgKMKRWG6	Become the Cup	Red	1	0	3	2				Ninja, Action, Attack		Go again						"As you play this, choose a color. This gets the chosen color.
+
+**Go again**"							
+DdPqNRh6NTPMrgwRRNqwb	Become the Cup	Yellow	2	0	2	2				Ninja, Action, Attack		Go again						"As you play this, choose a color. This gets the chosen color.
+
+**Go again**"							
+tRgKFDwQnQRLT7qnNJ6kc	Become the Cup	Blue	3	0	1	2				Ninja, Action, Attack		Go again						"As you play this, choose a color. This gets the chosen color.
+
+**Go again**"							
 CtgLqKpjrGRtLnwbHjd9f	Belittle	Red	1	1	3	2				Generic, Action, Attack		Go again						"As an additional cost to play Belittle, you may reveal an attack action card with 3 or less base {p} from your hand. If you do, search your deck for a card named Minnowism, reveal it, put it into your hand, then shuffle your deck.
 
 **Go again**"	Generic Action - Attack						
@@ -2657,7 +2675,7 @@ Create a Blasmophet, the Soul Harvester token."	Shadow Instant				No	No
 KGqRPDfRrnPqdj7Cm76fr	Dorinthea						20	4		Warrior, Hero, Young								**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.	Warrior Hero - Young			No			No
 Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong						40	4		Warrior, Hero								**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.	Warrior Hero		No		No	No	
 NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy						20	4		Warrior, Hero, Young							Go again	The first time Dawnblade, Resplendent gains **go again** each turn, you may attack an additional time with it this turn.	Warrior Hero - Young			No	No	No	No
-QnFfpGtbFWTWCRjMrJnc7	Double Cross Strap					0				Ninja, Equipment, Chest		Arcane Barrier 1						"**Instant** - Destroy this: Gain {r}. Activate this only if you've hit 2 or more times this combat chain.
+QnFfpGtbFWTWCRjMrJnc7	Double Cross Strap					0				Ninja, Equipment, Chest		Arcane Barrier 1	Instant					"**Instant** - Destroy this: Gain {r}. Activate this only if you've hit 2 or more times this combat chain.
 
 **Arcane Barrier 1**"	Ninja Equipment - Chest						
 8JF8CGqcQRDnGWNBhkhtD	Double Down	Red	1	2		3				Guardian, Warrior, Action		Go again			Overpower		Wager	"You may destroy a Gold you control rather than pay Double Down's {r} cost.
@@ -2903,6 +2921,9 @@ t9JLzLpkTqwMQmzjkcDG8	Dustup	Blue	3	0	2	3				Draconic, Illusionist, Action, Atta
 C7NCzqwTbKtcQKjwHRzBK	Dyadic Carapace					2				Runeblade, Equipment, Chest		Arcane Barrier 2, Temper						"**Arcane Barrier 2**
 
 **Temper**"	Runeblade Equipment - Chest				No	No	
+6DFGcBD8MKkJmGmFLwQbc	Dyed Silk Sleeves					1				Ninja, Equipment, Arms		Blade Break	Attack Reaction					"**Attack Reaction** - {r}, {t}, destroy a dagger you control that's not on the active chain link: Target Ninja attack action card on the active chain link gets +1{p}. When the chain link resolves, if the attack didn't hit, destroy this.
+
+**Blade Break**"							
 tbfnpFfBddccMGLcDNbJC	Dynastic Dedication	Red	1	2		2				Draconic, Warrior, Attack Reaction								"This costs {r} less to play for each Draconic chain link you control.
 
 Target dagger attack gets +3{p}."	Draconic Warrior Attack Reaction						
@@ -3566,6 +3587,9 @@ h6J7CzPwdkTCKcbK7Jc8T	Fearless Confrontation	Blue	3	3	5	3				Generic, Action, At
 pdwzQtmTgqMnFqkPQKNhq	Feign Death	Yellow	2	1						Ranger, Instant								"Play Feign Death only if your hero has been dealt damage this turn.
 
 The next time your hero would be dealt damage this turn, prevent it."	Ranger Instant				No	No	
+rcQDk66HmLFR6mKt78BWT	Feign Vengeance	Blue	3	0	0	3				Ninja, Action, Attack		Go again						"When this chain link resolves, if there is a card defending this, draw a card.
+
+**Go again**"							
 KGLtMJpW96RGNDCDf9P7T	Feisty Locals	Red	1	0	3	2				Generic, Action, Attack								If this is defended by an action card, this gets +2{p}.	Generic Action - Attack						
 Bzd7tkQJqf6MhKpQhDH6r	Feisty Locals	Yellow	2	0	2	2				Generic, Action, Attack								If this is defended by an action card, this gets +2{p}.	Generic Action - Attack						
 BtFKjW9dLTMfpqcB8jkwT	Feisty Locals	Blue	3	0	1	2				Generic, Action, Attack								If this is defended by an action card, this gets +2{p}.	Generic Action - Attack						
@@ -10437,6 +10461,9 @@ wNtNbFgrfzcjJTMwRbkcg	Two Sides to the Blade	Red	1	1		3				Assassin, Attack Reac
 - Target dagger attack gets +3{p}.
 - Target attack action card with **stealth** gets +3{p} and ""When this hits a hero, **mark** them."""	Assassin Attack Reaction						
 CdDbm8CBpkbBRg9d6Hdck	Two Steps Ahead	Blue	3	0		3				Reviled, Guardian, Action, Aura								At the start of your turn, destroy this, then create a Confidence and 3 Might tokens.	Reviled Guardian Action - Aura				No	No	
+Twn68rHRjHKDjmnpDQddH	Two Steps Forward					1				Ninja, Equipment, Legs		Battleworn	Instant					"**Instant** - Destroy this: Create an Agility token. Activate this only if you've hit 2 or more times this combat chain.
+
+**Battleworn**"							
 gmR7DG76HhtdgwwTqQngT	Under Loop	Red	1	1	4	3				Mechanologist, Action, Attack		Boost						"**Boost**
 
 When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack				Yes	Yes	
