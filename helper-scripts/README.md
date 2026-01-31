@@ -40,8 +40,8 @@
     - Clean CSVs
     - Validate References
     - Generate Artists
-    - Generate Artists
     - Generate Unique IDs
+    - Update Card Legality
     - Generate JSON
     - Validate JSON
 - `./validate-json.sh`

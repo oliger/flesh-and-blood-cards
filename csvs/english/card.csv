@@ -450,7 +450,7 @@ BkRHdjBwFhwMwmBfDhpfb	Assembly Module	Blue	3	0						Mechanologist, Action, Item	
 
 This enters the arena with a stream counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
-**Action** - {t}: Search your deck for a Hyper Driver, put it into the arena, then shuffle."	Mechanologist Action - Item						
+**Action** - {t}: Search your deck for a Hyper Driver, put it into the arena, then shuffle."	Mechanologist Action - Item					No	
 9zdPMfzWLFq7PWbjKmCc6	Astral Etchings	Red	1	1		3				Illusionist, Action							Ward	"Put three +1{p} counters on target aura with **ward** you control.
 
 If you control a Spectral Shield, you may play this as though it were an instant."	Illusionist Action					No	
@@ -964,7 +964,7 @@ qJ8HCWnpHbPRGRGpt86Cb	Blasmophet, the Soul Harvester				6		6			Shadow, Token, De
 Whenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul."	Shadow Token - Demon Ally						
 JRNzhJqgLDf7Nr87B9KBT	Blast Rig	Red	1	0	1	3				Mechanologist, Action, Attack		Evo Upgrade, Boost						"**Evo Upgrade** - This gets +1{p} for each Evo you have equipped.
 
-**Boost**"	Mechanologist Action - Attack						
+**Boost**"	Mechanologist Action - Attack					No	
 P8KJ8nmGmLRgmccLWcz8p	Blast to Oblivion	Red	1	0	4	2				Lightning, Action, Attack								When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack					No	
 TKDWphdbTMPCrQtMDTmTB	Blast to Oblivion	Yellow	2	0	3	2				Lightning, Action, Attack								When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack					No	
 cCBDbFWGMWN7QgWFBznbw	Blast to Oblivion	Blue	3	0	2	2				Lightning, Action, Attack								When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.	Lightning Action - Attack					No	
@@ -1196,7 +1196,7 @@ If you've **charged** this turn, Bolt of Courage gains ""If this hits, draw a ca
 If you've **charged** this turn, Bolt of Courage gains ""If this hits, draw a card."""	Light Warrior Action - Attack						
 dMgNNhpNmBbDpjQHKC8j7	Bolt'n Boots					1				Ranger, Equipment, Legs		Battleworn	Attack Reaction		Go again			"**Attack Reaction** - {r}, destroy this: Target arrow attack with {p} greater than its base gets **go again**.
 
-**Battleworn**"	Ranger Equipment - Legs					No	
+**Battleworn**"	Ranger Equipment - Legs						
 qrRLQz7cjpKL6dGrjnbDp	Bolt'n' Shot	Red	1	0	4	3				Ranger, Action, Arrow, Attack		Go again, Reload						"If Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and ""If this hits, **reload.**"""	Ranger Action - Arrow Attack					No	
 rD7Jt7QKft9cPBKgjmTNq	Bolt'n' Shot	Yellow	2	0	3	3				Ranger, Action, Arrow, Attack		Go again, Reload						"If Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and ""If this hits, **reload.**"""	Ranger Action - Arrow Attack					No	
 fCNzFrbKLkdgtrnMdp7D8	Bolt'n' Shot	Blue	3	0	2	3				Ranger, Action, Arrow, Attack		Go again, Reload						"If Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and ""If this hits, **reload.**"""	Ranger Action - Arrow Attack					No	
@@ -2003,7 +2003,7 @@ Dc8cHfKHFHkg98Pwn6H96	Come to Fight	Blue	3	1		3				Generic, Action		Go again				
 **Go again**"	Generic Action						
 6fPwHjKFPwPTCfRgmrkB9	Comeback Kicks					1				Revered, Equipment, Legs		Battleworn					The Crowd Cheers	"Whenever the crowd cheers you, if you have less {h} than each other hero, you may destroy this. If you do, gain 1 action point.
 
-**Battleworn**"	Revered Equipment - Legs					No	
+**Battleworn**"	Revered Equipment - Legs						
 RLDRbkhHqH6DQCjtqPrMQ	Comeback Kid	Red	1	3	7	3				Revered, Action, Attack		The Crowd Cheers					The Crowd Cheers	"When this attacks a hero, if you have less {h} than them, **the crowd cheers** you.
 
 If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack					No	
@@ -3190,7 +3190,7 @@ If Endless Winter was **fused**, whenever the defending hero adds a defending ca
 If Endless Winter hits a hero, until the end of their next turn, whenever they activate an ability, create a Frostbite token under their control."	Elemental Guardian Action - Attack				No	No	
 gjGhfGCFbTtWRGrfcgMQN	Energetic Impact	Blue	3	3	5	3				Brute, Action, Attack								When this defends together with a card with 6 or more {p}, create a Vigor token.	Brute Action - Attack				No	No	
 nHTP6hGgLz6zfpdFH9Fpt	Energy Potion	Blue	3	0						Generic, Action, Item			Instant					**Instant** - Destroy this: Gain {r}{r}	Generic Action - Item					No	
-mpzTpgpKkq6TDRT8JK7fF	Enflame the Firebrand	Red	1	0	2	3				Draconic, Ninja, Action, Attack		Go again						When this attacks, if you control 2 or more Draconic chain links, this gets **go again**, 3 or more, your attacks are Draconic this combat chain, 4 or more, this gets +2{p}.	Draconic Ninja Action - Attack						
+mpzTpgpKkq6TDRT8JK7fF	Enflame the Firebrand	Red	1	0	2	3				Draconic, Ninja, Action, Attack		Go again						When this attacks, if you control 2 or more Draconic chain links, this gets **go again**, 3 or more, your attacks are Draconic this combat chain, 4 or more, this gets +2{p}.	Draconic Ninja Action - Attack					No	
 BRg6rFMmGRn6kPpT96W89	Engaged Swiftblade	Red	1	1		3				Warrior, Action		Go again			Go again			"Your next Warrior attack this turn gets +3{p} and ""If this is defended by an attack action card, this gets **Go again**.""
 
 **Go again**"	Warrior Action						
@@ -3220,7 +3220,7 @@ DbFJncpjwQmp8mg99RPqL	Engulfing Light	Blue	3	0	1	3				Light, Warrior, Action, At
 If you've **charged** this turn, Engulfing Light gains ""If this hits, put it into your hero's soul."""	Light Warrior Action - Attack						
 jrJHMtHfhk7bGFqhNkD8K	Engulfing Shadows	Yellow	2	0		4				Shadow, Defense Reaction		Blood Debt						"If this would be put into your graveyard from anywhere, instead banish it.
 
-**Blood Debt**"	Shadow Defense Reaction						
+**Blood Debt**"	Shadow Defense Reaction					No	
 JKPFKKFqnLtmctLkwNCmc	Enigma						20	4		Mystic, Illusionist, Hero, Young			Once per Turn Instant					"Your first Spectral Shield attack each turn costs {r} less to activate.
 
 **Once per Turn Instant** - {c}{c}{c}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero - Young			No			No
@@ -3359,22 +3359,22 @@ QT9MbtNRBFHRQdGhckjpk	Evo Beta Base Arms	Blue	3	0		1				Mechanologist, Action, E
 
 Evo arms cost you {r} less to play.
 
-**Battleworn**"	Mechanologist Action Equipment - Evo Base Arms						
+**Battleworn**"	Mechanologist Action Equipment - Evo Base Arms					No	
 km9fGmwfBqRwGhccLtgJm	Evo Beta Base Chest	Blue	3	0		1				Mechanologist, Action, Equipment, Evo, Base, Chest		Transform, Battleworn						"If you have a base chest equipped, **transform** it into this, then equip this.
 
 Evo chests cost you {r} less to play.
 
-**Battleworn**"	Mechanologist Action Equipment - Evo Base Chest						
+**Battleworn**"	Mechanologist Action Equipment - Evo Base Chest					No	
 hwJJhrDhBFrkWr678FMrL	Evo Beta Base Head	Blue	3	0		1				Mechanologist, Action, Equipment, Evo, Base, Head		Transform, Battleworn						"If you have a base head equipped, **transform** it into this, then equip this.
 
 Evo heads cost you {r} less to play.
 
-**Battleworn**"	Mechanologist Action Equipment - Evo Base Head						
+**Battleworn**"	Mechanologist Action Equipment - Evo Base Head					No	
 GQDtpfrtDcDkPDFPwjRmf	Evo Beta Base Legs	Blue	3	0		1				Mechanologist, Action, Equipment, Evo, Base, Legs		Transform, Battleworn						"If you have a base legs equipped, **transform** it into this, then equip this.
 
 Evo legs cost you {r} less to play.
 
-**Battleworn**"	Mechanologist Action Equipment - Evo Base Legs						
+**Battleworn**"	Mechanologist Action Equipment - Evo Base Legs					No	
 8CdLzKHrrnjKTFKG77GjM	Evo Buzz Hive	Yellow	2	0		0				Mechanologist, Instant, Equipment, Evo, Chest		Transform						"If you have a base chest equipped, **transform** it into this, then equip this.
 
 When this is equipped, gain {r}."	Mechanologist Instant Equipment - Evo Chest						
@@ -3649,7 +3649,7 @@ pdwzQtmTgqMnFqkPQKNhq	Feign Death	Yellow	2	1						Ranger, Instant								"Play F
 The next time your hero would be dealt damage this turn, prevent it."	Ranger Instant				No	No	
 rcQDk66HmLFR6mKt78BWT	Feign Vengeance	Blue	3	0	0	3				Ninja, Action, Attack		Go again						"When this chain link resolves, if there is a card defending this, draw a card.
 
-**Go again**"							
+**Go again**"						No	
 KGLtMJpW96RGNDCDf9P7T	Feisty Locals	Red	1	0	3	2				Generic, Action, Attack								If this is defended by an action card, this gets +2{p}.	Generic Action - Attack						
 Bzd7tkQJqf6MhKpQhDH6r	Feisty Locals	Yellow	2	0	2	2				Generic, Action, Attack								If this is defended by an action card, this gets +2{p}.	Generic Action - Attack						
 BtFKjW9dLTMfpqcB8jkwT	Feisty Locals	Blue	3	0	1	2				Generic, Action, Attack								If this is defended by an action card, this gets +2{p}.	Generic Action - Attack						
@@ -4048,7 +4048,7 @@ NTctCqpK7LLrnKr9BnJKq	Frost Lock	Blue	3	1	3	3				Elemental, Ranger, Action, Arro
 Cards and activated abilities cost opposing heroes an additional {r} this turn.
 
 If Frost Lock was **fused**, it gains +1{p} and ""If this hits a hero, until the end of their next turn they can't pitch or play cards with base cost 0."""	Elemental Ranger Action - Arrow Attack				No	No	
-nrj7b7pBJCfDBqC7MgkN7	Frost Spike	Blue	3	0						Ice, Wizard, Instant								Create a Frostbite token in an exposed head, chest, arms, or legs zone.	Ice Wizard Instant						
+nrj7b7pBJCfDBqC7MgkN7	Frost Spike	Blue	3	0						Ice, Wizard, Instant								Create a Frostbite token in an exposed head, chest, arms, or legs zone.	Ice Wizard Instant					No	
 GHG6KkBzPkHDnMf7hL7K7	Frostbite									Elemental, Token, Aura								"Cards and abilities cost you an additional {r} to play or activate.
 
 At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite."	Elemental Token - Aura						
@@ -4190,10 +4190,10 @@ This enters the arena with an energy counter. When it has none, destroy it.
 At the beginning of your end phase, remove an energy counter from this and create a Seismic Surge token."	Guardian Action - Aura						
 7qQ8nJLhDkq7b78HKHgHQ	Ghost Protocol: Architect	Red	1	0	1	3				Mechanologist, Action, Attack		Evo Upgrade					Boost	"If this was banished from boosting this turn, you may play this from your banished zone.
 
-**Evo Upgrade** - When this attacks, search your deck for an Evo with cost less than or equal to the number of Evos you have equipped, banish it, then shuffle."	Mechanologist Action - Attack				No	No	No
+**Evo Upgrade** - When this attacks, search your deck for an Evo with cost less than or equal to the number of Evos you have equipped, banish it, then shuffle."	Mechanologist Action - Attack				No	No	
 HJ9JjdmGt7JdNcJ7MT68w	Ghost Protocol: Mainframe	Blue	3	0	1	3				Mechanologist, Action, Attack		Evo Upgrade					Boost	"If this was banished from boosting this turn, you may play this from your banished zone.
 
-**Evo Upgrade** - This gets +1{p} for each Evo you have equipped."	Mechanologist Action - Attack				No	No	No
+**Evo Upgrade** - This gets +1{p} for each Evo you have equipped."	Mechanologist Action - Attack				No	No	
 rmdqRKFwTMWr97GPqNd6Q	Ghostly Touch					0				Illusionist, Equipment, Arms			Once per Turn Action	Go again				"Whenever an Illusionist attack you control is destroyed by **phantasm**, put a haunt counter on Ghostly Touch.
 
 **Once per Turn Action** - Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {h} equal to the number of haunt counters on it, and ""**Once per Turn Action** - {r}{r}{r}: **Attack**"". **Go again**"	Illusionist Equipment - Arms				No	No	
@@ -4403,7 +4403,7 @@ Ng9LqqDzcwcTmQmDzWzjT	Graven Call				1					Assassin, Weapon, Dagger, 1H		Piercin
 **Instant** - Destroy 2 Silver you control: Equip this with a +1{p} counter. Activate this ability only while this is in your graveyard."	Assassin Weapon - Dagger (1H)				No	No	
 wkgMjwtjQk7NCGLFt9wDw	Graven Gaslight									Assassin, Equipment, Off-Hand		Spellvoid 1	Instant					"**Instant** - Destroy 2 Silver you control: Equip this. Activate this only while this is in your graveyard.
 
-**Spellvoid 1**"	Assassin Equipment - Off-Hand				No		
+**Spellvoid 1**"	Assassin Equipment - Off-Hand				No	No	
 wTC7KKjRHpQdTrHCTgkJj	Graven Justaucorpse					1				Necromancer, Equipment, Chest		Battleworn	Instant					"**Instant** - Destroy this: Discard a card. Gain {r} equal to its pitch value.
 
 **Battleworn**"	Necromancer Equipment - Chest				No	No	
@@ -4504,7 +4504,7 @@ When you **boost** an attack, destroy this. If you do, the attack gets +X{p}, wh
 rWqFtWTCDnrgzPJthDHkR	Hala Goldenhelm					3				Warrior, Mentor					Go again			"While Hala is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Hala is face up in arsenal, whenever a sword attack you control hits, it gains **go again** and put a lesson counter on Hala. Then if there are 2 or more lesson counters on Hala, banish her, search your deck for Glistening Steelblade, put it face up in arsenal, and shuffle."	Warrior Mentor			No	No	No	No
-FQFkLFgp9pJqdd8mQkJTQ	Hala, Bladesaint of the Vow						40	4		Warrior, Hero			Action	Sharpen, Go again				**Action** - {r}{r}{r}, {t}: **Sharpen** target sword you control. **Go again**	Warrior Hero			No	No		
+FQFkLFgp9pJqdd8mQkJTQ	Hala, Bladesaint of the Vow						40	4		Warrior, Hero			Action	Sharpen, Go again				**Action** - {r}{r}{r}, {t}: **Sharpen** target sword you control. **Go again**	Warrior Hero		No		No	No	
 phPFrDkRwGDrqrwq8M8T6	Halo of Illumination					0				Light, Equipment, Head		Spellvoid 2	Instant					"**Instant** - {r}, destroy Halo of Illumination: Put a card from your hand into your hero's soul. If it's a Light card, draw a card.
 
 **Spellvoid 2**"	Light Equipment - Head						
@@ -5891,7 +5891,7 @@ When this hits a Runeblade or Wizard hero, you may destroy an aura they control.
 T6b7mmKBRHjBq9TQwfRB7	Mage Master Boots					0				Generic, Equipment, Legs			Action	Go again	Go again			**Action** - {r}, destroy Mage Master Boots: The next 'non-attack' action card you play this turn gains **go again**. **Go again**	Generic Equipment - Legs						
 JH8mLKJQjfKTt9Nb7Whf6	Magmatic Carapace					2				Guardian, Equipment, Chest		Guardwell						"Whenever you play an aura, you may {t} this and pay {r}. If you do, create a Seismic Surge token.
 
-**Guardwell**"	Guardian Equipment - Chest					No	
+**Guardwell**"	Guardian Equipment - Chest						
 W8qgQqqTzWMFFcCCzTLGg	Magrar									Merchant, Equipment, Off-Hand		Genis Specialization	Action					"**Genis Specialization**
 
 **Action** - Destroy this: Create a Zen State and an Inertia token."	Merchant Equipment - Off-Hand		No	No	No	No	No
@@ -7510,7 +7510,7 @@ During your turn, this has **ward 6**. Otherwise, this has **ward 1**."	Illusion
 dMJht8gmwFJG8cKdpzCnw	Raging Onslaught	Yellow	2	3	6	3				Generic, Action, Attack									Generic Action - Attack						
 DdH9qjhnPGKnpr9fTfNjb	Raging Onslaught	Blue	3	3	5	3				Generic, Action, Attack									Generic Action - Attack						
 K7KgTFCHdGNnqTkJfPtTG	Rain Razors	Yellow	2	0						Ranger, Instant								Arrows have +2{p} while attacking this turn.	Ranger Instant				No	No	
-jkdq8cLQJQjrgGcLmPzM6	Rainbow Goo Trap	Red	1	0		3				Ranger, Defense Reaction, Trap							Dominate, Go again	When this defends an attack with {p} greater than its base, dominate, and go again, the attack gets -2{p} and loses and can't gain abilities.	Ranger Defense Reaction - Trap						
+jkdq8cLQJQjrgGcLmPzM6	Rainbow Goo Trap	Red	1	0		3				Ranger, Defense Reaction, Trap							Dominate, Go again	When this defends an attack with {p} greater than its base, dominate, and go again, the attack gets -2{p} and loses and can't gain abilities.	Ranger Defense Reaction - Trap					No	
 JW7fjRH9gMGGLdgQRjNGk	Raise an Army	Yellow	2	0		3				Warrior, Action		Kassai Specialization, Go again						"**Kassai Specialization**
 
 As an additional cost to play this, destroy X Gold you control.
@@ -7801,7 +7801,7 @@ M9wDtMRwDFB9chfhJRNWJ	Remorseless	Red	1	1	5	3				Ranger, Action, Arrow, Attack		
 If Remorseless hits a hero, until the end of their next turn, whenever they play an action card, they lose 1{h}."	Ranger Action - Arrow Attack				No	No	
 wPRqFt9jMPmdRLQmhb8jt	Rend Flesh	Blue	3	0		3				Warrior, Action		Go again						"Until end of turn, whenever a sword you control hits a hero, you may remove a +1{p} counter from it. If you do, they lose 2{h}.
 
-**Go again**"	Warrior Action						
+**Go again**"	Warrior Action					No	
 6dCLFb9TTGPNKHFqH7mzw	Renounce Grandeur	Red	1	3	7	3				Guardian, Action, Attack		Crush						"If the defending hero controls an aura token, this gets +1{p}.
 
 **Crush** - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn."	Guardian Action - Attack					No	
@@ -7940,7 +7940,7 @@ qCzFmGMk9nBPJPWMwdL97	Ring of Roses	Yellow	2	0		3				Earth, Wizard, Action, Aura
 The first time you deal arcane damage each turn, gain 1{h}."	Earth Wizard Action - Aura				No	No	
 NNFqk8C7PnFchKpGJMfph	Rip Off the Top	Yellow	2	1		2				Brute, Action		Go again						"Draw a card, then pitch a random card from your hand. If it has 6 or more {p}, your next attack this turn gets +3{p}.
 
-**Go again**"	Brute Action						
+**Go again**"	Brute Action					No	
 9dRcPdjTTpWLNzbfhJwqB	Rip Through Reality	Red	1	2	4	3				Shadow, Runeblade, Action, Attack		Go again, Blood Debt						"You may play Rip Through Reality from your banished zone.
 
 If you have dealt arcane damage to an opposing hero this turn, Rip Through Reality gains **go again**.
@@ -8872,7 +8872,7 @@ rND7FTTmHRmpR6DbR8PBQ	Sigil of Silphidae	Blue	3	0		3				Runeblade, Action, Aura	
 
 When this enters or leaves the arena, you may banish another aura from your graveyard. If you do, deal 1 arcane damage to target hero.
 
-At the beginning of your action phase, destroy this."	Runeblade Action - Aura				No		
+At the beginning of your action phase, destroy this."	Runeblade Action - Aura					No	
 kzW8BKdWcm9LwtTCTdqRK	Sigil of Solace	Red	1	0						Generic, Instant								Gain 3{h}	Generic Instant					No	
 FDdnD9zhdgCkJFTQdLbbp	Sigil of Solace	Yellow	2	0						Generic, Instant								Gain 2{h}	Generic Instant					No	
 QgFnmwphgLtnNmrHF8B6w	Sigil of Solace	Blue	3	0						Generic, Instant								Gain 1{h}	Generic Instant					No	
@@ -9334,7 +9334,7 @@ TftHKTdmTmqMGK7cRNcCD	Speed Demon	Red	1	0	3	3				Mechanologist, Action, Attack		
 
 If you control a Hyper Driver, this gets +1{p}.
 
-When this attacks, if it scrapped a Hyper Driver, create a Hyper Driver token with 2 steam counters."	Mechanologist Action - Attack						
+When this attacks, if it scrapped a Hyper Driver, create a Hyper Driver token with 2 steam counters."	Mechanologist Action - Attack					No	
 HL7qqDC6G6pCMKFFRrNLg	Spell Fray Cloak					0				Generic, Equipment, Chest		Spellvoid 1						**Spellvoid 1**	Generic Equipment - Chest						
 ct8dbmGW77wb6TkJwJkFT	Spell Fray Gloves					0				Generic, Equipment, Arms		Spellvoid 1						**Spellvoid 1**	Generic Equipment - Arms						
 8JHRBmh8WLLgMgCrP7Tpk	Spell Fray Leggings					0				Generic, Equipment, Legs		Spellvoid 1						**Spellvoid 1**	Generic Equipment - Legs						
@@ -10023,7 +10023,7 @@ DgWtHJjggBQdwKWNpMKLz	Teklo Pounder	Blue	3	2						Mechanologist, Action, Item			
 **Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."	Mechanologist Action - Item				No	No	
 qBLKg67dFpCD8mWdbW9Qq	Teklo Trebuchet 2000	Blue	3	0	1	3				Mechanologist, Action, Attack		Boost					Boost	"When this attacks, the next attack you boost this combat chain gets +2{p}.
 
-**Boost**"	Mechanologist Action - Attack						
+**Boost**"	Mechanologist Action - Attack					No	
 RHn8rJBnGbggWjkLcJjJL	Teklonetic Force Field	Red	1			3				Mechanologist, Block							Overpower	When this defends an attack with **overpower**, this gets +2{d}.	Mechanologist Block						
 WbkFQ7Dn6C8WjHp977dzJ	Teklonetic Force Field	Yellow	2			2				Mechanologist, Block							Overpower	When this defends an attack with **overpower**, this gets +2{d}.	Mechanologist Block						
 TNkkjRT7C7cpJTKbBRfDm	Teklonetic Force Field	Blue	3			1				Mechanologist, Block							Overpower	When this defends an attack with **overpower**, this gets +2{d}.	Mechanologist Block						
@@ -10428,7 +10428,7 @@ rmTKDcDNJrDFRMdKrRmdH	Trench of Sunken Treasure					1				Ranger, Equipment, Ches
 **Blade Break**"	Ranger Equipment - Chest				No	No	
 wr9jWmbRhHJ7th99rbPGd	Trench of Watery Depths					1				Pirate, Equipment, Chest		Blade Break						"When this defends, you may pitch a blue card from your graveyard.
 
-**Blade Break**"	Pirate Equipment - Chest					No	
+**Blade Break**"	Pirate Equipment - Chest						
 6GBcGgr77phGjWjbjNbRn	Tri-shot	Blue	3	0		3				Ranger, Action		Go again						"You may activate target bow you control 2 additional times this turn.
 
 **Go again**"	Ranger Action				No	No	
@@ -10658,7 +10658,7 @@ The next Brute or Shadow attack action card you play this turn gains +2{p}.
 **Go again**"	Shadow Brute Action						
 WmjGRT9w9pHtBDc8zQkHB	Unyielding Grip					0				Generic, Equipment, Arms		Blade Break						"If you have no cards in your hand, this gets +3{d}.
 
-**Blade Break**"	Generic Equipment - Arms					No	
+**Blade Break**"	Generic Equipment - Arms						
 QG8JhRkFBWF7GzrqMnkKq	Up Sticks and Run	Red	1	0		2				Assassin, Ninja, Action		Go again, Retrieve						"You may **retrieve** a dagger from your graveyard.
 
 Your next dagger attack this turn gets +4{p}.
@@ -10711,7 +10711,7 @@ bChp6GBR8QhHJLgpzKC6J	V of the Vanguard	Yellow	2	1	3	3				Light, Warrior, Action
 As an additional cost to play V of the Vanguard, you may **charge** your hero's soul any number of times.
 
 Attacks on this combat chain gain +1{p} for each Light card charged this way."	Light Warrior Action - Attack					No	
-TCPqgq6QMqD9FqJ6DPQjD	Valahai Riven	Yellow	2			3				Guardian, Block								When this defends, you may pay up to {r}{r}{r}. Create that many Seismic Surge tokens.	Guardian Block						
+TCPqgq6QMqD9FqJ6DPQjD	Valahai Riven	Yellow	2			3				Guardian, Block								When this defends, you may pay up to {r}{r}{r}. Create that many Seismic Surge tokens.	Guardian Block					No	
 zWhGF8kMMdmKdhMNdj6NH	Valda Brightaxe						21	4		Guardian, Hero, Young					Dominate		Crush	"Whenever an opponent draws a card during an action phase, create a Seismic Surge token for each card drawn this way.
 
 At the start of your turn, if you control 3 or more Seismic Surge tokens, cards you own with **crush** gain **dominate** this turn."	Guardian Hero - Young			No			No
