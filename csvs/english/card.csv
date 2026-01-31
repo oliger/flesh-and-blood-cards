@@ -2288,6 +2288,21 @@ Your next dagger attack this turn gets +3{p}.
 Your next dagger attack this turn gets +2{p}.
 
 **Go again**"	Assassin / Warrior Action					No	
+cNbCGczPqzHpKLzTrMMMc	Cut n' Carve	Red	1	0		3				Warrior, Action		Sharpen, Go again			Dominate			"**Sharpen** target sword you control.
+
+If it has 1 or more +1{p} counters, its next attack this turn gets **dominate**.
+
+**Go again**"	Warrior Action						
+CWQPkrNcF7CH6BwDCdtDf	Cut n' Carve	Yellow	2	0		3				Warrior, Action		Sharpen, Go again			Dominate			"**Sharpen** target sword you control.
+
+If it has 2 or more +1{p} counters, its next attack this turn gets **dominate**.
+
+**Go again**"	Warrior Action						
+7JjdjGjGkbQzQPfTnkFPD	Cut n' Carve	Blue	3	0		3				Warrior, Action		Sharpen, Go again			Dominate			"**Sharpen** target sword you control.
+
+If it has 3 or more +1{p} counters, its next attack this turn gets **dominate**.
+
+**Go again**"	Warrior Action						
 6jHQz9TfCjcddBGqKkWgJ	Cut the Deck	Red	1	1		3				Warrior, Attack Reaction								Target Warrior attack gets +3{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction					No	
 NWz7896QdrKM7p9nzfCcP	Cut the Deck	Yellow	2	1		3				Warrior, Attack Reaction								Target Warrior attack gets +2{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction					No	
 knbbJdFrQgDbdzh8r8hTd	Cut the Deck	Blue	3	1		3				Warrior, Attack Reaction								Target Warrior attack gets +1{p}. If it's defended by an attack action card, draw a card, then put a card from your hand or arsenal on the bottom of your deck.	Warrior Attack Reaction					No	
@@ -2612,6 +2627,9 @@ h7bnkbFjNTLjdGdCNg8RJ	Disperse	Blue	3	3	5	3				Revered, Action, Attack							The
 
 When this defends, if it has 6 or more {d}, the attacking hero puts a card from their arsenal on the bottom of their deck."	Revered Action - Attack					No	
 cKp6hPc7WTW8Q98cHPM9P	Display Loyalty	Red	1	0	3	2				Draconic, Ninja, Action, Attack		Go again						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this attacks a hero, create a Fealty token."""	Draconic Ninja Action - Attack					No	
+RhP7JKg8zRrqFdMdpGNqF	Display of Craftsmanship	Red	1	2		3				Warrior, Attack Reaction							Sharpen	Target weapon attack gets +4{p}. If the weapon has been sharpened this turn, put a +1{p} counter on it.	Warrior Attack Reaction						
+mDdzHTPPwKp6NfdR8PjBP	Display of Craftsmanship	Yellow	2	2		3				Warrior, Attack Reaction							Sharpen	Target weapon attack gets +3{p}. If the weapon has been sharpened this turn, put a +1{p} counter on it.	Warrior Attack Reaction						
+HFjQwD77fkMjBDhRKDRk9	Display of Craftsmanship	Blue	3	2		3				Warrior, Attack Reaction							Sharpen	Target weapon attack gets +2{p}. If the weapon has been sharpened this turn, put a +1{p} counter on it.	Warrior Attack Reaction						
 HGhtMHhF6dqdNccmNK7w8	Dissipation Shield	Yellow	2	2						Mechanologist, Action, Item			Instant					"Dissipation Shield enters the arena with 4 steam counters on it.
 
 At the beginning of your action phase, destroy Dissipation Shield unless you remove a steam counter from it.
@@ -6839,6 +6857,9 @@ If you have dealt arcane damage to an opposing hero this turn, Piercing Shadow V
 pptHzNLNnz6wnCMFqBgG6	Pilfer the Wreck	Red	1	3	7	2				Pirate, Action, Attack								When this hits a hero, you may turn a card in their graveyard face-down. If it's yellow, create a Gold token.	Pirate Action - Attack					No	
 frFC8JrBBcmKCbDTjLbKc	Pilfer the Wreck	Yellow	2	3	6	2				Pirate, Action, Attack								When this hits a hero, you may turn a card in their graveyard face-down. If it's yellow, create a Gold token.	Pirate Action - Attack					No	
 qMGgBkKkjCT6cFgJjqnwQ	Pilfer the Wreck	Blue	3	3	5	2				Pirate, Action, Attack								When this hits a hero, you may turn a card in their graveyard face-down. If it's yellow, create a Gold token.	Pirate Action - Attack					No	
+P9cr8mkGcJcfgQQQpNjTG	Pillar of Unity					1				Warrior, Equipment, Legs		Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
+
+**Temper**"	Warrior Equipment - Legs						
 gQdQfNwNMgDLJfkcNWmhH	Pinion Sentry	Blue	3			3				Mechanologist, Block								When this defends, you may {t} a cog you control. If you do, create a Golden Cog token.	Mechanologist Block					No	
 fq6Pbr7BmJdqbLFqdfdTW	Pink Visor									Merchant, Equipment, Head		Ruu'di Specialization	Once per Turn Action					"**Ruu'di Specialization**
 
@@ -6869,6 +6890,9 @@ rmdHP7ttKz7NqLwwwGGKg	Plasma Purifier	Red	1	2						Mechanologist, Action, Item		
 qRKjzf8nTgdBt8BMMgRPJ	Plate of Tough Love					1				Revered, Guardian, Equipment, Chest		Blade Break						"If you control a Confidence and a Toughness token, this gets +2{d}.
 
 **Blade Break**"	Revered Guardian Equipment - Chest						
+RKfqhH8h8jnhfC9fcDPmc	Plating of Unity					1				Warrior, Equipment, Chest		Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
+
+**Temper**"	Warrior Equipment - Chest						
 QmBfhgrGL6JDrhkn6ccg8	Platinum Amulet	Blue	3	0						Generic, Action, Item		Legendary, Watery Grave	Instant					"**Instant** - Destroy this: Target defending card gets +1{d} until end of turn.
 
 **Legend of the Watery Grave**"	Generic Action - Item				No	No	
@@ -7710,6 +7734,9 @@ Banish Remembrance."	Generic Instant				No	No
 M9wDtMRwDFB9chfhJRNWJ	Remorseless	Red	1	1	5	3				Ranger, Action, Arrow, Attack								"If Remorseless is put into your arsenal face up, until end of turn it gains ""Defense reaction cards can't be played from arsenal to Remoreseless's chain link.""
 
 If Remorseless hits a hero, until the end of their next turn, whenever they play an action card, they lose 1{h}."	Ranger Action - Arrow Attack				No	No	
+wPRqFt9jMPmdRLQmhb8jt	Rend Flesh	Blue	3	0		3				Warrior, Action		Go again						"Until end of turn, whenever a sword you control hits a hero, you may remove a +1{p} counter from it. If you do, they lose 2{h}.
+
+**Go again**"	Warrior Action						
 6dCLFb9TTGPNKHFqH7mzw	Renounce Grandeur	Red	1	3	7	3				Guardian, Action, Attack		Crush						"If the defending hero controls an aura token, this gets +1{p}.
 
 **Crush** - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn."	Guardian Action - Attack					No	
