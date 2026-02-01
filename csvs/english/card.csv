@@ -560,6 +560,21 @@ TbhnTBPLncChnLHTcG7jz	Bad Beats	Yellow	2	0		3				Brute, Action		Go again						"R
 B7rWtLgFHDgNJ6LJmCqJc	Bad Beats	Blue	3	0		3				Brute, Action		Go again						"Roll a 6 sided die. If the number rolled is a 6, the next Brute attack action card you play this turn gains +5{p}.
 
 **Go again**"	Brute Action						
+JNKHkb76PCwjdkBQRWJGP	Bad Breath	Red	1	0		2				Reviled, Action		Intimidate, Go again						"**Intimidate** target hero.
+
+The next time an attack you control hits this turn, create 3 Might tokens.
+
+**Go again**"	Reviled Action						
+dQdNWcpTJnKdW7gLNGKL7	Bad Breath	Yellow	2	0		2				Reviled, Action		Intimidate, Go again						"**Intimidate** target hero.
+
+The next time an attack you control hits this turn, create 2 Might tokens.
+
+**Go again**"	Reviled Action						
+JkhmjLMQ9h9hfwJprNRMk	Bad Breath	Blue	3	0		2				Reviled, Action		Intimidate, Go again						"**Intimidate** target hero.
+
+The next time an attack you control hits this turn, create a Might token.
+
+**Go again**"	Reviled Action						
 ndNkP7p6FDnNWzt7ckjPf	Bait				0					Ranger, Token, Aura			Action, Once per Turn Attack Reaction	Attack, Go again				"You can't play or activate cards you own.
 
 **Action** - Destroy this when the chain link resolves: **Attack**
@@ -1642,6 +1657,7 @@ bBtWcpCjGqkMMkwqwgtRT	Chain Lightning	Yellow	2	1		3			3	Wizard, Action								"Y
 
 If you have played another Wizard 'non-attack' action card this turn, deal 3 arcane damage to each opposing hero."	Wizard Action				No	No	
 9j8NKt8hTkdwGPgrdcQrp	Chain Reaction	Yellow	2	0		3				Ranger, Defense Reaction, Trap							Go again	When this defends an attack with **go again**, you may turn a non-attack action card in your arsenal face-up. If you do, you may play it this turn as though it were an instant.	Ranger Defense Reaction - Trap				No	No	
+kJhgfCfT9nhBbdDPndnJR	Chain of Brutality	Red	1	0	2	3				Reviled, Brute, Action, Attack		Go again						"If this has 6 or more {p}, it gets **go again** and ""When this hits a hero, the next attack action card you play this turn has 6 base {p}."""	Reviled Brute Action - Attack					No	
 kmWrWK6PhLjLdr86QDDWP	Chains of Eminence	Red	1	0		2				Generic, Action, Aura		Go again						"**Go again**
 
 When Chains of Eminence enters the arena, name a card. The named card can't be pitched, played or used to defend while Chains of Eminence is in the arena.
@@ -3149,6 +3165,7 @@ At the beginning of your action phase, destroy this, then the next Guardian atta
 nRGKwwb7q7HQnfGQLr6gp	Emboldened Blade	Blue	3	0		3				Warrior, Action		Go again						"Turn a face-down card in any arsenal face-up. If it's a defense reaction, destroy it and your next weapon attack this turn gets +1{p}.
 
 **Go again**"	Warrior Action				No	No	
+ncdtKzpTdWBQLQq8bqtKk	Emboldened by the Crowd	Yellow	2	3		6				Revered, Defense Reaction							The Crowd Cheers	If you've been cheered this turn, this costs {r}{r}{r} less to play.	Revered Defense Reaction					No	
 7LBccf7qnHMdgb996CcWz	Embrace Adversity					2				Generic, Equipment, Arms		Blade Break						"This may only defend an attack if the attack's controller has destroyed a Might token this turn.
 
 **Blade Break**"	Generic Equipment - Arms						
@@ -3256,6 +3273,7 @@ If Endless Winter was **fused**, whenever the defending hero adds a defending ca
 If Endless Winter hits a hero, until the end of their next turn, whenever they activate an ability, create a Frostbite token under their control."	Elemental Guardian Action - Attack				No	No	
 gjGhfGCFbTtWRGrfcgMQN	Energetic Impact	Blue	3	3	5	3				Brute, Action, Attack								When this defends together with a card with 6 or more {p}, create a Vigor token.	Brute Action - Attack				No	No	
 nHTP6hGgLz6zfpdFH9Fpt	Energy Potion	Blue	3	0						Generic, Action, Item			Instant					**Instant** - Destroy this: Gain {r}{r}	Generic Action - Item					No	
+phNWtHpDC6BQhhbKT79HT	Energy of the Audience	Yellow	2	3	6	3				Revered, Guardian, Action, Attack							Suspense	If you have less {h} than each other hero, this gets +1{p} for each aura of suspense you control.	Revered Guardian Action - Attack					No	
 mpzTpgpKkq6TDRT8JK7fF	Enflame the Firebrand	Red	1	0	2	3				Draconic, Ninja, Action, Attack		Go again						When this attacks, if you control 2 or more Draconic chain links, this gets **go again**, 3 or more, your attacks are Draconic this combat chain, 4 or more, this gets +2{p}.	Draconic Ninja Action - Attack					No	
 BRg6rFMmGRn6kPpT96W89	Engaged Swiftblade	Red	1	1		3				Warrior, Action		Go again			Go again			"Your next Warrior attack this turn gets +3{p} and ""If this is defended by an attack action card, this gets **Go again**.""
 
@@ -5092,6 +5110,9 @@ The next attack action card you play this turn gains +1{p}.
 **Go again**
 
 **Blood Debt**"	Shadow Action					No	
+dqMTFcnkTFmRwgHjKFhkz	Hulk Up	Red	1	4	8	2				Revered, Action, Attack								If you have less {h} than each other hero, this costs {r} less to play.	Revered Action - Attack						
+GmNDLPfF8MFkTqkrbhLnp	Hulk Up	Yellow	2	4	7	2				Revered, Action, Attack								If you have less {h} than each other hero, this costs {r} less to play.	Revered Action - Attack						
+mJKcWjzzzGmbTchphggNT	Hulk Up	Blue	3	4	6	2				Revered, Action, Attack								If you have less {h} than each other hero, this costs {r} less to play.	Revered Action - Attack						
 Ck8jCNWQmgKkcmD98bdjG	Humble	Red	1	2	6	2				Generic, Action, Attack								When this hits a hero, they lose all hero card abilities until the end of their next turn.	Generic Action - Attack					No	
 RJn7qQFgkNz6qR9rwntCc	Humble	Yellow	2	2	5	2				Generic, Action, Attack								When this hits a hero, they lose all hero card abilities until the end of their next turn.	Generic Action - Attack					No	
 JnQ8mtr69DWrhqmrWkJ8z	Humble	Blue	3	2	4	2				Generic, Action, Attack								When this hits a hero, they lose all hero card abilities until the end of their next turn.	Generic Action - Attack					No	
@@ -5383,6 +5404,9 @@ If Inspire Lightning was **fused**, deal 1 arcane damage to target hero."	Elemen
 J6mDdKqWNHBGLWFW9PQqf	Instill Fear	Red	1	0	3	3				Reviled, Action, Attack		Intimidate						When this attacks a hero, **intimidate** them.	Reviled Action - Attack						
 6rkDBBFc9rN7rpqqNbnrD	Instill Fear	Yellow	2	0	2	3				Reviled, Action, Attack		Intimidate						When this attacks a hero, **intimidate** them.	Reviled Action - Attack						
 ChWC6JfLg9hcmHd9JcMBk	Instill Fear	Blue	3	0	1	3				Reviled, Action, Attack		Intimidate						When this attacks a hero, **intimidate** them.	Reviled Action - Attack						
+TthpPbn8nP88GGghn9wDr	Insult to Injury	Red	1	0	3	3				Reviled, Action, Attack		Go again						When this attacks a hero, if you have more {h} than them, this gets **go again**.	Reviled Action - Attack						
+DjtKnjrGd6BTjD9LTkqqf	Insult to Injury	Yellow	2	0	2	3				Reviled, Action, Attack		Go again						When this attacks a hero, if you have more {h} than them, this gets **go again**.	Reviled Action - Attack						
+z6MTBD8qkFPNzGtNrtprL	Insult to Injury	Blue	3	0	1	3				Reviled, Action, Attack		Go again						When this attacks a hero, if you have more {h} than them, this gets **go again**.	Reviled Action - Attack						
 QGjhRDwJdHr68gtkNqCWm	Intellect Penalty									Macro								"Your hero has -1{i}.
 
 If you would create an Intellect Penalty with X counters on it, instead add X turn counters onto this.
@@ -5918,6 +5942,9 @@ cw7GLPjtPFqMHJthzJCbw	Limpit, Hop-a-long	Yellow	2	0	2		1			Pirate, Necromancer, 
 8CRqBFWrD7R7kCrnJbKr9	Line	Blue	3	0		3				Ranger, Action		Go again			Go again			"Look at the top card of your deck. If it's an arrow, you may put it face-up into your arsenal. If you do, it gets **go again** this turn.
 
 **Go again**"	Ranger Action					No	
+7DfN7NwW9WbTpDNhFW8qW	Line Crossers					1				Reviled, Equipment, Arms		Blade Break						"If you have the same {h} as a hero, it also counts as you having more {h} than them, and them having less {h} than you.
+
+**Blade Break**"	Reviled Equipment - Arms						
 htRtFwB8MhppFMqwLnNzK	Line It Up	Yellow	2	1		3				Ranger, Action		Go again						"Your next arrow attack this turn gets +3{p}.
 
 You may turn a face-down arrow in your arsenal face-up. If you do, put an aim counter on it.
@@ -9479,6 +9506,7 @@ pBLw878jHjmLBLBbtpk6W	Snapback	Blue	3	1		3			1	Wizard, Action								"Deal 1 arc
 
 If you have played another Wizard 'non-attack' action card this turn, you may play Snapback as though it were an instant."	Wizard Action						
 gGmbgrQrzhKpFdtcRTF9h	Snapdragon Scalers					0				Generic, Equipment, Legs			Attack Reaction	Go again				**Attack Reaction** - Destroy this: Target attack action card with cost 1 or less gets **go again**.	Generic Equipment - Legs						
+rLCRmrjNR6HMnG8pFkNCB	Snarky Prick	Red	1	0	1	3				Reviled, Action, Attack								When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.	Reviled Action - Attack					No	
 PHktCwKzLmBMwmCBwb7Cw	Snatch	Red	1	0	4	2				Generic, Action, Attack								When this hits, draw a card.	Generic Action - Attack					No	
 jBtfGzCwLCCTGrtzKPRJW	Snatch	Yellow	2	0	3	2				Generic, Action, Attack								When this hits, draw a card.	Generic Action - Attack					No	
 KfbJQkFKdWKB66FcqCpHD	Snatch	Blue	3	0	2	2				Generic, Action, Attack								When this hits, draw a card.	Generic Action - Attack					No	
@@ -9848,6 +9876,9 @@ At the start of your turn, destroy this, draw a card, then put a card from your 
 L6FBCMGPMwNfTBBKrhqDT	Stadium Centerpiece					*				Generic, Equipment, Chest		Blade Break						"Stadium Centerpiece's {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Chest						
+zdgHmFzPbHbrhRwfCqF8H	Stadium Security	Red	1	3	7	2				Revered, Action, Attack		Ambush						While this is in your arsenal, if you've controlled a Toughness token this turn, this gets **ambush**.	Revered Action - Attack						
+pkcqdDCpcChQnPJP6bHmB	Stadium Security	Yellow	2	3	6	2				Revered, Action, Attack		Ambush						While this is in your arsenal, if you've controlled a Toughness token this turn, this gets **ambush**.	Revered Action - Attack						
+zTMbNHjQDLMmCK9qHgBpW	Stadium Security	Blue	3	3	5	2				Revered, Action, Attack		Ambush						While this is in your arsenal, if you've controlled a Toughness token this turn, this gets **ambush**.	Revered Action - Attack						
 PQgjdCTFwm89BmcWP9n7d	Staff of Verdant Shoots									Earth, Wizard, Weapon, Staff, 2H			Once per Turn Action	Amp 1, Go again				"**Once per Turn Action** - {r}{r}{r}: **Amp 1**. **Go again**
 
 When one or more Earth cards are pitched this way, the next time you deal arcane damage this turn, create an Embodiment of Earth token."	Earth Wizard Weapon - Staff (2H)						
@@ -10709,6 +10740,7 @@ zLMWLzKGcdNnndTcD89gT	Tough Old Wrench	Blue	3	2	4	2				Mechanologist, Action, At
 cDn9RLz6KTKccHFb8CdrW	Tough Smashup	Red	1	3	7	3				Revered, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Toughness token. You may put your revealed card on the bottom of its owner's deck.	Revered Action - Attack						
 jJhngckczLmdhGHBKPkrB	Tough Smashup	Yellow	2	3	6	3				Revered, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Toughness token. You may put your revealed card on the bottom of its owner's deck.	Revered Action - Attack						
 rjfPdq8HCMQqtPPT8zTkz	Tough Smashup	Blue	3	3	5	3				Revered, Action, Attack		Clash						When this defends, **clash** with the attacking hero. The winner creates a Toughness token. You may put your revealed card on the bottom of its owner's deck.	Revered Action - Attack						
+tcgLRpmfGcfgfDkBwGWbk	Tough as a Rok	Blue	3	3	*	3				Revered, Brute, Action, Attack								If you have less {h} than each other hero, this card's base {p} is 6, otherwise it's 0.	Revered Brute Action - Attack					No	
 QQJMKL7hLRfLcMhQCwTpN	Toughen Up	Blue	3	2		4				Generic, Defense Reaction									Generic Defense Reaction						
 Cn8tK9KRm7d9KbcQk6Pqm	Toughness									Generic, Token, Aura								At the start of your opponent's turn, destroy this, then the next action card you defend with this turn gets +1{d} this chain link.	Generic Token - Aura						
 7rNHHrKTMQDhQdp6tgKhD	Towering Titan	Red	1	9		3				Guardian, Action, Aura								At the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +10{p}.	Guardian Action - Aura					No	
@@ -11355,6 +11387,9 @@ MQN9FMbnbmGjrndKzFCC8	Wage Vigor	Yellow	2	3	6	2				Guardian, Warrior, Action, At
 jqwmB7FLCpBPgTJz9ztGJ	Wailer Humperdinck	Yellow	2	6	11		7			Pirate, Necromancer, Action, Ally		Watery Grave	Action, Instant	Attack				"**Action** - {r}{r}{r} {r}{r}{r}, {t}: **Attack**
 
 **Watery Grave**"	Pirate Necromancer Action - Ally				No	No	
+zHQcgpbCGjrKCBFg6CmTw	Walk in My Shoes	Yellow	2	0	3	3				Reviled, Guardian, Action, Attack		Crush						"If this has {p} greater than its base, it gets +1{p}.
+
+**Crush** - When this deals 4 or more damage to a hero, until the end of their next turn, the base {p} and {d} of attack action cards they control are halved, rounded up."	Reviled Guardian Action - Attack					No	
 RLQrqhLnpqbkKh8qLRtnn	Walk the Plank	Red	1	3	7	2				Generic, Action, Attack								When this hits a Pirate hero, {t} them or an ally they control.	Generic Action - Attack						
 qbfHLhfMncWkw8bbhDgJD	Walk the Plank	Yellow	2	3	6	2				Generic, Action, Attack								When this hits a Pirate hero, {t} them or an ally they control.	Generic Action - Attack						
 wFcdCKBhBrRhhTWtQH76f	Walk the Plank	Blue	3	3	5	2				Generic, Action, Attack								When this hits a Pirate hero, {t} them or an ally they control.	Generic Action - Attack						
