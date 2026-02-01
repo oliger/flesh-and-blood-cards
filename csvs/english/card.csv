@@ -1529,6 +1529,7 @@ The next time an attack you control hits a hero this turn, deal 4 arcane damage 
 
 Deal 1 arcane damage to any target."	Runeblade Action // Lightning Instant	Yes				No	
 GgH7CLN7mwL6HtRcjBjqR	Burning Blade Dance	Red	1	0	3	3				Draconic, Ninja, Action, Attack		Go again						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this hits a hero, you may have target dagger you control deal 1 damage to them. If damage is dealt this way, the dagger has hit. Destroy the dagger."""	Draconic Ninja Action - Attack						
+C6zqr6WKMwc8MqGjnqRLK	Burnished Bunkerplate					0				Generic, Equipment, Chest			Defense Reaction					**Defense Reaction** - Destroy this: You may add an action card from your arsenal to the active chain link as a defending card.	Generic Equipment - Chest						
 kMKLhqckbrTHBk7HbNLpJ	Buzz Bolt	Red	1	1	5	3				Elemental, Ranger, Action, Arrow, Attack		Lightning Fusion						"**Lightning Fusion**
 
 If Buzz Bolt was **fused**, whenever an attack hits a hero this turn, it deals 1 damage to them."	Elemental Ranger Action - Arrow Attack						
@@ -1897,6 +1898,11 @@ Destroy target blue aura."	Light Action					No
 qBRhRDtgwwmgTb68dqTQW	Clearing Bellow	Blue	3	0		3				Brute, Action		Intimidate, Go again						"**Intimidate**
 
 **Go again**"	Brute Action					No	
+WffgNjPNdkz9GB9TRT7RT	Clearwater Elixir	Red	1	1		3				Generic, Action		Go again						"Your next attack this turn gets +3{p}.
+
+You may destroy a Bloodrot Pox token you control. If you do, gain 1{h}.
+
+**Go again**"	Generic Action					No	
 bPJzLWhH7G7BnHL9fNJw6	Cleave	Red	1	1		3				Warrior, Action		Go again						"Your next axe attack this turn gains +4{p} and ""When this hits a hero or ally, you may deal that much damage to another ally controlled by the same hero.""
 
 **Go again**"	Warrior Action				No	No	
@@ -2631,6 +2637,10 @@ B9gmDwNBCkqFHpWgJBmhq	Destructive Aethertide	Blue	3	0		3			1	Wizard, Action		Sur
 Cqwf78hdKQTfgCtbkcrdL	Destructive Deliberation	Red	1	2	5	2				Generic, Action, Attack								When this hits a hero, create a Ponder token.	Generic Action - Attack						
 FgzGnMR8GKFpMNMr7DcKH	Destructive Deliberation	Yellow	2	2	4	2				Generic, Action, Attack								When this hits a hero, create a Ponder token.	Generic Action - Attack						
 THJWhmjtGRtWfPMRFFkdd	Destructive Deliberation	Blue	3	2	3	2				Generic, Action, Attack								When this hits a hero, create a Ponder token.	Generic Action - Attack						
+rFtwwctDWPnQc7Wwtf6J6	Destructive Tendencies	Blue	3	0						Generic, Instant								"Choose 1 or both;
+
+- Remove all counters from target item token.
+- Remove all counters from target aura token."	Generic Instant					No	
 wdQd78FWKJBKQCGTHtpDb	Devotion Never Dies	Red	1	1	4	2				Ninja, Action, Attack		Go again						"When this hits, if a Draconic attack was the last attack this combat chain, banish this. If you do, you may play it this turn.
 
 **Go again**"	Ninja Action - Attack				No	No	
@@ -2808,6 +2818,9 @@ n6jb6thTHT9TpcTdRjdQm	Down But Not Out	Yellow	2	3	4	3				Generic, Action, Attack
 PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	Blue	3	3	3	3				Generic, Action, Attack		Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack					No	
 HgLNTDb7kMk7MdJrTjn8T	Down and Dirty	Red	1	2	6	2				Generic, Action, Attack								While Down and Dirty is in your arsenal, you may defend with it.	Generic Action - Attack				No	No	
 78FGMN9nn9QR9FDzC9z68	Dracona Optimai				6		6		X	Draconic, Illusionist, Dragon, Ally								Whenever Dracona Optimai attacks a hero, reveal the top 3 cards of your deck. He deals arcane damage equal to twice the number of red cards revealed this way to them or an ally they control.	Draconic Illusionist - Dragon Ally				No	No	
+fBWjpTwLWrMWRRwdbztRd	Drag Down	Red	1	0		0				Generic, Defense Reaction								When this defends an attack, it gets -3{p}.	Generic Defense Reaction						
+BWzDHWcRKC7nLCnT9NWnb	Drag Down	Yellow	2	0		0				Generic, Defense Reaction								When this defends an attack, it gets -2{p}.	Generic Defense Reaction						
+QCKRPnMGTCBhwWKN68hmr	Drag Down	Blue	3	0		0				Generic, Defense Reaction								When this defends an attack, it gets -1{p}.	Generic Defense Reaction						
 QGp9LdRwfGKzQnpHrbJtN	Dragon Power	Red	1	1	4	3				Ninja, Action, Attack								When this attacks, if it is Draconic, it gets +3{p}.	Ninja Action - Attack					No	
 H9JwchwDzHrRr8Ldkwwtw	Dragon Power	Yellow	2	1	3	3				Ninja, Action, Attack								When this attacks, if it is Draconic, it gets +3{p}.	Ninja Action - Attack					No	
 dbTzPk8nMMBcPzTnnnDRk	Dragon Power	Blue	3	1	2	3				Ninja, Action, Attack								When this attacks, if it is Draconic, it gets +3{p}.	Ninja Action - Attack					No	
@@ -6501,6 +6514,11 @@ JwdBp6DFwFkG9npJ78jbK	Mutiny on the Swiftwater	Blue	3	0		2				Pirate, Action		Go
 If you gain control of 1 or more Gold tokens this way, your next attack this turn gets **go again**.
 
 **Go again**"	Pirate Action						
+zJ9h7zCdQcttTrmgLR6q9	Myrkhellir Helm					1				Generic, Equipment, Head		Temper	Action	Go again				"If you control a Gold, this gets +1{d}.
+
+**Action** - {r}{r}, destroy this: The next time you would draw a card from a Gold token this turn, instead draw 2 cards. **Go again**
+
+**Temper**"	Generic Equipment - Head						
 GpmN8jcWjbH7fMHd7hWjJ	Nasreth, the Soul Harrower				6		6			Shadow, Token, Demon, Ally			Once per Turn Action	Attack				"**Once per Turn Action - 0: Attack**
 
 When Nasreth hits a hero, banish a card from their soul. If a Light card is banished this way, gain 1{h}."	Shadow Token - Demon Ally						
@@ -7171,6 +7189,10 @@ nFJpHkbfmgjNBpC8CmKzK	Piercing Shadow Vise	Blue	3	2	2	3				Shadow, Runeblade, Ac
 If you have dealt arcane damage to an opposing hero this turn, Piercing Shadow Vise gains +2{p}.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack						
+pQjcMbpRPhTG8DkHftnK9	Pilfer the Tomb	Blue	3	0						Generic, Instant								"Choose 1 or both;
+
+- Banish target instant from an opposing hero's graveyard.
+- Banish target yellow card from an opposing hero's graveyard."	Generic Instant					No	
 pptHzNLNnz6wnCMFqBgG6	Pilfer the Wreck	Red	1	3	7	2				Pirate, Action, Attack								When this hits a hero, you may turn a card in their graveyard face-down. If it's yellow, create a Gold token.	Pirate Action - Attack					No	
 frFC8JrBBcmKCbDTjLbKc	Pilfer the Wreck	Yellow	2	3	6	2				Pirate, Action, Attack								When this hits a hero, you may turn a card in their graveyard face-down. If it's yellow, create a Gold token.	Pirate Action - Attack					No	
 qMGgBkKkjCT6cFgJjqnwQ	Pilfer the Wreck	Blue	3	3	5	2				Pirate, Action, Attack								When this hits a hero, you may turn a card in their graveyard face-down. If it's yellow, create a Gold token.	Pirate Action - Attack					No	
@@ -7838,6 +7860,9 @@ JNbQCWttkJgrknfkpKF8p	Ram Raider	Blue	3	2	4	3				Shadow, Brute, Action, Attack		
 Gain 1{h}"	Wizard Instant // Earth Instant	Yes			No	No	
 dfzBMM9Tm8Q8jRWdQKp97	Rampart of the Ram's Head					0				Guardian, Equipment, Off-Hand								Whenever you defend with Rampart of the Ram's Head, you may pay {r}. If you do, it gains +1{d} until end of turn.	Guardian Equipment - Off-Hand				No	No	
 gcgCpfj86Wq8pMRnjtWpm	Random Events Unfold									Event								Shuffle the event deck, put this on the bottom, then flip the top card.	Event		No	No	No	No	No
+6mcbQprDMBHRMTfwnDfL9	Ransack and Raze	Blue	3	X		3				Generic, Action		Go again						"Destroy target landmark with cost X. Create X Gold tokens.
+
+**Go again**"	Generic Action					No	
 DbKkp8BjFgtCBGjQCbwjH	Rapid Fire	Yellow	2	0		2				Ranger, Action		Reload			Go again			"Until end of turn, arrows you control gain **go again**.
 
 **Reload**
@@ -8119,6 +8144,11 @@ cFpmN9tpMR8cLKDzkNtzz	Restless Coalescence	Yellow	2	0						Illusionist, Instant,
 **Once per Turn Instant** - Remove a +1{p} counter from this: Create a Spectral Shield token.
 
 **Ward 2**"	Illusionist Instant - Aura				No	No	
+JMzGFRDF8qTWJCLPRfQgH	Restvine Elixir	Red	1	1		3				Generic, Action		Go again						"Your next attack this turn gets +3{p}.
+
+You may destroy an Inertia token you control. If you do, gain 1{h}.
+
+**Go again**"	Generic Action					No	
 RTbHRmf96T8Pz7MD7KLc7	Retrace the Past	Blue	3	0	2	3				Ninja, Action, Attack		Katsu Specialization, Combo						"**Katsu Specialization**
 
 **Combo** - When this attacks, if a card with Gustwave in its name was the last attack this combat chain, name a card, then this gets that name, +2{p}, and **go again**."	Ninja Action - Attack				No	No	
@@ -8609,6 +8639,11 @@ pGWLw8bBqKqTQHnrhg6b6	Sap	Blue	3	0		3			1	Wizard, Action		Surge						"Deal 1 arc
 8n9Fkr9DLNbMhKJRJTkLL	Sapphire Amulet	Blue	3	0						Generic, Action, Item		Legendary, Watery Grave	Action					"**Action** - Destroy this: You get +1{i} this turn.
 
 **Legend of the Watery Grave**"	Generic Action - Item				No	No	
+WQnrwMqz7KtLWb9nfzNDf	Sapwood Elixir	Red	1	1		3				Generic, Action		Go again						"Your next attack this turn gets +3{p}.
+
+You may destroy a Frailty token you control. If you do, gain 1{h}.
+
+**Go again**"	Generic Action					No	
 9BqdPQckmdgcfzwtjw7BP	Sash of Sandikai					0				Draconic, Equipment, Chest			Instant					**Instant** - Destroy Sash of Sandikai: Gain {r}. Activate this ability only if you've played a red card this turn.	Draconic Equipment - Chest						
 7mdh968cg9r9JB7dfzcFW	Savage Beatdown	Red	1	3	6	3				Brute, Action, Attack								"Play this only if you've discarded a card with 6 or more {p} this turn.
 
@@ -9018,6 +9053,10 @@ Your weapon attacks get +1{p}. If their {p} is greater than twice their base, th
 
 At the beginning of your end phase, destroy this."	Warior Action - Aura				No	No	
 RJNjgKCzrKtWJfdqRPMhg	Shatter	Yellow	2	0		3				Warrior, Attack Reaction								"Until end of turn, target 2H weapon gains ""Whenever this would deal {p} damage, instead you may destroy target defending equipment with {d} less than the damage that would be dealt this way."	Warrior Attack Reaction				No	No	
+KCRhRBTqwf9mRfjmGnQL6	Shatter Sorcery	Blue	3	0						Generic, Instant								"Choose 1 or both;
+
+- Destroy target aura permanent with Sigil in its name.
+- Prevent the next 1 arcane damage that would be dealt to target hero this turn."	Generic Instant					No	
 DrfFF7FFQTbwwcbDckGH9	Shattering Grasp					1				Ice, Equipment, Arms		Battleworn	Action	Go again			Freeze	"**Action** - Destroy this: Destroy target frozen ally. **Go again**
 
 **Battleworn**"	Ice Equipment - Arms						
@@ -11000,6 +11039,9 @@ When this hits a hero, steal an item they control."	Assassin Action - Attack				
 jRKRwjgNT8QKhtPLqTnbW	Unexpected Backhand	Red	1	3	7	3				Brute, Action, Attack							Clash	When you win a clash revealing this, deal 1 damage to the other hero.	Brute Action - Attack						
 WrcmbDDzNGLwfGmd9CMmR	Unexpected Backhand	Yellow	2	3	6	3				Brute, Action, Attack							Clash	When you win a clash revealing this, deal 1 damage to the other hero.	Brute Action - Attack						
 cm8pHKrnCKB7NtmbjkKBd	Unexpected Backhand	Blue	3	3	5	3				Brute, Action, Attack							Clash	When you win a clash revealing this, deal 1 damage to the other hero.	Brute Action - Attack						
+gMJRbhDCMTJD8NW8H6BTf	Unflinching Foothold					1				Generic, Equipment, Legs		Battleworn	Instant			Dominate		"**Instant** - Destroy this: Target attack loses and can't gain **dominate**.
+
+**Battleworn**"	Generic Equipment - Legs						
 DKFj9DK7f9nHrQffkdfDm	Unforgetting Unforgiving	Red	1			4				Guardian, Block		Jarl Specialization						"**Jarl Specialization**
 
 When this defends, if the attacking hero controls an equipment with a -1{d} counter, you may search your deck for a Mangle, banish it, then shuffle. You may play it during your next action phase."	Guardian Block				No	No	
