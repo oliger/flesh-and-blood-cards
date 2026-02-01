@@ -985,6 +985,10 @@ HGNCdBCQmdRqQGggmrLjg	Fluster Fist	2	CChttCnwGwHMcBKm6LhNR	Open the Center	3
 t9FQnwWKw7RWz7pPBGf7f	Fool's Gold	2	8qdmprPg7kckn8ktMTKQh	Gold							
 GwJdwRwJFbjNNWLzCqr6M	Force of Nature	3	7TjkgnbJ8tghfrkMRnTfW	Briar							
 GwJdwRwJFbjNNWLzCqr6M	Force of Nature	3	cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns							
+PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	1	tFPLw7nPCjf7rqbGhCBTr	Phoenix Bannerman: Head	1						
+PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	1	7H7Q8F8wdjf6gJq6MGcz6	Phoenix Bannerman: Chest	1						
+PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	1	TMj8cMnKjDbTPMnfTL8tL	Phoenix Bannerman: Arms	1						
+PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	1	pzRnkq7DmN7n6DhwpH7jL	Phoenix Bannerman: Legs	1						
 wtKDkD6MRwz77CmthMHMz	Frail Swingline	3	KPWKQmMgm7rmM7bfFw9gF	Frailty							
 gpwqqHDD7DwWNrJPdpzRT	Frailty Trap	1	KPWKQmMgm7rmM7bfFw9gF	Frailty							
 bTtrCGpnGPrnC7pNFt6pw	Freezing Point	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
@@ -1706,6 +1710,14 @@ RnL78Jfhr8nfnqbgFFQwk	Performance Bonus	3	8qdmprPg7kckn8ktMTKQh	Gold
 6KwJ86P99FbcRKnbnRpnj	Phantasmal Haze	1	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 cQkdbRCNDrm6LmPNWPTHz	Phantasmal Haze	2	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 JqK88CP9ND6FCGjTGRMgj	Phantasmal Haze	3	NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
+TMj8cMnKjDbTPMnfTL8tL	Phoenix Bannerman: Arms	1	6gqTwGnmHjkCLDqKPWt8c	Might							
+TMj8cMnKjDbTPMnfTL8tL	Phoenix Bannerman: Arms	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1						
+7H7Q8F8wdjf6gJq6MGcz6	Phoenix Bannerman: Chest	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1						
+7H7Q8F8wdjf6gJq6MGcz6	Phoenix Bannerman: Chest	1	DBhPCQqjnj6qqd9DtBB7W	Vigor							
+tFPLw7nPCjf7rqbGhCBTr	Phoenix Bannerman: Head	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1						
+tFPLw7nPCjf7rqbGhCBTr	Phoenix Bannerman: Head	1	HpWqFJW8ftTDdzCLK9RkD	Ponder							
+pzRnkq7DmN7n6DhwpH7jL	Phoenix Bannerman: Legs	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1						
+pzRnkq7DmN7n6DhwpH7jL	Phoenix Bannerman: Legs	1	WqTTMjDgKKCp7Lnb7LH6d	Agility							
 8RGTWgzLGh69FcNbLCfJc	Phoenix Form	1	kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	1						
 bLmknjcbt6Bjn6RTmTBMF	Pick a Card, Any Card	1	TNJz9fCgqmhhLz9rP9tkt	Silver							
 NqrpkQtGmHDTpHHdjWHHb	Pick a Card, Any Card	2	TNJz9fCgqmhhLz9rP9tkt	Silver							
@@ -2029,6 +2041,8 @@ wcmmpmGPLhHLFJfdWcpzm	Seismic Shelter	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge
 NqRrPq9RLbrhFrrgzndt8	Seismic Stir	1	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 FFGW6Kn6mWFFFWcwkpdHh	Seismic Stir	2	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
 h7n8tCF66mwtfWfqLLz87	Seismic Stir	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
+PBkK9jFkGPKGqTwmTwrzW	Serpent's Kiss	3	QqDQKkgCz9TM6HDgFkqcL	Fang Strike							
+PBkK9jFkGPKGqTwmTwrzW	Serpent's Kiss	3	zBDwTqgQTKrNRwjQmMr9g	Slither							
 DMH8PRWDTmMm6mWtQqttn	Shake Down	1	QmqN6fJJMnLDjLHKF7g97	Uzuri							
 DMH8PRWDTmMm6mWtQqttn	Shake Down	1	rNhtnPWtDDBzBp7mNdQtT	Uzuri, Switchblade							
 LktKqzw6D9wQtcctzwKbF	Shallow Water Shark Harpoon	2	8qdmprPg7kckn8ktMTKQh	Gold							
@@ -2088,6 +2102,8 @@ wWFFDrGrc8wD6whwWzdDF	Slay the Scholars	2	TNJz9fCgqmhhLz9rP9tkt	Silver
 Tp786HHGgNbgmp8NJDtRQ	Slay the Scholars	3	TNJz9fCgqmhhLz9rP9tkt	Silver							
 87pqdhz7F6GRCGzpD7cjj	Smashback Alehorn	3	WqTTMjDgKKCp7Lnb7LH6d	Agility							
 87pqdhz7F6GRCGzpD7cjj	Smashback Alehorn	3	6gqTwGnmHjkCLDqKPWt8c	Might							
+mKGPnwbkjcGbmPn7JJNBF	Smoldering Scales		GHG6KkBzPkHDnMf7hL7K7	Frostbite							
+fnwmJgw6ktTLBrnD7QHFN	Smoldering Steel	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 q8rqGffz6jP9D7w8DbkcL	Snow Under	1	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 MLkbJDtPDkLWPNpfwfTDJ	Snow Under	2	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
 NzNjkqqJgrbPbJpWQ8RWp	Snow Under	3	GHG6KkBzPkHDnMf7hL7K7	Frostbite							
@@ -2472,6 +2488,7 @@ RGqFf9CnkWKhjMgfrTbdz	Wax Off	3	HMktjwMDWRjcFTC8gMHGL	Wax On	1
 RGqFf9CnkWKhjMgfrTbdz	Wax Off	3	TBHBqQQ8FjFLkNKbGRncf	Wax On	2						
 RGqFf9CnkWKhjMgfrTbdz	Wax Off	3	zhnWgKpnzfCzCwN6cJBgW	Wax On	3						
 RGqFf9CnkWKhjMgfrTbdz	Wax Off	3	HhTPF8HGRqhFbTT8HnBBh	Zen State							
+zPGgKrwrbdqC6jHnnJzbt	Wax and Wane	3	FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						
 zgP9HWNCqbrQPLMNP8Bwf	Whelming Gustwave	1	GqNTpPW79fHNzj7kB8Kkb	Surging Strike	1						
 zgP9HWNCqbrQPLMNP8Bwf	Whelming Gustwave	1	Hpq8jQm9H97HbfhBKgctd	Surging Strike	2						
 zgP9HWNCqbrQPLMNP8Bwf	Whelming Gustwave	1	KtHkGCQfc6Td7Dg8htCcJ	Surging Strike	3						

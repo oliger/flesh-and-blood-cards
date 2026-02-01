@@ -870,6 +870,11 @@ KkrrmhNQDqWc7WWKMTTNz	Billowing Mirage	Yellow	2	1	2	3				Draconic, Illusionist, 
 J7J6PfqbMCBzQDKtrMfCD	Billowing Mirage	Blue	3	1	1	3				Draconic, Illusionist, Action, Attack		Transform, Go again						"When you attack with Billowing Mirage, **transform** up to 1 ash you control into an Aether Ashwing.
 
 **Go again**"	Draconic Illusionist Action - Attack						
+N8WgrfprdwMBzNwgFqmfj	Billowing Mist	Blue	3	0		2				Mystic, Action		Go again					Ephemeral	"Your next attack this turn gets +1{p}.
+
+The next time you would create a card with ephemeral this turn, instead create that many plus 1.
+
+**Go again**"	Mystic Action						
 qHRGLQzBMMQ8hcqPJdM9W	Bingo	Red	1	1	5	3				Generic, Action, Attack		Go again						When Bingo hits a hero, they reveal a card from their hand. If an attack action card is revealed this way, Bingo gains **go again**. If a 'non-attack' action card is revealed this way, draw a card.	Generic Action - Attack				No	No	
 nnHDmPJLGkjdkwkTRPjRg	Bios Update	Red	1	0		3				Mechanologist, Action		Go again					Boost	"The next attack action card you **boost** this turn gains +3{p}.
 
@@ -2579,6 +2584,7 @@ DqMQ7mbcWcfL8QjDcCMJr	Depths of Despair	Yellow	2	3	6	3				Shadow, Action, Attack
 9WJP989NgMhbHwL6h8rLR	Depths of Despair	Blue	3	3	5	3				Shadow, Action, Attack		Blood Debt						"When this defends, banish it when the combat chain closes.
 
 **Blood Debt**"	Shadow Action - Attack						
+68gf9fggmcjDR7Tk78zJm	Descend into Madness	Blue	3	0		3				Chaos, Attack Reaction								Banish a random card from the defending hero's hand, then they draw a card.	Chaos Attack Reaction					No	
 ppcfhRgNk9GH8QWRpMbdt	Descendent Gustwave	Red	1	1	3	2				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, this costs {r} less to play and has +2{p}.
 
 **Go again**"	Ninja Action - Attack						
@@ -4064,6 +4070,7 @@ Equipment you control gain +1{d}.
 
 At the beginning of your action phase, destroy Forged for War."	Guardian Action - Aura				No	No	
 jPhJQqDbHFbnGHFPNmntR	Forked Lightning	Red	1	3		3			4	Wizard, Action								Deal 2 arcane damage to two target heroes. You may target the same hero twice.	Wizard Action				No	No	
+PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	Red	1	0	2	3				Draconic, Action, Attack								When this attacks, it gets +1{p} for each card with Phoenix Bannerman in its name in your graveyard.	Draconic Action - Attack						
 hqnLfCpjbMKBrjTHQNRfk	Four Finger Gloves					0				Generic, Equipment, Arms			Instant					**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if you've been dealt damage this turn.	Generic Equipment - Arms						
 NmpnLBpB9D6ghMfqNfDKm	Fractal Replication	Red	1	0	*	*				Illusionist, Action, Attack								"When you play or defend with Fractal Replication, it gains the base abilities of all Illusionist attack action cards on the combat chain.
 
@@ -4592,6 +4599,11 @@ bkMchLmgcWQfPCf7MtjnF	HMS Barracuda	Yellow	2	4	6	3				Pirate, Action, Attack		Hi
 NPjFdzCwz8HKdGkcwLPmw	HMS Marlin	Yellow	2	4	6	3				Pirate, Action, Attack		High Tide, Overpower						"When this hits a hero, destroy the top card of their deck.
 
 **High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +1{p} and **overpower**."	Pirate Action - Attack					No	
+PhqfJGJnp8FkNNqQb9crd	Haboob	Red	1	0		3				Draconic, Illusionist, Action, Aura		Go again						"**Go again**
+
+At the start of each turn, put a storm counter on this, then destroy it unless you destroy an ash you control for each storm counter on it.
+
+Attack action cards get -1{p} while attacking or defending."	Draconic Illusionist Action - Aura					No	
 LPNDBTkkJ9gfhfnqrctfJ	Hack to Reality	Yellow	2	1		2				Generic, Action		Go again						"Your next attack this turn gets +2{p}.
 
 The next time you hit a hero this turn, destroy a non-token aura they own with cost less than or equal to the damage dealt this way.
@@ -5597,6 +5609,11 @@ QCKrPkcL9crDhmNhQTnPc	Kelpie, Tangled Mess	Yellow	2	0	1		3			Pirate, Necromancer
 
 **Watery Grave**"	Pirate Necromancer Action - Ally					No	
 wzfdd9ktHKGhFkCKDhTWT	Kick the Hornet's Nest	Yellow	2	3	6	3				Generic, Action, Attack								When an opponent's effect puts this into your graveyard from anywhere, create a Confidence, Might, Toughness, and Vigor token.	Generic Action - Attack				No	No	
+hmNrmWJFJzgW6PDFGLBHM	Kimono of Layered Lessons					1				Mystic, Equipment, Chest		Cloaked	Instant					"**Cloaked**
+
+**Instant** - {c}{c}{c}, turn this face-up: Put a +1{d} counter on this.
+
+At the start of your turn, destroy this."	Mystic Equipment - Chest						
 jGBBjz7wKwnLPrnMBRBht	Kindle	Red	1	0						Wizard, Instant		Amp 1						"**Amp 1**
 
 If you have no cards in hand, draw a card."	Wizard Instant				No	No	
@@ -5948,6 +5965,9 @@ tNBLJKrbDpBL9TMb678wM	Longdraw Half-glove					1				Ranger, Equipment, Arms		Batt
 
 **Battleworn**"	Ranger Equipment - Arms				No	No	
 MFbG9dt7gfRHbqpNKTJwR	Look Tuff	Red	1	3	8	3				Generic, Action, Attack								When this attacks, it gets -1{p} unless you pay {r}.	Generic Action - Attack					No	
+zn7jChRWnFCRdJTRbMmbw	Look Within	Blue	3	0		3				Mystic, Action		Go again						"Search your deck for a Chi, reveal it, shuffle, then put it on top.
+
+**Go again**"	Mystic Action						
 JckmT8QFTgHWrGCBPNWKh	Looking for a Scrap	Red	1	1	4	2				Generic, Action, Attack		Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack					No	
 ntNzmrhJNcwpc9pbjbFmL	Looking for a Scrap	Yellow	2	1	3	2				Generic, Action, Attack		Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack					No	
 bpQN7JWMfcWndWkjWkJwb	Looking for a Scrap	Blue	3	1	2	2				Generic, Action, Attack		Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack					No	
@@ -6326,6 +6346,7 @@ bCqKMLLRmjkM7K9TPKrNb	Misfire Dampener					1				Mechanologist, Equipment, Arms		
 wJkMnrWFtbnjLLtkCr6zC	Mist Hunter	Red	1	0	4	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' blue cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a Mystic hero, search their deck for any number of Inner Chi and banish them. Then shuffle."	Assassin Action - Attack					No	
+MNRCq9PnNd7FdK6MThH7K	Mistborn Protector	Blue	3	0		2				Mystic, Defense Reaction								While this is defending, if you've created a card this turn, this gets +1{d}.	Mystic Defense Reaction						
 gJH8NpPRNdFtTbDQTDzHL	Mistcloak Gully			1						Mystic, Instant, Landmark		Legendary, Transcend						"**Legendary**
 
 The first attack that targets you each turn gets -1{p}.
@@ -7028,9 +7049,35 @@ NBLbpCJJdNCtpKQndQ6nL	Phantom Tidemaw	Blue	3	0						Illusionist, Instant, Aura		
 **Phantasm**
 
 **Ward 1**"	Illusionist Instant - Aura				No	No	
-kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	Red	1	0	0					Draconic, Action, Attack		Go again						"*(A player may add up to 3 Phoenix Flame to their deck in an Uprising limited format.)*
+TMj8cMnKjDbTPMnfTL8tL	Phoenix Bannerman: Arms	Red	1	0		3				Draconic, Action		Legendary, Go again						"**Legendary**
 
-If you control 2 or more Draconic chain links, Phoenix Flame has +1{p}.
+Search your deck for a Phoenix Flame, reveal it, put it into your hand, then shuffle.
+
+Create a Might token.
+
+**Go again**"	Draconic Action						
+7H7Q8F8wdjf6gJq6MGcz6	Phoenix Bannerman: Chest	Red	1	0		3				Draconic, Action		Legendary, Go again						"**Legendary**
+
+Search your deck for a Phoenix Flame, reveal it, put it into your hand, then shuffle.
+
+Create a Vigor token.
+
+**Go again**"	Draconic Action						
+tFPLw7nPCjf7rqbGhCBTr	Phoenix Bannerman: Head	Red	1	0		3				Draconic, Action		Legendary, Go again						"**Legendary**
+
+Search your deck for a Phoenix Flame, reveal it, put it into your hand, then shuffle.
+
+Create a Ponder token.
+
+**Go again**"	Draconic Action						
+pzRnkq7DmN7n6DhwpH7jL	Phoenix Bannerman: Legs	Red	1	0		3				Draconic, Action		Legendary, Go again						"**Legendary**
+
+Search your deck for a Phoenix Flame, reveal it, put it into your hand, then shuffle.
+
+Create an Agility token.
+
+**Go again**"	Draconic Action						
+kCbPmp8tjpdK8BFq9z9wQ	Phoenix Flame	Red	1	0	0					Draconic, Action, Attack		Go again						"If you control 2 or more Draconic chain links, this gets +1{p}.
 
 **Go again**"	Draconic Action - Attack						
 8RGTWgzLGh69FcNbLCfJc	Phoenix Form	Red	1	0	3	3				Draconic, Ninja, Action, Attack		Go again						"If you control 1 or more Phoenix Flames, Phoenix Form has **go again**. If you control 2 or more, it has +2{p}. If you control 3 or more, it has ""When this hits a hero, draw 3 cards."""	Draconic Ninja Action - Attack				No	No	
@@ -7896,6 +7943,7 @@ If a hero has more {h} than any other hero, they can't gain {h}."	Runeblade Weap
 TBw6LqgGqtfjFjgTc8df8	Rebellious Rush	Red	1	2	5	2				Draconic, Ninja, Action, Attack		Go again						**Go again**	Draconic Ninja Action - Attack						
 rPWHqNjBzFDtRjRhLqqDG	Rebellious Rush	Yellow	2	2	4	2				Draconic, Ninja, Action, Attack		Go again						**Go again**	Draconic Ninja Action - Attack						
 zHJtcC6C7FgrmmqHgtJkf	Rebellious Rush	Blue	3	2	3	2				Draconic, Ninja, Action, Attack		Go again						**Go again**	Draconic Ninja Action - Attack						
+6rMqWGtD7TMCrTRwdN6hH	Recede to Mistform	Blue	3	X						Mystic, Instant							Cloaked	Choose X equipment with cloaked you have equipped. Turn them face-down.	Mystic Instant					No	
 mRjQC9fPztGKb7NJ68gkc	Reckless Charge	Blue	3	0		3				Brute, Action		Kayo Specialization						"**Kayo Specialization**
 
 Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.
@@ -8869,6 +8917,11 @@ WQtbdGwPbtmLmmkRjQzqj	Send Packing	Yellow	2	3	6	3				Brute, Action, Attack						
 QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn						40	4		Light, Warrior, Hero			Attack Reaction		Go again		Charge	"If you've **charged** this turn, your attacks get +1{p} while defended by an attack action card.
 
 **Attack Reaction** - Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**."	Light Warrior Hero		No		No	No	
+PBkK9jFkGPKGqTwmTwrzW	Serpent's Kiss	Blue	3	0	1	3				Mystic, Assassin, Action, Attack		Stealth					Transcend	"**Stealth**
+
+When this attacks, create a Fang Strike or Slither in your hand. If you've transcended this turn, instead create both.
+
+When this hits a hero, look at the top 2 cards of their deck. Banish 1 of them."	Mystic Assassin Action - Attack					No	
 JzbrzpFDKnwQJfD7h8CkQ	Shaden Death Hydra	Yellow	2	6	13	3				Shadow, Brute, Action, Attack		Blood Debt					Blood Debt	"When this attacks, it deals X damage to you, where X is 13 minus the number of cards with **blood debt** in your banished zone.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	No	
@@ -8917,6 +8970,9 @@ DMH8PRWDTmMm6mWtQqttn	Shake Down	Red	1	2	6	3				Assassin, Action, Attack		Uzuri 
 If you've played or activated an attack reaction this chain link, Shake Down has ""When this hits a hero, choose red, yellow, or blue. They reveal their hand. Banish a card of the chosen color."""	Assassin Action - Attack				No	No	
 LktKqzw6D9wQtcctzwKbF	Shallow Water Shark Harpoon	Yellow	2	2	5	3				Pirate, Ranger, Action, Arrow, Attack								"If you've activated a cannon this turn, this gets ""When this hits a hero, destroy a card in their arsenal. If you do, create a Gold token."""	Pirate Ranger Action - Arrow Attack					No	
 bMdwPwTh7FJBpzbqTctKB	Shamanic Shinbones					0				Brute, Equipment, Legs		Arcane Barrier 1						**Arcane Barrier 1**	Brute Equipment - Legs						
+bQPW8LTTB7jJdTjprpGtm	Shapeless Form	Blue	3	0	1	2				Mystic, Ninja, Action, Attack		Go again					Ephemeral	"Whenever you play an attack action card with ephemeral, choose a name. It gets the chosen name.
+
+**Go again**"	Mystic Ninja Action - Attack					No	
 dbWtMTc6H6qKnbwKnLfRc	Sharp Shooters					1				Ranger, Equipment, Arms		Battleworn	Action	Go again				"**Action** - Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. **Go again**
 
 **Battleworn**"	Ranger Equipment - Arms				No	No	
@@ -9397,6 +9453,12 @@ Your next Brute attack this turn gets ""If you've intimidated 2 or more times th
 
 **Heave 2**"	Guardian Action - Attack					No	
 kt98RmWMpHzwR8R6Hrccq	Smoke Out	Red	1	0		3				Draconic, Defense Reaction		Mark						When this defends a red card, **mark** the attacking hero.	Draconic Defense Reaction						
+mKGPnwbkjcGbmPn7JJNBF	Smoldering Scales					2				Draconic, Equipment, Chest		Guardwell						"If one or more Frostbite tokens would be created under your control, instead you may destroy this.
+
+**Guardwell**"	Draconic Equipment - Chest						
+fnwmJgw6ktTLBrnD7QHFN	Smoldering Steel	Red	1	0		3				Draconic, Warrior, Attack Reaction								"Target dagger attack gets +1{p} and ""When this hits a hero, deal 1 damage to them.""
+
+While this is in your graveyard, if 1 or more Frostbite tokens would be created under your control, instead you may banish this."	Draconic Warrior Attack Reaction					No	
 rGc7TPKW7CDRmPRCLg6Jd	Snag	Blue	3	0						Generic, Instant								Attack action cards can't gain {p} from their own effects, or the effects of attack reaction cards this turn.	Generic Instant				No	No	
 rqcn9Q6JDG6FRCrpt9tb7	Snap Shot	Red	1	0	4	3				Elemental, Ranger, Action, Arrow, Attack		Lightning Fusion						"**Lightning Fusion**
 
@@ -9714,6 +9776,11 @@ Whenever a weapon you control hits this turn, create 2 Copper tokens.
 cLFGmrkNKKHNwq8cFFGDT	Spreading Flames	Red	1	1	3	2				Draconic, Ninja, Action, Attack		Go again						"Draconic attacks you control have +1{p} while their base {p} is less than the number of Draconic chain links you control.
 
 **Go again**"	Draconic Ninja Action - Attack				No	No	
+PF8fPNMCGHtNBbQRGqMPK	Spreading Mist	Blue	3	0		2				Mystic, Action		Go again			Go again		Ephemeral	"Your next attack this turn gets **go again**.
+
+The next time you would create a card with ephemeral this turn, instead create that many plus 1.
+
+**Go again**"	Mystic Action						
 R7K6C9kzFHbpHGLHHFJtg	Spreading Plague	Yellow	2	1		3				Assassin, Attack Reaction								Create X Bloodrot Pox tokens under the defending hero's control, where X is the number of defending cards this chain link.	Assassin Attack Reaction				No	No	
 tnnFttPCJmktbfMWcNLbT	Spring Load	Red	1	1	2	2				Generic, Action, Attack								When this attacks, if you have no cards in hand, it gains +3{p}.	Generic Action - Attack						
 dNDpzGcjHNR6bbRL99RJm	Spring Load	Yellow	2	1	2	2				Generic, Action, Attack								When this attacks, if you have no cards in hand, it gains +2{p}.	Generic Action - Attack						
@@ -11404,6 +11471,11 @@ RGqFf9CnkWKhjMgfrTbdz	Wax Off	Blue	3	0		2				Ninja, Defense Reaction								If y
 HMktjwMDWRjcFTC8gMHGL	Wax On	Red	1	0		3				Ninja, Defense Reaction								While Wax On is defending an attack action card with cost 0, it gains +2{d}.	Ninja Defense Reaction						
 TBHBqQQ8FjFLkNKbGRncf	Wax On	Yellow	2	0		2				Ninja, Defense Reaction								While Wax On is defending an attack action card with cost 0, it gains +2{d}.	Ninja Defense Reaction						
 zhnWgKpnzfCzCwN6cJBgW	Wax On	Blue	3	0		1				Ninja, Defense Reaction								While Wax On is defending an attack action card with cost 0, it gains +2{d}.	Ninja Defense Reaction						
+zPGgKrwrbdqC6jHnnJzbt	Wax and Wane	Blue	3	0						Mystic, Illusionist, Instant							Ward	"Choose 1 or both:
+- Put a +1{p} counter on target blue aura you control.
+- Put a +1{p} counter on target aura with ward you control.
+
+If you choose both, search your deck for an Inner Chi, reveal it, shuffle, then put it on top of your deck."	Mystic Illusionist Instant					No	
 Lb7B6FTJbHFtCfcLm9dJh	Waxing Specter	Red	1	2						Mystic, Illusionist, Instant, Aura		Ward 3						"If you've pitched a blue card this turn, this enters the arena with a +1{p} counter.
 
 **Ward 3**"	Mystic Illusionist Instant - Aura						
