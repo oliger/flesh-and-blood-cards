@@ -1545,6 +1545,11 @@ Kw9PPtD6DbnRWtNctNrbD	Buzzard Helm					1				Brute, Equipment, Head		Temper						
 chkQDQ6HN77r7hg8pmkKt	Buzzsaw Trap	Blue	3	0		3				Ranger, Defense Reaction, Trap		Legendary, Riptide Specialization						"**Legendary Riptide Specialization**
 
 When this defends an attack with {p} greater than its base, the attack can't gain {p} this turn."	Ranger Defense Reaction - Trap				No	No	
+zQMJwgRd9B7zbF6fqb7Hk	By the Book	Blue	3	0		2				Revered, Action, Aura								"If you have less {h} than each other hero, you may play this as though it were an instant.
+
+Heroes can't draw cards during action phases.
+
+At the beginning of your action phase, destroy this."					No	No	
 9N8KCpFCwjdCgn8CBMQfg	Cadaverous Contraband	Red	1	2	6	2				Generic, Action, Attack								If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.	Generic Action - Attack						
 RKW7z89gLBwpKqrWPfgHH	Cadaverous Contraband	Yellow	2	2	5	2				Generic, Action, Attack								If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.	Generic Action - Attack						
 wzF9jpgGN8tPLtfrtrHfm	Cadaverous Contraband	Blue	3	2	4	2				Generic, Action, Attack								If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.	Generic Action - Attack						
@@ -5744,6 +5749,9 @@ GzTpzLGB99zRcW9w7tKd8	Lava Burst	Red	1	0	2	3				Draconic, Action, Attack		Ruptur
 BFpBkbT788fWNrCgGcWHt	Lava Vein Loyalty	Red	1	0	3	3				Draconic, Ninja, Action, Attack		Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack						
 pdfbRhNQ7rBq8r8HfcBbt	Lava Vein Loyalty	Yellow	2	0	2	3				Draconic, Ninja, Action, Attack		Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack						
 KTF8r6hgr8f89Gn9PpGn6	Lava Vein Loyalty	Blue	3	0	1	3				Draconic, Ninja, Action, Attack		Go again						If you control 2 or more Draconic chain links, this gets **go again**.	Draconic Ninja Action - Attack						
+8jkrbgKtBmnwdwNR7cKHn	Lay Down the Challenge	Yellow	2	0		3				Brute, Action		Intimidate, Go again						"**Intimidate** target hero, then if they have more cards in hand than you, draw a card.
+
+**Go again**"	Brute Action - Attack				No	No	
 trdLjTnNnn6NjM7DzrcQh	Lay Down the Law	Red	1	3	7	3				Guardian, Action, Attack		Tower						**Tower** - If this has 13 or more {p}, non-equipment cards get -1{d} while defending this.	Guardian Action - Attack					No	
 fnrjjBNqBwWQb7PhMtmzC	Lay Low	Yellow	2	0		3				Generic, Defense Reaction							Mark	"If you are **marked**, you can't play this.
 
@@ -5832,6 +5840,11 @@ TQL89gnkPdTLrbr8HNtgf	Leap Frog Slime Skin					1				Assassin, Ninja, Equipment, 
 6Gqn7z8PhLkHtBnF7MmwJ	Leap Frog Vocal Sac					1				Assassin, Ninja, Equipment, Head		Blade Break						"When an opponent plays or activates an attack reaction, you may add this to the active chain link as a defending card.
 
 **Blade Break**"	Assassin / Ninja Equipment - Head						
+FB7cMqjrQpWQqFhmPn7Hk	Leave 'Em Speechless	Blue	3	0		2				Reviled, Action, Aura								"If you have more {h} than each other hero, you may play this as though it were an instant.
+
+When this enters the arena, name a card. The named card can't be played from hand while this is in the arena.
+
+At the beginning of your action phase, destroy this."					No	No	
 zWjNwt6zMt9hMq9TDKJWp	Leave No Witnesses	Red	1	0	4	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck and up to 1 card in their arsenal."	Assassin Action - Attack				No	No	
@@ -7996,6 +8009,7 @@ TBw6LqgGqtfjFjgTc8df8	Rebellious Rush	Red	1	2	5	2				Draconic, Ninja, Action, At
 rPWHqNjBzFDtRjRhLqqDG	Rebellious Rush	Yellow	2	2	4	2				Draconic, Ninja, Action, Attack		Go again						**Go again**	Draconic Ninja Action - Attack						
 zHJtcC6C7FgrmmqHgtJkf	Rebellious Rush	Blue	3	2	3	2				Draconic, Ninja, Action, Attack		Go again						**Go again**	Draconic Ninja Action - Attack						
 6rMqWGtD7TMCrTRwdN6hH	Recede to Mistform	Blue	3	X						Mystic, Instant							Cloaked	Choose X equipment with cloaked you have equipped. Turn them face-down.	Mystic Instant					No	
+QDQgkJbfM7Dm8nrm8CDND	Reckless Arithmetic	Blue	3	1	1	3				Brute, Action, Attack								When this attacks, roll a 6 sided die. This gets +X{p}, where X is the number rolled.	Brute Action - Attack				No	No	
 mRjQC9fPztGKb7NJ68gkc	Reckless Charge	Blue	3	0		3				Brute, Action		Kayo Specialization						"**Kayo Specialization**
 
 Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.
@@ -8402,6 +8416,7 @@ tPk9crbnHLtHTFPgJRWHC	Robe of Resourcefulness					0				Wizard, Equipment, Chest	
 tJgBqNwrFDtHPqpzftbMj	Rockslide Trap	Blue	3	0		2				Ranger, Defense Reaction, Trap								"Rockslide Trap can only be played from arsenal.
 
 When this defends, target attack gets -2{p}, unless the attacking hero pays {r}."	Ranger Defense Reaction - Trap					No	
+wrwkrjbdCPTBpTKjrQNdJ	Rockyard Rodeo	Blue	3	3	*	2				Generic, Action, Attack								This card's {p} is equal to the highest base {p} of weapons you control.					No	No	
 g7hQcmhpwWdKzkj7NtgLp	Roiling Fissure	Blue	3	X1		3				Guardian, Action		Go again						"Destroy an aura with cost X or less, then you may destroy a Seismic Surge you control. If you do, repeat this process.
 
 **Go again**"	Guardian Action				No	No	
@@ -8976,6 +8991,9 @@ When Sekem attacks, you may banish a card from your hero's soul. If you do, deal
 **Ward 4**"	Light - Angel Ally				No	No	
 MDhfpQwtDBtKLhT6Cn7f7	Semblance	Blue	3	3						Illusionist, Instant						Phantasm	Phantasm	Negate all **phantasm** triggered effects of target Illusionist attack you control. The attack loses and can't gain **phantasm**.	Illusionist Instant				No	No	
 WQtbdGwPbtmLmmkRjQzqj	Send Packing	Yellow	2	3	6	3				Brute, Action, Attack								When this attacks a hero, banish a card from their arsenal. When the chain link resolves, if this didn't hit, return the banished card to its owner's hand.	Brute Action - Attack				No	No	
+7kmnQ69hTHJcPwTPWNwmz	Sense Weakness	Blue	3	3		3				Guardian, Action		Go again			Dominate			"Your next Guardian attack this turn gets +1{p}, **dominate**, and ""When this hits a hero, deal damage to all allies they control equal to the damage dealt this way.""
+
+**Go again**"	Guardian Action				No	No	
 QrKGJL7bHCFKbr9N9MNpm	Ser Boltyn, Breaker of Dawn						40	4		Light, Warrior, Hero			Attack Reaction		Go again		Charge	"If you've **charged** this turn, your attacks get +1{p} while defended by an attack action card.
 
 **Attack Reaction** - Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**."	Light Warrior Hero		No		No	No	
@@ -9070,6 +9088,9 @@ PfLGWkcf8RngRHztHDfFT	Sheltered Cove									Generic, Equipment, Head			Instant	
 cJPFBnkLWpF7cKKwzRNTq	Shield Bash	Red	1	3		6				Guardian, Defense Reaction								If a Guardian off-hand with 1 or more {d} is defending this chain link, deal 1 damage to the attacking hero unless they discard a card.	Guardian Defense Reaction					No	
 jBnLmTGRRPcCF9hpccHHT	Shield Bash	Yellow	2	3		5				Guardian, Defense Reaction								If a Guardian off-hand with 1 or more {d} is defending this chain link, deal 1 damage to the attacking hero unless they discard a card.	Guardian Defense Reaction					No	
 T6GTpNNkdNMhBWqfPfK8P	Shield Bash	Blue	3	3		4				Guardian, Defense Reaction								If a Guardian off-hand with 1 or more {d} is defending this chain link, deal 1 damage to the attacking hero unless they discard a card.	Guardian Defense Reaction					No	
+t86nFWmmtDFMPJr9R9jwN	Shield Beater				5					Guardian, Weapon, Hammer, 1H			Action	Attack	Go again			"**Action** - {r}{r}{r}{r}, {t}: **Attack**
+
+Cards you own named Visit Anvilheim get **go again**."	Guardian Weapon - Hammer (1H)				No	No	
 NFHTRRNdJcMLmdKn6nCKK	Shield Wall	Red	1	6		7				Guardian, Defense Reaction								If you control a Guardian off-hand, Shield Wall has +4{d}.	Guardian Defense Reaction						
 DTLGtkQ8zNdPQPPfDpg6n	Shield Wall	Yellow	2	6		6				Guardian, Defense Reaction								If you control a Guardian off-hand, Shield Wall has +4{d}.	Guardian Defense Reaction						
 qD7tKdD8zMjjRBmhhRmGm	Shield Wall	Blue	3	6		5				Guardian, Defense Reaction								If you control a Guardian off-hand, Shield Wall has +4{d}.	Guardian Defense Reaction						
@@ -11018,6 +11039,7 @@ CdDbm8CBpkbBRg9d6Hdck	Two Steps Ahead	Blue	3	0		3				Reviled, Guardian, Action, 
 Twn68rHRjHKDjmnpDQddH	Two Steps Forward					1				Ninja, Equipment, Legs		Battleworn	Instant					"**Instant** - Destroy this: Create an Agility token. Activate this only if you've hit 2 or more times this combat chain.
 
 **Battleworn**"							
+n6twqPttCHFQnTLKBfzKz	Two-Faced					1				Reviled, Equipment, Head		Blade Break						When this defends, the attacking hero draws a card, then look at their hand and choose a card. They discard the chosen card.					No	No	
 gmR7DG76HhtdgwwTqQngT	Under Loop	Red	1	1	4	3				Mechanologist, Action, Attack		Boost						"**Boost**
 
 When this hits, put it on the bottom of its owner's deck."	Mechanologist Action - Attack				Yes	Yes	
