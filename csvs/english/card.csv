@@ -305,6 +305,9 @@ At the beginning of your end phase, **return to the brood**."	Chaos Assassin Dem
 qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit						20	4		Chaos, Assassin, Hero, Young					Go again		Stealth, Mark	"Your attacks with **stealth** that are attacking a **marked** hero get +1{p} and ""When this hits, this gets **go again**.""
 
 At the beginning of your end phase, if an opponent is **marked**, you become a random Agent of Chaos."	Chaos Assassin Hero - Young			No			No
+NQWmfLtTzfWhgHqwznD7g	Arc Bending	Red	1	1	5	3				Elemental, Ranger, Action, Arrow, Attack		Lightning Bond, Go again						"When this attacks, if a Lightning or Elemental attack would deal damage this combat chain, instead it deals that much damage plus 1.
+
+**Lightning Bond** - If a Lightning card was pitched to play this, this gets **go again**."	Elemental Ranger Action - Arrow Attack					No	
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	Yellow	2	6						Light, Illusionist, Instant, Aura		Prism Specialization, Spectra						"**Prism Specialization**
 
 Opponents may only select Arc Light Sentinel as the target of an attack.
@@ -1651,6 +1654,9 @@ If a hero would draw a card during an action phase, instead they banish the top 
 When this hits a Brute hero, they discard a card. If it has 6 or more {p}, you lose 2{h}."	Brute Action - Attack				No	No	
 mCCnJrJQkqJ7KfqKNHGnc	Chane						20	4		Shadow, Runeblade, Hero, Young			Once per Turn Action	Go again	Go again			**Once per Turn Action** - Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again. Go again**	Shadow Runeblade Hero - Young			No			No
 MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow						40	4		Shadow, Runeblade, Hero			Once per Turn Action	Go again	Go again			**Once per Turn Action** - Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again. Go again**	Shadow Runeblade Hero		No		No	No	
+wqgk7BtqLmhWB7tCbPjKd	Channel Galcia's Cradle	Blue	3	0		2				Ice, Action, Aura		Freeze, Channel Ice						"When this enters the arena and at the start of your turn, **freeze** target ally, aura, item, or equipment while this is in the arena.
+
+**Channel Ice** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura					No	
 frQkkTNgtwqhkN6Hgq6cj	Channel Lake Frigid	Blue	3	2		3				Ice, Action, Aura		Go again, Channel Ice						"**Go again**
 
 Cards and activated abilities cost opposing heroes an additional {r}.
@@ -1762,6 +1768,9 @@ hcnpwrf6Brdq9rjc9TCJ7	Chorus of Ironsong	Yellow	2	1		3				Warrior, Attack Reacti
 Until end of turn, target Dawnblade gets +1{p} and ""Damage this would deal can't be prevented.""
 
 **Unity** - When this defends together with a card from hand, create a Courage token under any number of heroes' control."	Warrior Attack Reaction				No	No	
+GRCCwphQgjDcMCzwtWffK	Chorus of Rotwood	Red	1	1		2				Earth, Runeblade, Action		Decompose						"**Decompose** - You may banish 2 Earth cards and an action card from your graveyard. If you do, create an Embodiment of Earth token.
+
+Create 3 Runechant tokens."	Earth Runeblade Action					No	
 zqcnM9Hw8KdpPm8MTpGGQ	Chorus of the Amphitheater	Red	1	2		2			4	Wizard, Action			Instant					"Deal 4 arcane damage to any target.
 
 **Instant** - Discard this: If an action or instant card you control would deal arcane damage this turn, instead it deals that much plus 1."	Wizard Action					No	
@@ -1885,7 +1894,9 @@ kTKcmGwRgtjQcGFRRG6fT	Cloud City Steamboat	Yellow	2	2	5	3				Mechanologist, Acti
 pPgMnD6hBcnm8gcdHL79J	Cloud City Steamboat	Blue	3	2	4	3				Mechanologist, Action, Attack			Twice per Turn Instant					"When this hits a hero, you may {t} a cog you control. If you do, put a steam counter on a cog you control.
 
 **Twice per Turn Instant** - {t} a cog you control: This gets +1{p}."	Mechanologist Action - Attack					No	
-8jzNDBDqQhcHgJtG9JRF8	Cloud Cover	Yellow	2	0						Lightning, Instant								The next time you would be dealt damage this turn, prevent 2 of that damage.	Lightning Instant					No	
+KBtjQPPRg7PnrKGrCLKjC	Cloud Cover	Red	1	0						Lightning, Instant								The next time you would be dealt damage this turn, prevent 3 of that damage.	Lightning Instant						
+MDn7MHgDmW7tJ6tGkG7cz	Cloud Cover	Blue	3	0						Lightning, Instant								The next time you would be dealt damage this turn, prevent 1 of that damage.	Lightning Instant						
+8jzNDBDqQhcHgJtG9JRF8	Cloud Cover	Yellow	2	0						Lightning, Instant								The next time you would be dealt damage this turn, prevent 2 of that damage.	Lightning Instant						
 mbNRPd7D9TN76C8wbBRrL	Cloud Skiff	Red	1	1	5	3				Mechanologist, Action, Attack		Go again	Once per Turn Instant					**Once per Turn Instant** - {t} a cog you control: This gets +1{p} or go again.	Mechanologist Action - Attack						
 kkfTJq9f9rMqbkPkbJm8R	Cloud Skiff	Yellow	2	1	4	3				Mechanologist, Action, Attack		Go again	Once per Turn Instant					**Once per Turn Instant** - {t} a cog you control: This gets +1{p} or go again.	Mechanologist Action - Attack						
 nNnqFQD7WfGFGRnrMw8nh	Cloud Skiff	Blue	3	1	3	3				Mechanologist, Action, Attack		Go again	Once per Turn Instant					**Once per Turn Instant** - {t} a cog you control: This gets +1{p} or go again.	Mechanologist Action - Attack						
@@ -2102,9 +2113,9 @@ WBFjTCfmbwHCr8WNmz8RQ	Confidence									Generic, Token, Aura								At the star
 GtL9zmpkGKMqgBcFfCQgN	Confront Adversity					2				Generic, Equipment, Chest		Blade Break						"This may only defend an attack if the attack's controller has destroyed a Vigor token this turn.
 
 **Blade Break**"	Generic Equipment - Chest						
-pmfpWCMWmppfjkQJpTKqC	Conquer the Icy Terrain	Red	1	3	7	2				Ice, Action, Attack								When this hits a hero, they may pay {r}{r}. If they don't, you may destroy a frozen card in their arsenal or a frozen non-hero permanent they control.	Ice Action - Attack						
-j6CmmkDpqRc7nKtL9Hkc7	Conquer the Icy Terrain	Yellow	2	3	6	2				Ice, Action, Attack								When this hits a hero, they may pay {r}{r}. If they don't, you may destroy a frozen card in their arsenal or a frozen non-hero permanent they control.	Ice Action - Attack						
-q8bcn97LGDDMCWB7P69cJ	Conquer the Icy Terrain	Blue	3	3	5	2				Ice, Action, Attack								When this hits a hero, they may pay {r}{r}. If they don't, you may destroy a frozen card in their arsenal or a frozen non-hero permanent they control.	Ice Action - Attack						
+pmfpWCMWmppfjkQJpTKqC	Conquer the Icy Terrain	Red	1	3	7	2				Ice, Action, Attack							Freeze	When this hits a hero, they may pay {r}{r}. If they don't, you may destroy a frozen card in their arsenal or a frozen non-hero permanent they control.	Ice Action - Attack						
+j6CmmkDpqRc7nKtL9Hkc7	Conquer the Icy Terrain	Yellow	2	3	6	2				Ice, Action, Attack							Freeze	When this hits a hero, they may pay {r}{r}. If they don't, you may destroy a frozen card in their arsenal or a frozen non-hero permanent they control.	Ice Action - Attack						
+q8bcn97LGDDMCWB7P69cJ	Conquer the Icy Terrain	Blue	3	3	5	2				Ice, Action, Attack							Freeze	When this hits a hero, they may pay {r}{r}. If they don't, you may destroy a frozen card in their arsenal or a frozen non-hero permanent they control.	Ice Action - Attack						
 gHzNJcBw6rtnCgNqfftPz	Conqueror of the High Seas	Red	1	4	7	3				Pirate, Action, Attack		High Tide, Go again						"When this hits a hero, destroy all cards in their arsenal. Create a Gold token for each card destroyed this way.
 
 **High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +1{p} and **go again**."	Pirate Action - Attack				No	No	
@@ -2768,6 +2779,7 @@ If you've played or activated 2 or more attack reactions this chain link, this g
 8r7DqKfDrBG6C8mTDRKN7	Double Trouble	Blue	3	0	1	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
 If you've played or activated 2 or more attack reactions this chain link, this gets +2{p} and ""When this hits a hero, banish the top 2 cards of their deck."""	Assassin Action - Attack					No	
+NN9HKRrHF7JDFfnmdRJ6D	Doubling Season	Red	1	3	0	3				Earth, Action, Attack								While this is face-up in any zone, if it would gain {p}, instead it gains that much plus 1.	Earth Action - Attack					No	
 fGFfbMPbQFn6qKPqCtJdB	Douse in Runeblood	Red	1	1	4	3				Runeblade, Action, Attack		Go again						When this attacks, create Runechant tokens equal to the number of non-attack action cards you've played this turn. If 3 or more Runechants are created this way, this gets **go again**.	Runeblade Action - Attack				No	No	
 JFKn8JgrMchwh6D6dCQNw	Down But Not Out	Red	1	3	5	3				Generic, Action, Attack		Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack					No	
 n6jb6thTHT9TpcTdRjdQm	Down But Not Out	Yellow	2	3	4	3				Generic, Action, Attack		Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack					No	
@@ -5422,6 +5434,7 @@ C7PG6mkm7JPNTBWKJwHpt	Invoke Tomeltai	Red	1	5		3				Draconic, Illusionist, Actio
 **Transform** target ash you control into Tomeltai. **Go again**"	Draconic Illusionist Action - Invocation				No	No	
 KWR8NHg7qbrP9rnbfWPr7	Invoke Vynserakai	Red	1	3		3				Draconic, Illusionist, Action, Invocation		Transform, Go again						**Transform** target ash you control into Vynserakai. **Go again**	Draconic Illusionist Action - Invocation					No	
 9J9c98JJDc8mtKnRR9hhq	Invoke Yendurai	Red	1	1		3				Draconic, Illusionist, Action, Invocation		Transform, Go again						**Transform** target ash you control into Yendurai. **Go again**	Draconic Illusionist Action - Invocation					No	
+rrN8b6TLpjCHQJRKBpJFm	Ion Charged	Yellow	2	0						Lightning, Instant								Until end of turn, Lightning and Elemental attacks get +1{p} while they have go again.	Lightning Instant					No	
 GCRQMpBtqBHWrk68GqnGP	Ira, Crimson Haze						20	4		Ninja, Hero, Young								Your second attack each turn gets +1{p}.	Ninja Hero - Young			No			No
 DBKWbWMbrt7WK7KwmNQRL	Ira, Scarlet Revenger						40	4		Ninja, Hero								Your second attack each turn gets +1{p}.	Ninja Hero		No		No	No	
 7TBhRR7QqNj86D7Crj6Rq	Ire of the Crowd									Event								At the beginning of your end phase, if you didn't hit a hero this turn, lose 2{h}.	Event		No	No	No	No	No
@@ -5650,6 +5663,21 @@ cztrB96QNb9CqKDgBRwcN	Lace with Frailty	Red	1	0		2				Ranger, Action		Go again		
 n877nqgWkLDfjQBwM7DM7	Lace with Inertia	Red	1	0		2				Ranger, Action		Go again						"Your next arrow attack this turn gains +3{p} and ""When this hits a hero, create an Inertia token under their control.""
 
 **Go again**"	Ranger Action					No	
+QgJQKQKbPcQRM9BJ9qkGG	Laden with Earth	Red	1	1		2				Elemental, Action		Earth Bond, Go again						"Your next attack this turn gets +3{p}.
+
+**Earth Bond** - If an Earth card was pitched to play this, create an Embodiment of Earth token.
+
+**Go again**"	Elemental Action						
+kRfJmWQQmDCrHtkFtmLQt	Laden with Frost	Red	1	1		2				Elemental, Action		Ice Bond, Go again						"Your next attack this turn gets +3{p}.
+
+**Ice Bond** - If an Ice card was pitched to play this, create a Frostbite token under target hero's control.
+
+**Go again**"	Elemental Action						
+kg8PPbzPQHbJBccCwwh6f	Laden with Lightning	Red	1	1		2				Elemental, Action		Lightning Bond, Go again						"Your next attack this turn gets +3{p}.
+
+**Lightning Bond** - If a Lightning card was pitched to play this, create an Embodiment of Lightning token.
+
+**Go again**"	Elemental Action						
 rpqF9GbWN7Kkb6hPKPnJk	Lady Barthimont					3				Brute, Mentor					Dominate		Specialization	"While Barthimont is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Barthimont is face up in arsenal, whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, the attack gains **dominate** and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on her, banish her, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Brute Mentor			No	No	No	No
@@ -5864,6 +5892,9 @@ bjwkrWNdkhrMrPjMtdRmm	Lightning Press	Blue	3	0						Lightning, Instant								Ta
 8BFGd6LjfLGgTBrJdmdqf	Lightning Surge	Red	1	0	4	2				Lightning, Action, Attack		Go again						If this was played from arsenal, it gets **go again**.	Lightning Action - Attack						
 b7tLTkWGQtKDhqKG9fjQq	Lightning Surge	Yellow	2	0	3	2				Lightning, Action, Attack		Go again						If this was played from arsenal, it gets **go again**.	Lightning Action - Attack						
 6CrqfmG7dCTFgNzLbKtcc	Lightning Surge	Blue	3	0	2	2				Lightning, Action, Attack		Go again						If this was played from arsenal, it gets **go again**.	Lightning Action - Attack						
+R6NHGRHdjzP77nfqbDGHM	Limbs of Lignum Vitae					1				Earth, Equipment, Arms		Blade Break						"If there are 4 or more Earth cards in your banished zone, this gets +1{d}.
+
+**Blade Break**"	Earth Equipment - Arms						
 cw7GLPjtPFqMHJthzJCbw	Limpit, Hop-a-long	Yellow	2	0	2		1			Pirate, Necromancer, Action, Ally		Watery Grave	Action	Attack, Go again				"**Action** - {r}, {t}: **Attack**. **Go again**
 
 **Watery Grave**"	Pirate Necromancer Action - Ally					No	
@@ -6323,6 +6354,12 @@ qrzhp6bWn7rbTFt9fHw7k	Monkey Powder	Red	1	3		2				Ranger, Action		Go again			Ove
 Draw a card.
 
 **Go again**"	Ranger Action					No	
+wq7t69bcdmMbLRdgRMLpk	Monolith of Galcia	Blue	3	3		2				Ice, Guardian, Action							Freeze	"Choose 1 or more;
+
+- Destroy target frozen ally.
+- Destroy target frozen aura.
+- Destroy target frozen equipment.
+- Destroy target frozen item."	Ice Guardian Action					No	
 t68gtGcPf8H9wTGBCfj8L	Monstrous Veil					1				Brute, Equipment, Head		Rhinar Specialization, Battleworn	Action	Go again				"**Rhinar Specialization**
 
 **Action** - Destroy this: Draw a card then discard a random card. **Go again**
@@ -6551,6 +6588,9 @@ NdCm9WBnzPthfNNLrNggG	Oath of Loyalty	Red	1	0	4	3				Draconic, Action, Attack		G
 When this is played, until end of turn, you may only play cards that are Draconic.
 
 **Go again**"	Draconic Action - Attack				No	No	
+dzjNwbBR9WMqhDD8mkBnp	Oath of Oak	Red	1	0		2				Earth, Action								Create 3 Embodiment of Earth tokens.	Earth Action						
+RzWRHzmjbJP9czPThbzQ6	Oath of Oak	Yellow	2	0		2				Earth, Action								Create 2 Embodiment of Earth tokens.	Earth Action						
+kRQ88r9HmhDhfwFr8R6Tz	Oath of Oak	Blue	3	0		2				Earth, Action								Create an Embodiment of Earth token.	Earth Action						
 mKPnFPDQQW6DJjfktTKm7	Oath of Steel	Red	1	0		3				Warrior, Action		Go again						"Whenever you attack with a weapon this turn, put a +1{p} counter on it.
 
 At the beginning of your end phase, remove all +1{p} counters from weapons you control.
@@ -6751,6 +6791,15 @@ mzzkQRbJp8KjGcw6M8z6j	Overbearing Presence					1				Brute, Equipment, Chest		Bla
 wpLckQt7zw66h87TbjcWt	Overblast	Red	1	2	5	3				Mechanologist, Action, Attack							Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack						
 MHkLpfgkgh7hNwbrTJrDF	Overblast	Yellow	2	2	4	3				Mechanologist, Action, Attack							Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack						
 JHRhwNCKG97trbQLfhg9j	Overblast	Blue	3	2	3	3				Mechanologist, Action, Attack							Boost	Overblast gains +X{p}, where X is the number of times you have **boosted** this combat chain.	Mechanologist Action - Attack						
+WLw6Ft6qgMDH7fwMpNdWR	Overcharge	Red	1	1	1	3				Lightning, Action, Attack		Go again						"If you've played an instant card this chain link, this gets +3{p}.
+
+**Go again**"	Lightning Action - Attack						
+QFHnNNCbhDptJfPMbcmHK	Overcharge	Yellow	2	1	1	3				Lightning, Action, Attack		Go again						"If you've played an instant card this chain link, this gets +2{p}.
+
+**Go again**"	Lightning Action - Attack						
+hbKPmFcFKbFq6DW9bbtBK	Overcharge	Blue	3	1	1	3				Lightning, Action, Attack		Go again						"If you've played an instant card this chain link, this gets +1{p}.
+
+**Go again**"	Lightning Action - Attack						
 BrCKk9JLw8r69fGgNt8BH	Overcome Adversity					2				Generic, Equipment, Legs		Blade Break						"This may only defend an attack if the attack's controller has destroyed an Agility token this turn.
 
 **Blade Break**"	Generic Equipment - Legs						
@@ -7564,6 +7613,21 @@ FB87tWPkwcRzmzjLcDfMD	Put 'Em In Their Place	Red	1	6	10	3				Guardian, Action, A
 
 **Crush** - When this deals 4 or more damage to a hero, they discard their hand, then they draw that many cards."	Guardian Action - Attack				No	No	
 MwtKH7HkBhbtFWTBCbDCm	Put in Context	Blue	3	0		3				Generic, Defense Reaction								This can only defend an attack with 3 or less base {p}.	Generic Defense Reaction						
+rHG9qHMLWbk6t68GkJ7Mw	Put on Ice	Red	1	1		2				Ice, Action		Freeze, Go again						"**Freeze** up to 3 target allies until the start of your next turn.
+
+If this was played from arsenal, draw a card.
+
+**Go again**"	Ice Action						
+WfhcLNHhCBC9kj7wfdqfM	Put on Ice	Yellow	2	1		2				Ice, Action		Freeze, Go again						"**Freeze** up to 2 target allies until the start of your next turn.
+
+If this was played from arsenal, draw a card.
+
+**Go again**"	Ice Action						
+GBLfqjhh9PnPJFJPThWWn	Put on Ice	Blue	3	1		2				Ice, Action		Freeze, Go again						"**Freeze** up to 1 target ally until the start of your next turn.
+
+If this was played from arsenal, draw a card.
+
+**Go again**"	Ice Action						
 7QhWMkPGMbFjHqn7rk9Gq	Putrid Stirrings	Red	1	3		3				Shadow, Runeblade, Action		Blood Debt, Go again					Rune Gate	"You may play this from your banished zone.
 
 The next attack action card you **rune gate** this turn gets +5{p}.
@@ -8724,6 +8788,9 @@ The next attack action card with cost 0 or less you play this turn gains ""When 
 **Go again**
 
 **Blood Debt**"	Shadow Runeblade Action						
+Dwn89Mq6WGH8QQGhD6hcq	Seeds of Strength	Red	1	2		3				Elemental, Guardian, Action		Earth Bond						"Create 3 Might tokens.
+
+**Earth Bond** - If an Earth card was pitched to play this, instead create 4 Might tokens"	Elemental Guardian Action					No	
 W9Bqf6HmcQBn9gPcgBF7Q	Seeds of Strength	Yellow	2	2		3				Elemental, Guardian, Action		Earth Bond						"Create 2 Might tokens.
 
 **Earth Bond** - If an Earth card was pitched to play this, instead create 3 Might tokens."	Elemental Guardian Action						
@@ -8868,6 +8935,9 @@ Your weapon attacks get +1{p}. If their {p} is greater than twice their base, th
 
 At the beginning of your end phase, destroy this."	Warior Action - Aura				No	No	
 RJNjgKCzrKtWJfdqRPMhg	Shatter	Yellow	2	0		3				Warrior, Attack Reaction								"Until end of turn, target 2H weapon gains ""Whenever this would deal {p} damage, instead you may destroy target defending equipment with {d} less than the damage that would be dealt this way."	Warrior Attack Reaction				No	No	
+DrfFF7FFQTbwwcbDckGH9	Shattering Grasp					1				Ice, Equipment, Arms		Battleworn	Action	Go again			Freeze	"**Action** - Destroy this: Destroy target frozen ally. **Go again**
+
+**Battleworn**"	Ice Equipment - Arms						
 rc7mWBhpMFfgWcfhmTJCN	Shelly, Hardened Traveler	Yellow	2	2	4		5			Pirate, Necromancer, Action, Ally		Watery Grave	Action, Instant					"**Action** - {r}{r}{r}, {t}: **Attack**
 
 **Instant** - {t}: The next attack action card you defend with this turn gets +1{d}.
@@ -9075,6 +9145,9 @@ If you have dealt arcane damage this turn, Sigil of Suffering gains +1{d}."	Rune
 HcFDpBjqzK8KBzjF6Tbnp	Sigil of Temporal Manipulation	Blue	3	0						Wizard, Instant, Aura								"At the beginning of your action phase, destroy this.
 
 When this leaves the arena, banish the top card of your deck. If it's a non-attack action card, you may play it this turn as though it were an instant."	Wizard Instant - Aura					No	
+QCQmJTff79gRj7bChFTM7	Sigil of Voltaris	Blue	3	0					1	Lightning, Runeblade, Instant, Aura								"When this enters or leaves the arena, deal 1 arcane damage to target hero.
+
+At the beginning of your action phase, destroy this."	Lightning Runeblade Instant - Aura					No	
 wWD8D9JqHhnzctrrTrBDW	Sigil of the Arknight	Blue	3	0		2				Runeblade, Action, Aura		Go again						"**Go again**
 
 At the beginning of your action phase, destroy this.
@@ -9480,6 +9553,9 @@ wMq8RdBcGbtLzBktwpwfF	Sow Tomorrow	Blue	3	1		2				Earth, Action		Go again						"
 If Sow Tomorrow is played from arsenal, draw a card.
 
 **Go again**"	Earth Action						
+zmnWwB6cwgPFBqTLWGDDb	Sowing Thorns	Red	1	0		3				Earth, Wizard, Action		Decompose						"Gain 1{h}
+
+**Decompose** - You may banish 2 Earth cards and an action card from your graveyard. If you do, you may search your deck for an Earth aura with cost less than the {h} you've gained this turn, reveal it, then shuffle and put it on top."	Earth Wizard Action					No	
 8zbP8CGh6GGtQQHFmQFBP	Spark Spray	Red	1	0	4	2				Lightning, Action, Attack								When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack						
 kcHGCkMphHJwgcNd7jJcz	Spark Spray	Yellow	2	0	3	2				Lightning, Action, Attack								When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack						
 kk9mFcfzzzPL6RH9tcBw8	Spark Spray	Blue	3	0	2	2				Lightning, Action, Attack								When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.	Lightning Action - Attack						
@@ -9666,6 +9742,21 @@ If an item or equipment was banished from boosting this, this gets +1{p}."	Mecha
 WbWjnqbPBLjTN8rnbHhDD	Sprocket Rocket	Blue	3	0	1	3				Mechanologist, Action, Attack		Boost						"**Boost**
  
 If an item or equipment was banished from boosting this, this gets +1{p}."	Mechanologist Action - Attack						
+9fBHnrhq6fhfnKprqnGLG	Sprout Strength	Red	1	0		2				Earth, Action		Go again						"Your next attack this turn gets +1{p}.
+
+Your next attack this turn gets +1{p}.
+
+Your next attack this turn gets +1{p}.
+
+**Go again**"	Earth Action						
+kkhCct7WNWmNKWrQN8NjB	Sprout Strength	Yellow	2	0		2				Earth, Action		Go again						"Your next attack this turn gets +1{p}.
+
+Your next attack this turn gets +1{p}.
+
+**Go again**"	Earth Action						
+CbchfKMKBDdQP8wH6zzQq	Sprout Strength	Blue	3	0		2				Earth, Action		Go again						"Your next attack this turn gets +1{p}.
+
+**Go again**"	Earth Action						
 MfDRbDBGdmNDzQdNhHDqq	Spur Locked	Blue	3	0		3				Chaos, Action		Go again						"Each hero secretly chooses a number between 1 and 6, then those numbers are revealed. The hero that chose the highest number loses that much {h}, searches their deck for a card with cost less than or equal to the chosen number, reveales it, puts it in their hand, then shuffles.
 
 **Go again**"	Chaos Action				No	No	
@@ -9869,6 +9960,9 @@ DhKMQzczm7mmf9HnhWhdL	Stride of Reprisal					1				Mystic, Ninja, Equipment, Legs
 tGd6nNtRQGbkcNjCRGB77	Strike Gold	Red	1	0	4	2				Generic, Action, Attack								When this hits, create a Gold token.	Generic Action - Attack						
 GzCQMQGTHq66mwH7GbpQL	Strike Gold	Yellow	2	0	3	2				Generic, Action, Attack								When this hits, create a Gold token.	Generic Action - Attack						
 qLjtfh8FGb6JCLpWPc7Ph	Strike Gold	Blue	3	0	2	2				Generic, Action, Attack								When this hits, create a Gold token.	Generic Action - Attack						
+B78rMBMq66MPzDMdNRjcm	Strike Twice	Red	1	1		3			3	Lightning, Wizard, Action								"Deal 3 arcane damage to any target.
+
+If you've dealt arcane damage to an opposing hero this turn, you may play this as though it were an instant."	Lightning Wizard Action					No	
 QzMcw6fdMzggnrQ8M9jbC	Stroke of Foresight	Red	1	1		3				Warrior, Attack Reaction		Reprise						"Target weapon attack gains +3{p}.
 
 **Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck."	Warrior Attack Reaction						
@@ -11011,6 +11105,11 @@ d77Rnf7QF6pfMd6MNgGtm	Verdance						20	4	1	Elemental, Wizard, Hero, Young		Essen
 wJMCMFqcQfRJmK96kc8qM	Verdance, Thorn of the Rose						40	4	1	Elemental, Wizard, Hero		Essence of Earth						"If there are 8 or more Earth cards in your banished zone, Verdance gets ""Whenever you gain {h} during your turn, you may deal 1 arcane damage to any opposing target.""
 
 **Essence of Earth**"	Elemental Wizard Hero		No		No	No	
+QpMtrnpTR8gr7KQGDn6Jk	Verdant Tide	Red	1	1		2				Elemental, Runeblade, Action		Earth Bond, Go again						"Until end of turn, if you would create 1 or more Elemental or Runeblade aura tokens, instead create that many plus 1 of each of those tokens.
+
+**Earth Bond** - If an Earth card was pitched to play this, create an Embodiment of Earth token.
+
+**Go again**"	Elemental Runeblade Action					No	
 dcMMQNzjpzQ76GQPpnQwz	Vest of the First Fist					0				Generic, Equipment, Chest								When an attack action card you control hits, you may destroy Vest of the First Fist. If you do, gain {r}{r}.	Generic Equipment - Chest						
 PTjbDJpDMHwR6TdJkBLtr	Vestige of Sol					1				Light, Equipment, Chest		Blade Break						"If a card has been put into your hero's soul this turn, whenever you pitch a Light card, instead gain that many {r} plus 1.
 
@@ -11151,6 +11250,10 @@ Nzpgn9HrbNfkzM8CkwCQp	Voltaire, Strike Twice									Elemental, Ranger, Weapon, 
 WFGKzddHnH99BK6Wqrmb8	Voltic Bolt	Red	1	2		3			5	Wizard, Action								Deal 5 arcane damage to target hero.	Wizard Action						
 rzwzDWjwdGDFHcpnnBKtf	Voltic Bolt	Yellow	2	2		3			4	Wizard, Action								Deal 4 arcane damage to target hero.	Wizard Action						
 JHNhMDgMfMRWKQzwnQN88	Voltic Bolt	Blue	3	2		3			3	Wizard, Action								Deal 3 arcane damage to target hero.	Wizard Action						
+WKpW6KJR9RhPrTwj6Gwcw	Voltic Vanguard					0				Lightning, Equipment, Head			Instant					**Instant** - Destroy this: Prevent the next 2 damage that would be dealt to you this turn. Activate this only if you've played an instant card this turn.	Lightning Equipment - Head						
+T8LpTQg8Cqnk7jQgf9FhJ	Voltic Veil	Red	1	1						Elemental, Wizard, Instant		Lightning Bond						"Prevent the next 4 damage that would be dealt to you this turn.
+
+**Lightning Bond** - If a Lightning card was pitched to play this, deal 1 arcane damage to all opposing heroes."	Elemental Wizard Instant					No	
 CzwrwtC7LkmK6mchdpzB7	Volzar, the Lightning Rod									Lightning, Wizard, Weapon, Staff, 2H			Once per Turn Instant	Amp X				"If you control an aura permanent with Sigil in its name, this costs {r} less to activate.
 
 **Once per Turn Instant** - {r}: **Amp X**, where X is the number of Lightning cards you've played this turn."	Lightning Wizard Weapon - Staff (2H)						
