@@ -1019,6 +1019,11 @@ Gfzj9pdzzFB6GtfQLr8kK	Bleed Out	Blue	3	2	2	2				Assassin, Ninja, Action, Attack	
 hpDRrFTHdkKD9gJW96ChW	Blessing of Aether	Red	1	1		2				Wizard, Action, Aura								At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 3.	Wizard Action - Aura					No	
 Kftw7pDQ88fzDgWpHJpWk	Blessing of Aether	Yellow	2	1		2				Wizard, Action, Aura								At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 2.	Wizard Action - Aura					No	
 T8NmK9Tfdr6dJgG6DgQzG	Blessing of Aether	Blue	3	1		2				Wizard, Action, Aura								At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 1.	Wizard Action - Aura					No	
+RLLnbfp9zC8Fcm9Tn9pQf	Blessing of Bellona	Yellow	2	0		3				Light, Action, Aura		Go again						"**Go again**
+
+Whenever a card is put into your soul, create a Courage token.
+
+At the start of your turn, put this into your soul."	Light Action - Aura				No	No	
 7CtMDpTTHNC7DrwJHtJ9M	Blessing of Deliverance	Red	1	2		3				Guardian, Action, Aura		Go again						"**Go again**
 
 When Blessing of Deliverance enters the arena, if you have a card with cost 3 or greater in your pitch zone, draw a card.
@@ -1213,6 +1218,7 @@ KtQQggkn6LkFz7dGHNLWj	Blue Fin Harpoon	Blue	3	2	4	3				Pirate, Ranger, Action, A
 8TbK6kFJcDtRjqwNzBbmp	Blue Sea Tricorn					1				Pirate, Equipment, Head		Blade Break	Action	Go again				"**Action** - {r}{r}{r}, destroy this: Draw a card. **Go again**
 
 **Blade Break**"	Pirate Equipment - Head						
+RHPQfjcCgDTBLmWrNKGbR	Blunten	Yellow	2			2				Warrior, Block								When this defends a weapon attack, the attacking hero discards a card.	Warrior Block				No	No	
 rmgJwFTgdKNFc8LcPKbJJ	Bluster Buff	Red	1	1	6	3				Generic, Action, Attack								When this attacks, it gets -1{p} unless you pay {r}.	Generic Action - Attack					No	
 nGCNDPFfPdhBFqBQBPWwk	Board the Ship	Red	1	2	6	3				Pirate, Necromancer, Action, Attack		Overpower						When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.	Pirate Necromancer Action - Attack					No	
 LmKFmh8JznLWB8mTjmRcC	Boast	Blue	3			3				Guardian, Block							Clash	This gets +X{d} while defending, where X is twice the number of **clashes** you've won this turn.	Guardian Block				No	No	
@@ -3149,6 +3155,11 @@ zjjTKPFFzRh9fMGmR6jPR	Eloquent Eulogy	Red	1	1	4	3				Shadow, Runeblade, Action, 
 When the combat chain closes, if a hero has lost {h} this turn, create an Eloquence token.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	No	
+RD7BHJDcDPPKNGPKj7fHP	Embalm	Yellow	2	0		3				Shadow, Action		Go again, Blood Debt					Blood Debt	"You may play this from your banished zone. If you do, it gets **go again**.
+
+Put an attack action card with blood debt from your graveyard on the bottom of your deck.
+
+**Blood Debt**"	Shadow Action				No	No	
 kqndgG6wmB6CLq6FqfjJ9	Embermaw Cenipai	Red	1	2	8	3				Draconic, Illusionist, Action, Attack		Phantasm						"**Phantasm**
 
 When Embermaw Cenipai is destroyed, create an Ash token."	Draconic Illusionist Action - Attack						
@@ -9593,6 +9604,9 @@ LmmNMBnCBtgG6RfWz9rQQ	Soaring Strike	Blue	3	1	2	2				Draconic, Ninja, Action, At
 
 **Go again**"	Draconic Ninja Action - Attack						
 GJbRTN6kqNnDtGWzTkdPT	Solar Plexus									Light, Equipment, Chest			Instant					**Instant** - Destroy this, banish a card from your soul: Yellow cards cost you {r} less to play this turn.	Light Equipment - Chest				No	No	
+BnN6JDzQwHnC8NTGPnrJB	Solforge Gauntlet					1				Light, Equipment, Arms		Arcane Barrier 1						"When the combat chain closes, if this defended, put it into your soul.
+
+**Arcane Barrier 1**"	Light Equipment - Arms				No	No	
 PPhTHwN7HKT6Hj9JNbDmt	Solid Ground	Blue	3	3		5				Guardian, Defense Reaction								This costs {r} less to play for each Seismic Surge you control.	Guardian Defense Reaction				No	No	
 NwK66fmnJNBBbTBprQkFG	Solitary Companion	Red	1	0		2				Illusionist, Action, Aura		Ward 3						"When this enters the arena, if you control no other Illusionist auras, create a Spectral Shield token.
 
@@ -10277,6 +10291,9 @@ NKnCpDpncwNQcfJrqTLPz	Swing Fist, Think Later	Yellow	2	1	3	3				Brute, Action, A
 FtFNN8f6NTbJtkPNGMmfJ	Swing Fist, Think Later	Blue	3	1	2	3				Brute, Action, Attack		Go again						"As an additional cost to play Swing Fist, Think Later, discard a random card.
 
 **Go again**"	Brute Action - Attack						
+ngQmpGCLgQBbmwzpwgfcp	Swordmaster's Shine	Red	1	3		3				Warrior, Attack Reaction								"This costs {r} less to play for each +1{p} counter on swords you control.
+
+Target weapon attack gets +5{p}."	Warrior Attack Reaction				No	No	
 Dm9LL8NBBLmr7qchQ7cpn	Sworn Vengeance	Red	1	0		3				Warrior, Action		Go again			Mark			"Your next dagger attack this turn gets +3{p} and ""When this hits a hero, **mark** them.""
 
 **Go again**"	Warrior Action						
@@ -10761,6 +10778,9 @@ cH7H7wcqh9qtMrNtJ7wdF	Tome of Imperial Flame	Red	1	0						Draconic, Action		Go a
 You may pitch 2 red cards. If you don't, banish your hand.
 
 **Go again**"	Draconic Action				No	No	
+mgDTDhJcfztFMhLrtcpBF	Tome of Pandemonium	Yellow	2	1		2				Chaos, Action		Go again						"Banish the top card of each hero's deck. You may play them this turn.
+
+**Go again**"	Chaos Action				No	No	
 9pjp9qfKHnzCCpjwhTPFK	Tome of Torment	Red	1	0						Shadow, Action		Blood Debt						"You may play Tome of Torment from your banished zone.
 
 Draw a card.
@@ -11274,6 +11294,9 @@ QpMtrnpTR8gr7KQGDn6Jk	Verdant Tide	Red	1	1		2				Elemental, Runeblade, Action		E
 
 **Go again**"	Elemental Runeblade Action					No	
 dcMMQNzjpzQ76GQPpnQwz	Vest of the First Fist					0				Generic, Equipment, Chest								When an attack action card you control hits, you may destroy Vest of the First Fist. If you do, gain {r}{r}.	Generic Equipment - Chest						
+WnnC99QDftcbRMNcKKwmk	Vestige of Flagellation					2				Shadow, Equipment, Chest		Blade Break						"The first time an opponent would gain {h} each turn, instead you lose that much and create that many Vigor tokens.
+
+**Blade Break**"	Shadow Equipment - Chest				No	No	
 PTjbDJpDMHwR6TdJkBLtr	Vestige of Sol					1				Light, Equipment, Chest		Blade Break						"If a card has been put into your hero's soul this turn, whenever you pitch a Light card, instead gain that many {r} plus 1.
 
 **Blade Break**"	Light Equipment - Chest				No	No	
