@@ -463,6 +463,7 @@ If you control a Spectral Shield, you may play this as though it were an instant
 DpWbbCGtWQJwRhrKr9Cwm	Astral Etchings	Blue	3	1		3				Illusionist, Action							Ward	"Put a +1{p} counter on target aura with **ward** you control.
 
 If you control a Spectral Shield, you may play this as though it were an instant."	Illusionist Action					No	
+LgNWtWWTNFLDnWzjbkTqT	Astravolt Elemental	Red	1	0	3	3				Lightning, Action, Attack								When this attacks, you may discard an instant card. If you do, draw a card and create an Embodiment of Lightning token.	Lightning Action - Attack				No	No	
 wGgcM7RtPfm8PtFhrcchm	Attention Grabbers					1				Guardian, Equipment, Arms		Blade Break					Suspense	"When this defends, you may remove a suspense counter from an aura you control. If you do, this gets +2{d} this chain link.
 
 **Blade Break**"	Guardian Equipment - Arms				No	No	
@@ -1415,7 +1416,7 @@ FTnCF8qDgpz9T9LDbpbf8	Break Ground	Blue	3	3	5	2				Earth, Action, Attack								
 jwWWMBhk9KQdTDBgCLKKj	Break Open the Chests!	Yellow	2	1		3				Pirate, Action		Go again						"Turn all cards in all arsenals face-up. Then if there's a face-up yellow card in any arsenal, create 2 Gold tokens.
 
 **Go again**"	Pirate Action					No	
-GLqfqt8qLhgfwrM6rWckN	Break Stature	Yellow	2	5	8	3				Guardian, Action, Attack		Clash						**Crush** - When this deals 4 or more damage to a hero, destroy an aura token they control. They can't create auras with that token's name until the end of their next turn.	Guardian Action - Attack				No	No	
+GLqfqt8qLhgfwrM6rWckN	Break Stature	Yellow	2	5	8	3				Guardian, Action, Attack		Crush						**Crush** - When this deals 4 or more damage to a hero, destroy an aura token they control. They can't create auras with that token's name until the end of their next turn.	Guardian Action - Attack				No	No	
 wgLPnnJb8QW7WH6zRFbNr	Break Tide	Yellow	2	0	2	3				Ninja, Action, Attack		Combo, Dominate						"**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, Break Tide gains +3{p}, **dominate**, and ""If Break Tide hits, banish the top card of your deck. Until the end of your next turn, you may play it."""	Ninja Action - Attack				No	No	
 jWrgGqDQrJcHQ8PF7htmc	Break of Dawn	Red	1	0						Light, Instant								The next time a Shadow source would deal damage this turn, prevent 4 of that damage.	Light Instant						
 L9ckNFnGCDh9tQtCg8rm6	Break of Dawn	Yellow	2	0						Light, Instant								The next time a Shadow source would deal damage this turn, prevent 3 of that damage.	Light Instant						
@@ -1690,6 +1691,11 @@ MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow						40	4		Shadow, Runeblade, Hero	
 wqgk7BtqLmhWB7tCbPjKd	Channel Galcia's Cradle	Blue	3	0		2				Ice, Action, Aura		Freeze, Channel Ice						"When this enters the arena and at the start of your turn, **freeze** target ally, aura, item, or equipment while this is in the arena.
 
 **Channel Ice** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura					No	
+fBkzc8fHBKTCqGTJJP8cP	Channel Iceloch Glaze	Blue	3	0		3				Ice, Action, Aura		Go again, Freeze, Channel Ice					Freeze	"**Go again**
+
+Cards in opponents' arsenals are **frozen** while they control a Frostbite or a frozen permanent.
+
+**Channel Ice** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura				No	No	
 frQkkTNgtwqhkN6Hgq6cj	Channel Lake Frigid	Blue	3	2		3				Ice, Action, Aura		Go again, Channel Ice						"**Go again**
 
 Cards and activated abilities cost opposing heroes an additional {r}.
@@ -1721,6 +1727,11 @@ Heroes can't reveal cards, search decks, or draw cards from effects.
 wkHBqcWJQwCLr9fLKLpdw	Channel the Millennium Tree	Red	1	3		3				Earth, Action, Aura		Go again, Channel Earth, Amp 3						"**Go again**
 
 When this enters the arena and at the beginning of your action phase, **amp 3**.
+
+**Channel Earth** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Earth card from your pitch zone on the bottom of your deck for each flow counter on it."	Earth Action - Aura				No	No	
+8Q8tDLjqHRbJLh8CTpkwr	Channel the Skybreaker	Yellow	2	2		3				Earth, Action, Aura		Go again, Channel Earth						"**Go again**
+
+When this enters the arena and at the beginning of your action phase, create 2 Might tokens.
 
 **Channel Earth** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Earth card from your pitch zone on the bottom of your deck for each flow counter on it."	Earth Action - Aura				No	No	
 jwTLJMTw6FMzm6KrTGzkW	Channel the Tranquil Domain	Yellow	2	3		3				Earth, Action, Aura		Go again, Channel Earth						"**Go again**
@@ -2305,6 +2316,12 @@ CQLdjjNmHTMfDnqzW6TLg	Crown of Dichotomy					0				Runeblade, Equipment, Head		Ar
 QbRRGgm9QNjFGchhLkbtF	Crown of Dominion									Generic, Equipment, Head								"Your hero is Royal.
 
 When you equip Crown of Dominion, create a Gold token."	Generic Equipment - Head				No	No	
+trMzKPpJWJGpqnpDTMzbp	Crown of Everbloom					0				Earth, Equipment, Head		Arcane Barrier 2	Instant					"**Instant** - Destroy this: Put a card from your arsenal on the bottom of your deck. If you do, draw a card and create a Spellbane Aegis token.
+
+**Arcane Barrier 2**"	Earth Equipment - Head				No	No	
+8cCPkCrpTtbtL7hw7F8jG	Crown of Frozen Thoughts					2				Ice, Equipment, Head		Freeze, Blade Break						"When this defends, **freeze** the attacking hero until the start of their next turn.
+
+**Blade Break**"	Ice Equipment - Head				No	No	
 NRHdp6LTtCDKbJngJPCmN	Crown of Providence					2				Generic, Equipment, Head		Blade Break						"When you defend with Crown of Providence, you may put a card from your hand or arsenal on the bottom of your deck. If you do, draw a card.
 
 **Blade Break**"	Generic Equipment - Head				No	No	
@@ -2792,6 +2809,9 @@ Create Gold tokens equal to the number of gold counters removed this way."	Pirat
 bzkCGg6kcffpBcBhgHrkH	Dodge	Blue	3	0		2				Generic, Defense Reaction									Generic Defense Reaction						
 DmQPbpRWTzKJcwKLdB88B	Dominate the Competition									Event					Dominate			Your next attack this turn gets **dominate**.	Event		No	No	No	No	No
 hjggcdqWwpwNKCrTBj6J7	Dominia				4		4			Draconic, Illusionist, Dragon, Ally								Whenever Dominia attacks a hero, reveal the top card of your deck. If it's a red card, look at their hand and banish a card from it.	Draconic Illusionist - Dragon Ally				No	No	
+pgCtKBCMMg6wmhBQHB6Tq	Doomsaying	Red	1	0		3				Runeblade, Action, Aura		Go again						"**Go again**
+
+At the beginning of your end phase, put a doom counter on this, then each hero destroys X auras they control, where X is the number of doom counters on this."	Runeblade Action - Aura				No	No	
 w7HdMtLpHDBRNJcKHWHpc	Doomsday	Blue	3	0						Shadow, Instant		Legendary, Levia Specialization					Blood Debt	"**Legendary Levia Specialization**
 
 Play Doomsday only if there are 6 or more cards with blood debt in your banished zone.
@@ -4410,6 +4430,7 @@ FcfhgdgwB6BBHjbNHkFtL	Glory Seeker									Generic, Equipment, Head			Instant			
 gmwg8fzdNG8rMfrHgD7kw	Gloves of Erasure					0				Wizard, Equipment, Arms		Blade Break						"When this leaves the arena, destroy target aura token.
 
 **Blade Break**"	Wizard Equipment - Arms						
+gTk9tDTjGDw9c9dM87gTR	Glyph Destruction Nodes	Yellow	2	0		3			3	Wizard, Action								Deal 3 arcane damage to up to X target heroes and/or allies, where X is the number of aura permanents you control with Sigil in their name.	Wizard Action				No	No	
 7ztwtMfmmbnrhqM9F797p	Glyph Overlay	Red	1	1		3			3	Wizard, Action		Surge						"Deal X+3 arcane damage to target hero, where X is the number of aura permanents you control with Sigil in their name.
 
 **Surge** - If this deals more than 3 damage, gain 1{h}, then shuffle all aura permanents you control with Sigil in their name into their owner's deck."	Wizard Action					No	
@@ -6000,6 +6021,11 @@ DTzNKfTmjP6QLP8W8TpdF	Little Big Foot	Blue	3	4	3	3				Guardian, Action, Attack		
 When this enters the arena, create 2 Gold tokens.
 
 At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this, then lose 2{h} unless you discard a card."	Pirate Action - Aura				No	No	
+tdCWDz6H6CWDMJ7CChhzW	Lobotomy	Red	1	0	3	3				Assassin, Action, Attack		Stealth						"**Stealth**
+
+When this attacks, you may equip an Orbitoclast from your inventory.
+
+When this hits a hero, if you control an Orbitoclast, they lose all hero card abilities during their next action phase."	Assassin Action - Attack				No	No	
 RBmR6mwf6mzwwg7nwtGzK	Locked and Loaded	Red	1	0		3				Mechanologist, Action		Opt 1, Go again					Boost	"The next Mechanologist attack action card you play this turn gains +3{p}.
 
 If you have **boosted** this turn, **opt 1**.
@@ -9119,13 +9145,13 @@ If a Chi was pitched to play this, create 2 Crouching Tigers in your hand.
 RmJNprW8pD7hPmcMJ6Q7N	Shimmering Mirage	Blue	3	0		2				Illusionist, Defense Reaction		Mirage						"While this is defending, when this chain link resolves, banish this. You may play it this combat chain.
 
 **Mirage**"						No	
-WJbQRdLL9gPWJnjGTtFcT	Shimmering Specter	Red	1	3	6	3				Illusionist, Action, Attack		Mirage						"While this is attacking or defending, when this leaves the arena, create a Spectral Shield token.
+WJbQRdLL9gPWJnjGTtFcT	Shimmering Specter	Red	1	3	6	2				Illusionist, Action, Attack		Mirage						"While this is attacking or defending, when this leaves the arena, create a Spectral Shield token.
 
 **Mirage**"							
-7QWnhpb7MCBcwrNj6Tw7z	Shimmering Specter	Yellow	2	3	5	3				Illusionist, Action, Attack		Mirage						"While this is attacking or defending, when this leaves the arena, create a Spectral Shield token.
+7QWnhpb7MCBcwrNj6Tw7z	Shimmering Specter	Yellow	2	3	5	2				Illusionist, Action, Attack		Mirage						"While this is attacking or defending, when this leaves the arena, create a Spectral Shield token.
 
 **Mirage**"							
-BRnbp6GzfhcMNCJjq7GNP	Shimmering Specter	Blue	3	3	4	3				Illusionist, Action, Attack		Mirage						"While this is attacking or defending, when this leaves the arena, create a Spectral Shield token.
+BRnbp6GzfhcMNCJjq7GNP	Shimmering Specter	Blue	3	3	4	2				Illusionist, Action, Attack		Mirage						"While this is attacking or defending, when this leaves the arena, create a Spectral Shield token.
 
 **Mirage**"							
 bjggdCWtfTmLNBzq8Jt9L	Shimmers of Silver	Blue	3	0		2				Illusionist, Action, Aura		Spectra	Once per Turn Effect					"**Once per Turn Effect** - Whenever you attack with an Illusionist aura weapon, put a +1{p} counter on it.
@@ -9450,7 +9476,7 @@ g8tjHjKCPpR6tDpqnhrN9	Skyward Serenade	Yellow	2	0		2				Lightning, Runeblade, Ac
 - Your next attack this turn gets +1{p}.
 
 **Go again**"	Lightning Runeblade Action				No	No	
-fpnNtrfNGgkh6jbnGzjkt	Skywarden no.161803	Yellow	2	0	3	3				Pirate, Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +1{d}. If a Golden Cog is destroyed this way, create a Gold token.	Pirate Mechanologist Action - Attack					No	
+fpnNtrfNGgkh6jbnGzjkt	Skywarden no.161803	Yellow	2	0	3	2				Pirate, Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +1{d}. If a Golden Cog is destroyed this way, create a Gold token.	Pirate Mechanologist Action - Attack					No	
 HHt6w8PmCTDJkCtGdKjbm	Skyzyk	Red	1	0	3	3				Lightning, Action, Attack								If this has go again, it gets +1{p}.	Lightning Action - Attack					No	
 6JWDWhqwDrdDPnGfqMQQR	Slap-Happy	Red	1	0						Guardian, Warrior, Instant								The next time you would be dealt damage this turn, prevent 2 of that damage. If you do, create a Vigor token.	Guardian / Warrior Instant					No	
 cdMqrK6rMMDTjHCwBMcqn	Slay	Red	1	0						Shadow, Instant								Destroy target angel ally.	Shadow Instant				No	No	
@@ -10530,6 +10556,9 @@ LWgK7g7ftJ6kWhjg9RQH7	Tempest Aurora	Yellow	2	0		2				Wizard, Action		Go again		
 RLFbbtnr6PH8fKBQmHLCg	Tempest Aurora	Blue	3	0		2				Wizard, Action		Go again						"The next card you play this turn with cost 0 and an arcane damage effect, instead deals that much arcane damage plus 1.
 
 **Go again**"	Wizard Action						
+hfTBtd9wKBC6TzhCqQ6mn	Tempest Dancers					0				Wizard, Equipment, Legs		Blade Break						"When this leaves the arena, you may play your next non-attack action card this turn as though it were an instant.
+
+**Blade Break**"	Wizard Equipment - Legs				No	No	
 D9rHcGbwmfHRQw9CkhHFd	Tempest Palm Gustwave	Yellow	2	0	3	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, this gets +2{p}.
 
 If this is played at chain link 3 or higher, this gets **go again**."	Ninja Action - Attack				No	No	
