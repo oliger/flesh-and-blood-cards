@@ -3791,6 +3791,9 @@ Target attack action card gets +1{p}."	Mystic Assassin Attack Reaction
 P9DWCqqTwtKLnhNzLHnnp	Fang, Dracai of Blades						40	4		Royal, Draconic, Warrior, Hero							Mark	"Whenever you hit a **marked** hero, create a Fealty token.
 
 If you control 3 or more Fealty tokens, dagger attacks cost you {r} less to activate."	Royal Draconic Warrior Hero		No		No	No	
+pLKmGWGTTQdcHmhckhcNh	Farflight Longbow									Ranger, Weapon, Bow, 2H			Instant					"**Instant** - {r}, {t}: Put an arrow from your hand face-up into your arsenal.
+
+Your arrow attacks may target any opposing hero or ally."	Ranger Weapon - Bow (2H)				No	No	
 TCKTLR7jQp6BDTkbdpfJn	Fast and Furious	Red	1	0	3	3				Mechanologist, Action, Attack		Boost					Crank, Boost	"**Boost**
 
 If you've **cranked** this turn, this gets +1{p}.
@@ -4459,7 +4462,13 @@ Your next Dawnblade attack this turn has **go again**.
 Whenever Dawnblade hits a hero this turn, put a +1{p} counter on it.
 
 **Go again**"	Warrior Action				No	No	
+BbPCr6FPrbC9wdCFMgDFr	Glory Plate					0				Revered, Equipment, Chest		Guardwell						"This gets +1{d} for each Toughness token that has left the arena this turn.
+
+**Guardwell**"	Revered Equipment - Chest				No	No	
 FcfhgdgwB6BBHjbNHkFtL	Glory Seeker									Generic, Equipment, Head			Instant					**Instant** - {r}{r}{r}, destroy this: Draw a card.	Generic Equipment - Head						
+gJbTFDQTW7HfKnkpwgLCw	Gloves of Azure Waves					0				Pirate, Equipment, Arms		Arcane Barrier 1, High Tide, Blade Break						"**Arcane Barrier 1**
+
+**High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +3{d} and **blade break**."	Pirate Equipment - Arms				No	No	
 gmwg8fzdNG8rMfrHgD7kw	Gloves of Erasure					0				Wizard, Equipment, Arms		Blade Break						"When this leaves the arena, destroy target aura token.
 
 **Blade Break**"	Wizard Equipment - Arms						
@@ -4921,6 +4930,9 @@ rjhDRz7JGN7kpDdjHQfrg	Helm of Isen's Peak					1				Guardian, Equipment, Head		Ba
 rcjgBWntdrDcMT7gHdgjF	Helm of Might and Magic					1				Runeblade, Equipment, Head		Blade Break, Spellvoid 1						"**Blade Break**
 
 **Spellvoid 1**"	Runeblade Equipment - Head						
+HDD8FDbbhgKFmpHBGCL9c	Helm of Safe Haven					2				Generic, Equipment, Head		Blade Break						"When this defends, reveal the top card of your deck. If it's an attack action card, add it to this chain link as a defending card and discard a card.
+
+**Blade Break**"	Generic Equipment - Head				No	No	
 MfBtnKK96JRR8Nb7RWMBn	Helm of Sharp Eye					1				Warrior, Equipment, Head		Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.
 
 **Battleworn**"	Warrior Equipment - Head				No	No	
@@ -8375,6 +8387,11 @@ If you have dealt arcane damage to an opposing hero this turn, Rip Through Reali
 **Blood Debt**"	Shadow Runeblade Action - Attack						
 g89MkbrrTtJkGwFwDKpfB	Rip Up Their Virtues	Blue	3	0						Reviled, Instant								Destroy up to 3 Toughness tokens. Create a Might token for each token destroyed this way.	Reviled Instant				No	No	
 QqfKkBhgJfFFnDLmwcHfL	Ripple Away	Blue	3	2	4	3				Generic, Action, Attack			Instant					**Instant** - Discard this: If an action card effect would create 1 or more tokens this turn, instead it creates that many minus 1 of each of those tokens.	Generic Action - Attack				No	No	
+rW8N7tr9TF98TM8fwMfJd	Rippling Wave					3				Mystic, Equipment, Arms		Cloaked, Blade Break					Ward	"**Cloaked**
+
+**Instant** - {c}{c}{c}, turn this face-up: You may return a defending blue attack action card to its owner's hand.
+
+**Blade Break**"	Mystic Equipment - Arms				No	No	
 DhffBQC7PHwzdJpjTjNBm	Riptide						19	4		Ranger, Hero, Young								"Whenever you play a card from hand, you may put a card from hand face down into your arsenal.
 
 Whenever a trap you control triggers, deal 1 damage to the attacking hero."	Ranger Hero - Young			No			No
@@ -9066,6 +9083,11 @@ wcmmpmGPLhHLFJfdWcpzm	Seismic Shelter	Blue	3	0		3				Guardian, Action, Aura		Go 
 Attack action cards you control get +X{d} while defending, where X is the number of Seismic Surge tokens you control.
 
 At the start of your turn, destroy this."	Guardian Action - Aura				No	No	
+nTMBkFzPMg6TtPkF6kBgQ	Seismic Shift	Red	1	0		3				Guardian, Action		Go again						"As an additional cost to play this, {t} X Seismic Surge tokens you control.
+
+Destroy X target aura tokens.
+
+**Go again**"	Guardian Action				No	No	
 NqRrPq9RLbrhFrrgzndt8	Seismic Stir	Red	1	2		3				Guardian, Action		Go again						"Create 3 Seismic Surge tokens.
 
 **Go again**"	Guardian Action						
@@ -9324,6 +9346,11 @@ bgHQJbkCNNBDT9kKdCW8w	Sigil of Fyendal	Blue	3	0		2				Generic, Action, Aura		Go 
 At the beginning of your action phase, destroy this.
 
 When this leaves the arena, gain 1{h}."	Generic Action - Aura						
+DKNrgnhnpbKFJLHhKKRRm	Sigil of Gravespawning	Blue	3	1		3				Runeblade, Action, Aura		Go again						"**Go again**
+
+Whenever an aura leaves your graveyard, deal 1 arcane damage to target hero.
+
+At the beginning of your action phase, destroy this."	Runeblade Action - Aura				No	No	
 gzzft6DHbbNJGGCfCJrz7	Sigil of Lightning	Blue	3	0						Lightning, Instant, Aura								"At the beginning of your action phase, destroy this.
 
 When this leaves the arena, create an Embodiment of Lightning token."	Lightning Instant - Aura						
@@ -10169,6 +10196,9 @@ hpMnhtBmjM7zFBTDMkf87	Storm Striders					0				Wizard, Equipment, Legs		Arcane Ba
 
 **Arcane Barrier 2**"	Wizard Equipment - Legs				No	No	
 PQm7zFjBPCzc68JDd8D6z	Storm of Sandikai									Draconic, Illusionist, Weapon, Scepter, 2H					Attack			"Dragon allies you control have ""**Once per Turn Action** - 0: **Attack**""."	Draconic Illusionist Weapon - Scepter (2H)						
+jGpmP7RtNPqn6WnmJkLwQ	Stormweaver's Aegis					0				Lightning, Equipment, Chest		Arcane Barrier 1	Instant					"**Instant** - Destroy this: Until end of turn, instant cards you own get ""**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.""
+
+**Arcane Barrier 1**"	Lightning Equipment - Chest				No	No	
 jwDzJCPgGpnn6QgPJkNTH	Stormwind Sheath	Red	1	1		5				Elemental, Defense, Reaction		Lightning Bond						**Lightning Bond** - If a Lightning card was pitched to play this, create an Embodiment of Lightning token.	Elemental Defense Reaction						
 9Lkp6qzHGh7z78K9cFjrJ	Story Beats	Red	1	3	7	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack					No	
 DwhgmJpg6hHzFJPPK6n7T	Story Beats	Yellow	2	3	6	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack					No	
@@ -10617,6 +10647,10 @@ hfTBtd9wKBC6TzhCqQ6mn	Tempest Dancers					0				Wizard, Equipment, Legs		Blade Br
 D9rHcGbwmfHRQw9CkhHFd	Tempest Palm Gustwave	Yellow	2	0	3	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, this gets +2{p}.
 
 If this is played at chain link 3 or higher, this gets **go again**."	Ninja Action - Attack				No	No	
+QF7w8mPkmCmLGmtzDLDPM	Templar Spellbane					1				Warrior, Equipment, Head		Battleworn	Instant					"**Instant** - Destroy this: Prevent the next 1 arcane damage that would be dealt to you this turn. If you've activated a weapon this turn, instead prevent the next 2.
+
+**Battleworn**"	Warrior Equipment - Head				No	No	
+Lw6p6ntgdBwB7tDPJtDjG	Temporal Wobble	Red	1	0						Wizard, Instant		Negate						**Negate** target non-attack action card with cost less than the number of aura permanents you control with Sigil in their name. Its controller gains 1 action point.	Wizard Instant				No	No	
 F8hkwqJTR9m8bRKnbr6JB	Ten Foot Tall and Bulletproof	Red	1	3	10	10				Generic, Action, Attack								When this attacks or defends, your hero gets -2{i} during your next end phase.	Generic Action - Attack				No	No	
 hJbgjmKWm7PKWGrrRhMf6	Tenacity	Yellow	2	0	2	3				Generic, Action, Attack								When this attacks, it gets +X{p}, where X is the number of defending cards on the combat chain.	Generic Action - Attack				No	No	
 hGrNPzMgNPK9zJ68bk987	Tension in the Air	Red	1	2		3				Guardian, Instant, Aura		Suspense						"**Suspense**
