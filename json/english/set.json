@@ -1100,7 +1100,7 @@
                 "unique_id": "cWmBzGKHW8GwtJddbDhLJ",
                 "edition": "N",
                 "start_card_id": "GEM001",
-                "end_card_id": "GEM104",
+                "end_card_id": "GEM140",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -2068,6 +2068,27 @@
                 "card_gallery": null,
                 "release_notes": "https://fabtcg.com/en/resources/rules-and-policy-center/release-notes/rosetta-1st-strike/",
                 "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/1stk_terra_logo.original.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "hPLgdFQPqGfn8GpJ8Rqg6",
+        "id": "TNP",
+        "name": "Tournament Pack",
+        "printings": [
+            {
+                "unique_id": "9qTTzdG9cWdHPjN86TWJ7",
+                "edition": "N",
+                "start_card_id": "TNP001",
+                "end_card_id": "TNP030",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },
