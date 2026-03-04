@@ -623,6 +623,27 @@
         ]
     },
     {
+        "unique_id": "97NzCKbWKpHMkrJnDWR7M",
+        "id": "AZS",
+        "name": "Armory Deck - Zyggy",
+        "printings": [
+            {
+                "unique_id": "RcdBDWfRRkNdTcqkQJFmQ",
+                "edition": "N",
+                "start_card_id": "AZS001",
+                "end_card_id": "AZS017",
+                "initial_release_date": "2026-05-29T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/armory-deck-zyggy-starlight/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "mGktWtqzRWGPg6F78RFqh",
         "id": "BDD",
         "name": "Bravo Demo Deck",
@@ -1016,7 +1037,7 @@
                 "unique_id": "j76qTFctqc8krqh9GKGmT",
                 "edition": "N",
                 "start_card_id": "FAB001",
-                "end_card_id": "FAB399",
+                "end_card_id": "FAB478",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1520,6 +1541,27 @@
                 "product_page": "https://fabtcg.com/products/booster-set/tales-aria-blitz-decks/",
                 "collectors_center": "https://fabtcg.com/collectors-centre/tales-of-aria/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/tales-aria/oldhim-blitz-deck/",
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "JQhMnwghQ7WDjJbcPKDWc",
+        "id": "OMN",
+        "name": "Omens of the Third Age",
+        "printings": [
+            {
+                "unique_id": "8GLr9TQr8WMWCm8k8RRMC",
+                "edition": "N",
+                "start_card_id": "OMN001",
+                "end_card_id": "OMN203",
+                "initial_release_date": "2026-06-05T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/omens-of-the-third-age/",
+                "product_page": "https://omen.fabtcg.com/",
+                "collectors_center": null,
+                "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null
             }
