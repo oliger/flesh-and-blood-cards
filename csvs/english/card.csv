@@ -253,6 +253,9 @@ wJQMt6Lpf6D9JFQ8BW898	Anthem of Spring	Blue	3	0		2				Earth, Action		Briar Speci
 The next attack action card you play this turn gets +1{p}. **Go again**
 
 **Unity** - When this defends together with a card from hand, create an Embodiment of Earth token under any number of heroes' control."	Earth Action				No	No	
+b8JRFt6dF7JckNz8N6kDN	Anticipating Gaze					2				Warrior, Equipment, Head		Blade Break						"When a sword attack you control hits, you may remove a +1{p} counter from the sword. If you do, destroy this and draw a card.
+
+**Blade Break**"	Warrior Equipment - Head				No	No	
 QTpCnrrjTbQhdRdLBzLzB	Apex Bonebreaker					2				Brute, Equipment, Arms		Temper						"When this defends together with a card with 6 or more {p}, create a Might token.
 
 **Temper**"	Brute Equipment - Arms				No	No	
@@ -523,6 +526,7 @@ Defense reaction cards can't be played this chain link."	Assassin Action - Attac
 rdwhCnq7qjDG97zMqzDkz	Back Stab	Blue	3	0	1	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
 Defense reaction cards can't be played this chain link."	Assassin Action - Attack					No	
+gHKL66LFPJ6Jq7qkqFQqn	Backside of the Blade	Blue	3	2		3				Warrior, Attack Reaction							Go again	Target weapon attack gets +1{p}. If it has go again, you may attack an additional time with the weapon this turn.	Warrior Attack Reaction						
 pTJRQBLb8phGGHPHgwdQk	Backspin Thrust	Red	1	0	4	3				Mechanologist, Action, Attack			Once per Turn Instant	Go again				**Once per Turn Instant** - {u} a cog you control: This gets +1{p} or **go again**.	Mechanologist Action - Attack				No	No	
 6QzjLDc9KbnJWrFqd8zjW	Backup Protocol: BLU	Blue	3	0						Mechanologist, Action, Item		Crank						"**Crank**
 
@@ -1373,6 +1377,9 @@ cjDzkKdjNrGqL9tnDc7zd	Briar, Warden of Thorns						40	4		Elemental, Runeblade, H
 The first time an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.
 
 Whenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token."	Elemental Runeblade Hero		No		No	No	
+BJKkfCPh7LmMrT9bDn6wz	Brimming Blade	Red	1	1		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control twice.
+
+**Go again**"	Warrior Action					No	
 nhf89Hr9rJkp9qDjDCCpt	Brothers in Arms	Red	1	2	6	2				Generic, Action, Attack								When this defends, you may pay {r}. If you do, it gets +2{d}.	Generic Action - Attack						
 B7BNkF6nJChrRQ6kpWKPw	Brothers in Arms	Yellow	2	2	5	2				Generic, Action, Attack								When this defends, you may pay {r}. If you do, it gets +2{d}.	Generic Action - Attack						
 TtJpTpjBbDpPhFb7bzLwD	Brothers in Arms	Blue	3	2	4	2				Generic, Action, Attack								When this defends, you may pay {r}. If you do, it gets +2{d}.	Generic Action - Attack						
@@ -2341,6 +2348,8 @@ If it has an aim counter, it gains ""When this hits a hero, look at their hand a
 nQLzhKtPNctwzTqMNf7LJ	Dead Threads					1				Necromancer, Equipment, Chest		Blade Break	Instant					"**Instant** - {t}: Gain {r}. Activate this only if an ally has been put into your graveyard this turn.
 
 **Blade Break**"	Necromancer Equipment - Chest				No	No	
+TjbQ8B7bPdngTrkpGD8bG	Deadly Display	Red	1	1		2				Warrior, Attack Reaction							Sharpen	"Target weapon attack gets +3{p}. If the weapon has been sharpened this turn, the attack gets ""When this hits a hero, create a Flurry token."""	Warrior Attack Reaction						
+FpzTKHqqhbqgK7zQkJtTk	Deadly Display	Blue	3	1		2				Warrior, Attack Reaction							Sharpen	"Target weapon attack gets +1{p}. If the weapon has been sharpened this turn, the attack gets ""When this hits a hero, create a Flurry token."""	Warrior Attack Reaction						
 Nnr9kcRcQfLQW7pTHkMG8	Deadly Duo	Red	1	1	3	2				Ninja, Action, Attack		Go again						"When this hits, the next attack action card with 2 or less base {p} you play this combat chain gains +2 {p}.
 
 **Go again**"	Ninja Action - Attack						
@@ -2919,6 +2928,16 @@ When this leaves the arena, your next attack this turn gets +4{p}."	Guardian Ins
 MTjzGdRDGRGGqHmpn6zCH	Edge of Their Seats	Blue	3	3		3				Guardian, Instant, Aura		Suspense						"**Suspense**
 
 When this leaves the arena, your next attack this turn gets +3{p}."	Guardian Instant - Aura						
+mTCJbPqB8m8hRTcQCHD7t	Edict of Steel	Yellow	2	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
+
+If it has 2 or more +1{p} counters, create a Flurry token.
+
+**Go again**"	Warrior Action						
+j8LdzKwQwGdHJffPKcntM	Edict of Steel	Blue	3	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
+
+If it has 3 or more +1{p} counters, create a Flurry token.
+
+**Go again**"	Warrior Action						
 wKQrdNKc6tbpWbGfNDtcn	Edict of Steel	Red	1	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
 
 If it has 1 or more +1{p} counters, create a Flurry token.
@@ -3778,6 +3797,7 @@ PK8zK8ngMjKPzjTLR9zfB	Flourish	Blue	3	0		2				Earth, Action		Go again						"The 
 
 **Go again**"	Earth Action					No	
 jdkmHT8QfQmMbPLBHPrHJ	Flurry									Warrior, Token, Aura								When you activate a weapon attack, destroy this and you may attack with the weapon twice this turn.	Warrior Token - Aura						
+CRcjBPdh8TCq96GKpcmBc	Flurry Foot Dance	Yellow	2	0		2				Warrior, Defense Reaction								While this is defending, if you control a Flurry token, this gets +2{d}.	Warrior Defense Reaction						
 G8kKjJCFCz6GMTWhQkdzT	Flurry Stance	Red	1	0		3				Warrior, Action, Aura		Go again						"**Go again**
 
 At the start of your turn, destroy this, then you may attack with each dagger you control an additional time this turn."	Warrior Action - Aura					No	
@@ -4098,6 +4118,9 @@ If a yellow card is **charged** this way, this gets **overpower**."	Light Warrio
 RdzmGtLg9BgTTbC6BjFdk	Glaring Impact	Blue	3	1	2	3				Light, Warrior, Action, Attack		Charge, Overpower						"As an additional cost to play this, you may **charge** your hero's soul.
 
 If a yellow card is **charged** this way, this gets **overpower**."	Light Warrior Action - Attack						
+6cMTKCkgKrCLPBBdRFPjh	Gleam of the Blade	Red	1	1		2				Warrior, Attack Reaction			Instant					"Target weapon attack gets +3{p}.
+
+**Instant** - Discard this: Create a Flurry token."	Warrior Attack Reaction						
 N8krkMtHG86TBmG8Fp69t	Glidewell Fins					1				Ranger, Equipment, Arms		Battleworn						"**Action** - {r}, destroy this: Put an arrow from your hand face-up into your arsenal. It gets +1{p} this turn. **Go again**
 
 **Battleworn**"	Ranger Equipment - Arms						
@@ -5023,6 +5046,9 @@ fgdcRDCnkGRWgNzJCwchR	Increase the Tension	Red	1	1		2				Ranger, Action		Go agai
 nnJzbrqgGRnJ8bbLjQPtN	Increase the Tension	Blue	3	1		2				Ranger, Action		Go again						"Your next arrow attack this turn gains +1{p} and ""Defense reactions can't be played from hand this chain link.""
 
 **Go again**"	Ranger Action						
+NnJrnKHWM6F8hLqrD6QW9	Indefensibly Honed	Blue	3	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
+
+If it has 3 or more +1{p} counters, your next attack with it this turn gets ""When this is defended by 1 or more cards, deal 1 damage to the defending hero."" **Go again**"	Warrior Action					No	
 zbnJCMqgMPNLrgCpGkgrq	Index	Red	1	0		2				Wizard, Action								Look at the top 5 cards of your deck. Put 1 card from among them on top of your deck, and the rest on the bottom of your deck in any order.	Wizard Action						
 g7hJCTWLMLLjNGWM89PzC	Index	Yellow	2	0		2				Wizard, Action								Look at the top 4 cards of your deck. Put 1 card from among them on top of your deck, and the rest on the bottom of your deck in any order.	Wizard Action						
 KTzNfrpRnQ7cfgKnwgwFt	Index	Blue	3	0		2				Wizard, Action								Look at the top 3 cards of your deck. Put 1 card from among them on top of your deck, and the rest on the bottom of your deck in any order.	Wizard Action						
@@ -6308,6 +6334,7 @@ W89dCjCrz8cQKd78zHFBR	Ollin Ice Cap					1				Ice, Guardian, Equipment, Head		Bla
 **Blade Break**"	Ice Guardian Equipment - Head				No	No	
 t7H7JCQcTb9TTjjCbNwDH	Olympia						20	4		Warrior, Hero, Young							Wager	The first time each of your attacks wins a **wager**, create a Gold token.	Warrior Hero - Young			No			No
 9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighter						40	4		Warrior, Hero							Wager	The first time each of your attacks wins a **wager**, create a Gold token.	Warrior Hero		No		No	No	
+chGgK8FWnBB7dMj8nTRLR	Olé	Blue	3	1		3				Warrior, Attack Reaction								Remove a +1{p} counter from target attacking weapon. If you do, create a Flurry token and draw a card.	Warrior Attack Reaction						
 rC98Cch9DNGTfpggrNBh6	On a Knife Edge	Yellow	2	0		2				Generic, Action		Go again			Go again			"Your next sword attack this turn gains **go again**.
 
 **Go again**"	Generic Action						
@@ -6531,6 +6558,9 @@ This gets +X{p}, where X is the number of equipment defending it."	Mechanologist
 Gq8RtNNrR7hz6QB9gj7CG	Parable of Humility	Yellow	2	4						Light, Illusionist, Instant, Aura		Spectra						"Attack action cards controlled by an opposing hero have -1{p} while attacking and defending.
 
 **Spectra**"	Light Illusionist Instant - Aura					No	
+CWDdwtBckLgb6gR6KqnD9	Paragon Plate					2				Warrior, Equipment, Chest		Temper	Attack Reaction					"**Attack Reaction** - {t}, remove a +1{p} counter from an attacking sword you control: Gain {r}
+
+**Temper**"	Warrior Equipment - Chest				No	No	
 9HncGgPTznnKwPwHCJMgb	Parched Terrain	Red	1	1						Draconic, Instant, Aura								"Heroes can't gain {h}.
 
 At the beginning of your end phase, put a sand counter on this, then destroy it unless you banish a red card from your graveyard for each sand counter on it."	Draconic Instant - Aura				No	No	
@@ -6898,6 +6928,10 @@ jfHbfHfWB7KPd8NTmqDd9	Polarity Reversal Script	Red	1	1						Mechanologist, Actio
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 Action cards get -1{d} while defending your Mechanologist attack action cards."	Mechanologist Action - Item					No	
+gggJzRrtDDmNMKht6Whk7	Polished Blade	Red	1	0		3				Warrior, Attack Reaction					Go again			"As an additional cost to play this, remove 1 or more +1{p} counters from an attacking sword on the active chain link. Choose that many modes plus 1:
+- The sword's attack gets **go again**.
+- You may attack an additional time with the sword this turn.
+- Your next attack with the sword this turn costs {r} less to activate."	Warrior Attack Reaction					No	
 WMTq8GLHDK9ztDckQNDDw	Polly Cranka						1			Puffin, Companion, Off-Hand, Ally		Crank, Perched	Action					"**Action** - {t}, banish this: Return this to the arena under its owner's control, unequipped, tapped, and with a steam counter.
 
 **Crank**
@@ -7658,6 +7692,9 @@ If Reverberate deals damage, you may banish a Wizard 'non-attack' action card fr
 JBKPrLhtDj77ttccNgnqD	Reverberate	Blue	3	1		3			1	Wizard, Action								"Deal 1 arcane damage to target opposing hero.
 
 If Reverberate deals damage, you may banish a Wizard 'non-attack' action card from your hand with {r} cost less than or equal to the damage dealt by Reverberate. If you do, you may play it this turn as though it were an instant."	Wizard Action						
+FfHjRwfgzHqngmjCpdCHf	Reverent Rerebrace					2				Warrior, Equipment, Arms		Sharpen, Temper					Sharpen	"If you would sharpen a Zenith Blade, instead you may pay {r} and destroy this. If you do, **sharpen** it an additional time.
+
+**Temper**"	Warrior Equipment - Arms					No	
 GCrJthLPkqzBMpRFmnFFK	Revolting Gesture	Red	1	1		2				Reviled, Action		Go again						"Your next attack this turn gets +3{p}.
 
 Create a Might token.
@@ -8469,6 +8506,16 @@ If 1 or more cards with 6 or more {p} are banished this way, this gets +1{p}. 2 
 DMH8PRWDTmMm6mWtQqttn	Shake Down	Red	1	2	6	3				Assassin, Action, Attack		Uzuri Specialization						"**Uzuri Specialization**
 
 If you've played or activated an attack reaction this chain link, Shake Down has ""When this hits a hero, choose red, yellow, or blue. They reveal their hand. Banish a card of the chosen color."""	Assassin Action - Attack				No	No	
+6dhcGczKkMnrNJg9gDWdw	Sharp Incline	Red	1	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
+
+If it has 1 or more +1{p} counters, your next attack with it this turn costs {r} less to activate.
+
+**Go again**"	Warrior Action						
+qqhLtH6j9JNr7g6NHzCHR	Sharp Incline	Yellow	2	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
+
+If it has 2 or more +1{p} counters, your next attack with it this turn costs {r} less to activate.
+
+**Go again**"	Warrior Action						
 dbWtMTc6H6qKnbwKnLfRc	Sharp Shooters					1				Ranger, Equipment, Arms		Battleworn	Action	Go again				"**Action** - Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. **Go again**
 
 **Battleworn**"	Ranger Equipment - Arms				No	No	
@@ -8574,6 +8621,7 @@ pNQrNGQ9HK6jDRJLDrgqj	Shrill of Skullform	Blue	3	2	2	3				Runeblade, Action, Att
 Lzr8Htn8MrNnMggczHwGd	Shroud of Darkness									Shadow, Equipment, Head		Blood Debt						"If your hero would be dealt damage, you may banish this to prevent 2 of that damage.
 
 **Blood Debt**"	Shadow Equipment - Head						
+Rq8CK88DfJfrn9F8BjcLH	Shuck	Blue	3	0		3				Warrior, Action								Create a Flurry token.	Warrior Action						
 TrRC6WMrRhbCtKzpRQLPM	Sic 'Em Shot	Red	1	1	4	3				Ranger, Action, Arrow, Attack		Go again						**Go again**	Ranger Action - Arrow Attack						
 TMBGhtBJMzbWMLPzNJCW9	Sic 'Em Shot	Yellow	2	1	3	3				Ranger, Action, Arrow, Attack		Go again						**Go again**	Ranger Action - Arrow Attack						
 FHfhK9rLHDcNCdQJQ79Wh	Sic 'Em Shot	Blue	3	1	2	3				Ranger, Action, Arrow, Attack		Go again						**Go again**	Ranger Action - Arrow Attack						
@@ -8704,7 +8752,13 @@ JbCKcTKNzdcWKMfQwbrdr	Silver the Tip	Yellow	2	1		2				Ranger, Action		Go again		
 HDmnNfBFfmgphJMhDCt7T	Silver the Tip	Blue	3	1		2				Ranger, Action		Go again						"If you have no cards in your arsenal, look at the top 2 cards of your deck. You may put an arrow card from among them face up into your arsenal, then put the rest on the bottom of your deck in any order.
 
 **Go again**"	Ranger Action					No	
+wqhjGpqqjbh6DfTLR7DGg	Silverdrop Downpour	Red	1	2		2				Warrior, Attack Reaction							Sharpen	"Target weapon attack gets +4{p}.
+
+If the weapon has been sharpened this turn, this costs {r} less to play."	Warrior Attack Reaction						
 NmgpFhWdc8zCKPKMBmttP	Silversheen Needle									Generic, Equipment, Off-Hand					Go again			Your constructs with Fabric in their name gain **go again**.	Generic Equipment - Off-Hand		No	No	No	No	No
+qLHCbFDHBQbzKGTTBq8PW	Silverstride Dodgers					1				Warrior, Equipment, Legs		Temper						"If you control a Flurry token, this gets +1{d}.
+
+**Temper**"	Warrior Equipment - Legs					No	
 JthBWKRDhpngQP6FcKtRR	Silverwind Shuriken	Blue	3	0						Ninja, Action, Shuriken, Item		Attack Reaction					Combo	**Attack Reaction** - Destroy Silverwind Shuriken: Target attack action card with **combo** gains +1{p}.	Ninja Action - Shuriken Item				No	No	
 WQPHQL8cWbfCc68dHrkLK	Singe	Red	1	1		3			1	Wizard, Action								Deal 1 arcane damage to target hero and up to 3 target allies they control.	Wizard Action						
 h7MzmDDJRnbDwtMjqfcm6	Singe	Yellow	2	1		3			1	Wizard, Action								Deal 1 arcane damage to target hero and up to 2 target allies they control.	Wizard Action						
@@ -9576,6 +9630,16 @@ NKnCpDpncwNQcfJrqTLPz	Swing Fist, Think Later	Yellow	2	1	3	3				Brute, Action, A
 FtFNN8f6NTbJtkPNGMmfJ	Swing Fist, Think Later	Blue	3	1	2	3				Brute, Action, Attack		Go again						"As an additional cost to play Swing Fist, Think Later, discard a random card.
 
 **Go again**"	Brute Action - Attack						
+gTLKtttbcq6CcLMHghJKw	Swordmaster's Path	Red	1	1		3				Warrior, Action		Sharpen, Go again					Sharpen	"Your next sword attack this turn gets +3{p}.
+
+The next time you would sharpen a sword this turn, instead **sharpen** it an additional time.
+
+**Go again**"	Warrior Action						
+tpmhpDqjKq6NwtnKCBJwd	Swordmaster's Path	Blue	3	1		3				Warrior, Action		Sharpen, Go again					Sharpen	"Your next sword attack this turn gets +1{p}.
+
+The next time you would sharpen a sword this turn, instead **sharpen** it an additional time.
+
+**Go again**"	Warrior Action						
 Dm9LL8NBBLmr7qchQ7cpn	Sworn Vengeance	Red	1	0		3				Warrior, Action		Go again			Mark			"Your next dagger attack this turn gets +3{p} and ""When this hits a hero, **mark** them.""
 
 **Go again**"	Warrior Action						
@@ -10018,6 +10082,7 @@ zGMwPW7DFJjTJBBdnmfwD	To the Point	Yellow	2	0		2				Assassin, Warrior, Attack Re
 rKwFK8LDKhPht6b9pNF7P	Toby Jugs					0				Generic, Equipment, Legs		Blade Break						"When this defends, you may pay {r}. If you do, it gets +2{d} this turn.
 
 **Blade Break**"	Generic Equipment - Legs						
+9dQLNwfWwhJGtMhNd9KzC	Toe the Line	Red	1	0						Warrior, Instant								The next time you would be dealt damage this turn, prevent 2 of that damage. If you prevent damage this way, create a Flurry token.	Warrior Instant						
 Jdmqz8NgGbBJp88BN8TwK	Tome of Aeo	Blue	3	1		2				Illusionist, Action, Aura		Ward 1						"At the beginning of your action phase, destroy Tome of Aeo then draw a card.
 
 **Ward 1**"	Illusionist Action - Aura				No	No	
@@ -10637,6 +10702,7 @@ Create a Gold token. Then if you control 3 or more Gold, create that many Might 
 HRTFfPJmFpCdgpmFPtrMp	Visit the Boneyard	Blue	3	0						Brute, Instant								"Put a card with 6 or more {p} from your graveyard on top of your deck.
 
 Create a Vigor token."	Brute Instant					No	
+KBJQtrMQQWfRNdRrt8wdD	Visit the Dawnsmith	Blue	3	0		3				Warrior, Action, Aura		Sharpen						At the start of your turn, destroy this and **sharpen** all swords you control.	Warrior Action - Aura						
 zTKjp9zwk8Whfjr7bKpbn	Visit the Floating Dojo	Blue	3	0						Ninja, Instant		Katsu Specialization					Combo	"**Katsu Specialization**
 
 Put a Surging Strike and a card with **combo** from your graveyard on the top and/or bottom of your deck."	Ninja Instant				No	No	
