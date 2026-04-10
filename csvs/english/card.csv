@@ -324,6 +324,9 @@ Whenever you **go again** this turn, deal 1 arcane damage to any target.
 The next action card you play this turn gets **go again**.
 
 **Go again**"	Lightning Runeblade Action				No	No	
+9btBbfjNhPmdQwJLTNnGq	Arc Ramp	Blue	3	0		2				Lightning, Wizard, Action		Go again, Amp 1						"**Amp 1**
+
+You may destroy a Lightning Flow you control. If you do, this gets **go again**."	Lightning Wizard Action					No	
 b6DbmpN6JNfdhNNm86qWW	Arcane Compliance	Blue	3	0						Generic, Instant								Until end of turn, effects can't increase arcane damage that target action card on the stack would deal.	Generic Instant				No	No	
 Rft8fQBq9gz7bRh6BfjRC	Arcane Cussing	Red	1	1		2				Runeblade, Action, Aura		Go again						"**Go again**
 
@@ -482,9 +485,19 @@ wGgcM7RtPfm8PtFhrcchm	Attention Grabbers					1				Guardian, Equipment, Arms		Bla
 
 **Blade Break**"	Guardian Equipment - Arms				No	No	
 QTk8NJWmtGQnw9WFTkkP7	Attune with Cosmic Vibrations	Blue	3	0	2	2				Mystic, Action, Attack								When this attacks a hero or defends a hero's attack, reveal the top card of their deck. If the revealed card is blue, this gets +3{p} and +3{d}.	Mystic Action - Attack				No	No	
+nwtQNgqNfgLQwFCnJDpwB	Auric Shards	Red	1	1						Lightning, Illusionist, Instant, Aura		Ward 1					Fragment	"When this enters the arena, up to 1 target attack with fragment gets +1{p}. If this has a holo counter, instead the attack gets +4{p}.
+
+**Ward 1**"	Lightning Illusionist Instant - Aura						
+JgjRzjfBTL8fhNjMn7bkJ	Auric Shards	Yellow	2	1						Lightning, Illusionist, Instant, Aura		Ward 1					Fragment	"When this enters the arena, up to 1 target attack with fragment gets +1{p}. If this has a holo counter, instead the attack gets +3{p}.
+
+**Ward 1**"	Lightning Illusionist Instant - Aura						
+KbN76qW8BpGFCBchTLHGh	Auric Shards	Blue	3	1						Lightning, Illusionist, Instant, Aura		Ward 1					Fragment	"When this enters the arena, up to 1 target attack with fragment gets +1{p}. If this has a holo counter, instead the attack gets +2{p}.
+
+**Ward 1**"	Lightning Illusionist Instant - Aura						
 TDrmKkRWGKWnqfQkT9QML	Aurora						20	4		Elemental, Runeblade, Hero, Young		Essence of Lightning	Once per Turn Instant					"**Once per Turn Instant** - {r}{r}: Create an Embodiment of Lightning token. Activate this only if you've played a Lightning card this turn.
 
 **Essence of Lightning**"	Elemental Runeblade Hero - Young			No			No
+WwKdgRBmtM6CpRjwM97Lh	Aurora, Emissary of Lightning						20	4		Lightning, Runeblade, Hero, Young			Instant					**Instant** - {r}{r}, {t}, destroy a Lightning Flow you control: Create an Embodiment of Lightning token.	Lightning Runeblade Hero - Young			No			No
 WDhGzj9m8MWhkkfRMB7Jg	Aurora, Legacy of Tempest						40	4		Lightning, Runeblade, Hero			Instant					**Instant** - {r}{r}, {t}, destroy a Lightning Flow you control: Create an Embodiment of Lightning token.	Lightning Runeblade Hero		No		No	No	
 mHBtPppktRTkWpnf69dHj	Aurora, Shooting Star						40	4		Elemental, Runeblade, Hero		Essence of Lightning						"**Once per Turn Instant** - {r}{r}: Create an Embodiment of Lightning token. Activate this only if you've played a Lightning card this turn.
 
@@ -1903,6 +1916,9 @@ Whenever Cintari Saber is defended by 1 or more attack action cards, it gains +1
 CcGMKpDNfnzz8mKDqmqnc	Cintari Sellsword				3		2			Warrior, Token, Mercenary, Ally			Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}: **Attack**. **Go again**
 
 Cintari Sellsword can only attack if you've attacked with a weapon this turn."	Warrior Token - Mercenary Ally						
+FgRQdMbgkGgJ6RwGjwgHr	Circular Flowtide	Yellow	2	1						Lightning, Illusionist, Instant, Aura		Ward 2						"When this leaves the arena, create a Lightning Flow token.
+
+**Ward 2**"	Lightning Illusionist Instant - Aura						
 TwcL67rLrL9CfqgFdPF9t	Civic Duty					2				Guardian, Equipment, Chest		Temper						"Whenever this defends, create a Vigor token under another hero's control.
 
 **Temper**"	Guardian Equipment - Chest						
@@ -2270,6 +2286,15 @@ rQTCqBFcppTWfDwfFkHQN	Cosmic Duality	Yellow	2	2	6	3			1	Lightning, Illusionist, 
 WhggpfhhBLDnpKwCkjWDk	Cosmic Duality	Blue	3	2	5	3			1	Lightning, Illusionist, Action, Attack		Fragment	Instant					"**Instant** - {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
+wd8WJpB9j7qfWHWFffqWr	Cosmic Suture	Red	1	2						Lightning, Wizard, Instant		Starfall						"Prevent the next 4 damage that would be dealt to you this turn.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
+PhWgpcwRmzjQ6bDcqcPbW	Cosmic Suture	Yellow	2	2						Lightning, Wizard, Instant		Starfall						"Prevent the next 3 damage that would be dealt to you this turn.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
+JRmqMNgWfmdffrT8WKrLf	Cosmic Suture	Blue	3	2						Lightning, Wizard, Instant		Starfall						"Prevent the next 2 damage that would be dealt to you this turn.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
 zMC89pqnzTP7bkmfjmTzQ	Cosmo, Scroll of Ancestral Tapestry									Illusionist, Weapon, Scroll, 2H					Go again		Ward	"During your turn, auras you control with **ward** are weapons with base {p} equal to their **ward** and **Once per Turn Action - {r}: Attack**
 
 Your aura attacks with one or more +1{p} counters get **go again**."	Illusionist Weapon - Scroll (2H)						
@@ -2506,6 +2531,9 @@ N6TDqDNWfKfrz6G6jNrQQ	Dash, Database						18	4		Mechanologist, Hero, Young						
 
 Once per turn, you may play a Mechanologist item with cost 0 or 1 from the top of your deck as though it were an instant. It costs an additional {r} to play."	Mechanologist Hero - Young			No			No
 6CcjWGnThrTmTQFQ9zHMN	Dash, Inventor Extraordinaire						40	4		Mechanologist, Hero								You may start the game with a Mechanologist item with cost 2 or less in the arena.	Mechanologist Hero		No		No	No	
+8m9Tr996zccnJhHcQKhFr	Dashing Flashfoot	Yellow	2	1	3	3				Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p} and ""When this attacks a hero, deal 1 arcane damage to them.""
+
+The first time this deals damage to a hero, create an Embodiment of Lightning token."	Lightning Runeblade Action - Attack					No	
 kbdzm8R7MHCpWC79RdTGH	Data Doll MKII						20	3		Mechanologist, Hero, Young								Whenever a Mechanologist item with cost 2 or less is put into your banished zone from your deck, put it into the arena.	Mechanologist Hero - Young			No			No
 9FjqMc6RW8nJFCnG8cqMm	Data Link	Red	1	0	3	3				Mechanologist, Action, Attack		Boost, Opt 1						"**Boost**
 
@@ -6954,6 +6982,7 @@ Bd8JQMtjbmwQ7W6GLt7KL	Oscilio, Constella Intelligence						36	4		Elemental, Wiza
 
 **Essence of Lightning**"	Elemental Wizard Hero		No		No	No	
 nqbttmdCrgTbFBjJBzLtz	Oscilio, Forked Continuum						38	4		Lightning, Wizard, Hero			Instant					**Instant** - {r}, {t}, destroy a Lightning Flow you control: Discard a card and create a Ponder token. If an instant is discard this way, you may play it this turn.	Lightning Wizard Hero		No		No	No	
+bdD7LdLhpgdfLwzCq6jBc	Oscilio, Scion of the Third Age						19	4		Lightning, Wizard, Hero, Young			Instant					**Instant** - {r}, {t}, destroy a Lightning Flow you control: Discard a card and create a Ponder token. If an instant is discard this way, you may play it this turn.	Lightning Wizard Hero - Young			No			No
 qgzjH8rNPpg6Jb6PgzggC	Out Muscle	Red	1	3	6	2				Generic, Action, Attack		Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack					No	
 dRFbtRTF8qzzBwbqHkWtF	Out Muscle	Yellow	2	3	5	2				Generic, Action, Attack		Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack					No	
 Tt9bDKwjdn6dLqhGNc9Rc	Out Muscle	Blue	3	3	4	2				Generic, Action, Attack		Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack					No	
@@ -7845,6 +7874,15 @@ Deal 4 arcane damage to any target.
 //
 
 Gain 1{h}"	Wizard Action // Earth Instant	Yes				No	
+nm7BLnWdtjqGqfJ868NbW	Pulsing Cardia	Red	1	0	5	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain {r}.
+
+**Fragment**"	Lightning Illusionist Action - Attack						
+FJNBWQGCMNzBKLc6qPC9q	Pulsing Cardia	Yellow	2	0	5	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain {r}.
+
+**Fragment**"	Lightning Illusionist Action - Attack						
+nmc9fgdkRkcdJN6QwMTnT	Pulsing Cardia	Blue	3	0	5	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain {r}.
+
+**Fragment**"	Lightning Illusionist Action - Attack						
 FkNKF7G8Tn79TtGrgKNpn	Pulverize	Red	1	10	14	3				Guardian, Action, Attack		Heave 3						"**Heave 3**
 
 If Pulverize hits a hero, their first attack during their next turn has -4{p}."	Guardian Action - Attack				No	No	
@@ -8401,6 +8439,7 @@ KTbwfNgmD8J97RzwqhQMD	Rift Bind	Yellow	2	1	2	3				Shadow, Runeblade, Action, Att
 PTR7kfMCdM6TmztT8d7GM	Rift Bind	Blue	3	1	1	3				Shadow, Runeblade, Action, Attack		Blood Debt						"You may play Rift Bind from your banished zone. If you do, it gains +X{p}, where X is the number of 'non-attack' action cards you have played this turn.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack						
+kgNHt6z9pwBJLNLKqNc7c	Rift Breaker	Red	1	2	6	2				Lightning, Action, Attack								When this hits a hero, destroy a Lightning Flow token they control.	Lightning Action - Attack					No	
 Tp7nmGfdwmJP7gzgftM9T	Rift Skitter	Red	1	3	4	3				Shadow, Runeblade, Action, Attack		Rune Gate, Go again, Blood Debt						"**Rune Gate**
 
 **Go again**
@@ -8915,6 +8954,9 @@ When this is pitched, each hero shuffles, then puts the top card of their deck f
 When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.
 
 **Watery Grave**"	Pirate Necromancer Action - Ally					No	
+cGDjfwq76gpNQpWDMtLt9	Scorpio, Comet Tail				1					Lightning, Runeblade, Weapon, Sword, 2H			Action	Attack				"**Action** - {t}: **Attack**. Activate this only if you control a Lightning attack.
+
+When this hits a hero, deal 1 arcane damage to them."	Lightning Runeblade Weapon - Sword (2H)						
 9hDNGJWktKbqR8bFFzmMf	Scour	Blue	3	X		3			X	Wizard, Action								Destroy X target aura tokens and/or auras with cost 0 controlled by target hero. Then deal arcane damage to that hero equal to the number of auras destroyed this way.	Wizard Action				No	No	
 rhGfKbpkJHqwTK6rJDcwK	Scour the Battlescape	Red	1	0	3	2				Generic, Action, Attack		Go again						"You may put a card from your hand on the bottom of your deck. If you do, draw a card.
 
@@ -11676,6 +11718,7 @@ WKpW6KJR9RhPrTwj6Gwcw	Voltic Vanguard					0				Lightning, Equipment, Head			Inst
 T8LpTQg8Cqnk7jQgf9FhJ	Voltic Veil	Red	1	1						Elemental, Wizard, Instant		Lightning Bond						"Prevent the next 4 damage that would be dealt to you this turn.
 
 **Lightning Bond** - If a Lightning card was pitched to play this, deal 1 arcane damage to all opposing heroes."	Elemental Wizard Instant					No	
+zfTFn8L8fMNW9bmRcn8Lw	Volzar, Meteor Storm									Lightning, Wizard, Weapon, Staff, 2H				Amp 1				**Instant** - {t}: **Amp 1**. Activate this only if an instant card has been put into your graveyard this turn.	Lightning Wizard Weapon - Staff (2H)						
 CzwrwtC7LkmK6mchdpzB7	Volzar, the Lightning Rod									Lightning, Wizard, Weapon, Staff, 2H			Once per Turn Instant	Amp X				"If you control an aura permanent with Sigil in its name, this costs {r} less to activate.
 
 **Once per Turn Instant** - {r}: **Amp X**, where X is the number of Lightning cards you've played this turn."	Lightning Wizard Weapon - Staff (2H)						
@@ -12124,6 +12167,7 @@ THmjft8HQNJtD6fcJHKCc	Zoom In	Yellow	2	2	4	3				Mechanologist, Action, Attack		O
 P7pftB6CpnWmQHcFrdJqQ	Zoom In	Blue	3	2	3	3				Mechanologist, Action, Attack		Opt X, Boost					Boost	"When you attack with Zoom in, **opt X**, where X is the number of times you have **boosted** this combat chain.
 
 **Boost**"	Mechanologist Action - Attack						
+gqp7pLMMBLrRjGgzDgzT7	Zyggy						20	4		Lightning, Illusionist, Hero, Young			Instant					**Instant** - {r}{r}, {t}, destroy a Lightning Flow you control, banish another Lightning aura permanent you control with no holo counters: Return the banished aura to the arena with a holo counter.	Lightning Illusionist Hero - Young			No			No
 pnwGDgknLbHc96Ghg8f67	Zyggy Starlight						40	4		Lightning, Illusionist, Hero			Instant					**Instant** - {r}{r}, {t}, destroy a Lightning Flow you control, banish another Lightning aura permanent you control with no holo counters: Return the banished aura to the arena with a holo counter.	Lightning Illusionist Hero		No		No	No	
 JgFBnrrK6K8qTw8nk9jK9	mBrio Base Cortex					0				Mechanologist, Equipment, Base, Chest		Guardwell						"If you control a Hyper Driver, this gets +2{d}.
 
