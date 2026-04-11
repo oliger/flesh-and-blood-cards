@@ -2208,7 +2208,7 @@ If a hero has lost {h} this turn, you may play this as thought it were an instan
 Each hero banishes a card from their hand.
 
 **Blood Debt**"	Shadow, Runeblade, Action				No	No	
-bN7nrfGCGqKNJMWzDNBb9	Current Funnel	Blue	3	0	2	3				Lightning, Action, Attack		Go again			Go again			If the last action card you played this turn was Lightning, this and the next action card you play this turn get **go again**.	Lightning Action - Attack				No	No	
+bN7nrfGCGqKNJMWzDNBb9	Current Funnel	Blue	3	0	2	3				Lightning, Action, Attack		Go again			Go again			When this attacks, if the last action card you played this turn was Lightning, this and the next action card you play this turn get **go again**.	Lightning Action - Attack				No	No	
 BBTGgCjCWLBN79phhMwrj	Cut Deep	Red	1	0		3				Warrior, Action		Go again						"Your next dagger attack this turn gets +4{p}.
 
 **Go again**"	Warrior Action						
@@ -2325,12 +2325,12 @@ The next defense reaction card the defending hero plays this turn costs an addit
 **Go again**"	Warrior Action					No	
 NDjHqNJrckK6pjK7LwfMW	Dawnblade				3					Warrior, Weapon, Sword, 2H			Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
-If Dawnblade hits, and it's the second time it has hit this turn, put a +1{p} counter on Dawnblade.
+The second time this hits each turn, put a +1{p} counter on it.
 
-At the beginning of your end phase, if Dawnblade has not hit this turn, remove all +1{p} counters from Dawnblade."	Warrior Weapon - Sword (2H)						
+At the beginning of your end phase, if this hasn't hit this turn, remove all +1{p} counters from it."	Warrior Weapon - Sword (2H)						
 kTzjGBrWbwncJCt7wLTrH	Dawnblade, Resplendent				2					Warrior, Weapon, Sword, 2H			Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
 
-The second time you attack with Dawnblade each turn, it gains +1{p} until end of turn."	Warrior Weapon - Sword (2H)				No	No	
+The second time you attack with this each turn, it gets +1{p} until end of turn."	Warrior Weapon - Sword (2H)				No	No	
 WMdnjW6tJT9wKMnjgbHW9	Dazzling Crescendo	Red	1	0	4	3				Elemental, Ranger, Action, Arrow, Attack		Lightning Fusion, Go again						"**Lightning Fusion**
 
 If Dazzling Crescendo was **fused**, it gains **go again**."	Elemental Ranger Action - Arrow Attack						
@@ -2627,7 +2627,7 @@ Play Doomsday only if there are 6 or more cards with blood debt in your banished
 Create a Blasmophet, the Soul Harvester token."	Shadow Instant				No	No	
 KGqRPDfRrnPqdj7Cm76fr	Dorinthea						20	4		Warrior, Hero, Young								**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.	Warrior Hero - Young			No			No
 Djhg6DMpCpFHD9rcPNFrN	Dorinthea Ironsong						40	4		Warrior, Hero								**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.	Warrior Hero		No		No	No	
-NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy						20	4		Warrior, Hero, Young							Go again	The first time Dawnblade, Resplendent gains **go again** each turn, you may attack an additional time with it this turn.	Warrior Hero - Young			No	No	No	No
+NJJCGNjdCFzrjLqGfL6mR	Dorinthea, Quicksilver Prodigy						20	4		Warrior, Hero, Young							Go again	The first time your Dawnblade, Resplendent's attack gets go again each turn, you may attack an additional time with it this turn.	Warrior Hero - Young			No	No	No	No
 8JF8CGqcQRDnGWNBhkhtD	Double Down	Red	1	2		3				Guardian, Warrior, Action		Go again			Overpower		Wager	"You may destroy a Gold you control rather than pay Double Down's {r} cost.
 
 The next attack that **wagers** this turn gets +3{p} and **overpower**.
@@ -2880,7 +2880,7 @@ wrkDkLdGhJjTfPGzr68wM	Earth Form	Blue	3	3	5	2				Earth, Action, Attack								Wh
 dd7RLKpk8jcWcN8JdQQDW	Earth's Embrace	Blue	3	1		2				Earth, Action, Aura		Go again						"**Go again**
 
 At the beginning of your end phase, create an Embodiment of Earth token. Then, if you haven't banished an Earth card this turn, destroy this."	Earth Action - Aura				No	No	
-qCwM6LGq87rrqGQFk8rKG	Earthlore Bounty					2				Guardian, Equipment, Chest		Temper						"Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.
+qCwM6LGq87rrqGQFk8rKG	Earthlore Bounty					2				Guardian, Equipment, Chest		Temper						"Whenever you draw 1 or more cards from an action card effect, create that many Seismic Surge tokens.
 
 **Temper**"	Guardian Equipment - Chest				No	No	
 pMKqgFjgdR8rmMKpdjP7q	Earthlore Empowerment	Red	1	3		3				Guardian, Action, Aura								At the start of your turn, destroy this, then the next Guardian attack action card you play this turn costs {r} less to play and gets +5{p}.	Guardian Action - Aura				Yes	Yes	
@@ -4173,6 +4173,9 @@ FmmqBdRdbrjzcQ7cp6jKq	Gold-Baited Hook					1				Pirate, Equipment, Arms		Battlew
 H6nDPCh7gTgWLfzGdhHB7	Golden Cog									Mechanologist, Token, Cog, Item		Crank						"**Crank**
 
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it."	Mechanologist Token - Cog Item						
+bnQmtqDtDLfpqzfLfFqMR	Golden Company	Red	1	2		6				Warrior, Defense Reaction								You may destroy a Gold you control rather than pay this card's {r} cost.	Warrior Defense Reaction						
+f8B7rM7kBcncrTftJtntn	Golden Company	Yellow	2	2		6				Warrior, Defense Reaction								You may destroy a Gold you control rather than pay this card's {r} cost.	Warrior Defense Reaction						
+cF8ftkLJ8W8jzpTzzGHTc	Golden Company	Blue	3	2		6				Warrior, Defense Reaction								You may destroy a Gold you control rather than pay this card's {r} cost.	Warrior Defense Reaction						
 hWW6zdd6hQ7CwbBt6wc7d	Golden Gait					2				Warrior, Equipment, Legs		Legendary, Olympia Specialization, Temper						"**Legendary Olympia Specialization**
 
 This counts as a Gold.
@@ -4193,6 +4196,7 @@ This counts as a Gold.
 When this defends together with 2 or more yellow cards, create a Gold token.
 
 **Blade Break**"	Guardian Equipment - Head						
+NqpL7k7Gc78Pw6tzMNQwN	Golden Grail				3					Warrior, Weapon, Sword, 2H			Once per Turn Action	Attack			Wager	**Once per Turn Action** - {r}{r} or destroy a Gold you control: **Attack**. If this attack has wagered, it gets +1{p}.	Warrior Weapon - Sword (2H)						
 nTWKhGp7pwKwMmtFnB8hc	Golden Heart Plate					2				Warrior, Equipment, Chest		Legendary, Olympia Specialization, Temper						"**Legendary Olympia Specialization**
 
 This counts as a Gold.
@@ -4375,6 +4379,7 @@ CPgdwbjRGNNfKrgPn6ngL	Hadron Collider	Blue	3	1						Mechanologist, Action, Item	
 This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 When you **boost** an attack, destroy this. If you do, the attack gets +X{p}, where X is the number of steam counters on this."	Mechanologist Action - Item						
+PCcMjhHfKKrmH8hR9LQBc	Hala						4	20		Warrior, Hero, Young			Action	Sharpen, Go again				**Action** - {r}{r}{r}, {t}: **Sharpen** target sword you control. **Go again**	Warrior Hero - Young						
 rWqFtWTCDnrgzPJthDHkR	Hala Goldenhelm					3				Warrior, Mentor					Go again			"While Hala is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Hala is face up in arsenal, whenever a sword attack you control hits, it gains **go again** and put a lesson counter on Hala. Then if there are 2 or more lesson counters on Hala, banish her, search your deck for Glistening Steelblade, put it face up in arsenal, and shuffle."	Warrior Mentor			No	No	No	No
@@ -4551,7 +4556,7 @@ rjhDRz7JGN7kpDdjHQfrg	Helm of Isen's Peak					1				Guardian, Equipment, Head		Ba
 7gkkzWWDprGtBpfq8QPWC	Helm of Lignum Vitae					1				Earth, Equipment, Head		Blade Break						"If there are 4 or more Earth cards in your banished zone, this gets +1{d}.
 
 **Blade Break**"	Earth Equipment - Head						
-MfBtnKK96JRR8Nb7RWMBn	Helm of Sharp Eye					1				Warrior, Equipment, Head		Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.
+MfBtnKK96JRR8Nb7RWMBn	Helm of Sharp Eye					1				Warrior, Equipment, Head		Battleworn	Attack Reaction					"**Attack Reaction** - {r}, destroy this: Banish the top card of your deck. You may play it this combat chain. Activate this only if you control a weapon attack with {p} greater than twice its base.
 
 **Battleworn**"	Warrior Equipment - Head				No	No	
 cWfNbbz7WB9nfNd8BbcNM	Helm of the Adored					1				Revered, Equipment, Head		The Crowd Cheers, Blade Break						"When this defends, **the crowd cheers** you.
@@ -5915,7 +5920,7 @@ q7wHrf9PJpkmfdBQWQBzz	Merciful Retribution	Yellow	2	4					1	Light, Illusionist, 
 **Spectra**"	Light Illusionist Instant - Aura					No	
 nGkpNDKckjzwbzBqM7N8f	Merciless Battleaxe				3					Warrior, Weapon, Axe, 2H		Overpower	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Atttack**
 
-Whenever Merciless Battleaxe attacks, if its {p} is greater than twice its base {p}, the attack gains **overpower**."	Warrior Weapon - Axe (2H)				No	No	
+When this attacks, if the attack's {p} is greater than twice its base, the attack gets **overpower**."	Warrior Weapon - Axe (2H)				No	No	
 GgRFLW8zdKbNJtgfFTFkp	Meridian Pathway									Mystic, Illusionist, Equipment, Legs		Ward 3	Instant					"**Instant** - {c}{c}{c}: You may play auras this turn as though they were instants.
 
 Whenever you pitch a Chi, you may have this get **ward 3** until end of turn."	Mystic Illusionist Equipment - Legs				No	No	
@@ -6113,7 +6118,7 @@ RmpWGrQMtkjKRfd8QqrGJ	Murky Water	Red	1	2	6	3				Ranger, Action, Arrow, Attack		
 
 If this has an aim counter, it gets +1{p} and **dominate**.
 
-When this hits, you may banish face-down 3 traps from your graveyard. If you do, choose one at random and put it into your arsenal."	Ranger Action - Arrow Attack				No	No	
+When this hits, you may banish 3 traps with cost 0 or more from your graveyard face-down. If you do, choose one at random and put it into your arsenal."	Ranger Action - Arrow Attack				No	No	
 Nq9dPQ8KmtgWjCczcJQfz	Muscle Mutt	Yellow	2	3	6	2				Generic, Action, Attack									Generic Action - Attack						
 Fw7hr8tGFkDbJkJB8Gjhk	Mutated Mass	Blue	3	1	*	*				Shadow, Action, Attack		Blood Debt						"You may play Mutated Mass from your banished zone.
 
@@ -6223,7 +6228,7 @@ Search your deck for an arrow card, reveal it, then shuffle your deck and put it
 GkMGqFmbbrpwRCGHJknjt	Nom de Plume					0				Bard, Equipment, Head			Action	Go again				**Action** - Destroy this: Each hero draws a card.  **Go again**	Bard Equipment - Head						
 CGhtqrGGT7TL9C89GjF8R	Northern Winds	Blue	3	0		2				Ice, Action		Oldhim Specialization, Unity, Freeze						"**Oldhim Specialization**
 
-**Freeze** up to 1 equipment, item, and/or ally each hero controls.
+For each hero, **freeze** up to 1 equipment, item, and ally they control until the start of your next turn.
 
 **Unity** - When this defends together with a card from hand, create a Spellbane Aegis token under any number of heroes' control."	Ice Action				No	No	
 F7mqQWTKzmNmMfgmQbHFw	Not So Fast	Yellow	2	0						Pirate, Instant		Scurv Specialization						"**Scurv Specialization**
@@ -6332,8 +6337,8 @@ bh96L8jp69mNpjcGRCDbj	Oldhim, Grandfather of Eternity						40	4		Elemental, Guar
 W89dCjCrz8cQKd78zHFBR	Ollin Ice Cap					1				Ice, Guardian, Equipment, Head		Blade Break						"When this defends together with an Ice card, create a Frostbite token under the attacking hero's control.
 
 **Blade Break**"	Ice Guardian Equipment - Head				No	No	
-t7H7JCQcTb9TTjjCbNwDH	Olympia						20	4		Warrior, Hero, Young							Wager	The first time each of your attacks wins a **wager**, create a Gold token.	Warrior Hero - Young			No			No
-9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighter						40	4		Warrior, Hero							Wager	The first time each of your attacks wins a **wager**, create a Gold token.	Warrior Hero		No		No	No	
+t7H7JCQcTb9TTjjCbNwDH	Olympia						20	4		Warrior, Hero, Young							Wager	The first time each of your attacks wins a wager, create a Gold token.	Warrior Hero - Young			No			No
+9JqrM7dbgfG87L6tPghrM	Olympia, Prized Fighter						40	4		Warrior, Hero							Wager	The first time each of your attacks wins a wager, create a Gold token.	Warrior Hero		No		No	No	
 chGgK8FWnBB7dMj8nTRLR	Olé	Blue	3	1		3				Warrior, Attack Reaction								Remove a +1{p} counter from target attacking weapon. If you do, create a Flurry token and draw a card.	Warrior Attack Reaction						
 rC98Cch9DNGTfpggrNBh6	On a Knife Edge	Yellow	2	0		2				Generic, Action		Go again			Go again			"Your next sword attack this turn gains **go again**.
 
@@ -7222,13 +7227,13 @@ FkNKF7G8Tn79TtGrgKNpn	Pulverize	Red	1	10	14	3				Guardian, Action, Attack		Heave
 If Pulverize hits a hero, their first attack during their next turn has -4{p}."	Guardian Action - Attack				No	No	
 zzNQtc8QL8RcCwRcB6JP7	Pummel	Red	1	2		2				Generic, Attack Reaction								"Choose 1;
 - Target club or hammer weapon attack gains +4{p}.
-- Target attack action with cost 2 or greater gains +4{p} and ""If this hits a hero, they discard a card."""	Generic Attack Reaction						
+- Target attack action card with cost 2 or more gets +4{p} and ""When this hits a hero, they discard a card."""	Generic Attack Reaction						
 pG9mTDdBkd7gPmGkPhpGd	Pummel	Yellow	2	2		2				Generic, Attack Reaction								"Choose 1;
 - Target club or hammer weapon attack gains +3{p}.
-- Target attack action with cost 2 or greater gains +3{p} and ""If this hits a hero, they discard a card."""	Generic Attack Reaction						
+- Target attack action card with cost 2 or more gets +3{p} and ""When this hits a hero, they discard a card."""	Generic Attack Reaction						
 ktRRh7cTpqgTzFRg8HJK6	Pummel	Blue	3	2		2				Generic, Attack Reaction								"Choose 1;
 - Target club or hammer weapon attack gains +2{p}.
-- Target attack action with cost 2 or greater gains +2{p} and ""If this hits a hero, they discard a card."""	Generic Attack Reaction						
+- Target attack action card with cost 2 or more gets +2{p} and ""When this hits a hero, they discard a card."""	Generic Attack Reaction						
 nfWLDhWBqKhGMtQMKFjdm	Punch Above Your Weight	Red	1	0	2	2				Generic, Action, Attack								When this attacks, you may pay {r}{r}{r}. If you do, this gets +5{p}.	Generic Action - Attack					No	
 9g6wWCRkpgW7brDgFb7Bg	Punch Above Your Weight	Yellow	2	0	2	2				Generic, Action, Attack								When this attacks, you may pay {r}{r}{r}. If you do, this gets +4{p}.	Generic Action - Attack					No	
 NQQdqRGPQtMnf6LGdBJn6	Punch Above Your Weight	Blue	3	0	2	2				Generic, Action, Attack								When this attacks, you may pay {r}{r}{r}. If you do, this gets +3{p}.	Generic Action - Attack					No	
@@ -8533,6 +8538,7 @@ RD7rFNprgNp9HBwwTTk88	Sharpened Senses	Yellow	2	0		3				Warrior, Action, Aura		G
 Your weapon attacks get +1{p}. If their {p} is greater than twice their base, they get **go again**.
 
 At the beginning of your end phase, destroy this."	Warior Action - Aura				No	No	
+HRKwRGWdmgQrf7BGPnzK7	Sharpening Sparks	Red	1	0		3				Warrior, Attack Reaction					Sharpen			"Target sword attack gets +2{p} and ""When this hits, **sharpen** this sword."""	Warrior Attack Reaction			No			
 RJNjgKCzrKtWJfdqRPMhg	Shatter	Yellow	2	0		3				Warrior, Attack Reaction								"Until end of turn, target 2H weapon gains ""Whenever this would deal {p} damage, instead you may destroy target defending equipment with {d} less than the damage that would be dealt this way."	Warrior Attack Reaction				No	No	
 rc7mWBhpMFfgWcfhmTJCN	Shelly, Hardened Traveler	Yellow	2	2	4		5			Pirate, Necromancer, Action, Ally		Watery Grave	Action, Instant					"**Action** - {r}{r}{r}, {t}: **Attack**
 
@@ -8552,7 +8558,7 @@ tpMDpBjtFznFdgjFtnqQf	Shift the Tide of Battle	Yellow	2	0		3				Warrior, Attack 
 The next time an opposing hero is dealt damage this turn, create an Agility token."	Warrior Attack Reaction				No	No	
 R7Q6MhPq9nCBT6DhbQMDL	Shifting Tides	Blue	3	0		3				Pirate, Action, Aura		Go again						"**Go again**
 
-At the start of your turn, pitch the top card of your deck. If it's blue, put this on the bottom of your deck, otherwise destroy this."	Pirate Action - Aura					No	
+At the start of your turn, pitch the top card of your deck. If it's blue, put this on the bottom of its owner's deck, otherwise destroy this."	Pirate Action - Aura					No	
 WznLQmk7B6QQKMmT6TJJC	Shifting Winds of the Mystic Beast	Blue	3	1		3				Mystic, Ninja, Action		Go again						"Whenever you play a Crouching Tiger this turn, name a card. It gets that name.
 
 If a Chi was pitched to play this, create 2 Crouching Tigers in your hand.
@@ -9328,6 +9334,7 @@ If you control a Vigor token, this gets +1{d}.
 ggMjPPrkLjJJwWPFGdnDq	Stand Strong					1				Guardian, Equipment, Legs		Blade Break	Action	Go again			Suspense	"**Action** - {r}{r}{r}, destroy this: Create a Confidence token. Activate this only if you control an aura of suspense. **Go again**
 
 **Blade Break**"	Guardian Equipment - Legs						
+PPhWjKkrPQmCFfrrWcddD	Stand Tall	Yellow	2			3				Warrior, Block								While this is defending, whenever the attacking hero plays or activates a reaction this chain link, this gets +2{p}.	Warrior Block			No			
 GCWFNNQtKW9JFqJjqtCjP	Standing Order	Red	1	0	4	3				Generic, Action, Attack								When this attacks or defends, you may put a card from your arsenal on the bottom of your deck. If you do, this gets +2{p} and +2{d}.	Generic Action - Attack				No	No	
 GzWDLbC8WgKLHkgBnQ8mc	Standing Ovation	Blue	3	6	8	3				Revered, Guardian, Action, Attack							Suspense	"If 3 or more auras of suspense have left the arena this turn, this gets ""When this hits a hero, take an extra turn after this one. At the beginning of the next end phase, they draw up to their {i}."""	Revered Guardian Action - Attack				No	No	
 m7NGBRdNftTh9ntBzppbB	Star Fall				1					Lightning, Runeblade, Weapon, Sword, 2H		Go again	Once per Turn Action	Attack				"**Once per Turn Action** - {r}: **Attack**
@@ -9902,11 +9909,11 @@ qtGQDP6NNRnFFgNhKjCkd	Testament of Valahai					1				Guardian, Equipment, Off-Han
 
 **Guardwell**"	Guardian Equipment - Off-Hand				No	No	
 89p6tjT7cTLrGWkKrRkjt	That All You Got?	Yellow	2	0		3				Generic, Defense Reaction								While this is defending an attack with 2 or less {p}, when the combat chain closes, draw a card.	Generic Defense Reaction				No	No	
-dJCRQcRmp7mhMTNDRgFN8	Thaw	Red	1	2	6	2				Draconic, Action, Attack					Unfreeze			"While thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
+dJCRQcRmp7mhMTNDRgFN8	Thaw	Red	1	2	6	2				Draconic, Action, Attack					Unfreeze			"While this is in your graveyard, at the start of your turn, you may banish it and choose 1:
 
 - Destroy target Frostbite.
 - Destroy target Ice affliction.
-- **Unfreeze** target **frozen** card."	Draconic Action - Attack				No	No	
+- **Unfreeze** target **frozen** card in the arena or an arsenal."	Draconic Action - Attack				No	No	
 wPnWnDTdFfnjghqkQB88C	The Golden Son	Yellow	2	4	7	3				Guardian, Action, Attack		Victor Specialization, Overpower					Clash	"**Victor Specialization**
 
 As an additional cost to play this, you may destroy a Gold you control. If you do, this gets +3{p} and **overpower**.
@@ -10516,7 +10523,7 @@ At the start of your turn, if you control 3 or more Seismic Surge tokens, cards 
 bjLbTMgMm6QRWBRrw8chQ	Valda, Seismic Impact						40	4		Guardian, Hero					Dominate		Crush	"Whenever an opponent draws 1 or more cards during an action phase, create that many Seismic Surge tokens.
 
 At the start of your turn, if you control 3 or more Siesmic Surge tokens, cards you own with **crush** get **dominate** this turn."	Guardian Hero		No		No	No	
-wB9f6wWqbBzPf8KBqWqTf	Valiant Dynamo					1				Warrior, Equipment, Legs		Battleworn						"At the beginning of your end phase, if you have attacked 2 or more times with weapons this turn, you may remove a -1{d} counter from Valiant Dynamo.
+wB9f6wWqbBzPf8KBqWqTf	Valiant Dynamo					1				Warrior, Equipment, Legs		Battleworn						"At the beginning of your end phase, if you've attacked 2 or more times with weapons this turn, you may remove a -1{d} counter from this.
 
 **Battleworn**"	Warrior Equipment - Legs				No	No	
 JpfWdtWNwHgHJgTNpwptT	Valiant Thrust	Red	1	1	4	3				Light, Warrior, Action, Attack							Charge	If you've **charged** this turn, Valiant Thrust gains +3{p}.	Light Warrior Action - Attack					No	
@@ -11153,7 +11160,7 @@ D8JcCHRDPNWCRtgCMgbtp	Zenith Blade				3					Warrior, Weapon, Sword, 2H		Hala Spe
 If this has been sharpened this turn, its first attack this turn gets **go again**."	Warrior Weapon - Sword (2H)						
 DC8RfMDzMnthBkWJgmWpQ	Zephyr Needle				2					Ninja, Weapon, Dagger, 1H			Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}: **Attack**. **Go again**
 
-When Zephyr Needle is defended by a card with {d} greater than Zephyr Needle's {p}, destroy it when the combat chain closes."	Ninja Weapon - Dagger (1H)						
+When this is defended by a card with {d} greater than this weapon attack's {p}, destroy this when the combat chain closes."	Ninja Weapon - Dagger (1H)						
 WqmtQLDg96n6JTbjD8gjz	Zero to Fifty	Red	1	0	3	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack						
 q7QqrKP8wnWdwdptDwHfP	Zero to Fifty	Yellow	2	0	2	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack						
 Lc6zkNgRMkjHkLptqBMmF	Zero to Fifty	Blue	3	0	1	3				Mechanologist, Action, Attack		Boost						**Boost**	Mechanologist Action - Attack						
