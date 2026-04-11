@@ -988,6 +988,15 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added remaining printing data for AHA003-AHA011 and AHA013-AHA026
 - Added remaining image data for AHA003-AHA011 and AHA013-AHA026
 
+04-10-26:
+- Added MPW set and set printing
+- Added card data for Golden Company, Golden Grail, Hala, Sharpening Sparks, Stand Tall
+- Added printing data for FAB481-FAB483, MPW001-MPW002, MPW004-MPW007, MPW012, MPW026, MPW037, MPW053-MPW055, and MPW156
+- Added image data for FAB481-FAB483, MPW001-MPW002, MPW004-MPW007, MPW012, MPW026, MPW037, MPW053-MPW055, and MPW156
+- Updated functional text for CUrrent Funnel, Dawnblade, `Dorinthea, Quicksilver Prodigy`, Earthlore Bounty, Helm of the Sharp Eye, Merciless Battleaxe, Murky Waters, Northern Winds, Thaw, Pummel, Shifting Tides, Thaw, Valiant Dynamo, and Zephyr Needle
+- Updated CC Legality for `Florian, Rotwood Harbinger`, Rootbound Carapace, Rotwood Reaper, and Scepter of Pain
+- Updated Silver Age Legality for Amulet of Ice, Rake the Embers, Rootbound Carapace, Aether Spindle, Bracers of Belief, Burn Up // Shock, Lightning Press, Sirens of Safe Harbor, and Steelblade Shunt
+
 TODO:
 - Added set data for ANQ, PEN, SAR, SAZ, SBR, SDA, SDO, SEN, SFA, SIY, SKA, and SVI
 - Added card data for ANQ, PEN - data assistance credit: manwaring
