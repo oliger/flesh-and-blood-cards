@@ -4575,8 +4575,8 @@ H6nDPCh7gTgWLfzGdhHB7	Golden Cog									Mechanologist, Token, Cog, Item		Crank	
 
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it."	Mechanologist Token - Cog Item						
 bnQmtqDtDLfpqzfLfFqMR	Golden Company	Red	1	2		6				Warrior, Defense Reaction								You may destroy a Gold you control rather than pay this card's {r} cost.	Warrior Defense Reaction					No	
-f8B7rM7kBcncrTftJtntn	Golden Company	Yellow	2	2		6				Warrior, Defense Reaction								You may destroy a Gold you control rather than pay this card's {r} cost.	Warrior Defense Reaction					No	
-cF8ftkLJ8W8jzpTzzGHTc	Golden Company	Blue	3	2		6				Warrior, Defense Reaction								You may destroy a Gold you control rather than pay this card's {r} cost.	Warrior Defense Reaction					No	
+f8B7rM7kBcncrTftJtntn	Golden Company	Yellow	2	2		5				Warrior, Defense Reaction								You may destroy a Gold you control rather than pay this card's {r} cost.	Warrior Defense Reaction					No	
+cF8ftkLJ8W8jzpTzzGHTc	Golden Company	Blue	3	2		4				Warrior, Defense Reaction								You may destroy a Gold you control rather than pay this card's {r} cost.	Warrior Defense Reaction					No	
 hWW6zdd6hQ7CwbBt6wc7d	Golden Gait					2				Warrior, Equipment, Legs		Legendary, Olympia Specialization, Temper						"**Legendary Olympia Specialization**
 
 This counts as a Gold.
@@ -4809,7 +4809,7 @@ CPgdwbjRGNNfKrgPn6ngL	Hadron Collider	Blue	3	1						Mechanologist, Action, Item	
 This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 When you **boost** an attack, destroy this. If you do, the attack gets +X{p}, where X is the number of steam counters on this."	Mechanologist Action - Item						
-PCcMjhHfKKrmH8hR9LQBc	Hala						4	20		Warrior, Hero, Young			Action	Sharpen, Go again				**Action** - {r}{r}{r}, {t}: **Sharpen** target sword you control. **Go again**	Warrior Hero - Young			No			No
+PCcMjhHfKKrmH8hR9LQBc	Hala						20	4		Warrior, Hero, Young			Action	Sharpen, Go again				**Action** - {r}{r}{r}, {t}: **Sharpen** target sword you control. **Go again**	Warrior Hero - Young			No			No
 rWqFtWTCDnrgzPJthDHkR	Hala Goldenhelm					3				Warrior, Mentor					Go again			"While Hala is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Hala is face up in arsenal, whenever a sword attack you control hits, it gains **go again** and put a lesson counter on Hala. Then if there are 2 or more lesson counters on Hala, banish her, search your deck for Glistening Steelblade, put it face up in arsenal, and shuffle."	Warrior Mentor			No	No	No	No
