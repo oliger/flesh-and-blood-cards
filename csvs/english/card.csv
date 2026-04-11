@@ -1803,7 +1803,7 @@ Deal 2 damage to target hero unless they discard a card."	Reviled Action					No
 - **Steal** a Confidence or Toughness token.
 - **The crowd boos** you.
 - If you control an attack with 6 or more {p}, deal 2 damage to target hero unless they discard a card."	Reviled Brute Instant				No	No	
-DCtpFfTpFgWqgtWkkMQjT	Cheating Scoundrel	Red	1	0		3				Pirate, Action		Go again			Wager		Wager	"The next attack action card you play this turn gets +3{p} and **wagers** with the defending hero. The winner creates a Gold token.
+DCtpFfTpFgWqgtWkkMQjT	Cheating Scoundrel	Red	1	0		3				Pirate, Action		Go again			Wager		Wager	"The next attack action card you play this turn gets +3{p} and ""When this attacks, **wager** with the defending hero. The winner creates a Gold token.""
 
 The next time you would lose a wager this turn, instead you may discard a card. If you do, you win the wager.
 
@@ -9745,7 +9745,7 @@ pBLw878jHjmLBLBbtpk6W	Snapback	Blue	3	1		3			1	Wizard, Action								"Deal 1 arc
 
 If you have played another Wizard 'non-attack' action card this turn, you may play Snapback as though it were an instant."	Wizard Action						
 gGmbgrQrzhKpFdtcRTF9h	Snapdragon Scalers					0				Generic, Equipment, Legs			Attack Reaction	Go again				**Attack Reaction** - Destroy this: Target attack action card with cost 1 or less gets **go again**.	Generic Equipment - Legs						
-rLCRmrjNR6HMnG8pFkNCB	Snarky Prick	Red	1	0	1	3				Reviled, Action, Attack								When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.	Reviled Action - Attack					No	
+rLCRmrjNR6HMnG8pFkNCB	Snarky Prick	Red	1	0	1	3				Reviled, Action, Attack								When this attacks a hero, look at the top card of their deck. If it's red, you may destroy it. If you do, this gets +4{p}.	Reviled Action - Attack					No	
 PHktCwKzLmBMwmCBwb7Cw	Snatch	Red	1	0	4	2				Generic, Action, Attack								When this hits, draw a card.	Generic Action - Attack					No	
 jBtfGzCwLCCTGrtzKPRJW	Snatch	Yellow	2	0	3	2				Generic, Action, Attack								When this hits, draw a card.	Generic Action - Attack					No	
 KfbJQkFKdWKB66FcqCpHD	Snatch	Blue	3	0	2	2				Generic, Action, Attack								When this hits, draw a card.	Generic Action - Attack					No	
