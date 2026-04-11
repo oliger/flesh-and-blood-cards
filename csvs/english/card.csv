@@ -7882,10 +7882,10 @@ Gain 1{h}"	Wizard Action // Earth Instant	Yes				No
 nm7BLnWdtjqGqfJ868NbW	Pulsing Cardia	Red	1	0	5	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain {r}.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
-FJNBWQGCMNzBKLc6qPC9q	Pulsing Cardia	Yellow	2	0	5	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain {r}.
+FJNBWQGCMNzBKLc6qPC9q	Pulsing Cardia	Yellow	2	0	4	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain {r}.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
-nmc9fgdkRkcdJN6QwMTnT	Pulsing Cardia	Blue	3	0	5	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain {r}.
+nmc9fgdkRkcdJN6QwMTnT	Pulsing Cardia	Blue	3	0	3	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain {r}.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
 FkNKF7G8Tn79TtGrgKNpn	Pulverize	Red	1	10	14	3				Guardian, Action, Attack		Heave 3						"**Heave 3**
