@@ -989,7 +989,7 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 - Added remaining image data for AHA003-AHA011 and AHA013-AHA026
 
 04-10-26:
-- Added MPW set and set printing
+- Added MPW set and set printing data
 - Added card data for Golden Company, Golden Grail, Hala, Sharpening Sparks, Stand Tall
 - Added printing data for FAB481-FAB483, MPW001-MPW002, MPW004-MPW007, MPW012, MPW026, MPW037, MPW053-MPW055, and MPW156
 - Added image data for FAB481-FAB483, MPW001-MPW002, MPW004-MPW007, MPW012, MPW026, MPW037, MPW053-MPW055, and MPW156
@@ -1000,3 +1000,15 @@ HER058, HER059, HER060, HER061, HER062, HER063, HER064, HER065, HER066, JDG001, 
 04-11-26:
 - Fixed incorrect defense values for Golden Company - bug notice credit: Aegisworn
 - Fixed swapped health and intelligence values for Hala - bug notice credit: Aegisworn
+
+04-22-26:
+- Added AOL and DDD set and set printing data
+- Added card data for Back for Seconds, Blade Rush, Cutting Couriers, Odds on Favorite, Run Through (Red), Shove Off, Squire's Bracers, and Steel on Steel - data entry assistance: manwaring
+- Added printing data for AOL001-AOL002, AOL026, and DDD001-DDD016 - data entry assistance: manwaring
+- Added image data for AOL001-AOL002, AOL026, and DDD001-DDD016
+- Updated Blitz Legality for `Hala, Bladesaint of the Vow`
+- Updated Commoner Legality for Backside of the Blade, `Dawnblade, Resplendent`, `Dorinthea, Quicksilver Prodigy`, `Flurry Foot Dance`, Gleam of the Blade, Golden Company, `Hala, Bladesaint of the Vow`, Olé, Sharpening Sparks, Stand Tall, Toe the Line, and Visit the Dawnsmith
+- Updated CC Legality for Hala, `Hala, Bladesaint of the Vow`, Sharpening Sparks, and Stand Tall
+- Updated LL Legality for Ghost Protocol: Architect, Ghost Protocol: Mainframe, and Hala
+- Updated Silver Age Legality for Brimming Blade, `Dawnblade, Resplendent`, `Dorinthea, Quicksilver Prodigy`, Indefensibly Honed, Polished Blade, Reverent Rerebrace, Sharpening Sparks, Silverstride Dodgers, and Stand Tall
+- Updated the pre-commit script and script documentation
