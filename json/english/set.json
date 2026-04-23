@@ -315,19 +315,19 @@
         ]
     },
     {
-        "unique_id": "Gc8MTgWpCN6wJKdQqftFq",
-        "id": "ANQ",
-        "name": "Compendium of Rathe - Antiquity Pack",
+        "unique_id": "MhBtKrkKHNK7qzhDTHBj7",
+        "id": "AOL",
+        "name": "Armory Deck - Olympia",
         "printings": [
             {
-                "unique_id": "nLHMCLWr6cnfBgpFjKLWW",
+                "unique_id": "GkB7DB6tf6tKWnMdLNLzJ",
                 "edition": "N",
-                "start_card_id": "ANQ000",
-                "end_card_id": "ANQ037",
-                "initial_release_date": "2026-02-13T00:00:00.000Z",
+                "start_card_id": "AOL001",
+                "end_card_id": "AOL026",
+                "initial_release_date": "2026-08-07T00:00:00.000Z",
                 "out_of_print": false,
-                "card_database": "https://cardvault.fabtcg.com/products/compendium-of-rathe-antiquity-pack",
-                "product_page": null,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/products/armory-deck/armory-deck-olympia/",
                 "collectors_center": null,
                 "card_gallery": null,
                 "release_notes": null,
@@ -843,6 +843,27 @@
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/crucible-war-unlimited/",
                 "release_notes": "https://fabtcg.com/en/resources/rules-and-policy-center/release-notes/crucible-war/",
                 "set_logo": "https://dhhim4ltzu1pj.cloudfront.net/media/images/cru_logo_stacked.original.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "D6ppJRdChMn7bKGDwBK8J",
+        "id": "DDD",
+        "name": "Dorinthea Demo Deck",
+        "printings": [
+            {
+                "unique_id": "fkzLHCFJkQdHkCRR9LtRz",
+                "edition": "N",
+                "start_card_id": "DDD001",
+                "end_card_id": "DDD016",
+                "initial_release_date": "2026-08-07T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": "https://fabtcg.com/products/product/dorinthea-demo-deck/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },
