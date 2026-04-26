@@ -1368,6 +1368,11 @@ CKmN6WtD9mjNbMHwdbKMp	Boom Grenade	Blue	3	0						Mechanologist, Action, Item		Cr
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 When a Mechanologist attack action card you control hits a hero, destroy this and deal 2 damage to them."	Mechanologist Action - Item						
+bqhGbpG9NhgMcGGKdLwRM	Boots of Omnis Ward					1				Generic, Equipment, Legs		Temper	Instant					"If you've been dealt arcane damage this turn, this gets +1{d}.
+
+**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.
+
+**Temper**"	Generic Equipment - Legs				No	No	
 bCKDD6gGb8dKzNdprDzff	Boots to the Boards					2				Revered, Equipment, Legs		Temper						"When this defends, pay up to {r}{r}{r}. Create that many Toughness tokens.
 
 **Temper**"	Revered Equipment - Legs				No	No	
@@ -10266,6 +10271,7 @@ kD798qm7kWr9fhCLM9dDm	Starting Stake	Yellow	2	0		3				Generic, Action								If 
 fdQ8rf8W6d7KgDhprdm9k	Stasis Cell	Blue	3	0						Mechanologist, Action, Item			Action	Go again				"When this enters or leaves the arena, activated abilities of target equipment can't be activated until the end of its controller's next turn.
 
 **Action** - Put this on the bottom of its owner's deck: Choose an equipment. It can't defend this turn. **Go again**"	Mechanologist Action - Item				No	No	
+BwLkmCpwbHmgKTDdHThfG	Static Shelter	Yellow	2	0		3				Lightning, Defense Reaction								When this defends, you may pay {r}. If you do, create a Lightning Flow token.	Lightning Defense Reaction				No	No	
 M9NHHJLbL9CDLgRjFFzTn	Static Shock	Red	1	0	4	3			1	Elemental, Runeblade, Action, Attack		Lightning Flow						**Lightning Flow** - When this hits a hero, if you've played a Lightning card this turn, deal 1 arcane damage to them.	Elemental Runeblade Action - Attack					No	
 mwKQwF9C99qwcj9M7bpwd	Static Shock	Yellow	2	0	3	3			1	Elemental, Runeblade, Action, Attack		Lightning Flow						**Lightning Flow** - When this hits a hero, if you've played a Lightning card this turn, deal 1 arcane damage to them.	Elemental Runeblade Action - Attack					No	
 QWftpgJpG9fHpC9MdjzKP	Staunch Response	Red	1	2		7				Guardian, Defense Reaction								As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.	Guardian Defense Reaction					No	
