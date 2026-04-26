@@ -2627,6 +2627,7 @@ Create Gold tokens equal to the number of gold counters removed this way."	Pirat
 bzkCGg6kcffpBcBhgHrkH	Dodge	Blue	3	0		2				Generic, Defense Reaction									Generic Defense Reaction						
 DmQPbpRWTzKJcwKLdB88B	Dominate the Competition									Event					Dominate			Your next attack this turn gets **dominate**.	Event		No	No	No	No	No
 hjggcdqWwpwNKCrTBj6J7	Dominia				4		4			Draconic, Illusionist, Dragon, Ally								Whenever Dominia attacks a hero, reveal the top card of your deck. If it's a red card, look at their hand and banish a card from it.	Draconic Illusionist - Dragon Ally				No	No	
+NmQKTmjkndPjrGGW8bBLk	Donkey	Blue	3	0		3				Warrior, Attack Reaction					Wager			Target sword attack gets +1{p} and **wagers** with the defending hero. The winner destroys a card in their own arsenal.	Warrior Attack Reaction					No	
 w7HdMtLpHDBRNJcKHWHpc	Doomsday	Blue	3	0						Shadow, Instant		Legendary, Levia Specialization					Blood Debt	"**Legendary Levia Specialization**
 
 Play Doomsday only if there are 6 or more cards with blood debt in your banished zone.
@@ -2659,6 +2660,7 @@ JFKn8JgrMchwh6D6dCQNw	Down But Not Out	Red	1	3	5	3				Generic, Action, Attack		O
 n6jb6thTHT9TpcTdRjdQm	Down But Not Out	Yellow	2	3	4	3				Generic, Action, Attack		Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack					No	
 PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	Blue	3	3	3	3				Generic, Action, Attack		Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack					No	
 HgLNTDb7kMk7MdJrTjn8T	Down and Dirty	Red	1	2	6	2				Generic, Action, Attack								While Down and Dirty is in your arsenal, you may defend with it.	Generic Action - Attack				No	No	
+8fP9qJWHNqgWf6BgfBqLw	Downswing	Red	1	0		3				Warrior, Attack Reaction					Wager			Target sword attack gets +1{p} and **wagers** with the defending hero. The winner loses 1{h}.	Warrior Attack Reaction					No	
 78FGMN9nn9QR9FDzC9z68	Dracona Optimai				6		6		X	Draconic, Illusionist, Dragon, Ally								Whenever Dracona Optimai attacks a hero, reveal the top 3 cards of your deck. He deals arcane damage equal to twice the number of red cards revealed this way to them or an ally they control.	Draconic Illusionist - Dragon Ally				No	No	
 QGp9LdRwfGKzQnpHrbJtN	Dragon Power	Red	1	1	4	3				Ninja, Action, Attack								When this attacks, if it is Draconic, it gets +3{p}.	Ninja Action - Attack					No	
 H9JwchwDzHrRr8Ldkwwtw	Dragon Power	Yellow	2	1	3	3				Ninja, Action, Attack								When this attacks, if it is Draconic, it gets +3{p}.	Ninja Action - Attack					No	
@@ -2725,6 +2727,7 @@ tfzkkkrLtW9kkWFjpPLQP	Draw a Crowd	Blue	3	2		3				Guardian, Action, Aura		Go aga
 When this enters the arena, each hero draws a card.
 
 At the beginning of your action phase, destroy this, then the next Guardian attack action card you play this turn gets +3{p}."	Guardian Action - Aura					No	
+P9zCBnmGGJLqgH79R89Br	Drawing Dead	Yellow	2	0		3				Warrior, Attack Reaction					Wager			Target sword attack gets +1{p} and **wagers** with the defending hero. The winner discards a card.	Warrior Attack Reaction					No	
 FWdhrBqFCH9nqqmRGPcTL	Drawn to the Dark Dimension	Red	1	2	3	3				Runeblade, Action, Attack								"Drawn to the Dark Dimension costs {r} less to play for each Runechant you control.
 
 Draw a card."	Runeblade Action - Attack						
@@ -2935,6 +2938,11 @@ When this leaves the arena, your next attack this turn gets +4{p}."	Guardian Ins
 MTjzGdRDGRGGqHmpn6zCH	Edge of Their Seats	Blue	3	3		3				Guardian, Instant, Aura		Suspense						"**Suspense**
 
 When this leaves the arena, your next attack this turn gets +3{p}."	Guardian Instant - Aura						
+wKQrdNKc6tbpWbGfNDtcn	Edict of Steel	Red	1	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
+
+If it has 1 or more +1{p} counters, create a Flurry token.
+
+**Go again**"	Warrior Action						
 mTCJbPqB8m8hRTcQCHD7t	Edict of Steel	Yellow	2	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
 
 If it has 2 or more +1{p} counters, create a Flurry token.
@@ -2943,11 +2951,6 @@ If it has 2 or more +1{p} counters, create a Flurry token.
 j8LdzKwQwGdHJffPKcntM	Edict of Steel	Blue	3	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
 
 If it has 3 or more +1{p} counters, create a Flurry token.
-
-**Go again**"	Warrior Action						
-wKQrdNKc6tbpWbGfNDtcn	Edict of Steel	Red	1	0		3				Warrior, Action		Sharpen, Go again						"**Sharpen** target sword you control.
-
-If it has 1 or more +1{p} counters, create a Flurry token.
 
 **Go again**"	Warrior Action						
 6KnWFFJk9CkMRMMc8LJ8n	Eirina's Prayer	Red	1	1						Generic, Instant								Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 6 minus the pitch value of the card revealed this way.	Generic Instant					No	
@@ -5037,13 +5040,13 @@ Whenever this banishes a reaction or instant card, gain 1{h}."	Assassin Action -
 qqDbjmjjfHK9d8KJ8PcGm	In the Palm of Your Hand	Red	1	2		3				Guardian, Instant, Aura		Suspense						"**Suspense**
 
 When this enters or leaves the arena, draw a card."	Guardian Instant - Aura				No	No	
-tFcNdRJcpB69qcCBpTL7c	In the Swing	Red	1	0		3				Warrior, Attack Reaction								"Play In the Swing only if you have attacked 2 or more times with weapons this turn.
+tFcNdRJcpB69qcCBpTL7c	In the Swing	Red	1	0		3				Warrior, Attack Reaction								"Play this only if you've attacked 2 or more times with weapons this turn.
 
 Target weapon attack gains +3{p}."	Warrior Attack Reaction						
-kGTBzfhL8Kr67NPjMWwK8	In the Swing	Yellow	2	0		3				Warrior, Attack Reaction								"Play In the Swing only if you have attacked 2 or more times with weapons this turn.
+kGTBzfhL8Kr67NPjMWwK8	In the Swing	Yellow	2	0		3				Warrior, Attack Reaction								"Play this only if you've attacked 2 or more times with weapons this turn.
 
 Target weapon attack gains +2{p}."	Warrior Attack Reaction						
-jjbWn8gPgq9nzqTHpNr8h	In the Swing	Blue	3	0		3				Warrior, Attack Reaction								"Play In the Swing only if you have attacked 2 or more times with weapons this turn.
+jjbWn8gPgq9nzqTHpNr8h	In the Swing	Blue	3	0		3				Warrior, Attack Reaction								"Play this only if you've attacked 2 or more times with weapons this turn.
 
 Target weapon attack gains +1{p}."	Warrior Attack Reaction						
 qh69zwgzjzDtjgTLN8c7P	Incision	Red	1	0		3				Assassin, Warrior, Attack Reaction								Target dagger attack gets +3{p}.	Assassin / Warrior Attack Reaction						
@@ -8013,7 +8016,10 @@ Q9wHzF6BQjrjMwmKWBbpn	Run Through	Red	1	1		3				Warrior, Attack Reaction					Go 
 Your next sword attack this turn gets +3{p}."	Warrior Attack Reaction					No	
 DBDwbqjgnpnNfFrJ8Dmhr	Run Through	Yellow	2	1		3				Warrior, Attack Reaction					Go again			"Target sword attack gains **go again**.
 
-Your next sword attack this turn gains +2{p}."	Warrior Attack Reaction					No	
+Your next sword attack this turn gets +2{p}."	Warrior Attack Reaction					No	
+RRBhCdRN8Fj7zw6hQdLPJ	Run Through	Blue	3	1		3				Warrior, Attack Reaction					Go again			"Target sword attack gets **go again**.
+
+Your next sword attack this turn gets +1{p}."	Warrior Attack Reaction					No	
 wbJtMrPCzqL6NRGrT6fJK	Run into Trouble	Red	1			3				Brute, Warrior, Block								When this defends, if you control an Agility token, deal damage to the attacking hero.	Brute / Warrior Block					No	
 QFg6Qh7ckkNzfhkDrJdrh	Runaways					0				Generic, Equipment, Legs			Instant					**Instant** - Destroy Runaways: Prevent the next 1 damage that would be dealt to your hero this turn. Activate this ability only if your hero has been dealt damage this turn.	Generic Equipment - Legs						
 TWm6BC9zbHp69FkFNmbnR	Rune Flash	Red	1	3	4	3				Runeblade, Action, Attack		Go again						"Rune Flash costs {r} less to play for each Runechant you control.
@@ -9384,6 +9390,8 @@ MGGw9K9QMqmFBjLLTrbhq	Steel Street Hoons	Blue	3	3	3	2				Mechanologist, Action, 
 If an item you control has been destroyed this turn, this gets +2{p}.
 
 **Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d)."	Mechanologist Action - Attack				No	No	
+7KLLpHkFMKHdj8zt8kbKk	Steel on Steel	Red	1	0		3				Warrior, Defense Reaction								While this is defending a weapon attack, this gets +1{d}.	Warrior Defense Reaction						
+qHhMBcQcgBKK7GgzrjGrQ	Steel on Steel	Yellow	2	0		2				Warrior, Defense Reaction								While this is defending a weapon attack, this gets +1{d}.	Warrior Defense Reaction						
 gt6TDJd9dG8CcMfwHqdtP	Steel on Steel	Blue	3	0		1				Warrior, Defense Reaction								While this is defending a weapon attack, this gets +1{d}.	Warrior Defense Reaction						
 dmnK9rtgp6tmCbN9LR9qQ	Steelblade Shunt	Red	1	1		6				Warrior, Defense Reaction								If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	Warrior Defense Reaction					No	
 JbTJprLM9CcMPHwFgL888	Steelblade Shunt	Yellow	2	1		5				Warrior, Defense Reaction								If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.	Warrior Defense Reaction					No	
@@ -10860,13 +10868,13 @@ qBfKKnkJT8hhtwHqnHfpG	Warmonger's Recital	Blue	3	1		2				Generic, Action		Go aga
 rdKrHRBf66GR7WdzL8dpN	Warpath of Winged Grace					2				Light, Warrior, Equipment, Legs		Charge, Blade Break						"When this defends, you may **charge** your hero's soul. If a yellow card is **charged** this way, create a Quicken token.
 
 **Blade Break**"	Light Warrior Equipment - Legs				No	No	
-rMhFpgrgBCtQdqrrcpHNh	Warrior's Valor	Red	1	1		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gains +3{p} and ""If this hits, the attack gains **go again**.""
+rMhFpgrgBCtQdqrrcpHNh	Warrior's Valor	Red	1	1		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gets +3{p} and ""When this hits, it gets **go again**.""
 
 **Go again**"	Warrior Action					No	
-g97rMMDfMbRgmgfjzgJnL	Warrior's Valor	Yellow	2	1		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gains +2{p} and ""If this hits, the attack gains **go again**.""
+g97rMMDfMbRgmgfjzgJnL	Warrior's Valor	Yellow	2	1		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gets +2{p} and ""When this hits, it gets **go again**.""
 
 **Go again**"	Warrior Action					No	
-czRC9wmKkRGGrwrhJbNqj	Warrior's Valor	Blue	3	1		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gains +1{p} and ""If this hits, the attack gains **go again**.""
+czRC9wmKkRGGrwrhJbNqj	Warrior's Valor	Blue	3	1		3				Warrior, Action		Go again			Go again			"Your next weapon attack this turn gets +1{p} and ""When this hits, it gets **go again**.""
 
 **Go again**"	Warrior Action					No	
 KRcH8Nb8PR8dfC8DTPtpJ	Wartune Herald	Red	1	1	7	3				Light, Illusionist, Action, Attack		Phantasm						"When this hits, put it into your hero's soul.
