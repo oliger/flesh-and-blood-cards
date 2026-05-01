@@ -324,6 +324,12 @@ Whenever you **go again** this turn, deal 1 arcane damage to any target.
 The next action card you play this turn gets **go again**.
 
 **Go again**"	Lightning Runeblade Action				No	No	
+wBbcmhwcnfD8cgzrfk6gQ	Arc Ramp	Red	1	0		2				Lightning, Wizard, Action		Go again, Amp 3						"**Amp 3**
+
+You may destroy a Lightning Flow you control. If you do, this gets **go again**."	Lightning Wizard Action					No	
+fCdJGpdcFjfFTQjgmQ8Rp	Arc Ramp	Yellow	2	0		2				Lightning, Wizard, Action		Go again, Amp 2						"**Amp 2**
+
+You may destroy a Lightning Flow you control. If you do, this gets **go again**."	Lightning Wizard Action					No	
 9btBbfjNhPmdQwJLTNnGq	Arc Ramp	Blue	3	0		2				Lightning, Wizard, Action		Go again, Amp 1						"**Amp 1**
 
 You may destroy a Lightning Flow you control. If you do, this gets **go again**."	Lightning Wizard Action					No	
@@ -802,6 +808,7 @@ k7CQWQNw7LjqTcGB8gDTq	Beckon Applause					0				Warrior, Equipment, Arms		Temper	
 If you control a Vigor token, this gets +1{d}.
 
 **Temper**"	Warrior Equipment - Arms						
+tbJKjHrCbwffmbGt6hhTM	Beckoning Brilliance	Red	1	0	4	2				Lightning, Action, Attack								When this attacks, the next instant card you play this chain link costs {r} less to play.	Lightning Action - Attack					No	
 KrfHMt9FRGmFqPrRqRrfL	Beckoning Haunt					2				Runeblade, Equipment, Arms		Guardwell	Action					"**Action** - {x}{x}{r}, destroy this: Return target aura with cost X from your graveyard to your hand.
 
 **Guardwell**"	Runeblade Equipment - Arms						
@@ -1136,6 +1143,9 @@ mdLNBgt6kTMfdG9c97jP9	Blinding of the Old Ones	Red	1	6	10	3				Guardian, Action,
 
 **Heave 2**"	Guardian Action - Attack					No	
 NBRB8MLKNqNdcQGwwFKgB	Blink	Blue	3	0						Lightning, Instant								Gain 1 action point.	Lightning Instant				No	No	
+Cmf8GkhNpRqdpkwLg9RnK	Blink of an Eye	Red	1	2	7	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, you may banish a Lightning aura permanent you control with no holo counters, then return it to the arena with a holo counter.
+
+**Fragment**"	Lightning Illusionist Action - Attack					No	
 PfB8MChc7h7wmW6wgfRBM	Blistering Assault	Red	1	2	5	2				Light, Action, Attack		Go again						If you have a yellow card in your pitch zone, this gets **go again**.	Light Action - Attack						
 kMB9htzpJkJjKrWpPFF8R	Blistering Assault	Yellow	2	2	4	2				Light, Action, Attack		Go again						If you have a yellow card in your pitch zone, this gets **go again**.	Light Action - Attack						
 LpMBqrTz6wcDkpCFPfM68	Blistering Assault	Blue	3	2	3	2				Light, Action, Attack		Go again						If you have a yellow card in your pitch zone, this gets **go again**.	Light Action - Attack						
@@ -2280,6 +2290,9 @@ kzBc7Bmrk7TfHNwhQK6Lj	Copper Cog	Blue	3	0						Mechanologist, Action, Cog, Item	
 **Crank**
 
 This enters the arena with 2 steam counters. At the start of your turn, destroy this unless you remove a steam counter from it."	Mechanologist Action - Cog Item					No	
+C8dnFRThpKLT7Gkh7TJTm	Core Reaction	Red	1	2					4	Lightning, Wizard, Instant, Aura								At the beginning of your action phase, destroy this and deal 4 arcane damage to any target.	Lightning Wizard Instant - Aura					No	
+mHLBRgG6qwPR8kznTh8Kd	Core Reaction	Yellow	2	2					3	Lightning, Wizard, Instant, Aura								At the beginning of your action phase, destroy this and deal 3 arcane damage to any target.	Lightning Wizard Instant - Aura					No	
+6mhWMHfB9pFcqz7QJfbhp	Core Reaction	Blue	3	2					2	Lightning, Wizard, Instant, Aura								At the beginning of your action phase, destroy this and deal 2 arcane damage to any target.	Lightning Wizard Instant - Aura					No	
 9b7hjHNnGDBkfL8jL89bf	Coronet Peak					2				Ice, Equipment, Head		Blade Break	Action					"**Action** - {r}{r}{r}: Target hero discards a card unless they pay {r}.
 
 **Blade Break**"	Ice Equipment - Head				No	No	
@@ -3209,6 +3222,9 @@ RKDPjzdGtKWMQnNcHBdF8	Ebon Fold					0				Shadow, Equipment, Head		Spellvoid 2	In
 P8KtKdKjn8HN6rLmckJkP	Echo Casque					1				Brute, Equipment, Head	Battleworn					Beat Chest		"Whenever you beat chest, you may {r} and destroy this. If you do, draw a card.
 
 **Battleworn**"	Brute Equipment - Head						
+wzqz9DGw687RGfqhgBPBm	Echoflash	Yellow	2	1					1	Lightning, Wizard, Instant								"Deal 1 arcane damage to target hero.
+
+When this is put into your graveyard from anywhere, your hero deals 1 arcane damage to target hero."	Lightning Wizard Instant				No	No	
 wJcJBPNg8mD6m9778FnLn	Eclectic Magnetism	Red	1	1	5	3				Lightning, Action, Attack								When this attacks, you may play a non-attack action card this chain link as though it were an instant.	Lightning Action - Attack				No	No	
 PDHFDfPrn8TwBGw6h7cFr	Eclipse	Blue	3	0						Shadow, Instant		Legendary, Chane Specialization					Blood Debt	"**Legendary Chane Specialization**
 
@@ -4143,6 +4159,9 @@ tNwNjDkrznjwrPP6bHBtD	Flic Flak	Blue	3	0		2				Ninja, Defense Reaction							Com
 Bh6NHMCNrhdwbHb7CJRb7	Flick Knives					1				Assassin, Ninja, Equipment, Arms		Blade Break	Once per Turn Attack Reaction					"**Once per Turn Attack Reaction** - 0: Target dagger you control that isn't on the active chain link deals 1 damage to target hero. If damage is dealt this way, the dagger has hit. Destroy the dagger.
 
 **Blade Break**"	Assassin / Ninja Equipment - Arms				No	No	
+pDcNGgGpPKKtj9wkD7jQR	Flicker Reality	Blue	3	0						Lightning, Illusionist, Instant, Aura		Ward 1						"When this leaves the arena, you may banish another Lightning aura permanent you control with no holo counters, then return it to the arena with a holo counter.
+
+**Ward 1**"	Lightning Illusionist Instant - Aura				No	No	
 kCKqHQb8W96FJTWqnNhCj	Flicker Trick	Red	1	0		5				Illusionist, Defense Reaction		Mirage						**Mirage**	Illusionist Defense Reaction				No	No	
 wq9TcGTj79nqfWPtJFdkR	Flicker Wisp	Yellow	2	0		2			1	Elemental, Runeblade, Action		Lightning Fusion, Go again						"**Lightning Fusion**
 
@@ -6483,6 +6502,15 @@ q7wHrf9PJpkmfdBQWQBzz	Merciful Retribution	Yellow	2	4					1	Light, Illusionist, 
 nGkpNDKckjzwbzBqM7N8f	Merciless Battleaxe				3					Warrior, Weapon, Axe, 2H		Overpower	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}{r}: **Atttack**
 
 When this attacks, if the attack's {p} is greater than twice its base, the attack gets **overpower**."	Warrior Weapon - Axe (2H)				No	No	
+7ctThgNHLCTRztRgQKhk7	Mercurial Skies	Red	1	0		2			3	Lightning, Runeblade, Action		Go again			Go again			"The next Runeblade or Lightning attack action card you play this turn gets **go again** and ""The first time this deals damage to a hero, you may destroy a Lightning Flow you control. If you do, deal 3 arcane damage to them.""
+
+**Go again**"	Lightning Runeblade Action					No	
+mRgkGjNqnHPpwcwzwLwHJ	Mercurial Skies	Yellow	2	0		2			2	Lightning, Runeblade, Action		Go again			Go again			"The next Runeblade or Lightning attack action card you play this turn gets **go again** and ""The first time this deals damage to a hero, you may destroy a Lightning Flow you control. If you do, deal 2 arcane damage to them.""
+
+**Go again**"	Lightning Runeblade Action					No	
+RmCnthNDKJ977KcRNmMbg	Mercurial Skies	Blue	3	0		2			1	Lightning, Runeblade, Action		Go again			Go again			"The next Runeblade or Lightning attack action card you play this turn gets **go again** and ""The first time this deals damage to a hero, you may destroy a Lightning Flow you control. If you do, deal 1 arcane damage to them.""
+
+**Go again**"	Lightning Runeblade Action					No	
 GgRFLW8zdKbNJtgfFTFkp	Meridian Pathway									Mystic, Illusionist, Equipment, Legs		Ward 3	Instant					"**Instant** - {c}{c}{c}: You may play auras this turn as though they were instants.
 
 Whenever you pitch a Chi, you may have this get **ward 3** until end of turn."	Mystic Illusionist Equipment - Legs				No	No	
@@ -10831,6 +10859,9 @@ hfTBtd9wKBC6TzhCqQ6mn	Tempest Dancers					0				Wizard, Equipment, Legs		Blade Br
 D9rHcGbwmfHRQw9CkhHFd	Tempest Palm Gustwave	Yellow	2	0	3	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Surging Strike was the last attack this combat chain, this gets +2{p}.
 
 If this is played at chain link 3 or higher, this gets **go again**."	Ninja Action - Attack				No	No	
+dJkKN8JqCpJTtG9TPHM7n	Tempestuous Kiss	Red	1	2	5	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p} and ""When this attacks a hero, deal 1 arcane damage to them.""
+
+The first time this deals damage to a hero, they discard a card."	Lightning Runeblade Action - Attack				No	No	
 QF7w8mPkmCmLGmtzDLDPM	Templar Spellbane					1				Warrior, Equipment, Head		Battleworn	Instant					"**Instant** - Destroy this: Prevent the next 1 arcane damage that would be dealt to you this turn. If you've activated a weapon this turn, instead prevent the next 2.
 
 **Battleworn**"	Warrior Equipment - Head				No	No	
