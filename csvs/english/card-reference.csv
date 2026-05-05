@@ -1,9 +1,4 @@
 Card Unique ID	Card Name	Card Pitch	Referenced Card Unique ID	Referenced Card Name	Referenced Card Pitch						
-7ctThgNHLCTRztRgQKhk7	Mercurial Skies	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
-mRgkGjNqnHPpwcwzwLwHJ	Mercurial Skies	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
-RmCnthNDKJ977KcRNmMbg	Mercurial Skies	3	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
-wBbcmhwcnfD8cgzrfk6gQ	Arc Ramp	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
-fCdJGpdcFjfFTQjgmQ8Rp	Arc Ramp	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 KtgRgFrrFDpzMQDJLLMwt	Aegis, Archangel of Protection		NwwnMqBg9tdRBp9NWHpgf	Spectral Shield							
 BzkLdhrmkWpnbDBWNMJhp	Aether Arc	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 8rwTJkbzktjbhbQbPCKrc	Aether Bindings of the Third Age		zRCmqmDrDLdDwnc9Td6j7	Sigil of Aether	3						
@@ -187,6 +182,8 @@ hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	NGkHQHjzkFqfmGLKmRCpj	Prism
 hD7Tgjzp9pwjttPmcFttW	Arc Light Sentinel	2	F7rQpTDjHFWPgQhcGg7RT	Prism, Sculptor of Arc Light							
 7J87gL6NR9MjHMLM6cWGB	Arc Lightning	2	TDrmKkRWGKWnqfQkT9QML	Aurora							
 7J87gL6NR9MjHMLM6cWGB	Arc Lightning	2	mHBtPppktRTkWpnf69dHj	Aurora, Shooting Star							
+wBbcmhwcnfD8cgzrfk6gQ	Arc Ramp	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
+fCdJGpdcFjfFTQjgmQ8Rp	Arc Ramp	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 9btBbfjNhPmdQwJLTNnGq	Arc Ramp	3	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 Rft8fQBq9gz7bRh6BfjRC	Arcane Cussing	1	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 pNJQBp68dnBdTNhpKkhch	Arcane Cussing	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
@@ -1609,6 +1606,9 @@ rpF86BNmBttKMGpckqJnq	Meat and Greet	1	zfrHQjbPkpBmdQGrWcTMB	Runechant
 kMHrRGnggnJtkzk7PhbH8	Meat and Greet	3	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 npDPz98H6BnJGDzHBmdGk	Melody, Sing-along		gzDGmdfm6gHWctgrcgfKf	Copper							
 TkhKrkDWhcwTJbHng7TrP	Mental Block	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
+7ctThgNHLCTRztRgQKhk7	Mercurial Skies	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
+mRgkGjNqnHPpwcwzwLwHJ	Mercurial Skies	2	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
+RmCnthNDKJ977KcRNmMbg	Mercurial Skies	3	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 GgRFLW8zdKbNJtgfFTFkp	Meridian Pathway		FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						
 cmbfFHBr6hjhrdmNNQGg6	Meteoric Rise	1	NzHWJJzD6JwJ88LmRTTGQ	Lightning Flow							
 r8fjLMCFnQhFrRjwpMTgK	Micro-processor	3	kbdzm8R7MHCpWC79RdTGH	Data Doll MKII							
@@ -1887,6 +1887,7 @@ G7WBwbd7TnnMMp8R9tkMw	Proclaim Vengeance	1	rzm9GQbbBrrDzLQRcB6kK	Arakni, Marione
 G7WBwbd7TnnMMp8R9tkMw	Proclaim Vengeance	1	jkwfjdcDbhRnDrPWDnwT9	Arakni, Solitary Confinement							
 G7WBwbd7TnnMMp8R9tkMw	Proclaim Vengeance	1	qMNzBQBKDMgnGpTfGgKkP	Arakni, Web of Deceit							
 jFpwffNmqGB8nTHt7mzp9	Promising Terrain	3	Rf8CHpzmhJNppCtDDKWDm	Seismic Surge							
+bRKLFbq7gKkdTQnqBmWgC	Prophetic Quickstep	2	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 fJTDNGKmzzzmwzrpCdgbT	Puffer Jacket		kRRdnfWFfdCmmKTnjmzNk	Hyper Driver	1						
 fJTDNGKmzzzmwzrpCdgbT	Puffer Jacket		zPjKJbcG7q8qD8QdKjtnG	Hyper Driver	2						
 fJTDNGKmzzzmwzrpCdgbT	Puffer Jacket		chD7n8jHMM6brNhDGJtfG	Hyper Driver	3						
@@ -2431,6 +2432,7 @@ NwWCLDRkRhtkT8JrRnFgt	Thespian Charm	2	6gqTwGnmHjkCLDqKPWt8c	Might
 NwWCLDRkRhtkT8JrRnFgt	Thespian Charm	2	DBhPCQqjnj6qqd9DtBB7W	Vigor							
 mGJzBdWQ7W7FHH6QnLzNj	Thiev'n Varmints	1	8qdmprPg7kckn8ktMTKQh	Gold							
 mGJzBdWQ7W7FHH6QnLzNj	Thiev'n Varmints	1	jnR9QPhTfLmGWF7TPTQgp	Treasure Island							
+Cqk6dND8KnJ6gBjQNQjCq	Third Eye of the Sphinx		HpWqFJW8ftTDdzCLK9RkD	Ponder							
 MLzWh7MWcDdN8wnwQWwMN	Thistle Bloom // Life	2	zfrHQjbPkpBmdQGrWcTMB	Runechant							
 PDPbhCGj7twzTP8HGfhBb	Thunk	1	6gqTwGnmHjkCLDqKPWt8c	Might							
 KqtjpgTftPFhRbhwQkcBQ	Thunk	2	6gqTwGnmHjkCLDqKPWt8c	Might							
@@ -2445,6 +2447,7 @@ DmG6qBFhfRpqfBGbC8dnG	Tigrine Reflex	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger
 gzHcjD7dKLpDfKtnKW8p8	Tip the Barkeep	3	8qdmprPg7kckn8ktMTKQh	Gold							
 gzHcjD7dKLpDfKtnKW8p8	Tip the Barkeep	3	9KpmmRGnpbdND9Q8GJnT6	Goldkiss Rum							
 9dQLNwfWwhJGtMhNd9KzC	Toe the Line	1	jdkmHT8QfQmMbPLBHPrHJ	Flurry							
+CfjtgbzgrFRD6QPzPdkdW	Tome of Quandaries	3	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 cLkt677NMWGgPTNCBcJjn	Tooth and Claw	1	fw9LtHDQTMHgTrdcK9gP6	Crouching Tiger							
 BPkPddj9wRpjhfhWcb6bw	Tough Leather Boots		Cn8tK9KRm7d9KbcQk6Pqm	Toughness							
 BPkPddj9wRpjhfhWcb6bw	Tough Leather Boots		DBhPCQqjnj6qqd9DtBB7W	Vigor							
@@ -2465,6 +2468,7 @@ p9Mw8DBq9hPqKnPRrwCHz	Trounce	1	6gqTwGnmHjkCLDqKPWt8c	Might
 p9Mw8DBq9hPqKnPRrwCHz	Trounce	1	DBhPCQqjnj6qqd9DtBB7W	Vigor							
 wKnhnNTHKHqFfjgdn9LLP	Tuffnut		Cn8tK9KRm7d9KbcQk6Pqm	Toughness							
 wqmMJj8PqzNHg7Q7LMqTR	Tuffnut, Bumbling Hulkster		Cn8tK9KRm7d9KbcQk6Pqm	Toughness							
+JRHmPKJqfrMgNgJj6ngBt	Turn to Mindfire	1	HpWqFJW8ftTDdzCLK9RkD	Ponder							
 kQcrWWddhc7qJJrtdpggp	Twelve Petal Kāṣāya		HhTPF8HGRqhFbTT8HnBBh	Zen State							
 CdDbm8CBpkbBRg9d6Hdck	Two Steps Ahead	3	WBFjTCfmbwHCr8WNmz8RQ	Confidence							
 CdDbm8CBpkbBRg9d6Hdck	Two Steps Ahead	3	6gqTwGnmHjkCLDqKPWt8c	Might							
