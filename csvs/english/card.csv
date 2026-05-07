@@ -1381,6 +1381,7 @@ CKmN6WtD9mjNbMHwdbKMp	Boom Grenade	Blue	3	0						Mechanologist, Action, Item		Cr
 This enters the arena with a steam counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 When a Mechanologist attack action card you control hits a hero, destroy this and deal 2 damage to them."	Mechanologist Action - Item						
+CTRdQTjDrHNjCDh9nnDGB	Boots of Astral Sanctuary					0				Generic, Equipment, Legs			Instant					**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.	Generic Equipment - Legs						
 bqhGbpG9NhgMcGGKdLwRM	Boots of Omnis Ward					1				Generic, Equipment, Legs		Temper	Instant					"If you've been dealt arcane damage this turn, this gets +1{d}.
 
 **Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.
@@ -2378,6 +2379,9 @@ When this hits a hero, destroy the top card of their deck."	Generic Action - Att
 6cNDdMzwq6KHcHjFdmmHT	Crash Down the Gates	Blue	3	3	4	2				Generic, Action, Attack								"When this attacks a hero, they reveal the top card of their deck. If this has {p} greater than the revealed card, this gets +2{p}.
 
 When this hits a hero, destroy the top card of their deck."	Generic Action - Attack					No	
+KbCmqdmczTM6BRmGhmnLn	Crash Site Salvage	Yellow	2	0	3	3				Pirate, Mechanologist, Action, Attack		Scrap, Go again						"**Scrap**
+
+When this attacks, if it scrapped a card, this gets **go again**. If a cog was scrapped this way, create a Gold token."	Pirate Mechanologist Action - Attack				No	No	
 jDPdqfjkbzLjMGk6nPPgn	Crash and Bash	Red	1			4				Guardian, Block							Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block						
 tCKk7THm9bNKJh8F6Dmzk	Crash and Bash	Yellow	2			3				Guardian, Block							Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block						
 8CtmRqKLjmGkqD8bgDjTd	Crash and Bash	Blue	3			2				Guardian, Block							Crush	When this defends, you may reveal a card with **crush** from your hand. If you do, create a Seismic Surge token.	Guardian Block						
@@ -4470,6 +4474,7 @@ Whenever an opponent plays or activates their first card or ability each turn, i
 RzdGctLgfrTtr7MWkBwWr	Gaze the Ages	Blue	3	0		3				Wizard, Action		Opt 2						"**Opt 2**
 
 If you've played another Wizard non-attack action card this turn, put this into its owner's hand."	Wizard Action				No	No	
+tg9TRmR87BpWm6RNLQgzg	Gear Turner	Red	1	1	5	3				Mechanologist, Action, Attack								When this hits, you may search your deck for a cog, put it into the arena, then shuffle.	Mechanologist Action - Attack				No	No	
 8TtCrkgJBC6h8TWjMgk8m	Genesis	Yellow	2	4						Light, Illusionist, Instant, Aura		Spectra						"At the start of your turn, you may put a card from your hand into your hero's soul. If it's an Illusionist card, create a Spectral Shield token. If it's a Light card, draw a card.
 
 **Spectra**"	Light Illusionist Instant - Aura				No	No	
@@ -4558,6 +4563,7 @@ If a yellow card is **charged** this way, this gets **overpower**."	Light Warrio
 6cMTKCkgKrCLPBBdRFPjh	Gleam of the Blade	Red	1	1		2				Warrior, Attack Reaction			Instant					"Target weapon attack gets +3{p}.
 
 **Instant** - Discard this: Create a Flurry token."	Warrior Attack Reaction					No	
+MwBWGN8MdgtBhK7qthRJg	Glide Through Starlight	Red	1	1	5	2				Lightning, Action, Attack			Instant					**Instant** - {r}, discard this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Lightning Flow token.	Lightning Action - Attack						
 N8krkMtHG86TBmG8Fp69t	Glidewell Fins					1				Ranger, Equipment, Arms		Battleworn						"**Action** - {r}, destroy this: Put an arrow from your hand face-up into your arsenal. It gets +1{p} this turn. **Go again**
 
 **Battleworn**"	Ranger Equipment - Arms						
@@ -4584,6 +4590,7 @@ BbPCr6FPrbC9wdCFMgDFr	Glory Plate					0				Revered, Equipment, Chest		Guardwell	
 
 **Guardwell**"	Revered Equipment - Chest				No	No	
 FcfhgdgwB6BBHjbNHkFtL	Glory Seeker									Generic, Equipment, Head			Instant					**Instant** - {r}{r}{r}, destroy this: Draw a card.	Generic Equipment - Head						
+BMkwBQtHCCnhhwjTCbLGR	Gloves of Astral Sanctuary					0				Generic, Equipment, Arms			Instant					**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.	Generic Equipment - Arms						
 gJbTFDQTW7HfKnkpwgLCw	Gloves of Azure Waves					0				Pirate, Equipment, Arms		Arcane Barrier 1, High Tide, Blade Break						"**Arcane Barrier 1**
 
 **High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +3{d} and **blade break**."	Pirate Equipment - Arms				No	No	
@@ -5040,6 +5047,7 @@ zMbD7hqPwGNQCcDC6DPB9	Hell Hammer				6					Shadow, Brute, Weapon, Hammer, 2H		Bl
 When the combat chain closes, if this attacked, banish it.
 
 **Blood Debt**"	Shadow Brute Weapon - Hammer (2H)						
+cBRqwBmLLnnTKt8PKkh7k	Helm of Astral Sanctuary					0				Generic, Equipment, Head			Instant					**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.	Generic Equipment - Head						
 TKbBnD6hMmqHfhDPtmHjL	Helm of Halo's Grace					2				Light, Warrior, Equipment, Head		Charge, Blade Break						"When this defends, you may **charge** your hero's soul. If a yellow card is **charged** this way, draw a card.
 
 **Blade Break**"	Light Warrior Equipment - Head				No	No	
@@ -7464,6 +7472,11 @@ nFJpHkbfmgjNBpC8CmKzK	Piercing Shadow Vise	Blue	3	2	2	3				Shadow, Runeblade, Ac
 If you have dealt arcane damage to an opposing hero this turn, Piercing Shadow Vise gains +2{p}.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack						
+WnNfc9fJMFnH9DGwFRC9F	Pile Driver				6					Guardian, Weapon, Log, 2H		Betsy Specialization, Wager	Action	Attack				"**Betsy Specialization**
+
+**Action** - {r}{r}{r}{r}, {t}: **Attack**
+
+When this attacks, you may **wager** a Gold token with the defending hero."	Guardian Weapon - Log (2H)				No	No	
 pQjcMbpRPhTG8DkHftnK9	Pilfer the Tomb	Blue	3	0						Generic, Instant								"Choose 1 or both;
 
 - Banish target instant from an opposing hero's graveyard.
@@ -8691,6 +8704,7 @@ When this hits a hero, banish the top card of their deck."	Assassin Action - Att
 LKppkHRwJHjnccLKhNHGG	Rob the Rich	Blue	3	1	3	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' cards with cost 2 or greater. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					No	
+RT8TnMD9BHtJg8Fr6DLRF	Robe of Astral Sanctuary					0				Generic, Equipment, Chest			Instant					**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.	Generic Equipment - Chest						
 W99DkNW9tQLbq6w6prDQB	Robe of Autumn's Fall					0				Ninja, Equipment, Chest		Arcane Barrier 1						"When an Edge of Autumn you control hits, you may destroy this. If you do, gain {r}.
 
 **Arcane Barrier 1**"	Ninja Equipment - Chest						
