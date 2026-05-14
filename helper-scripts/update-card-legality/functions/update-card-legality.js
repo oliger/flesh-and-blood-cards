@@ -299,7 +299,7 @@ function calculateSilverAgeLegality(uniqueId, name, types, printingDictionary) {
             currentValue.rarity == 'B' ||
             currentValue.rarity == 'T' ||
             currentValue.rarity == 'R' ||
-	    currentValue.rarity == 'S'
+			currentValue.rarity == 'S'
 
         return previousValue || printingLegal
     }, false)
