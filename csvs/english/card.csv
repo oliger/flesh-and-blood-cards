@@ -1,44 +1,19 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Silver Age Legal	Commoner Legal	LL Legal
-ChBRBzBFFFMhqj9tp8mBd	Caress of the Reaper	Red	1	1	5	3				Runeblade, Action, Attack								Whenever this deals damage to a hero, destroy target aura they control.	Runeblade Action - Attack				No	No	
-JH8zBb9R8WgDTGFmjNrRp	Arcanic Cunning	Red	1	0	4	3				Runeblade, Action, Attack								While this is attacking, defending, or on the stack, if you would be dealt arcane damage, prevent 1 of that damage.	Runeblade Action - Attack					No	
-mtmwgMQkDf6BgBGNGJHRF	Arcanic Cunning	Yellow	2	0	3	3				Runeblade, Action, Attack								While this is attacking, defending, or on the stack, if you would be dealt arcane damage, prevent 1 of that damage.	Runeblade Action - Attack					No	
-tptp9kn8nHrbDfhFp7rCQ	Arcanic Cunning	Blue	3	0	2	3				Runeblade, Action, Attack								While this is attacking, defending, or on the stack, if you would be dealt arcane damage, prevent 1 of that damage.	Runeblade Action - Attack					No	
-MNTwwGcGgbWBPrnDdKtBb	Ominous Excavation	Blue	3	0						Generic, Instant								"You may shuffle an instant card from your graveyard into your deck.
+MQCrDKpjPzkPHDGKztTTr	Fraying Lifeforce	Red	1	2	7	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain 1{h}.
 
-If an aura you control was destroyed this turn, create a Ponder token."	Generic Instant					No	
-dbpfNKKDCMKCPHDkL6BJf	Ominous Respite	Yellow	2	1						Generic, Instant								Gain 2{h}. If an aura you control was destroyed this turn, instead gain 3{h}.	Generic Instant					No	
-cgbzzLfPLKTTbpdGrnLGP	Evasive Nageboshi	Blue	3	0	1	2				Ninja, Instant, Shuriken, Item		Legendary	Action	Attack, Go again				"**Legendary**
+**Fragment**"	Lightning Illusionist Action - Attack					No	
+K6PPGtffFCcGHLNkQbdpm	Fractal Creation	Blue	3	3	6	3				Illusionist, Action, Attack		Fragment						"When this hits, you may create a token copy of an aura you control.
 
-**Action** - {r}, {t}, destroy this when the combat chain closes: **Attack**. **Go again**
+**Fragment**"	Illusionist Action - Attack				No	No	
+h6tW6K9N8LRqtbQrJLpgC	Astral Bridge	Red	1	0						Lightning, Wizard, Instant		Starfall						"Put the top card of your deck into your graveyard. If it's an instant, you may play it this turn.
 
-This can't be defended by equipment or reaction cards."	Ninja Instant - Shuriken Item				No	No	
-BwkHTqtPwKgffkwWJwpCC	Razor Ring	Blue	3	0	1	2				Ninja, Instant, Shuriken, Item		Legendary	Action	Attack, Go again				"**Legendary**
-
-**Action** - {r}, {t}, destroy this when the combat chain closes: **Attack**. **Go again**
-
-When this hits a hero, the next action card they defend with this combat chain gets -1{d} until end of turn."	Ninja Instant - Shuriken Item				No	No	
-czMNmPkcRdNwQ87L77gW8	Stun Star	Blue	3	0	1	2				Ninja, Instant, Shuriken, Item		Legendary	Action	Attack, Go again				"**Legendary**
-
-**Action** - {r}, {t}, destroy this when the combat chain closes: **Attack**. **Go again**
-
-When this hits a hero, {t} them."	Ninja Instant - Shuriken Item				No	No	
-T9P9nJkNCBqM8dPHkhRhR	Settle the Bill	Red	1	1		3				Ranger, Action		Go again						"You may put an arrow from your hand face-up into your arsenal. If you do, until end of turn, it gets +3{p} and ""When this hits a hero, destroy a card in their arsenal.""
-
-**Go again**"	Ranger Action				No	No	
-NWf8zDGMgnph8dnzkmng6	A Bit off the Side	Red	1	0		3				Guardian, Warrior, Action		Go again						"Until end of turn, axes you control get ""When this hits a hero, they discard a card.""
-
-**Go again**"	Guardian / Warrior Action				No	No	
-TrbtmgBqkrbJJkHhzFKMP	Blessing of Aegis	Yellow	2	0		3				Light, Action, Aura		Go again						"**Go again**
-
-Whenever a card is put into your soul, gain 1{h}.
-
-At the start of your turn, put this into your soul."	Light Action - Aura				No	No	
-hRLzQChgG7cPDkkhhC6MM	Draco Fire	Red	1	0						Draconic, Instant								"Your next Draconic attack this turn gets +2{p} and costs {r} less to play or activate.
-
-While this is in your graveyard, at the start of your turn, you may banish 2 cards named Draco Fire from your graveyard. If you do, gain {r}."	Draconic Instant				No	No	
+**Starfall** - If an instant has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant				No	No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	Red	1	8		3				Illusionist, Action, Aura		Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	No	
+NWf8zDGMgnph8dnzkmng6	A Bit off the Side	Red	1	0		3				Guardian, Warrior, Action		Go again						"Until end of turn, axes you control get ""When this hits a hero, they discard a card.""
+
+**Go again**"	Guardian / Warrior Action				No	No	
 CqNB8MLzfCh6tRP6RRMdj	A Drop in the Ocean	Blue	3	0						Mystic, Instant		Legendary, Transcend						"**Legendary**
 
 Target attack gets -1{p}.
@@ -417,6 +392,9 @@ GpH8Grr9GpG8qD7PPm9Lt	Arcane Twining	Blue	3	0		3			1	Wizard, Action			Instant	Am
 H87pKGPFG9qBRFBnR8MTL	Arcanic Crackle	Red	1	0	3	3			1	Runeblade, Action, Attack								Deal 1 arcane damage to target hero.	Runeblade Action - Attack						
 8FNgPpkdWdNw6n9HjbWzM	Arcanic Crackle	Yellow	2	0	2	3			1	Runeblade, Action, Attack								Deal 1 arcane damage to target hero.	Runeblade Action - Attack						
 KB87gnCLWPPqbTzFwrCwM	Arcanic Crackle	Blue	3	0	1	3			1	Runeblade, Action, Attack								Deal 1 arcane damage to target hero.	Runeblade Action - Attack						
+JH8zBb9R8WgDTGFmjNrRp	Arcanic Cunning	Red	1	0	4	3				Runeblade, Action, Attack								While this is attacking, defending, or on the stack, if you would be dealt arcane damage, prevent 1 of that damage.	Runeblade Action - Attack					No	
+mtmwgMQkDf6BgBGNGJHRF	Arcanic Cunning	Yellow	2	0	3	3				Runeblade, Action, Attack								While this is attacking, defending, or on the stack, if you would be dealt arcane damage, prevent 1 of that damage.	Runeblade Action - Attack					No	
+tptp9kn8nHrbDfhFp7rCQ	Arcanic Cunning	Blue	3	0	2	3				Runeblade, Action, Attack								While this is attacking, defending, or on the stack, if you would be dealt arcane damage, prevent 1 of that damage.	Runeblade Action - Attack					No	
 jm9pR68kPHDjmkLRcJq9p	Arcanic Reproach	Blue	3	0		3			1	Lightning, Runeblade, Instant, Aura								"The first time an opposing hero deals damage to you each turn, you may reveal a Lightning card from your hand. If you do, deal 1 arcane damage to them.
 
 At the start of your action phase, destroy an aura you control."	Lightning Runeblade Instant - Aura				No	No	
@@ -1099,6 +1077,11 @@ gcnq79gmpgkBRdwdGMmTw	Bleed Out	Red	1	2	4	2				Assassin, Ninja, Action, Attack		
 Gfzj9pdzzFB6GtfQLr8kK	Bleed Out	Blue	3	2	2	2				Assassin, Ninja, Action, Attack		Go again						"Bleed Out costs X resource points less to play, where X is the total damage you've dealt with daggers this combat chain.
 
 **Go again**"	Assassin / Ninja Action - Attack					No	
+TrbtmgBqkrbJJkHhzFKMP	Blessing of Aegis	Yellow	2	0		3				Light, Action, Aura		Go again						"**Go again**
+
+Whenever a card is put into your soul, gain 1{h}.
+
+At the start of your turn, put this into your soul."	Light Action - Aura				No	No	
 hpDRrFTHdkKD9gJW96ChW	Blessing of Aether	Red	1	1		2				Wizard, Action, Aura								At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 3.	Wizard Action - Aura					No	
 Kftw7pDQ88fzDgWpHJpWk	Blessing of Aether	Yellow	2	1		2				Wizard, Action, Aura								At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 2.	Wizard Action - Aura					No	
 T8NmK9Tfdr6dJgG6DgQzG	Blessing of Aether	Blue	3	1		2				Wizard, Action, Aura								At the start of your turn, destroy Blessing of Aether then if the next card you play this turn has an arcane damage effect, instead it deals that much arcane damage plus 1.	Wizard Action - Aura					No	
@@ -1729,6 +1712,7 @@ The next attack action card with cost 0 you play this turn gains **go again**.
 
 **Go again**"	Generic Action					No	
 hmr8mCTP6dhctND9KcFjp	Captain's Coat					0				Generic, Equipment, Chest			Action	Go again				**Action** - Destroy this: Gain {r}. Activate this only if you've drawn a card this turn. **Go again**	Generic Equipment - Chest						
+ChBRBzBFFFMhqj9tp8mBd	Caress of the Reaper	Red	1	1	5	3				Runeblade, Action, Attack								Whenever this deals damage to a hero, destroy target aura they control.	Runeblade Action - Attack				No	No	
 pFgDCjG98QkNLjGpgB7PH	Carrion Crown					2				Necromancer, Equipment, Head		Blade Break	Action	Go again				"**Action** - Discard an ally, destroy this: Draw a card. **Go again**
 
 **Blade Break**"	Necromancer Equipment - Head						
@@ -3008,6 +2992,9 @@ n6jb6thTHT9TpcTdRjdQm	Down But Not Out	Yellow	2	3	4	3				Generic, Action, Attack
 PCCtHrqDfnnmwFJwMNGDW	Down But Not Out	Blue	3	3	3	3				Generic, Action, Attack		Overpower						"When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and ""When this hits, create an Agility, Might, and Vigor token."""	Generic Action - Attack					No	
 HgLNTDb7kMk7MdJrTjn8T	Down and Dirty	Red	1	2	6	2				Generic, Action, Attack								While Down and Dirty is in your arsenal, you may defend with it.	Generic Action - Attack				No	No	
 8fP9qJWHNqgWf6BgfBqLw	Downswing	Red	1	0		3				Warrior, Attack Reaction					Wager			Target sword attack gets +1{p} and **wagers** with the defending hero. The winner loses 1{h}.	Warrior Attack Reaction					No	
+hRLzQChgG7cPDkkhhC6MM	Draco Fire	Red	1	0						Draconic, Instant								"Your next Draconic attack this turn gets +2{p} and costs {r} less to play or activate.
+
+While this is in your graveyard, at the start of your turn, you may banish 2 cards named Draco Fire from your graveyard. If you do, gain {r}."	Draconic Instant				No	No	
 78FGMN9nn9QR9FDzC9z68	Dracona Optimai				6		6		X	Draconic, Illusionist, Dragon, Ally								Whenever Dracona Optimai attacks a hero, reveal the top 3 cards of your deck. He deals arcane damage equal to twice the number of red cards revealed this way to them or an ally they control.	Draconic Illusionist - Dragon Ally				No	No	
 fBWjpTwLWrMWRRwdbztRd	Drag Down	Red	1	0		0				Generic, Defense Reaction								When this defends an attack, it gets -3{p}.	Generic Defense Reaction						
 BWzDHWcRKC7nLCnT9NWnb	Drag Down	Yellow	2	0		0				Generic, Defense Reaction								When this defends an attack, it gets -2{p}.	Generic Defense Reaction						
@@ -3639,6 +3626,11 @@ WjPK7cb8rwPzthcDtczmj	Eternal Inferno	Red	1	1		3			4	Wizard, Action		Surge						
 QtTgrgcKwKqCJ8dc9Mbbb	Evasive Leap	Red	1	0		3				Generic, Defense Reaction									Generic Defense Reaction						
 whmMnfgwjqMJCHKGBHfq7	Evasive Leap	Yellow	2	0		2				Generic, Defense Reaction									Generic Defense Reaction						
 N8LCzb9K8GdzMRmNbB6GM	Evasive Leap	Blue	3	0		1				Generic, Defense Reaction									Generic Defense Reaction						
+cgbzzLfPLKTTbpdGrnLGP	Evasive Nageboshi	Blue	3	0	1	2				Ninja, Instant, Shuriken, Item		Legendary	Action	Attack, Go again				"**Legendary**
+
+**Action** - {r}, {t}, destroy this when the combat chain closes: **Attack**. **Go again**
+
+This can't be defended by equipment or reaction cards."	Ninja Instant - Shuriken Item				No	No	
 WQQFCnb8FKJn9HrzCNDmG	Even Bigger Than That!	Red	1	0						Generic, Instant		Opt 3						"Play Even Bigger Than That! only if you've dealt {p} this turn.
 
 **Opt 3**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card."	Generic Instant					No	
@@ -7044,6 +7036,10 @@ mjprN8T6mMh9pcWCmgPrN	Omens of Arcana									Omens of the Third Age, Macro					
 
 Lightning Flow tokens get **spellvoid 1**."	Omens of the Third Age Macro						
 LFBD7NtGwCjpmBCBkkpG8	Ominous Aggression	Red	1	2						Generic, Instant								Target attack action card gets +2{p}. If an aura you control was destroyed this turn, instead the card gets +4{p}.	Generic Instant					No	
+MNTwwGcGgbWBPrnDdKtBb	Ominous Excavation	Blue	3	0						Generic, Instant								"You may shuffle an instant card from your graveyard into your deck.
+
+If an aura you control was destroyed this turn, create a Ponder token."	Generic Instant					No	
+dbpfNKKDCMKCPHDkL6BJf	Ominous Respite	Yellow	2	1						Generic, Instant								Gain 2{h}. If an aura you control was destroyed this turn, instead gain 3{h}.	Generic Instant					No	
 rC98Cch9DNGTfpggrNBh6	On a Knife Edge	Yellow	2	0		2				Generic, Action		Go again			Go again			"Your next sword attack this turn gains **go again**.
 
 **Go again**"	Generic Action						
@@ -8278,6 +8274,11 @@ bcGWPgwCmKhHWHBQgQgh9	Razor Reflex	Yellow	2	1		2				Generic, Attack Reaction				
 N6gfwdhMGJKfG6mzt7RTL	Razor Reflex	Blue	3	1		2				Generic, Attack Reaction					Go again			"Choose 1;
 - Target dagger or sword weapon attack gets +1{p}.
 - Target attack action card with cost 1 or less gets +1{p} and ""When this hits, it gets **go again**."""	Generic Attack Reaction						
+BwkHTqtPwKgffkwWJwpCC	Razor Ring	Blue	3	0	1	2				Ninja, Instant, Shuriken, Item		Legendary	Action	Attack, Go again				"**Legendary**
+
+**Action** - {r}, {t}, destroy this when the combat chain closes: **Attack**. **Go again**
+
+When this hits a hero, the next action card they defend with this combat chain gets -1{d} until end of turn."	Ninja Instant - Shuriken Item				No	No	
 rpWjb6pnqgzTH7Cgcf98w	Razor's Edge	Red	1	0		3				Assassin, Attack Reaction							Stealth	Target attack action card with **stealth** gets +3{p}.	Assassin Attack Reaction						
 mTdJmRRRjjqGBGbPHLcRq	Razor's Edge	Yellow	2	0		3				Assassin, Attack Reaction							Stealth	Target attack action card with **stealth** gets +2{p}.	Assassin Attack Reaction						
 DzdfLNnTQbw7t99Bz8KqB	Razor's Edge	Blue	3	0		3				Assassin, Attack Reaction							Stealth	Target attack action card with **stealth** gets +1{p}.	Assassin Attack Reaction						
@@ -9371,6 +9372,9 @@ PBkK9jFkGPKGqTwmTwrzW	Serpent's Kiss	Blue	3	0	1	3				Mystic, Assassin, Action, A
 When this attacks, create a Fang Strike or Slither in your hand. If you've transcended this turn, instead create both.
 
 When this hits a hero, look at the top 2 cards of their deck. Banish 1 of them."	Mystic Assassin Action - Attack					No	
+T9P9nJkNCBqM8dPHkhRhR	Settle the Bill	Red	1	1		3				Ranger, Action		Go again						"You may put an arrow from your hand face-up into your arsenal. If you do, until end of turn, it gets +3{p} and ""When this hits a hero, destroy a card in their arsenal.""
+
+**Go again**"	Ranger Action				No	No	
 JzbrzpFDKnwQJfD7h8CkQ	Shaden Death Hydra	Yellow	2	6	13	3				Shadow, Brute, Action, Attack		Blood Debt					Blood Debt	"When this attacks, it deals X damage to you, where X is 13 minus the number of cards with **blood debt** in your banished zone.
 
 **Blood Debt**"	Shadow Brute Action - Attack				No	No	
@@ -10562,6 +10566,11 @@ RdDHPzqPQmtJhjpcgcRhh	Strongest Survive	Red	1	3	7	3				Brute, Action, Attack				
 BQtMNCrD8BHhPdjgmMpMN	Strongest Survive	Yellow	2	3	6	3				Brute, Action, Attack								When this hits a hero, they discard a card unless they reveal a card from their hand with {p} greater than the damage dealt this way.	Brute Action - Attack					No	
 mgbKnbTJP7Tj6kBFmgrLJ	Strongest Survive	Blue	3	3	5	3				Brute, Action, Attack								When this hits a hero, they discard a card unless they reveal a card from their hand with {p} greater than the damage dealt this way.	Brute Action - Attack					No	
 wj7qpMrzMjDbn8tmtfPL7	Stubby Hammerers					0				Generic, Equipment, Arms			Action	Go again				**Action** - Destroy Stubby Hammerers: Attack action cards with 3 or less base power gain +1{p} while attacking this turn. **Go again**	Generic Equipment - Arms						
+czMNmPkcRdNwQ87L77gW8	Stun Star	Blue	3	0	1	2				Ninja, Instant, Shuriken, Item		Legendary	Action	Attack, Go again				"**Legendary**
+
+**Action** - {r}, {t}, destroy this when the combat chain closes: **Attack**. **Go again**
+
+When this hits a hero, {t} them."	Ninja Instant - Shuriken Item				No	No	
 JPwjprFjTWqcQJdcJLqmJ	Submerge	Red	1	0	6	3				Pirate, Action, Attack								As an additional cost to play this, put a card from your hand into your deck fifth from the top.	Pirate Action - Attack						
 8HczDHq8DGPQrpqcRLMmm	Submerge	Yellow	2	0	5	3				Pirate, Action, Attack								As an additional cost to play this, put a card from your hand into your deck fifth from the top.	Pirate Action - Attack						
 TwwCRKdKRK7BLDfNWdL7w	Submerge	Blue	3	0	4	3				Pirate, Action, Attack								As an additional cost to play this, put a card from your hand into your deck fifth from the top.	Pirate Action - Attack						
