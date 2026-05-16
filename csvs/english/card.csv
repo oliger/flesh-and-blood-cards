@@ -1,13 +1,26 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Silver Age Legal	Commoner Legal	LL Legal
-MQCrDKpjPzkPHDGKztTTr	Fraying Lifeforce	Red	1	2	7	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain 1{h}.
+LBFrKWRLJkKBgLc9nKmBb	Path of Same Ends	Red	1	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
 
-**Fragment**"	Lightning Illusionist Action - Attack					No	
-K6PPGtffFCcGHLNkQbdpm	Fractal Creation	Blue	3	3	6	3				Illusionist, Action, Attack		Fragment						"When this hits, you may create a token copy of an aura you control.
+**Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
+GQkkQFm9FHbRhCkTJm7Gj	Path of Same Ends	Yellow	2	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
 
-**Fragment**"	Illusionist Action - Attack				No	No	
-h6tW6K9N8LRqtbQrJLpgC	Astral Bridge	Red	1	0						Lightning, Wizard, Instant		Starfall						"Put the top card of your deck into your graveyard. If it's an instant, you may play it this turn.
+**Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
+LQt7KLBFHmdk7BKwdtD6M	Path of Same Ends	Blue	3	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
 
-**Starfall** - If an instant has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant				No	No	
+**Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
+M6JRMPmrkhRWnW9mhPQwP	Constella Uplift	Yellow	2	0					1	Lightning, Wizard, Instant		Starfall						"{u} a staff you control.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
+9zRFqTmPffQ8Q8dKbPdrb	Aethersling	Red	1	1		2			4	Wizard, Action		Go again						"Deal 4 arcane damage to any target.
+
+If this deals damage, you may {t} your hero. If you do, this gets **go again**."	Wizard Action					No	
+bLTggK96grfrGWTLqGrqR	Conflicting Thoughts	Red	1	0	4	3				Generic, Action, Attack		Opt 1						When this attacks, **opt 1**.	Generic Action - Attack						
+Fk8qndNHLMFmd9HKQgqWb	Conflicting Thoughts	Yellow	2	0	3	3				Generic, Action, Attack		Opt 1						When this attacks, **opt 1**.	Generic Action - Attack						
+FM6BwCnpcNT6TQCJmqWgf	Conflicting Thoughts	Blue	3	0	2	3				Generic, Action, Attack		Opt 1						When this attacks, **opt 1**.	Generic Action - Attack						
+mtNFHNGDQcCQzfcCGqgHP	Swift Pickup	Red	1	0	3	2				Ninja, Action, Attack		Go again						"When this attacks, you may put a shuriken item from your graveyard on the bottom of your deck. If you do, this gets +1{p}.
+
+**Go again**"	Ninja Action - Attack				No	No	
+6BCMqFPmmMJDgMPCrKh9Q	Fortitude of Anvilheim					2				Guardian, Warrior, Equipment, Off-Hand		Guardwell	Attack Reaction					**Attack Reaction** - {r}{r}, {t} your hero, destroy this: Return an action card defending a weapon attack to its owner's hand. **Guardwell**	Guardian / Warrior Equipment - Off-Hand				No	No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	Red	1	8		3				Illusionist, Action, Aura		Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	No	
@@ -490,6 +503,9 @@ BkRHdjBwFhwMwmBfDhpfb	Assembly Module	Blue	3	0						Mechanologist, Action, Item	
 This enters the arena with a stream counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Action** - {t}: Search your deck for a Hyper Driver, put it into the arena, then shuffle."	Mechanologist Action - Item					No	
+h6tW6K9N8LRqtbQrJLpgC	Astral Bridge	Red	1	0						Lightning, Wizard, Instant		Starfall						"Put the top card of your deck into your graveyard. If it's an instant, you may play it this turn.
+
+**Starfall** - If an instant has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant				No	No	
 9zdPMfzWLFq7PWbjKmCc6	Astral Etchings	Red	1	1		3				Illusionist, Action							Ward	"Put three +1{p} counters on target aura with **ward** you control.
 
 If you control a Spectral Shield, you may play this as though it were an instant."	Illusionist Action					No	
@@ -4324,6 +4340,9 @@ At the beginning of your action phase, destroy Forged for War."	Guardian Action 
 jPhJQqDbHFbnGHFPNmntR	Forked Lightning	Red	1	3		3			4	Wizard, Action								Deal 2 arcane damage to two target heroes. You may target the same hero twice.	Wizard Action					No	
 PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	Red	1	0	2	3				Draconic, Action, Attack								When this attacks, it gets +1{p} for each card with Phoenix Bannerman in its name in your graveyard.	Draconic Action - Attack						
 hqnLfCpjbMKBrjTHQNRfk	Four Finger Gloves					0				Generic, Equipment, Arms			Instant					**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if you've been dealt damage this turn.	Generic Equipment - Arms						
+K6PPGtffFCcGHLNkQbdpm	Fractal Creation	Blue	3	3	6	3				Illusionist, Action, Attack		Fragment						"When this hits, you may create a token copy of an aura you control.
+
+**Fragment**"	Illusionist Action - Attack				No	No	
 NmpnLBpB9D6ghMfqNfDKm	Fractal Replication	Red	1	0	*	*				Illusionist, Action, Attack								"When you play or defend with Fractal Replication, it gains the base abilities of all Illusionist attack action cards on the combat chain.
 
 Fractal Replication's {p} is equal to the greatest base {p} among Illusionist attack action cards on the combat chain.
@@ -4341,6 +4360,9 @@ gpwqqHDD7DwWNrJPdpzRT	Frailty Trap	Red	1	0		3				Assassin, Ranger, Defense React
 qJdwq7GGjFb96CzLDqCdk	Frankie, Make Ends Meat						20	4		Necromancer, Hero, Young			Action	Go again				"Whenever an equipment you control would be put into a graveyard, instead banish it.
 
 **Action** - {r}{r}{r}, {t}: Equip an equipment from a graveyard. **Go again**"	Necromancer Hero - Young		No	No	No	No	No
+MQCrDKpjPzkPHDGKztTTr	Fraying Lifeforce	Red	1	2	7	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, gain 1{h}.
+
+**Fragment**"	Lightning Illusionist Action - Attack					No	
 DL7gtdthCmhqGfQq8RJjj	Frazzle	Red	1	1	5	3				Elemental, Ranger, Action, Arrow, Attack		Lightning Fusion						"**Lightning Fusion**
 
 If Frazzle was **fused**, whenever an attack would deal damage this turn, instead it deals that much damage plus 1."	Elemental Ranger Action - Arrow Attack						
