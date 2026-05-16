@@ -1028,4 +1028,6 @@ TODO:
 - Fixed issue with Break Stature having Clash instead of Crush listed as a keyword
 
 TODO:
+- GEM and OMN
 - brianmadden helped fix Silver Age legality
+- Updated functional text for Teklo Pounder

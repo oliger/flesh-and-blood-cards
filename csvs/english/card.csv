@@ -1,26 +1,4 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Silver Age Legal	Commoner Legal	LL Legal
-LBFrKWRLJkKBgLc9nKmBb	Path of Same Ends	Red	1	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
-
-**Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
-GQkkQFm9FHbRhCkTJm7Gj	Path of Same Ends	Yellow	2	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
-
-**Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
-LQt7KLBFHmdk7BKwdtD6M	Path of Same Ends	Blue	3	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
-
-**Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
-M6JRMPmrkhRWnW9mhPQwP	Constella Uplift	Yellow	2	0					1	Lightning, Wizard, Instant		Starfall						"{u} a staff you control.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
-9zRFqTmPffQ8Q8dKbPdrb	Aethersling	Red	1	1		2			4	Wizard, Action		Go again						"Deal 4 arcane damage to any target.
-
-If this deals damage, you may {t} your hero. If you do, this gets **go again**."	Wizard Action					No	
-bLTggK96grfrGWTLqGrqR	Conflicting Thoughts	Red	1	0	4	3				Generic, Action, Attack		Opt 1						When this attacks, **opt 1**.	Generic Action - Attack						
-Fk8qndNHLMFmd9HKQgqWb	Conflicting Thoughts	Yellow	2	0	3	3				Generic, Action, Attack		Opt 1						When this attacks, **opt 1**.	Generic Action - Attack						
-FM6BwCnpcNT6TQCJmqWgf	Conflicting Thoughts	Blue	3	0	2	3				Generic, Action, Attack		Opt 1						When this attacks, **opt 1**.	Generic Action - Attack						
-mtNFHNGDQcCQzfcCGqgHP	Swift Pickup	Red	1	0	3	2				Ninja, Action, Attack		Go again						"When this attacks, you may put a shuriken item from your graveyard on the bottom of your deck. If you do, this gets +1{p}.
-
-**Go again**"	Ninja Action - Attack				No	No	
-6BCMqFPmmMJDgMPCrKh9Q	Fortitude of Anvilheim					2				Guardian, Warrior, Equipment, Off-Hand		Guardwell	Attack Reaction					**Attack Reaction** - {r}{r}, {t} your hero, destroy this: Return an action card defending a weapon attack to its owner's hand. **Guardwell**	Guardian / Warrior Equipment - Off-Hand				No	No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	Red	1	8		3				Illusionist, Action, Aura		Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	No	
@@ -144,6 +122,9 @@ CrWjLrqtQtppQhQCMt9LH	Aether Wildfire	Red	1	2		3			4	Wizard, Action								"Deal
 
 If Aether Wildfire is played during an opponents turn, until end of turn, action card effects that deal arcane damage instead deal that much arcane damage plus X, where X is the damage dealt by Aether Wildfire."	Wizard Action				No	No	
 hp6NPdQkGkWhrwpd7JWTF	Aetherize	Blue	3	1						Wizard, Instant		Negate						**Negate** target instant card with cost {r} or less.	Wizard Instant				No	No	
+9zRFqTmPffQ8Q8dKbPdrb	Aethersling	Red	1	1		2			4	Wizard, Action		Go again						"Deal 4 arcane damage to any target.
+
+If this deals damage, you may {t} your hero. If you do, this gets **go again**."	Wizard Action					No	
 hTQgmpCHwLFgQnFbgf6tC	Aetherstorm Wellingtons					0				Wizard, Equipment, Legs		Arcane Barrier 2						**Arcane Barrier 2**	Wizard Equipment - Legs						
 7brgFMk9NrkLtzqKrhFFW	Affirm Loyalty	Red	1	0		2				Draconic, Warrior, Attack Reaction								Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.	Draconic Warrior Attack Reaction					No	
 QrQCpQFPnLLPqN8qKgpTp	Aftershock	Red	1	4	8	3				Guardian, Action, Attack								When this attacks, if you've controlled a Seismic Surge token this turn, create a Seismic Surge token.	Guardian Action - Attack					No	
@@ -2277,6 +2258,9 @@ dzP7wmmnGhcPk78jJpwQ6	Conduit of Frostburn					0				Ice, Wizard, Equipment, Arms
 
 **Quell 1**"	Ice Wizard Equipment - Arms						
 WBFjTCfmbwHCr8WNmz8RQ	Confidence									Generic, Token, Aura								At the start of your turn, destroy this, then the next attack card you play this turn can't be defended by more than 2 non-block cards.	Generic Token - Aura						
+bLTggK96grfrGWTLqGrqR	Conflicting Thoughts	Red	1	0	4	3				Generic, Action, Attack		Opt 1						When this attacks, **opt 1**.	Generic Action - Attack						
+Fk8qndNHLMFmd9HKQgqWb	Conflicting Thoughts	Yellow	2	0	3	3				Generic, Action, Attack		Opt 1						When this attacks, **opt 1**.	Generic Action - Attack						
+FM6BwCnpcNT6TQCJmqWgf	Conflicting Thoughts	Blue	3	0	2	3				Generic, Action, Attack		Opt 1						When this attacks, **opt 1**.	Generic Action - Attack						
 GtL9zmpkGKMqgBcFfCQgN	Confront Adversity					2				Generic, Equipment, Chest		Blade Break						"This may only defend an attack if the attack's controller has destroyed a Vigor token this turn.
 
 **Blade Break**"	Generic Equipment - Chest						
@@ -2293,6 +2277,9 @@ Banish X instant and/or aura cards from any graveyard, where X is the amount of 
 //
 
 Deal 1 arcane damage to any target."	Lightning Wizard Action // Lightning Instant	Yes			No	No	
+M6JRMPmrkhRWnW9mhPQwP	Constella Uplift	Yellow	2	0					1	Lightning, Wizard, Instant		Starfall						"{u} a staff you control.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
 RNCWjkhhdhrHCNRncqznq	Construct Bank Breaker	Yellow	2	0		3				Mechanologist, Action, Construct		Transform, Go again						"If you have a wrench weapon equipped, **transform** it and 3 Hyper Drivers you control into Bank Breaker, then equip Bank Breaker.
 
 **Go again**"	Mechanologist Action - Construct				No	No	
@@ -4338,6 +4325,7 @@ Equipment you control gain +1{d}.
 
 At the beginning of your action phase, destroy Forged for War."	Guardian Action - Aura					No	
 jPhJQqDbHFbnGHFPNmntR	Forked Lightning	Red	1	3		3			4	Wizard, Action								Deal 2 arcane damage to two target heroes. You may target the same hero twice.	Wizard Action					No	
+6BCMqFPmmMJDgMPCrKh9Q	Fortitude of Anvilheim					2				Guardian, Warrior, Equipment, Off-Hand		Guardwell	Attack Reaction					**Attack Reaction** - {r}{r}, {t} your hero, destroy this: Return an action card defending a weapon attack to its owner's hand. **Guardwell**	Guardian / Warrior Equipment - Off-Hand				No	No	
 PnpHhBNBrWPC89LLC8td7	Four Feathers One Crown	Red	1	0	2	3				Draconic, Action, Attack								When this attacks, it gets +1{p} for each card with Phoenix Bannerman in its name in your graveyard.	Draconic Action - Attack						
 hqnLfCpjbMKBrjTHQNRfk	Four Finger Gloves					0				Generic, Equipment, Arms			Instant					**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if you've been dealt damage this turn.	Generic Equipment - Arms						
 K6PPGtffFCcGHLNkQbdpm	Fractal Creation	Blue	3	3	6	3				Illusionist, Action, Attack		Fragment						"When this hits, you may create a token copy of an aura you control.
@@ -7330,6 +7318,15 @@ nJMKbnPpBCWztRhwhngTw	Patch the Hole					0				Ranger, Equipment, Head			Instant	
 Target attack gets **go again**.
 
 If you've played another blue card this turn, **transcend**."	Mystic Instant						
+LBFrKWRLJkKBgLc9nKmBb	Path of Same Ends	Red	1	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
+
+**Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
+GQkkQFm9FHbRhCkTJm7Gj	Path of Same Ends	Yellow	2	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
+
+**Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
+LQt7KLBFHmdk7BKwdtD6M	Path of Same Ends	Blue	3	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
+
+**Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
 MLFcr8MRb7J7mDBzh6Lhk	Path of Vengeance					1				Draconic, Equipment, Legs		Blade Break	Attack Reaction		Go again			"**Attack Reaction** - Destroy this: Target attack that is attacking Arakni gets **go again**.
 
 **Blade Break**"	Draconic Equipment - Legs						
@@ -10704,6 +10701,9 @@ NgdLmcdGCGFwQG98dqGwB	Sweeping Blow	Blue	3	1	1	3				Draconic, Illusionist, Actio
 9Hp7c9HFRmwLFQ7WtKd86	Swell Tidings	Red	1	2		3			5	Wizard, Action		Surge						"Deal 5 arcane damage to target hero.
 
 **Surge** - If this deals more than 5 damage, create a Ponder token."	Wizard Action				No	No	
+mtNFHNGDQcCQzfcCGqgHP	Swift Pickup	Red	1	0	3	2				Ninja, Action, Attack		Go again						"When this attacks, you may put a shuriken item from your graveyard on the bottom of your deck. If you do, this gets +1{p}.
+
+**Go again**"	Ninja Action - Attack				No	No	
 wFhMnRGdkbwTt6CgpQLHP	Swift Shot	Red	1	0	4	3				Ranger, Action, Arrow, Attack		Go again						When this is put face-up into your arsenal, it gets **go again** this turn.	Ranger Action - Arrow Attack						
 69mRCnm9t6Dcjkk9H8RhG	Swiftstrike Bracers					0				Generic, Equipment, Arms			Action	Go again				**Action** - Destroy this: Your next attack this turn gets +2{p}. Activate this only if you've played a Nimblism this turn. **Go again**	Generic Equipment - Arms						
 wB9MNr6JNzqKB68gBhbQc	Swiftwater Sloop	Red	1	2	6	2				Pirate, Action, Attack		High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets **go again**.	Pirate Action - Attack						
@@ -10929,9 +10929,9 @@ JR8LzTchKj8QmqkCN7GHw	Teklo Leveler				2					Mechanologist, Weapon, Gun, 2H			On
 fNFqtdWLq6tCPnnwjLLWL	Teklo Plasma Pistol				2					Mechanologist, Weapon, Pistol, 2H			Action	Attack, Go again				"**Action** - Remove a steam counter from Teklo Plasma Pistol: **Attack**
 
 **Action** - {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**"	Mechanologist Weapon - Pistol (2H)						
-DgWtHJjggBQdwKWNpMKLz	Teklo Pounder	Blue	3	2						Mechanologist, Action, Item			Once per Turn Effect					"Teklo Pounder enters the arena with 3 steam counters on it. When Teklo Pounder has no steam counters on it, destroy it.
+DgWtHJjggBQdwKWNpMKLz	Teklo Pounder	Blue	3	2						Mechanologist, Action, Item			Once per Turn Effect					"This enters the arena with 3 steam counters on it. When this has none, destroy it.
 
-**Once per Turn Effect** - Whenever you boost an attack action card, remove a steam counter from Teklo Pounder. If you do, the attack gains +2{p}."	Mechanologist Action - Item				No	No	
+Once per turn, when you boost an attack action card, remove a steam counter from this. If you do, the attack gets +2{p}."	Mechanologist Action - Item				No	No	
 qBLKg67dFpCD8mWdbW9Qq	Teklo Trebuchet 2000	Blue	3	0	1	3				Mechanologist, Action, Attack		Boost					Boost	"When this attacks, the next attack you boost this combat chain gets +2{p}.
 
 **Boost**"	Mechanologist Action - Attack					No	
