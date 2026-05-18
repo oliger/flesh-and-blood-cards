@@ -7321,10 +7321,10 @@ If you've played another blue card this turn, **transcend**."	Mystic Instant
 LBFrKWRLJkKBgLc9nKmBb	Path of Same Ends	Red	1	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
 
 **Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
-GQkkQFm9FHbRhCkTJm7Gj	Path of Same Ends	Yellow	2	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
+GQkkQFm9FHbRhCkTJm7Gj	Path of Same Ends	Yellow	2	0	2	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
 
 **Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
-LQt7KLBFHmdk7BKwdtD6M	Path of Same Ends	Blue	3	0	3	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
+LQt7KLBFHmdk7BKwdtD6M	Path of Same Ends	Blue	3	0	1	2			1	Lightning, Runeblade, Action, Attack		Go again	Instant					"When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**.
 
 **Instant** - {r}: This gets **go again**."	Lightning Runeblade Action - Attack						
 MLFcr8MRb7J7mDBzh6Lhk	Path of Vengeance					1				Draconic, Equipment, Legs		Blade Break	Attack Reaction		Go again			"**Attack Reaction** - Destroy this: Target attack that is attacking Arakni gets **go again**.
@@ -7645,6 +7645,9 @@ If this is attacking a **marked** hero, this gets +1{p}."	Assassin Action - Atta
 nM9GmbLjcNCPLTjfBH7fk	Plunge the Prospect	Blue	3	0	1	3				Assassin, Action, Attack		Stealth					Mark	"**Stealth**
 
 If this is attacking a **marked** hero, this gets +1{p}."	Assassin Action - Attack						
+jJdBmPDP6DkFFwwDG6wNg	Plutonic Starplate					0				Lightning, Equipment, Chest		Arcane Barrier 1						"The first time you play a Lightning card during each of your opponent's turns, gain {r}.
+
+**Arcane Barrer 1**"	Lightning Equipment - Chest				No	No	
 dbKgpPzLgwFdjfrhRmbgK	Point of Engagement	Red	1	0		3				Warrior, Action		Go again					Mark	"Your next dagger attack this turn gets +3{p}.
 
 Until end of turn, your attacks get +1{p} while attacking a **marked** hero.
