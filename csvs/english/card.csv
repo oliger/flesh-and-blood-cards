@@ -3283,10 +3283,10 @@ j9QzcDTJGBRJgntCrH88m	Earthlore Surge	Blue	3	2		2				Earth, Action		Go again				
 zC8NQNnj7RpgrR7LzKRmz	Ebbing Arcstride	Red	1	0	5	3				Lightning, Illusionist, Action, Attack		Go again, Fragment						"Whenever this fragments, it gets **go again**.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
-HMqtjHBBrQMRpRGjkcPpD	Ebbing Arcstride	Yellow	2	0	5	3				Lightning, Illusionist, Action, Attack		Go again, Fragment						"Whenever this fragments, it gets **go again**.
+HMqtjHBBrQMRpRGjkcPpD	Ebbing Arcstride	Yellow	2	0	4	3				Lightning, Illusionist, Action, Attack		Go again, Fragment						"Whenever this fragments, it gets **go again**.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
-6HPNkbgGwRmTbRWQ7bmPf	Ebbing Arcstride	Blue	3	0	5	3				Lightning, Illusionist, Action, Attack		Go again, Fragment						"Whenever this fragments, it gets **go again**.
+6HPNkbgGwRmTbRWQ7bmPf	Ebbing Arcstride	Blue	3	0	3	3				Lightning, Illusionist, Action, Attack		Go again, Fragment						"Whenever this fragments, it gets **go again**.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
 RKDPjzdGtKWMQnNcHBdF8	Ebon Fold					0				Shadow, Equipment, Head		Spellvoid 2	Instant					"**Instant** - {r}, destroy Ebon Fold: Banish a card from your hand. If it's a Shadow card, draw a card.
@@ -9531,10 +9531,10 @@ KCRhRBTqwf9mRfjmGnQL6	Shatter Sorcery	Blue	3	0						Generic, Instant								"Cho
 88NcRgnJqWDBCpWHcJJtJ	Shattering Flowtide	Red	1	0	5	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, create a Lightning Flow token.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
-fHzPHtqP68CcwPG6JGGMJ	Shattering Flowtide	Yellow	2	0	5	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, create a Lightning Flow token.
+fHzPHtqP68CcwPG6JGGMJ	Shattering Flowtide	Yellow	2	0	4	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, create a Lightning Flow token.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
-Rhwctgbpc8DkRWbfPbpKg	Shattering Flowtide	Blue	3	0	5	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, create a Lightning Flow token.
+Rhwctgbpc8DkRWbfPbpKg	Shattering Flowtide	Blue	3	0	3	3				Lightning, Illusionist, Action, Attack		Fragment						"Whenever this fragments, create a Lightning Flow token.
 
 **Fragment**"	Lightning Illusionist Action - Attack						
 DrfFF7FFQTbwwcbDckGH9	Shattering Grasp					1				Ice, Equipment, Arms		Battleworn	Action	Go again			Freeze	"**Action** - Destroy this: Destroy target frozen ally. **Go again**
@@ -10469,13 +10469,13 @@ zzHRCMBmNTF9KpJMqKWq8	Star Struck	Yellow	2	7	10	3				Guardian, Action, Attack		B
 HRGLg7cLFFWpNbMqkTBHF	Stardust Spike	Red	1	0						Lightning, Illusionist, Instant, Aura		Amp 1, Ward 2						"When this leaves the arena, gain {r} and **amp 1**.
 
 **Ward 2**"	Lightning Illusionist Instant - Aura				No	No	
-NfgpHMJczznbc7PJKt7Kw	Starfield Carapace				1					Lightning, Illusionist, Equipment, Chest		Blade Break	Instant					"**Instant** - Destroy this: Until end of turn, an Aphrodias you control costs {r} less to activate and gets ""Whenever this deals damage to an opposing hero, create a Lightning Flow token.""
+NfgpHMJczznbc7PJKt7Kw	Starfield Carapace					1				Lightning, Illusionist, Equipment, Chest		Blade Break	Instant					"**Instant** - Destroy this: Until end of turn, an Aphrodias you control costs {r} less to activate and gets ""Whenever this deals damage to an opposing hero, create a Lightning Flow token.""
 
 **Blade Break**"	Lightning Illusionist Equipment - Chest				No	No	
-kRwtJCMHKNcKNrdk8LFnC	Starfield Touch				1					Lightning, Illusionist, Equipment, Arms		Battleworn	Instant					"**Instant** - {r}, destroy this: {u} an Aphrodias you control.
+kRwtJCMHKNcKNrdk8LFnC	Starfield Touch					1				Lightning, Illusionist, Equipment, Arms		Battleworn	Instant					"**Instant** - {r}, destroy this: {u} an Aphrodias you control.
 
 **Battleworn**"	Lightning Illusionist Equipment - Arms				No	No	
-MkzmkbbNf7DMHkzMkDrLk	Starfield Veil				2					Lightning, Illusionist, Equipment, Head		Guardwell	Instant				Fragment	"**Instant** - Destroy this: The next aura you play this turn enters the arena with a holo counter. Activate this only if an attack has fragmented this turn.
+MkzmkbbNf7DMHkzMkDrLk	Starfield Veil					2				Lightning, Illusionist, Equipment, Head		Guardwell	Instant				Fragment	"**Instant** - Destroy this: The next aura you play this turn enters the arena with a holo counter. Activate this only if an attack has fragmented this turn.
 
 **Guardwell**"	Lightning Illusionist Equipment - Head				No	No	
 dCkbCnQ7pcjfbQ7k8GhFk	Starlight Striders					1				Lightning, Runeblade, Equipment, Legs		Blade Break						"When this defends, you may reveal an instant card from your hand. If you do, create an Embodiment of Lightning token.
