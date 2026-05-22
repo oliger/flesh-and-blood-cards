@@ -248,6 +248,11 @@ function calculateCommonerLegality(uniqueId, name, types, printingDictionary) {
     }
 
     var printings = printingDictionary[uniqueId]
+    
+    if (!printings) {
+        return false
+    }
+    
     var cardIsLegal = printings.reduce((previousValue, currentValue) => {
         var printingLegal = currentValue.rarity == 'C' ||
             currentValue.rarity == 'B' ||
@@ -294,6 +299,11 @@ function calculateSilverAgeLegality(uniqueId, name, types, printingDictionary) {
     }
 
     var printings = printingDictionary[uniqueId]
+    
+    if (!printings) {
+        return false
+    }
+    
     var cardIsLegal = printings.reduce((previousValue, currentValue) => {
         var printingLegal = currentValue.rarity == 'C' ||
             currentValue.rarity == 'B' ||
