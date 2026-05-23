@@ -1,253 +1,4 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Silver Age Legal	Commoner Legal	LL Legal
-NwMtf6bWr68tRnfzzgzmt	Voltaris	Blue	3							Lightning, Resource, Gem		Legendary						"**Legendary**
-
-When this is pitched, create a Lightning Flow token."	Lightning Resource - Gem				No	No	
-f9C7rd9WgL9b8bgFMrP9h	Holo Shield	Red	1	1						Lightning, Illusionist, Instant, Aura		Ward X						**Ward X**, where X is 4 if this has a holo counter. Otherwise, X is 1.	Lightning Illusionist Instant - Aura						
-gQbKw7QPrQtQ7TTKDfLbb	Holo Shield	Yellow	2	1						Lightning, Illusionist, Instant, Aura		Ward X						**Ward X**, where X is 3 if this has a holo counter. Otherwise, X is 1.	Lightning Illusionist Instant - Aura						
-H7PmnpTDN7WpBw7gtwCdq	Holo Shield	Blue	3	1						Lightning, Illusionist, Instant, Aura		Ward X						**Ward X**, where X is 2 if this has a holo counter. Otherwise, X is 1.	Lightning Illusionist Instant - Aura						
-knQ7hzFBj6fFLH9LTd8MD	Nebulus Cycle	Yellow	2	1						Lightning, Illusionist, Instant, Aura		Ward 2						"When this leaves the arena, create a Ponder token.
-
-**Ward 2**"	Lightning Illusionist Instant - Aura						
-MqKhDHHHkLfFrdh7mBzcR	Nourishing Glow	Blue	3	0						Lightning, Illusionist, Instant, Aura		Ward 1						"When this enters the arena, gain 1{h}.
-
-**Ward 1**"	Lightning Illusionist Instant - Aura						
-PgCtkKz6JjJQ9mgKK679T	Fingers of Fragmentation					0				Illusionist, Equipment, Arms			Instant				Fragment	**Instant** - {r}{r}, destroy this: Target attack action card that has fragmented gets +2{p}.	Illusionist Equipment - Arms						
-dmGpmBBdMCt7dTpGHmjmr	Erode Authority	Red	1	3	7	3				Illusionist, Action, Attack		Dominate, Fragment						"**Dominate**
-
-**Fragment**"	Illusionist Action - Attack					No	
-hFtq9BPKqRgdTGQF9mpRN	Erode Authority	Yellow	2	3	6	3				Illusionist, Action, Attack		Dominate, Fragment						"**Dominate**
-
-**Fragment**"	Illusionist Action - Attack					No	
-B9PzLK6qCpDjDpPHmmFdF	Erode Authority	Blue	3	3	5	3				Illusionist, Action, Attack		Dominate, Fragment						"**Dominate**
-
-**Fragment**"	Illusionist Action - Attack					No	
-9t6zhmKcwhjTK8RRGCnTz	Snap Fingers					0			1	Lightning, Runeblade, Equipment, Arms			Instant					**Instant** - {r}, destroy this: Target Lightning attack action card you control on the active chain link deals 1 arcane damage to the defending hero.	Lightning Runeblade Equipment - Arms						
-BBj7tdpTkLpgrhCrq9qRh	Electryn Mindmeld	Yellow	2	1	3	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p} and ""When this attacks a hero, deal 1 arcane damage to them.""
-
-The first time this deals damage to a hero, you may put an instant card from your graveyard on the bottom of your deck."	Lightning Runeblade Action - Attack					No	
-9g9FTKT6DqqrcKHnMGdWD	Stinging Sprite	Red	1	0	3	2			1	Lightning, Runeblade, Action, Attack								When this attacks or defends, deal 1 arcane damage to target hero.	Lightning Runeblade Action - Attack					No	
-NTfKzDBrKMPQ8LjGcWn6q	Stinging Sprite	Yellow	2	0	2	2			1	Lightning, Runeblade, Action, Attack								When this attacks or defends, deal 1 arcane damage to target hero.	Lightning Runeblade Action - Attack					No	
-Fccdnhg8DpLB6cTgjFgcw	Stinging Sprite	Blue	3	0	1	2			1	Lightning, Runeblade, Action, Attack								When this attacks or defends, deal 1 arcane damage to target hero.	Lightning Runeblade Action - Attack					No	
-q9GwnnJTPk9KpPNdpW6wL	Destructive Fleetfoot	Red	1	0	3	3				Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
-
-When this hits a hero, destroy an aura token they control."	Lightning Runeblade Action - Attack						
-DqhpdDNnfhtrRH6pcfj8B	Destructive Fleetfoot	Yellow	2	0	2	3				Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
-
-When this hits a hero, destroy an aura token they control."	Lightning Runeblade Action - Attack						
-d9tCqMqtdwFCmHMbRFGzd	Destructive Fleetfoot	Blue	3	0	1	3				Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
-
-When this hits a hero, destroy an aura token they control."	Lightning Runeblade Action - Attack						
-jbmgCjPjGMC9g6688q8RM	Rush of Power	Red	1	0	3	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
-
-When this hits a hero, deal 1 arcane damage to them."	Lightning Runeblade Action - Attack						
-qtJwHkr8WgjHJcC9gNPGj	Rush of Power	Yellow	2	0	2	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
-
-When this hits a hero, deal 1 arcane damage to them."	Lightning Runeblade Action - Attack						
-mr9jJffnHHHcrG9p8fdMP	Rush of Power	Blue	3	0	1	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
-
-When this hits a hero, deal 1 arcane damage to them."	Lightning Runeblade Action - Attack						
-Mzq9qrLQtHKjNTgkDqtwB	Singeing Flowstride	Red	1	1	4	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
-
-The first time this deals damage to a hero, create a Lightning Flow token."	Lightning Runeblade Action - Attack						
-NCPg8kRTF8gMFfrpkc8p8	Singeing Flowstride	Yellow	2	1	3	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
-
-The first time this deals damage to a hero, create a Lightning Flow token."	Lightning Runeblade Action - Attack						
-wJLdrWjMqLQL8r7wMc8Rg	Singeing Flowstride	Blue	3	1	2	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
-
-The first time this deals damage to a hero, create a Lightning Flow token."	Lightning Runeblade Action - Attack						
-fg6fdKmQkGmCgkGprpKRR	Stunning Swipe	Red	1	0	3	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
-
-The first time this deals damage to a Lightning hero, {t} them or a weapon they control."	Lightning Runeblade Action - Attack						
-zn8NpMnDBcKzGhLj9Cp6J	Stunning Swipe	Yellow	2	0	2	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
-
-The first time this deals damage to a Lightning hero, {t} them or a weapon they control."	Lightning Runeblade Action - Attack						
-T7GW8p6RPN7C9Bk8bLWDd	Stunning Swipe	Blue	3	0	1	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
-
-The first time this deals damage to a Lightning hero, {t} them or a weapon they control."	Lightning Runeblade Action - Attack						
-CKGFjmKNk6mhMHThPGmK6	Electryn Joltstep	Red	1	1		3				Lightning, Runeblade, Action		Go again						"Your next Runeblade or Lightning attack this turn gets +3{p}.
-
-Create a Lightning Flow token.
-
-**Go again**"	Lightning Runeblade Action						
-7DnnzwcQQQbdHtcDJ9PJG	Electryn Joltstep	Yellow	2	1		3				Lightning, Runeblade, Action		Go again						"Your next Runeblade or Lightning attack this turn gets +2{p}.
-
-Create a Lightning Flow token.
-
-**Go again**"	Lightning Runeblade Action						
-GmwDh7pgHwFkGnTTKCL9W	Electryn Joltstep	Blue	3	1		3				Lightning, Runeblade, Action		Go again						"Your next Runeblade or Lightning attack this turn gets +1{p}.
-
-Create a Lightning Flow token.
-
-**Go again**"	Lightning Runeblade Action						
-fbKwcPnqhWKbTWd6M9Wbc	Quick Succession	Red	1	0		2				Lightning, Runeblade, Action		Go again			Go again			"The next Runeblade or Lightning attack action card you play this turn gets **go again**.
-
-Your next 3 attacks this turn get +1{p} while they have go again.
-
-**Go again**"	Lightning Runeblade Action						
-WLRcb8jRrktGNqbttwfWF	Quick Succession	Yellow	2	0		2				Lightning, Runeblade, Action		Go again			Go again			"The next Runeblade or Lightning attack action card you play this turn gets **go again**.
-
-Your next 2 attacks this turn get +1{p} while they have go again.
-
-**Go again**"	Lightning Runeblade Action						
-HHLWJzrFMfcnpmN8J6MrC	Quick Succession	Blue	3	0		2				Lightning, Runeblade, Action		Go again			Go again			"The next Runeblade or Lightning attack action card you play this turn gets **go again**.
-
-Your next attack this turn get +1{p} while it has go again.
-
-**Go again**"	Lightning Runeblade Action						
-TqcqHwCjGhFkzkFCthwtd	Leech Memory	Red	1	1		3				Runeblade, Action		Go again						"The next attack action card you play this turn gets +3{p} and ""Whenever this deals damage to a hero, you may put an attack action card from your graveyard on the bottom of your deck.""
-
-**Go again**"	Runeblade Action					No	
-mHqPTDJhBrhWtLCrRBWbf	Leech Renown	Red	1	1		3				Runeblade, Action		Go again						"The next attack action card you play this turn gets +3{p} and ""Whenever this deals damage to a hero, destroy an aura token they control.""
-
-**Go again**"	Runeblade Action					No	
-9DqgBgRpB9C8cTRFjL8Gm	Leech Vitality	Red	1	1		3				Runeblade, Action		Go again						"The next attack action card you play this turn gets +3{p} and ""Whenever this deals damage to a hero, gain 1{h}.""
-
-**Go again**"	Runeblade Action					No	
-hFfmQg8Rc6gttfrhzpcPh	Constella Waves					0				Lightning, Wizard, Equipment, Arms			Instant	Amp 1				**Instant** - {t} your hero, destroy this: **Amp 1**	Lightning Wizard Equipment - Arms						
-TkpjjKgfzKLgjRMDJNpk7	Flash Bolt	Red	1	2					3	Lightning, Wizard, Instant								Deal 3 arcane damage to target hero.	Lightning Wizard Instant					No	
-bnHbThztdNdG7g7gNqFj6	Flash Bolt	Yellow	2	2					2	Lightning, Wizard, Instant								Deal 2 arcane damage to target hero.	Lightning Wizard Instant					No	
-PhD7nmCtwWrmPpQ7NG8tz	Flash Bolt	Blue	3	2					1	Lightning, Wizard, Instant								Deal 1 arcane damage to target hero.	Lightning Wizard Instant					No	
-BRdKgPG6pJk8pGT7CWCpB	Comet Collision	Red	1	0		3			3	Lightning, Wizard, Action		Starfall						"Deal 3 arcane damage to any target.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 4 arcane damage."	Lightning Wizard Instant					No	
-kLgnHP8nHtnMwHfqN9zkp	Comet Collision	Yellow	2	0		3			2	Lightning, Wizard, Action		Starfall						"Deal 2 arcane damage to any target.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 3 arcane damage."	Lightning Wizard Instant					No	
-Mbrg9P78qm9PGCdPLbncD	Comet Collision	Blue	3	0		3			1	Lightning, Wizard, Action		Starfall						"Deal 1 arcane damage to any target.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 2 arcane damage."	Lightning Wizard Instant					No	
-dzMffTNHqjw8q8jkDjGwD	Enion Surge	Red	1	0		3			3	Lightning, Wizard, Action								"Deal 3 arcane damage to any target.
-
-If this deals damage, you may {t} your hero. If you do, create a Lightning Flow token."	Lightning Wizard Action						
-McHtzkNrnJDfNFNNqCFC8	Enion Surge	Yellow	2	0		3			2	Lightning, Wizard, Action								"Deal 2 arcane damage to any target.
-
-If this deals damage, you may {t} your hero. If you do, create a Lightning Flow token."	Lightning Wizard Action						
-fWQbRmQL9nM8TBfkfbCbW	Enion Surge	Blue	3	0		3			1	Lightning, Wizard, Action								"Deal 1 arcane damage to any target.
-
-If this deals damage, you may {t} your hero. If you do, create a Lightning Flow token."	Lightning Wizard Action						
-9TcGzWhGzwHnn7FqfPbfR	Lightning Overload	Red	1	1		3			4	Lightning, Wizard, Action		Starfall						"Deal 4 arcane damage to any target.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, create a Lightning Flow token."	Lightning Wizard Action						
-tBQtc8qMLfnmmGWCtFH9z	Lightning Overload	Yellow	2	1		3			3	Lightning, Wizard, Action		Starfall						"Deal 3 arcane damage to any target.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, create a Lightning Flow token."	Lightning Wizard Action						
-mp8HwB7fRRz7wK9fRrTmw	Lightning Overload	Blue	3	1		3			2	Lightning, Wizard, Action		Starfall						"Deal 2 arcane damage to any target.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, create a Lightning Flow token."	Lightning Wizard Action						
-kLWrkbbDknfq8fR8TgHnL	Meteoric Impact	Red	1	1		3			3	Lightning, Wizard, Action		Starfall						"Deal 3 arcane damage to any target.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 5 arcane damage."	Lightning Wizard Action						
-pWjWpGdCjTKHFDh9FJCrQ	Meteoric Impact	Yellow	2	1		3			2	Lightning, Wizard, Action		Starfall						"Deal 2 arcane damage to any target.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 4 arcane damage."	Lightning Wizard Action						
-MwqB6GDDJFWdmCBtnHPc9	Meteoric Impact	Blue	3	1		3			1	Lightning, Wizard, Action		Starfall						"Deal 1 arcane damage to any target.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 3 arcane damage."	Lightning Wizard Action						
-pJ9nmwqTCCHnPdCKhmCpj	Tap Lessons Past	Red	1	1		3			4	Lightning, Wizard, Action								"Deal 4 arcane damage to any target.
-
-If this deals damage, you may {t} your hero. If you do, put an instant card from your graveyard on the bottom of your deck."	Lightning Wizard Action						
-qJTtff8cWtnkLngCdnfGt	Tap Lessons Past	Yellow	2	1		3			3	Lightning, Wizard, Action								"Deal 3 arcane damage to any target.
-
-If this deals damage, you may {t} your hero. If you do, put an instant card from your graveyard on the bottom of your deck."	Lightning Wizard Action						
-npt7bHwQtJJr8wKKgB79N	Tap Lessons Past	Blue	3	1		3			2	Lightning, Wizard, Action								"Deal 2 arcane damage to any target.
-
-If this deals damage, you may {t} your hero. If you do, put an instant card from your graveyard on the bottom of your deck."	Lightning Wizard Action						
-pnDhdJwLcgC8zgTmK9Tkw	Constella Contemplation	Yellow	2	0					1	Lightning, Wizard, Instant		Starfall						"Create a Ponder token.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
-TCdgGPCgzDgGCJrwQgdpF	Constella Flowslide	Yellow	2	0					1	Lightning, Wizard, Instant		Starfall						"Create a Lightning Flow token.
-
-**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
-8zKwdDwBMQ79DjgrwJTTn	Nucleus Aetherbolt	Red	1	0		2			3	Wizard, Action								"Deal 3 arcane damage to any target.
-
-If this deals damage, you may {t} your hero. If you do, your hero deals 1 arcane damage to any target."	Wizard Action					No	
-PnnF9jgBnbK7W67t7KrHG	Haven Veil	Red	1	0						Wizard, Instant, Aura								"When this enters the arena, prevent the next 3 arcane damage that would be dealt to you this turn.
-
-At the beginning of your action phase, destroy this."	Wizard Instant - Aura					No	
-g7bpktwdT6TNqpKwzJHPG	Haven Veil	Yellow	2	0						Wizard, Instant, Aura								"When this enters the arena, prevent the next 2 arcane damage that would be dealt to you this turn.
-
-At the beginning of your action phase, destroy this."	Wizard Instant - Aura					No	
-nNKq8rmjRrnwqK7DdtkPr	Haven Veil	Blue	3	0						Wizard, Instant, Aura								"When this enters the arena, prevent the next 1 arcane damage that would be dealt to you this turn.
-
-At the beginning of your action phase, destroy this."	Wizard Instant - Aura					No	
-CwhpPfrRGmdGNkjR6Fg8G	Constella Tiara					0				Lightning, Equipment, Head			Instant					**Instant** - {r}{r}, destroy this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Ponder token.	Lightning Equipment - Head						
-7cRzGcKGcWdbccLB8KnRn	Starflow Robes					0				Lightning, Equipment, Chest			Instant					**Instant** - {r}{r}, destroy this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Lightning Flow token.	Lightning Equipment - Chest						
-Kb99nwFrrpTQJTpqN6kCt	Laced Lightning					0				Lightning, Equipment, Legs			Instant					**Instant** - {r}{r}, destroy this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create an Embodiment of Lightning token.	Lightning Equipment - Legs						
-LKrMGGMMHFKbbcM6LQ9WN	Visionary of Orbits	Red	1	3	7	2				Lightning, Action, Attack								When this hits, you may put an instant card from your graveyard on the bottom of your deck.	Lightning Action - Attack				No	No	
-NTTNLDR97DQMKrFCDz8FT	Rift Breaker	Yellow	2	2	5	2				Lightning, Action, Attack								When this hits a hero, destroy a Lightning Flow token they control.	Lightning Action - Attack				No	No	
-p9ccrThgrP8Jt6JNkcTGM	Rift Breaker	Blue	3	2	4	2				Lightning, Action, Attack								When this hits a hero, destroy a Lightning Flow token they control.	Lightning Action - Attack				No	No	
-PcCQGjz68TjzgQrMfRnLQ	Flow Through	Blue	3	0						Lightning, Instant								"Target Lightning attack gets +1{p} and ""When this hits, create a Lightning Flow token."""	Lightning Instant				No	No	
-rNhqkLtwRGdRf7Pkh6b7b	Astral Assault	Red	1	2	5	2				Lightning, Action, Attack								When this attacks, you may destroy a Lightning Flow you control. If you do, this gets +2{p}.	Lightning Action - Attack				No	No	
-dhfWgpW6bPJrPMcKrFRdt	Astral Assault	Yellow	2	2	4	2				Lightning, Action, Attack								When this attacks, you may destroy a Lightning Flow you control. If you do, this gets +2{p}.	Lightning Action - Attack				No	No	
-BJBhJz9Gmjc6fpQjzrDB8	Astral Assault	Blue	3	2	3	2				Lightning, Action, Attack								When this attacks, you may destroy a Lightning Flow you control. If you do, this gets +2{p}.	Lightning Action - Attack				No	No	
-rh8QMDbW9nkbWFwtJhcqQ	Electrolyze	Red	1	1	4	0				Lightning, Action, Attack		Go again						**Go again**	Lightning Action - Attack				No	No	
-mkwdBRzRGWTQzwwJzqRbG	Electrolyze	Yellow	2	1	3	0				Lightning, Action, Attack		Go again						**Go again**	Lightning Action - Attack				No	No	
-wmn7GbbMWqtGtTpqBk6QF	Electrolyze	Blue	3	1	2	0				Lightning, Action, Attack		Go again						**Go again**	Lightning Action - Attack				No	No	
-QQqkkCLrwB88t8t7w8mwz	Flittering Spike	Red	1	1	4	3				Lightning, Action, Attack								"If you've played an instant card this chain link, this gets +2{p}.
-
-When this hits, create a Lightning Flow token."	Lightning Action - Attack				No	No	
-NwMDbH6HdbCPLbKQCCqDh	Flittering Spike	Yellow	2	1	3	3				Lightning, Action, Attack								"If you've played an instant card this chain link, this gets +2{p}.
-
-When this hits, create a Lightning Flow token."	Lightning Action - Attack				No	No	
-hLpJwQM8kntLtkwcqdrrF	Flittering Spike	Blue	3	1	2	3				Lightning, Action, Attack								"If you've played an instant card this chain link, this gets +2{p}.
-
-When this hits, create a Lightning Flow token."	Lightning Action - Attack				No	No	
-RcbDmpjTgR9FJbgqzb8Tq	Stellar Glide	Red	1	2	5	2				Lightning, Action, Attack		Go again						When this attacks, you may destroy a Lightning Flow you control. If you do, this gets **go again**.	Lightning Action - Attack				No	No	
-chPp6ddLWdLWWM7fTMLfp	Stellar Glide	Yellow	2	2	4	2				Lightning, Action, Attack		Go again						When this attacks, you may destroy a Lightning Flow you control. If you do, this gets **go again**.	Lightning Action - Attack				No	No	
-FPThjmfgpwBHmGzd66FCF	Stellar Glide	Blue	3	2	3	2				Lightning, Action, Attack		Go again						When this attacks, you may destroy a Lightning Flow you control. If you do, this gets **go again**.	Lightning Action - Attack				No	No	
-mLQbHGnCHtLpmJh6LWLbP	Volatile Fluxor	Red	1	0	0	3				Lightning, Action, Attack		Go again						"If you've played an instant card this chain link, this gets +3{p}.
-
-When this hits, create a Lightning Flow token.
-
-**Go again**"	Lightning Action - Attack				No	No	
-gDcLCrcfPQKNNpq8DkMFp	Volatile Fluxor	Yellow	2	0	0	3				Lightning, Action, Attack		Go again						"If you've played an instant card this chain link, this gets +2{p}.
-
-When this hits, create a Lightning Flow token.
-
-**Go again**"	Lightning Action - Attack				No	No	
-cQcb7dCwJWGt6jMrDdtRz	Volatile Fluxor	Blue	3	0	0	3				Lightning, Action, Attack		Go again						"If you've played an instant card this chain link, this gets +1{p}.
-
-When this hits, create a Lightning Flow token.
-
-**Go again**"	Lightning Action - Attack				No	No	
-9wjwrtNmPJzqbLfcrchgR	Flittering Forcefield	Red	1	0		3				Lightning, Defense Reaction								While this is defending, if you've played an instant card this chain link, this gets +1{d}.	Lightning Defense Reaction				No	No	
-hRQFwWPRMpJrgj8NTmbCR	Flittering Forcefield	Yellow	2	0		2				Lightning, Defense Reaction								While this is defending, if you've played an instant card this chain link, this gets +1{d}.	Lightning Defense Reaction				No	No	
-gRQQM97BJrfQFQjB8jPzz	Flittering Forcefield	Blue	3	0		1				Lightning, Defense Reaction								While this is defending, if you've played an instant card this chain link, this gets +1{d}.	Lightning Defense Reaction				No	No	
-HcTHkbNfWbQNCbNdmnhBB	Calmveil of Volthaven	Red	1	2						Lightning, Instant								Prevent the next 3 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Lightning Flow token.	Lightning Instant				No	No	
-Mk8R6DRrqThcpqmPFKnCk	Calmveil of Volthaven	Yellow	2	2						Lightning, Instant								Prevent the next 2 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Lightning Flow token.	Lightning Instant				No	No	
-W7JrMn9grP86gDnB9Fhng	Calmveil of Volthaven	Blue	3	2						Lightning, Instant								Prevent the next 1 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Lightning Flow token.	Lightning Instant				No	No	
-CPGCwntgcMqcqCBLh6nBL	Starworld Warning	Yellow	2	1						Lightning, Instant								Create 2 Lightning Flow tokens.	Lightning Instant				No	No	
-Qrk8RRBkp7q98qbGDTgDB	Starlight Road	Blue	3	0						Lightning, Instant								Create an Embodiment of Lightning or Lightning Flow token.	Lightning Instant				No	No	
-HDkhnPHFCdnwmfMDrmHPN	Stormshatter	Yellow	2	1						Lightning, Instant								"You may destroy a Lightning Flow you control rather than pay this card's {r} cost.
-
-Target Lightning attack gets -3{p}."	Lightning Instant				No	No	
-bmGcLFqnPwP6k88kJH6Bw	Stormwhirl	Blue	3	1						Lightning, Instant					Go again			"You may destroy a Lightning Flow you control rather than pay this card's {r} cost.
-
-Target Lightning attack gets **go again**."	Lightning Instant				No	No	
-PmfNcqdqDJ89QGFqqLjnz	Chromatic Refinement	Red	1	0						Lightning, Instant, Aura								At the beginning of your action phase, destroy this, then the next red card you play this turn costs {r} less to play. The first time that card would deal damage this turn, instead it deals that much plus 1.	Lightning Instant - Aura				No	No	
-BnzFFnTJdw9HP9cP6fqP8	Chromatic Refinement	Yellow	2	0						Lightning, Instant, Aura								At the beginning of your action phase, destroy this, then the next yellow card you play this turn costs {r} less to play. The first time that card would deal damage this turn, instead it deals that much plus 1.	Lightning Instant - Aura				No	No	
-rzMhnMtGQ6nJgQwFLJJLQ	Chromatic Refinement	Blue	3	0						Lightning, Instant, Aura								At the beginning of your action phase, destroy this, then the next blue card you play this turn costs {r} less to play. The first time that card would deal damage this turn, instead it deals that much plus 1.	Lightning Instant - Aura				No	No	
-hmgMzMGKkrgdQKkJdF7GQ	Thunderous Retort	Red	1	0						Lightning, Instant, Aura		Arcane Barrier 3			Go again			"At the beginning of your action phase, destroy this, then your next attack this turn gets **go again**.
-
-**Arcane Barrier 3**"	Lightning Instant - Aura				No	No	
-RrBgm8mpnBdCqMgfjDp7z	Thunderous Retort	Yellow	2	0						Lightning, Instant, Aura		Arcane Barrier 2			Go again			"At the beginning of your action phase, destroy this, then your next attack this turn gets **go again**.
-
-**Arcane Barrier 2**"	Lightning Instant - Aura				No	No	
-LhRPD8cdgP7LBDjdj7nfT	Thunderous Retort	Blue	3	0						Lightning, Instant, Aura		Arcane Barrier 1			Go again			"At the beginning of your action phase, destroy this, then your next attack this turn gets **go again**.
-
-**Arcane Barrier 1**"	Lightning Instant - Aura				No	No	
-gQztCktdLJmWRdNfPNM6q	Tempt Over	Yellow	2	0	3	3				Generic, Action, Attack		Steal						When this attacks a hero, **steal** an aura token they control until end of turn.	Generic Action - Attack				No	No	
-zBm89zN88pdhTqkjCNzqG	Arcbane Grasp	Blue	3	0		0				Mechanologist, Instant, Equipment, Evo, Base, Arms		Arcane Barrier 1, Transform						"If you have a base arms equipped, **transform** it into this, then equip this.
-
-When this is equipped, create a Spellbane Aegis token.
-
-**Arcane Barrier 1**"	Mechanologist Instant Equipment - Evo Base Arms				No	No	
-9PLjGPKQTdWLMhrwDDptm	Golden Skull	Yellow	2	0						Pirate, Necromancer, Action, Item		Go again, Watery Grave						"**Go again**
-
-This counts as a Gold.
-
-**Watery Grave**"	Pirate Necromancer Action - Item				No	No	
-JQtbmKdrD67q9w6pr8rFD	Induce Panic	Yellow	2			2				Chaos, Block								When this defends, choose a color. Each hero reveals a random card from their hand. If it's the chosen color, they discard it.	Chaos Block				No	No	
 FM9T9Dg8bj9h9MW7k9HCQ	10,000 Year Reunion	Red	1	8		3				Illusionist, Action, Aura		Ward 10						"You may remove three +1{p} counters from among auras you control rather than pay 10,000 Year Reunion's {r} cost.
 
 **Ward 10**"	Illusionist Action - Aura				No	No	
@@ -662,6 +413,11 @@ jWLtJzRFkTRqPDkwT7T6N	Arcanic Spike	Blue	3	2	3	3				Runeblade, Action, Attack			
 NQDNdGfjP6bd8WHP8QNnt	Arcanite Skullcap					1				Generic, Equipment, Head		Arcane Barrier 3, Battleworn						"If you have less {h} than your opponent, Arcanite Skullcap gains +1{d} and **Arcane Barrier 3**.
 
 **Battleworn**"	Generic Equipment - Head				No	No	
+zBm89zN88pdhTqkjCNzqG	Arcbane Grasp	Blue	3	0		0				Mechanologist, Instant, Equipment, Evo, Base, Arms		Arcane Barrier 1, Transform						"If you have a base arms equipped, **transform** it into this, then equip this.
+
+When this is equipped, create a Spellbane Aegis token.
+
+**Arcane Barrier 1**"	Mechanologist Instant Equipment - Evo Base Arms				No	No	
 rWtcmPrWgJwnmKNhj8nMk	Arctic Incarceration	Red	1	0		2				Ice, Action								Create 3 Frostbite tokens under target hero's control.	Ice Action						
 nPmkJGtLgnfFnWgcKqgq6	Arctic Incarceration	Yellow	2	0		2				Ice, Action								Create 2 Frostbite tokens under target hero's control.	Ice Action						
 Fq8bJCMprNbTn6rKbchgB	Arctic Incarceration	Blue	3	0		2				Ice, Action								Create a Frostbite token under target hero's control.	Ice Action						
@@ -734,6 +490,9 @@ BkRHdjBwFhwMwmBfDhpfb	Assembly Module	Blue	3	0						Mechanologist, Action, Item	
 This enters the arena with a stream counter. At the start of your turn, destroy this unless you remove a steam counter from it.
 
 **Action** - {t}: Search your deck for a Hyper Driver, put it into the arena, then shuffle."	Mechanologist Action - Item					No	
+rNhqkLtwRGdRf7Pkh6b7b	Astral Assault	Red	1	2	5	2				Lightning, Action, Attack								When this attacks, you may destroy a Lightning Flow you control. If you do, this gets +2{p}.	Lightning Action - Attack						
+dhfWgpW6bPJrPMcKrFRdt	Astral Assault	Yellow	2	2	4	2				Lightning, Action, Attack								When this attacks, you may destroy a Lightning Flow you control. If you do, this gets +2{p}.	Lightning Action - Attack						
+BJBhJz9Gmjc6fpQjzrDB8	Astral Assault	Blue	3	2	3	2				Lightning, Action, Attack								When this attacks, you may destroy a Lightning Flow you control. If you do, this gets +2{p}.	Lightning Action - Attack						
 h6tW6K9N8LRqtbQrJLpgC	Astral Bridge	Red	1	0						Lightning, Wizard, Instant		Starfall						"Put the top card of your deck into your graveyard. If it's an instant, you may play it this turn.
 
 **Starfall** - If an instant has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant				No	No	
@@ -1939,6 +1698,9 @@ T68MkCWcwQhqChRPKNR6C	Calming Cloak									Illusionist, Equipment, Chest		Arcan
 nDkh8FDGwNNpLghj6grmK	Calming Gesture									Illusionist, Equipment, Arms		Arcane Barrier 1	Instant					"**Instant** - {r}: destroy this: Create a Spectral Shield token.
 
 **Arcane Barrier 1**"	Illusionist Equipment - Arms				No	No	
+HcTHkbNfWbQNCbNdmnhBB	Calmveil of Volthaven	Red	1	2						Lightning, Instant								Prevent the next 3 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Lightning Flow token.	Lightning Instant						
+Mk8R6DRrqThcpqmPFKnCk	Calmveil of Volthaven	Yellow	2	2						Lightning, Instant								Prevent the next 2 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Lightning Flow token.	Lightning Instant						
+W7JrMn9grP86gDnB9Fhng	Calmveil of Volthaven	Blue	3	2						Lightning, Instant								Prevent the next 1 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Lightning Flow token.	Lightning Instant						
 N6FgtcT8gMP7PMj7hCkgP	Canopy Shelter	Blue	3			2				Earth, Block								When this defends, create a Might token.	Earth Block					No	
 GkcwtGfWGcDBmQ7BbFNRt	Cap of Quick Thinking									Lightning, Equipment, Head			Instant					**Instant** - Destroy this: If you would be dealt damage by a source an opponent controls this turn, you may discard an instant card to prevent 1 of that damage and draw a card.	Lightning Equipment - Head				No	No	
 HpFndzDqQGcQWpzcKjJLc	Captain of the Guard	Blue	3	3	5	2				Generic, Action, Attack								While this is defending, cards with {p} greater than the attack they are defending get +1{d}.	Generic Action - Attack				No	No	
@@ -2180,6 +1942,9 @@ zQ89qbgtqWjgGtfBLWTkQ	Chorus of the Amphitheater	Blue	3	2		2			2	Wizard, Action	
 **Instant** - {t}: Gain 1{h}
 
 **Watery Grave**"	Pirate Necromancer Action - Ally						
+PmfNcqdqDJ89QGFqqLjnz	Chromatic Refinement	Red	1	0						Lightning, Instant, Aura								At the beginning of your action phase, destroy this, then the next red card you play this turn costs {r} less to play. The first time that card would deal damage this turn, instead it deals that much plus 1.	Lightning Instant - Aura						
+BnzFFnTJdw9HP9cP6fqP8	Chromatic Refinement	Yellow	2	0						Lightning, Instant, Aura								At the beginning of your action phase, destroy this, then the next yellow card you play this turn costs {r} less to play. The first time that card would deal damage this turn, instead it deals that much plus 1.	Lightning Instant - Aura						
+rzMhnMtGQ6nJgQwFLJJLQ	Chromatic Refinement	Blue	3	0						Lightning, Instant, Aura								At the beginning of your action phase, destroy this, then the next blue card you play this turn costs {r} less to play. The first time that card would deal damage this turn, instead it deals that much plus 1.	Lightning Instant - Aura						
 mwBrbdjPn7h8nPpCNzpMR	Chum, Friendly First Mate	Yellow	2	4	4		6			Pirate, Necromancer, Action, Ally		Watery Grave	Action, Instant	Attack			Watery Grave	"**Action** - {t}: **Attack**
 
 **Instant** - {t}, discard a card with watery grave: Until end of turn, opponents must choose this as the target of attacks if able.
@@ -2307,8 +2072,8 @@ pPgMnD6hBcnm8gcdHL79J	Cloud City Steamboat	Blue	3	2	4	3				Mechanologist, Action
 
 **Twice per Turn Instant** - {t} a cog you control: This gets +1{p}."	Mechanologist Action - Attack					No	
 KBtjQPPRg7PnrKGrCLKjC	Cloud Cover	Red	1	0						Lightning, Instant								The next time you would be dealt damage this turn, prevent 3 of that damage.	Lightning Instant						
-MDn7MHgDmW7tJ6tGkG7cz	Cloud Cover	Blue	3	0						Lightning, Instant								The next time you would be dealt damage this turn, prevent 1 of that damage.	Lightning Instant						
 8jzNDBDqQhcHgJtG9JRF8	Cloud Cover	Yellow	2	0						Lightning, Instant								The next time you would be dealt damage this turn, prevent 2 of that damage.	Lightning Instant						
+MDn7MHgDmW7tJ6tGkG7cz	Cloud Cover	Blue	3	0						Lightning, Instant								The next time you would be dealt damage this turn, prevent 1 of that damage.	Lightning Instant						
 mbNRPd7D9TN76C8wbBRrL	Cloud Skiff	Red	1	1	5	3				Mechanologist, Action, Attack		Go again	Once per Turn Instant					**Once per Turn Instant** - {t} a cog you control: This gets +1{p} or go again.	Mechanologist Action - Attack						
 kkfTJq9f9rMqbkPkbJm8R	Cloud Skiff	Yellow	2	1	4	3				Mechanologist, Action, Attack		Go again	Once per Turn Instant					**Once per Turn Instant** - {t} a cog you control: This gets +1{p} or go again.	Mechanologist Action - Attack						
 nNnqFQD7WfGFGRnrMw8nh	Cloud Skiff	Blue	3	1	3	3				Mechanologist, Action, Attack		Go again	Once per Turn Instant					**Once per Turn Instant** - {t} a cog you control: This gets +1{p} or go again.	Mechanologist Action - Attack						
@@ -2453,6 +2218,15 @@ If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack					
 nHTwDwq8BDnkdPrc9c9bW	Comeback Kid	Blue	3	3	5	3				Revered, Action, Attack		The Crowd Cheers					The Crowd Cheers	"When this attacks a hero, if you have less {h} than them, **the crowd cheers** you.
 
 If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack					No	
+BRdKgPG6pJk8pGT7CWCpB	Comet Collision	Red	1	0		3			3	Lightning, Wizard, Action		Starfall						"Deal 3 arcane damage to any target.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 4 arcane damage."	Lightning Wizard Instant					No	
+kLgnHP8nHtnMwHfqN9zkp	Comet Collision	Yellow	2	0		3			2	Lightning, Wizard, Action		Starfall						"Deal 2 arcane damage to any target.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 3 arcane damage."	Lightning Wizard Instant					No	
+Mbrg9P78qm9PGCdPLbncD	Comet Collision	Blue	3	0		3			1	Lightning, Wizard, Action		Starfall						"Deal 1 arcane damage to any target.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 2 arcane damage."	Lightning Wizard Instant					No	
 hNtpt77b8dGgTbkCqzCLB	Comet Storm // Shock	Red	1	2		3			6	Wizard, Action, Lightning, Instant		Meld						"**Meld**
 
 Deal 5 arcane damage to any target.
@@ -2541,9 +2315,17 @@ Banish X instant and/or aura cards from any graveyard, where X is the amount of 
 //
 
 Deal 1 arcane damage to any target."	Lightning Wizard Action // Lightning Instant	Yes			No	No	
+pnDhdJwLcgC8zgTmK9Tkw	Constella Contemplation	Yellow	2	0					1	Lightning, Wizard, Instant		Starfall						"Create a Ponder token.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
+TCdgGPCgzDgGCJrwQgdpF	Constella Flowslide	Yellow	2	0					1	Lightning, Wizard, Instant		Starfall						"Create a Lightning Flow token.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
+CwhpPfrRGmdGNkjR6Fg8G	Constella Tiara					0				Lightning, Equipment, Head			Instant					**Instant** - {r}{r}, destroy this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Ponder token.	Lightning Equipment - Head						
 M6JRMPmrkhRWnW9mhPQwP	Constella Uplift	Yellow	2	0					1	Lightning, Wizard, Instant		Starfall						"{u} a staff you control.
 
 **Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero."	Lightning Wizard Instant						
+hFfmQg8Rc6gttfrhzpcPh	Constella Waves					0				Lightning, Wizard, Equipment, Arms			Instant	Amp 1				**Instant** - {t} your hero, destroy this: **Amp 1**	Lightning Wizard Equipment - Arms						
 RNCWjkhhdhrHCNRncqznq	Construct Bank Breaker	Yellow	2	0		3				Mechanologist, Action, Construct		Transform, Go again						"If you have a wrench weapon equipped, **transform** it and 3 Hyper Drivers you control into Bank Breaker, then equip Bank Breaker.
 
 **Go again**"	Mechanologist Action - Construct				No	No	
@@ -3077,6 +2859,15 @@ B9gmDwNBCkqFHpWgJBmhq	Destructive Aethertide	Blue	3	0		3			1	Wizard, Action		Sur
 Cqwf78hdKQTfgCtbkcrdL	Destructive Deliberation	Red	1	2	5	2				Generic, Action, Attack								When this hits a hero, create a Ponder token.	Generic Action - Attack						
 FgzGnMR8GKFpMNMr7DcKH	Destructive Deliberation	Yellow	2	2	4	2				Generic, Action, Attack								When this hits a hero, create a Ponder token.	Generic Action - Attack						
 THJWhmjtGRtWfPMRFFkdd	Destructive Deliberation	Blue	3	2	3	2				Generic, Action, Attack								When this hits a hero, create a Ponder token.	Generic Action - Attack						
+q9GwnnJTPk9KpPNdpW6wL	Destructive Fleetfoot	Red	1	0	3	3				Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
+
+When this hits a hero, destroy an aura token they control."	Lightning Runeblade Action - Attack						
+DqhpdDNnfhtrRH6pcfj8B	Destructive Fleetfoot	Yellow	2	0	2	3				Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
+
+When this hits a hero, destroy an aura token they control."	Lightning Runeblade Action - Attack						
+d9tCqMqtdwFCmHMbRFGzd	Destructive Fleetfoot	Blue	3	0	1	3				Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
+
+When this hits a hero, destroy an aura token they control."	Lightning Runeblade Action - Attack						
 rFtwwctDWPnQc7Wwtf6J6	Destructive Tendencies	Blue	3	0						Generic, Instant								"Choose 1 or both;
 
 - Remove all counters from target item token.
@@ -3608,12 +3399,33 @@ If Electrify is played from arsenal, draw a card.
 If Electrify is played from arsenal, draw a card.
 
 **Go again**"	Lightning Action						
+rh8QMDbW9nkbWFwtJhcqQ	Electrolyze	Red	1	1	4	0				Lightning, Action, Attack		Go again						**Go again**	Lightning Action - Attack						
+mkwdBRzRGWTQzwwJzqRbG	Electrolyze	Yellow	2	1	3	0				Lightning, Action, Attack		Go again						**Go again**	Lightning Action - Attack						
+wmn7GbbMWqtGtTpqBk6QF	Electrolyze	Blue	3	1	2	0				Lightning, Action, Attack		Go again						**Go again**	Lightning Action - Attack						
 BM6cWKkWT7zRBLb7P77pg	Electromagnetic Somersault	Red	1	0						Lightning, Instant								Choose up to 2 attack action cards with cost 0 or more on the active chain link. Return them to their owner's hand when the chain link resolves.	Lightning Instant					No	
 dGtzm9PwqTkFGcJwFNzPM	Electromagnetic Somersault	Yellow	2	0						Lightning, Instant								Choose up to 2 attack action cards with cost 1 or more on the active chain link. Return them to their owner's hand when the chain link resolves.	Lightning Instant					No	
 TjdM8c7NpJjpjdLDbt7KG	Electromagnetic Somersault	Blue	3	0						Lightning, Instant								Choose up to 2 attack action cards with cost 2 or more on the active chain link. Return them to their owner's hand when the chain link resolves.	Lightning Instant					No	
 NFLNtzkpfQDgdPkHfjknf	Electrostatic Discharge	Red	1	0						Lightning, Instant								The next attack action card you play this turn with cost 1 or less gets +3{p}.	Lightning Instant						
 gMQ9qN89b76Fz9CwfBf6q	Electrostatic Discharge	Yellow	2	0						Lightning, Instant								The next attack action card you play this turn with cost 1 or less gets +2{p}.	Lightning Instant						
 D6DtJ7kmNcPBMHWrghGTj	Electrostatic Discharge	Blue	3	0						Lightning, Instant								The next attack action card you play this turn with cost 1 or less gets +1{p}.	Lightning Instant						
+CKGFjmKNk6mhMHThPGmK6	Electryn Joltstep	Red	1	1		3				Lightning, Runeblade, Action		Go again						"Your next Runeblade or Lightning attack this turn gets +3{p}.
+
+Create a Lightning Flow token.
+
+**Go again**"	Lightning Runeblade Action						
+7DnnzwcQQQbdHtcDJ9PJG	Electryn Joltstep	Yellow	2	1		3				Lightning, Runeblade, Action		Go again						"Your next Runeblade or Lightning attack this turn gets +2{p}.
+
+Create a Lightning Flow token.
+
+**Go again**"	Lightning Runeblade Action						
+GmwDh7pgHwFkGnTTKCL9W	Electryn Joltstep	Blue	3	1		3				Lightning, Runeblade, Action		Go again						"Your next Runeblade or Lightning attack this turn gets +1{p}.
+
+Create a Lightning Flow token.
+
+**Go again**"	Lightning Runeblade Action						
+BBj7tdpTkLpgrhCrq9qRh	Electryn Mindmeld	Yellow	2	1	3	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p} and ""When this attacks a hero, deal 1 arcane damage to them.""
+
+The first time this deals damage to a hero, you may put an instant card from your graveyard on the bottom of your deck."	Lightning Runeblade Action - Attack					No	
 Gn89Bw77qcNMHW6fTCRTj	Elemental Strike	Red	1	0	5	3				Elemental, Action, Attack		Go again, Dominate						As an additional cost to play this, banish a card from your hand. If it's Earth, this gets +2{p}. Lightning, this gets **go again**. Ice, this gets **dominate**.	Elemental Action - Attack				No	No	
 Tr6LzWfrtqMkKjM7JpHjC	Elliptical Conflux	Yellow	2	1						Lightning, Illusionist, Instant, Aura		Ward 2						"When this leaves the arena, create an Embodiment of Lightning token.
 
@@ -3815,6 +3627,15 @@ tJhRRN9kkMCnGQdQJ8TWg	Enigma, Ledger of Ancestry						40	4		Mystic, Illusionist,
 9HfDfRR8m8cLKDdg88gjm	Enigma, New Moon						20	4		Mystic, Illusionist, Hero, Young			Instant		Cloaked		Ward	"Equipment you own gets **cloaked**
 
 **Instant** - {c}{c}{c}: Turn target face-down equipment you have equipped face-up. If it has **ward**, create 3 Spectral Shield tokens."	Mystic Illusionist Hero - Young			No	No	No	No
+dzMffTNHqjw8q8jkDjGwD	Enion Surge	Red	1	0		3			3	Lightning, Wizard, Action								"Deal 3 arcane damage to any target.
+
+If this deals damage, you may {t} your hero. If you do, create a Lightning Flow token."	Lightning Wizard Action						
+McHtzkNrnJDfNFNNqCFC8	Enion Surge	Yellow	2	0		3			2	Lightning, Wizard, Action								"Deal 2 arcane damage to any target.
+
+If this deals damage, you may {t} your hero. If you do, create a Lightning Flow token."	Lightning Wizard Action						
+fWQbRmQL9nM8TBfkfbCbW	Enion Surge	Blue	3	0		3			1	Lightning, Wizard, Action								"Deal 1 arcane damage to any target.
+
+If this deals damage, you may {t} your hero. If you do, create a Lightning Flow token."	Lightning Wizard Action						
 QDrWjRHBmBWBnJHmmbzRM	Enlightened Strike	Red	1	0	5	3				Generic, Action, Attack		Go again						"As an additional cost to play Enlightened Strike, put a card from your hand on the bottom of your deck.
 
 Choose 1;
@@ -3877,6 +3698,15 @@ CnzHmjrhb7TTzGJppkpfc	Eradicate	Yellow	2	1	4	3				Assassin, Action, Attack		Cont
 
 When this hits a hero, banish the top X cards of their deck, where X is the damage dealt by Eradicate."	Assassin Action - Attack				No	No	
 qJTKdmdtgwgfgPFLtWpNj	Erase Face	Red	1	2	6	2				Generic, Action, Attack								When this hits a hero, cards they own lose all class and talent types until the end of their next turn.	Generic Action - Attack				No	No	
+dmGpmBBdMCt7dTpGHmjmr	Erode Authority	Red	1	3	7	3				Illusionist, Action, Attack		Dominate, Fragment						"**Dominate**
+
+**Fragment**"	Illusionist Action - Attack					No	
+hFtq9BPKqRgdTGQF9mpRN	Erode Authority	Yellow	2	3	6	3				Illusionist, Action, Attack		Dominate, Fragment						"**Dominate**
+
+**Fragment**"	Illusionist Action - Attack					No	
+B9PzLK6qCpDjDpPHmmFdF	Erode Authority	Blue	3	3	5	3				Illusionist, Action, Attack		Dominate, Fragment						"**Dominate**
+
+**Fragment**"	Illusionist Action - Attack					No	
 NdcgmHW9WJnCHKNfLRhDd	Escalate Bloodshed	Red	1	0						Warrior, Instant, Aura								"Whenever a hero draws a card during an action phase, they lose 1{h}.
 
 At the beginning of each hero's action phase, they draw a card.
@@ -4348,6 +4178,7 @@ qrhLKPQDzcR99cHLz7jgq	Figment of War	Yellow	2	4						Light, Illusionist, Instant
 When this enters the arena, create a Courage token."	Light Illusionist Instant - Figment				No	No	
 wrn8fmpTQHjKLzzHtqwNG	Final Act	Red	1	1	1	3				Bard, Action, Attack								When this attacks, it gets +X{p}, where X is twice the number of cards in all pitch zones.	Bard Action - Attack				No	No	
 PHz8kWCt6rw6Q6jMgbdQC	Find Center	Blue	3	0	2	3				Ninja, Action, Attack		Combo						"**Combo** - If Crane Dance was the last attack this combat chain, Find Center can't be defended by cards with {r} cost less than the number of chain links you control, and it gains ""If this hits, create a Zen State token."""	Ninja Action - Attack				No	No	
+PgCtkKz6JjJQ9mgKK679T	Fingers of Fragmentation					0				Illusionist, Equipment, Arms			Instant				Fragment	**Instant** - {r}{r}, destroy this: Target attack action card that has fragmented gets +2{p}.	Illusionist Equipment - Arms						
 fJ6NzRBP9hRRcQLPLTDrf	Fire Tenet: Strike First	Red	1	0	3	2				Ninja, Action, Attack		Go again						"When this attacks, your next Draconic attack this combat chain gets +1{p}.
 
 **Go again**"	Ninja Action - Attack						
@@ -4425,6 +4256,9 @@ cQbwHf7HLrPGwPhCw88mq	Flash	Red	1	0		2				Lightning, Action		Go again			Go again
 BGDgkjjjkjJPtfRndfmFN	Flash	Blue	3	0		2				Lightning, Action		Go again			Go again			"The next action card you play this turn with cost 2 or greater gets **go again**.
 
 **Go again**"	Lightning Action						
+TkpjjKgfzKLgjRMDJNpk7	Flash Bolt	Red	1	2					3	Lightning, Wizard, Instant								Deal 3 arcane damage to target hero.	Lightning Wizard Instant					No	
+bnHbThztdNdG7g7gNqFj6	Flash Bolt	Yellow	2	2					2	Lightning, Wizard, Instant								Deal 2 arcane damage to target hero.	Lightning Wizard Instant					No	
+PhD7nmCtwWrmPpQ7NG8tz	Flash Bolt	Blue	3	2					1	Lightning, Wizard, Instant								Deal 1 arcane damage to target hero.	Lightning Wizard Instant					No	
 hBDtCDkPFDtWFTm9hGJDq	Flash of Brilliance					1				Lightning, Equipment, Head		Blade Break						"When this defends, you may discard a Lightning card. If you do, return an aura you control to its owner's hand.
 
 **Blade Break**"	Lightning Equipment - Head						
@@ -4510,6 +4344,18 @@ mRMLQ9PM6rhFMcMKWdcbm	Flight Path					1				Ranger, Equipment, Legs		Battleworn	A
 rPFqdQD8MGWwJh9th7NGz	Flittering Charge	Red	1	0	4	2				Lightning, Action, Attack		Go again						If you've played an instant card this chain link, this gets **go again**.	Lightning Action - Attack						
 PQbd6FrtTPTWfWQLT6Gr7	Flittering Charge	Yellow	2	0	3	2				Lightning, Action, Attack		Go again						If you've played an instant card this chain link, this gets **go again**.	Lightning Action - Attack						
 MPwMhPCJgTFpFWTTHfGW9	Flittering Charge	Blue	3	0	2	2				Lightning, Action, Attack		Go again						If you've played an instant card this chain link, this gets **go again**.	Lightning Action - Attack						
+9wjwrtNmPJzqbLfcrchgR	Flittering Forcefield	Red	1	0		3				Lightning, Defense Reaction								While this is defending, if you've played an instant card this chain link, this gets +1{d}.	Lightning Defense Reaction						
+hRQFwWPRMpJrgj8NTmbCR	Flittering Forcefield	Yellow	2	0		2				Lightning, Defense Reaction								While this is defending, if you've played an instant card this chain link, this gets +1{d}.	Lightning Defense Reaction						
+gRQQM97BJrfQFQjB8jPzz	Flittering Forcefield	Blue	3	0		1				Lightning, Defense Reaction								While this is defending, if you've played an instant card this chain link, this gets +1{d}.	Lightning Defense Reaction						
+QQqkkCLrwB88t8t7w8mwz	Flittering Spike	Red	1	1	4	3				Lightning, Action, Attack								"If you've played an instant card this chain link, this gets +2{p}.
+
+When this hits, create a Lightning Flow token."	Lightning Action - Attack						
+NwMDbH6HdbCPLbKQCCqDh	Flittering Spike	Yellow	2	1	3	3				Lightning, Action, Attack								"If you've played an instant card this chain link, this gets +2{p}.
+
+When this hits, create a Lightning Flow token."	Lightning Action - Attack						
+hLpJwQM8kntLtkwcqdrrF	Flittering Spike	Blue	3	1	2	3				Lightning, Action, Attack								"If you've played an instant card this chain link, this gets +2{p}.
+
+When this hits, create a Lightning Flow token."	Lightning Action - Attack						
 C6NjgQKQBjDBcCJFg6cGd	Flock of the Feather Walkers	Red	1	1	5	2				Generic, Action, Attack								"As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost 1 or less.
 
 When you attack with Flock of the Feather Walkers, create a Quicken token."	Generic Action - Attack						
@@ -4532,6 +4378,7 @@ RrrMdb8KPhtNTzKFrRRWQ	Flourish	Yellow	2	0		2				Earth, Action		Go again						"Th
 PK8zK8ngMjKPzjTLR9zfB	Flourish	Blue	3	0		2				Earth, Action		Go again						"The next time an attack would gain {p} this turn, instead it gains that much plus 2.
 
 **Go again**"	Earth Action					No	
+PcCQGjz68TjzgQrMfRnLQ	Flow Through	Blue	3	0						Lightning, Instant								"Target Lightning attack gets +1{p} and ""When this hits, create a Lightning Flow token."""	Lightning Instant					No	
 KQhHqHjdrF8cFkRhQDQWq	Flowing Stormstrike	Red	1	0	4	2				Lightning, Action, Attack			Twice per Turn Instant					"**Twice per Turn Instant** - {r}: This gets +1{p}.
 
 When this hits, create a Lightning Flow token."	Lightning Action - Attack					No	
@@ -4987,6 +4834,11 @@ nTWKhGp7pwKwMmtFnB8hc	Golden Heart Plate					2				Warrior, Equipment, Chest		Leg
 This counts as a Gold.
 
 **Temper**"	Warrior Equipment - Chest				No	No	
+9PLjGPKQTdWLMhrwDDptm	Golden Skull	Yellow	2	0						Pirate, Necromancer, Action, Item		Go again, Watery Grave						"**Go again**
+
+This counts as a Gold.
+
+**Watery Grave**"	Pirate Necromancer Action - Item				No	No	
 cTchBtPqMqnNgDGGW89Gp	Golden Skywarden	Yellow	2	4	7	2				Pirate, Mechanologist, Action, Attack		Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +1{d}. If a Golden Cog is destroyed this way, create a Gold token and repeat this process.	Pirate Mechanologist Action - Attack				No	No	
 6CpcdCrJKFkpkdkdLPQqT	Golden Tipple	Red	1	1	3	2				Pirate, Action, Attack		Go again						"When this attacks, you may discard a yellow card. If you do, draw a card and create a Gold token.
 
@@ -5260,6 +5112,15 @@ GTj8JGDq7LfKj8HjpNhmn	Haunting Specter	Yellow	2	2		2				Illusionist, Action, Aur
 CpfKgC8NJWLbMkhzFqQ8g	Haunting Specter	Blue	3	2		2				Illusionist, Action, Aura		Ward 2						"When this leaves the arena, create a Spectral Shield token, then if you control no other Illusionist auras, put a +1{p} counter on it.
 
 **Ward 2**"	Illusionist Action - Aura					No	
+PnnF9jgBnbK7W67t7KrHG	Haven Veil	Red	1	0						Wizard, Instant, Aura								"When this enters the arena, prevent the next 3 arcane damage that would be dealt to you this turn.
+
+At the beginning of your action phase, destroy this."	Wizard Instant - Aura					No	
+g7bpktwdT6TNqpKwzJHPG	Haven Veil	Yellow	2	0						Wizard, Instant, Aura								"When this enters the arena, prevent the next 2 arcane damage that would be dealt to you this turn.
+
+At the beginning of your action phase, destroy this."	Wizard Instant - Aura					No	
+nNKq8rmjRrnwqK7DdtkPr	Haven Veil	Blue	3	0						Wizard, Instant, Aura								"When this enters the arena, prevent the next 1 arcane damage that would be dealt to you this turn.
+
+At the beginning of your action phase, destroy this."	Wizard Instant - Aura					No	
 FHdcQjB7mGbTgzJnmPmhc	Havoc Wrap					1				Chaos, Equipment, Chest		Battleworn	Action	Go again				"**Action** - {t}: **Go again**
 
 If this is tapped, cards cost {r} less to play, this doesn't untap during the end phase, and this gets ""At the start of your turn, destroy this.""
@@ -5616,6 +5477,9 @@ WHLRchgdMH8Bjb8TDngkp	Hold 'em	Blue	3	1		3				Warrior, Action		Go again, Wager		
 **Blade Break**"	Revered Equipment - Arms						
 mTWd9JgNqM9bGj9H87Jpq	Hold Focus					0				Wizard, Equipment, Arms			Action	Amp 1, Go again				**Action** - Destroy this: **Amp 1**. **Go again**	Wizard Equipment - Arms						
 77rDjRrtRKDHTpNwbHWDW	Hold the Line	Blue	3	0		2				Generic, Defense Reaction								If the attacking hero has drawn 2 or more cards this turn, prevent the next 3 damage that would be dealt to your hero this turn.	Generic Defense Reaction				No	No	
+f9C7rd9WgL9b8bgFMrP9h	Holo Shield	Red	1	1						Lightning, Illusionist, Instant, Aura		Ward X						**Ward X**, where X is 4 if this has a holo counter. Otherwise, X is 1.	Lightning Illusionist Instant - Aura						
+gQbKw7QPrQtQ7TTKDfLbb	Holo Shield	Yellow	2	1						Lightning, Illusionist, Instant, Aura		Ward X						**Ward X**, where X is 3 if this has a holo counter. Otherwise, X is 1.	Lightning Illusionist Instant - Aura						
+H7PmnpTDN7WpBw7gtwCdq	Holo Shield	Blue	3	1						Lightning, Illusionist, Instant, Aura		Ward X						**Ward X**, where X is 2 if this has a holo counter. Otherwise, X is 1.	Lightning Illusionist Instant - Aura						
 mzKLGwTBmFHFd8KNdPQ7n	Homage to Ancestors	Blue	3	0						Mystic, Instant		Legendary, Transcend						"**Legendary**
 
 Gain 1{h}
@@ -5914,6 +5778,7 @@ If it has 3 or more +1{p} counters, your next attack with it this turn gets ""Wh
 zbnJCMqgMPNLrgCpGkgrq	Index	Red	1	0		2				Wizard, Action								Look at the top 5 cards of your deck. Put 1 card from among them on top of your deck, and the rest on the bottom of your deck in any order.	Wizard Action						
 g7hJCTWLMLLjNGWM89PzC	Index	Yellow	2	0		2				Wizard, Action								Look at the top 4 cards of your deck. Put 1 card from among them on top of your deck, and the rest on the bottom of your deck in any order.	Wizard Action						
 KTzNfrpRnQ7cfgKnwgwFt	Index	Blue	3	0		2				Wizard, Action								Look at the top 3 cards of your deck. Put 1 card from among them on top of your deck, and the rest on the bottom of your deck in any order.	Wizard Action						
+JQtbmKdrD67q9w6pr8rFD	Induce Panic	Yellow	2			2				Chaos, Block								When this defends, choose a color. Each hero reveals a random card from their hand. If it's the chosen color, they discard it.	Chaos Block				No	No	
 MNwTgMKtfwcbBTGTLCbzt	Induction Chamber	Red	1	2						Mechanologist, Action, Item			Action, Once per Turn Attack Reaction	Go again				"**Action** - {r}: If there are no steam counters on Induction Chamber, put a steam counter on it. **Go again**
 
 **Once per Turn Attack Reaction** - Remove a steam counter from Induction Chamber: Target Mechanologist pistol attack gains **go again**."	Mechanologist Action - Item					No	
@@ -6269,6 +6134,7 @@ cztrB96QNb9CqKDgBRwcN	Lace with Frailty	Red	1	0		2				Ranger, Action		Go again		
 n877nqgWkLDfjQBwM7DM7	Lace with Inertia	Red	1	0		2				Ranger, Action		Go again						"Your next arrow attack this turn gains +3{p} and ""When this hits a hero, create an Inertia token under their control.""
 
 **Go again**"	Ranger Action					No	
+Kb99nwFrrpTQJTpqN6kCt	Laced Lightning					0				Lightning, Equipment, Legs			Instant					**Instant** - {r}{r}, destroy this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create an Embodiment of Lightning token.	Lightning Equipment - Legs						
 QgJQKQKbPcQRM9BJ9qkGG	Laden with Earth	Red	1	1		2				Elemental, Action		Earth Bond, Go again						"Your next attack this turn gets +3{p}.
 
 **Earth Bond** - If an Earth card was pitched to play this, create an Embodiment of Earth token.
@@ -6404,6 +6270,15 @@ WpmPhMcL97wRCPfz8nzgR	Leave a Dent	Blue	3	0		3				Guardian, Action		Go again			C
 
 **Go again**"	Guardian Action				No	No	
 qftcQd6NJhpQkfCczqLF7	Leaven Sheath	Red	1	1		5				Elemental, Defense, Reaction		Earth Bond						**Earth Bond** - If an Earth card was pitched to play this, create an Embodiment of Earth token.	Elemental Defense Reaction						
+TqcqHwCjGhFkzkFCthwtd	Leech Memory	Red	1	1		3				Runeblade, Action		Go again						"The next attack action card you play this turn gets +3{p} and ""Whenever this deals damage to a hero, you may put an attack action card from your graveyard on the bottom of your deck.""
+
+**Go again**"	Runeblade Action					No	
+mHqPTDJhBrhWtLCrRBWbf	Leech Renown	Red	1	1		3				Runeblade, Action		Go again						"The next attack action card you play this turn gets +3{p} and ""Whenever this deals damage to a hero, destroy an aura token they control.""
+
+**Go again**"	Runeblade Action					No	
+9DqgBgRpB9C8cTRFjL8Gm	Leech Vitality	Red	1	1		3				Runeblade, Action		Go again						"The next attack action card you play this turn gets +3{p} and ""Whenever this deals damage to a hero, gain 1{h}.""
+
+**Go again**"	Runeblade Action					No	
 Thbcg9RW9t8WNfMCpgNmk	Leg Tap	Red	1	1	4	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack						
 9K6tW9Kcqfc67PtcgmNTP	Leg Tap	Yellow	2	1	3	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack						
 dcWdcd8Q6tnPKDT6nKkjH	Leg Tap	Blue	3	1	2	2				Ninja, Action, Attack		Go again						**Go again**	Ninja Action - Attack						
@@ -6501,6 +6376,15 @@ dpPzdRQgfkBRgcHbWMQpt	Lightning Greaves					1				Lightning, Equipment, Legs		Arc
 **Arcane Barrier 1**
 
 **Battleworn**"	Lightning Equipment - Legs				No	No	
+9TcGzWhGzwHnn7FqfPbfR	Lightning Overload	Red	1	1		3			4	Lightning, Wizard, Action		Starfall						"Deal 4 arcane damage to any target.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, create a Lightning Flow token."	Lightning Wizard Action						
+tBQtc8qMLfnmmGWCtFH9z	Lightning Overload	Yellow	2	1		3			3	Lightning, Wizard, Action		Starfall						"Deal 3 arcane damage to any target.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, create a Lightning Flow token."	Lightning Wizard Action						
+mp8HwB7fRRz7wK9fRrTmw	Lightning Overload	Blue	3	1		3			2	Lightning, Wizard, Action		Starfall						"Deal 2 arcane damage to any target.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, create a Lightning Flow token."	Lightning Wizard Action						
 QWgWwdcd8GPj8dCjCmRCR	Lightning Press	Red	1	0						Lightning, Instant								Target attack action card with cost 1 or less gains +3{p}.	Lightning Instant					No	
 CNgPdMm79nkPHpnqGQCFd	Lightning Press	Yellow	2	0						Lightning, Instant								Target attack action card with cost 1 or less gains +2{p}.	Lightning Instant					No	
 bjwkrWNdkhrMrPjMtdRmm	Lightning Press	Blue	3	0						Lightning, Instant								Target attack action card with cost 1 or less gains +1{p}.	Lightning Instant					No	
@@ -6883,6 +6767,15 @@ When this hits, you may put an item with cost 0 or 1 from your hand into the are
 RDTDDzfpjwLc9QrLWhqtB	Metacarpus Node					0				Wizard, Equipment, Arms		Arcane Barrier 1						"Whenever you play a card with an effect that deals arcane damage, you may pay {r}. If you do, instead it deals that much arcane damage plus 1, and destroy Metacarpus Node at the beginning of the end phase.
 
 **Arcane Barrier 1**"	Wizard Equipment - Arms				No	No	
+kLWrkbbDknfq8fR8TgHnL	Meteoric Impact	Red	1	1		3			3	Lightning, Wizard, Action		Starfall						"Deal 3 arcane damage to any target.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 5 arcane damage."	Lightning Wizard Action						
+pWjWpGdCjTKHFDh9FJCrQ	Meteoric Impact	Yellow	2	1		3			2	Lightning, Wizard, Action		Starfall						"Deal 2 arcane damage to any target.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 4 arcane damage."	Lightning Wizard Action						
+MwqB6GDDJFWdmCBtnHPc9	Meteoric Impact	Blue	3	1		3			1	Lightning, Wizard, Action		Starfall						"Deal 1 arcane damage to any target.
+
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 3 arcane damage."	Lightning Wizard Action						
 cmbfFHBr6hjhrdmNNQGg6	Meteoric Rise	Red	1	1	5	2				Lightning, Action, Attack			Twice per Turn Instant					"**Twice per Turn Instant** - {r}: This gets +1{p}.
 
 When this hits, create a Lightning Flow token."	Lightning Action - Attack					No	
@@ -7138,6 +7031,9 @@ NJzwDLBDqqptTpFQTpkNm	Nebula Duality	Yellow	2	0		3			2	Lightning, Wizard, Action
 NrmFkQH9q78BrzKJ8L9DJ	Nebula Duality	Blue	3	0		3			1	Lightning, Wizard, Action			Instant					"Deal 1 arcane damage to any target.
 
 **Instant** - {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token."	Lightning Wizard Action						
+knQ7hzFBj6fFLH9LTd8MD	Nebulus Cycle	Yellow	2	1						Lightning, Illusionist, Instant, Aura		Ward 2						"When this leaves the arena, create a Ponder token.
+
+**Ward 2**"	Lightning Illusionist Instant - Aura						
 b886KqRJLbpj78kHWMQJ9	Nekria				4		7			Draconic, Illusionist, Dragon, Ally								Whenever Nekria deals or is dealt damage, put a -1{h} counter on her and create an Ash token.	Draconic Illusionist - Dragon Ally					No	
 pWGjB9PckfFJgNBppfbfT	Nerve Scalpel				1					Assassin, Weapon, Dagger, 1H		Piercing 1	Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}{r}: **Attack**. **Go again**
 
@@ -7217,6 +7113,12 @@ The next time an opponent would draw a card from the effect of a Gold token this
 wmGCKjjh6QbD6WTqNFqn9	Not So Mighty	Blue	3			2				Revered, Block								When this defends a Reviled hero's attack, destroy a Might token they control. If you do, create a Toughness token.	Revered Block						
 hNbHKGgQDmpBmQWDDTnkR	Not So Tuff	Blue	3			2				Reviled, Block								When this defends a Revered hero's attack, destroy a Toughness token they control. If you do, create a Might token.	Reviled Block						
 7Tpfm7Ccf8rKcztfFngM9	Nourishing Emptiness	Red	1	2	6	3				Generic, Action, Attack		Dominate						"While there are no attack action cards in your graveyard, Nourishing Emptiness has **dominate** and ""If this hits, your hero gains +1{i} until end of turn."""	Generic Action - Attack				No	No	
+MqKhDHHHkLfFrdh7mBzcR	Nourishing Glow	Blue	3	0						Lightning, Illusionist, Instant, Aura		Ward 1						"When this enters the arena, gain 1{h}.
+
+**Ward 1**"	Lightning Illusionist Instant - Aura						
+8zKwdDwBMQ79DjgrwJTTn	Nucleus Aetherbolt	Red	1	0		2			3	Wizard, Action								"Deal 3 arcane damage to any target.
+
+If this deals damage, you may {t} your hero. If you do, your hero deals 1 arcane damage to any target."	Wizard Action					No	
 JTrNBd8TcnPmB6KdDmjRN	Null // Shock	Yellow	2	1					1	Wizard, Instant, Lightning, Instant		Meld, Negate						"**Meld**
 
 If target instant card has cost less than the total arcane damage you've dealt to opposing heroes this turn, **negate** it.
@@ -8429,6 +8331,21 @@ k8d9d7n7fJRwkRDWG7Kcn	Quelling Robe					0				Generic, Equipment, Chest		Quell 1	
 QdCcTgDwqq66NHp6qDdTz	Quelling Sleeves					0				Generic, Equipment, Arms		Quell 1						**Quell 1**	Generic Equipment - Arms						
 DMht6KBFhqWNdGBJNL7NB	Quelling Slippers					0				Generic, Equipment, Legs		Quell 1						**Quell 1**	Generic Equipment - Legs						
 BzRFcMpm9fmqgDPNdCRQ9	Quick Clicks					0				Generic, Equipment, Legs			Action	Go again				**Action** - Destroy this: Your next attack this turn gets **go again**. Activate this only if you've played a Nimblism this turn. **Go again**	Generic Equipment - Legs						
+fbKwcPnqhWKbTWd6M9Wbc	Quick Succession	Red	1	0		2				Lightning, Runeblade, Action		Go again			Go again			"The next Runeblade or Lightning attack action card you play this turn gets **go again**.
+
+Your next 3 attacks this turn get +1{p} while they have go again.
+
+**Go again**"	Lightning Runeblade Action						
+WLRcb8jRrktGNqbttwfWF	Quick Succession	Yellow	2	0		2				Lightning, Runeblade, Action		Go again			Go again			"The next Runeblade or Lightning attack action card you play this turn gets **go again**.
+
+Your next 2 attacks this turn get +1{p} while they have go again.
+
+**Go again**"	Lightning Runeblade Action						
+HHLWJzrFMfcnpmN8J6MrC	Quick Succession	Blue	3	0		2				Lightning, Runeblade, Action		Go again			Go again			"The next Runeblade or Lightning attack action card you play this turn gets **go again**.
+
+Your next attack this turn get +1{p} while it has go again.
+
+**Go again**"	Lightning Runeblade Action						
 kg7JPwP7pDg9wGqqQ76HT	Quickdodge Flexors					0				Generic, Equipment, Legs			Defense Reaction					"**Defense Reaction** - {r}: Add this to the active chain link as a defending card. It has 2 base {d} this chain link.
 
 At the beginning of the end phase, if this defendend this turn, destroy it."	Generic Equipment - Legs				No	No	
@@ -8888,6 +8805,8 @@ PTR7kfMCdM6TmztT8d7GM	Rift Bind	Blue	3	1	1	3				Shadow, Runeblade, Action, Attac
 
 **Blood Debt**"	Shadow Runeblade Action - Attack						
 kgNHt6z9pwBJLNLKqNc7c	Rift Breaker	Red	1	2	6	2				Lightning, Action, Attack								When this hits a hero, destroy a Lightning Flow token they control.	Lightning Action - Attack					No	
+NTTNLDR97DQMKrFCDz8FT	Rift Breaker	Yellow	2	2	5	2				Lightning, Action, Attack								When this hits a hero, destroy a Lightning Flow token they control.	Lightning Action - Attack					No	
+p9ccrThgrP8Jt6JNkcTGM	Rift Breaker	Blue	3	2	4	2				Lightning, Action, Attack								When this hits a hero, destroy a Lightning Flow token they control.	Lightning Action - Attack					No	
 Tp7nmGfdwmJP7gzgftM9T	Rift Skitter	Red	1	3	4	3				Shadow, Runeblade, Action, Attack		Rune Gate, Go again, Blood Debt						"**Rune Gate**
 
 **Go again**
@@ -9248,6 +9167,15 @@ The next Runeblade attack action card you play this turn gets +3{p}.
 **Go again**"	Runeblade Action				No	No	
 gBdLwdzLq6zrMGbHKpKfw	Runic Reclamation	Red	1	3	7	3				Runeblade, Action, Attack								When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.	Runeblade Action - Attack				No	No	
 hPQ9NCmMKDdgMkzpkpGb6	Runner Runner	Red	1	2	6	3				Brute, Warrior, Action, Attack							Go again	When this attacks, if it has **go again**, create an Agility token.	Brute / Warrior Action - Attack				No	No	
+jbmgCjPjGMC9g6688q8RM	Rush of Power	Red	1	0	3	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
+
+When this hits a hero, deal 1 arcane damage to them."	Lightning Runeblade Action - Attack						
+qtJwHkr8WgjHJcC9gNPGj	Rush of Power	Yellow	2	0	2	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
+
+When this hits a hero, deal 1 arcane damage to them."	Lightning Runeblade Action - Attack						
+mr9jJffnHHHcrG9p8fdMP	Rush of Power	Blue	3	0	1	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets +1{p}.
+
+When this hits a hero, deal 1 arcane damage to them."	Lightning Runeblade Action - Attack						
 wmN6kmKhktkmfhWtqLmHm	Rushing River	Red	1	0	3	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack					No	
 cdcnJRkcCzJkDmb7NwnPQ	Rushing River	Yellow	2	0	2	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack					No	
 tMDDnhBrcpCL8c9MW7BgC	Rushing River	Blue	3	0	1	3				Ninja, Action, Attack		Combo, Go again						"**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1{p}, **go again**, and ""If Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."""	Ninja Action - Attack					No	
@@ -10073,6 +10001,15 @@ JthBWKRDhpngQP6FcKtRR	Silverwind Shuriken	Blue	3	0						Ninja, Action, Shuriken,
 WQPHQL8cWbfCc68dHrkLK	Singe	Red	1	1		3			1	Wizard, Action								Deal 1 arcane damage to target hero and up to 3 target allies they control.	Wizard Action						
 h7MzmDDJRnbDwtMjqfcm6	Singe	Yellow	2	1		3			1	Wizard, Action								Deal 1 arcane damage to target hero and up to 2 target allies they control.	Wizard Action						
 qNjkhDfW8htQBMqmCbW8M	Singe	Blue	3	1		3			1	Wizard, Action								Deal 1 arcane damage to target hero and up to 1 target ally they control.	Wizard Action						
+Mzq9qrLQtHKjNTgkDqtwB	Singeing Flowstride	Red	1	1	4	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
+
+The first time this deals damage to a hero, create a Lightning Flow token."	Lightning Runeblade Action - Attack						
+NCPg8kRTF8gMFfrpkc8p8	Singeing Flowstride	Yellow	2	1	3	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
+
+The first time this deals damage to a hero, create a Lightning Flow token."	Lightning Runeblade Action - Attack						
+wJLdrWjMqLQL8r7wMc8Rg	Singeing Flowstride	Blue	3	1	2	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
+
+The first time this deals damage to a hero, create a Lightning Flow token."	Lightning Runeblade Action - Attack						
 K8LjGFFcwN6bTgGrm7cC6	Singeing Steelblade	Red	1	1	4	3			1	Runeblade, Action, Attack								When you attack with Singeing Steelblade, deal 1 arcane damage to target hero.	Runeblade Action - Attack						
 HQkFFfDPwngtdD6LwK7gC	Singeing Steelblade	Yellow	2	1	3	3			1	Runeblade, Action, Attack								When you attack with Singeing Steelblade, deal 1 arcane damage to target hero.	Runeblade Action - Attack						
 fbWKm6G9jpPrnL7t7TqDg	Singeing Steelblade	Blue	3	1	2	3			1	Runeblade, Action, Attack								When you attack with Singeing Steelblade, deal 1 arcane damage to target hero.	Runeblade Action - Attack						
@@ -10279,6 +10216,7 @@ fnwmJgw6ktTLBrnD7QHFN	Smoldering Steel	Red	1	0		3				Draconic, Warrior, Attack R
 
 While this is in your graveyard, if 1 or more Frostbite tokens would be created under your control, instead you may banish this."	Draconic Warrior Attack Reaction					No	
 rGc7TPKW7CDRmPRCLg6Jd	Snag	Blue	3	0						Generic, Instant								Attack action cards can't gain {p} from their own effects, or the effects of attack reaction cards this turn.	Generic Instant				No	No	
+9t6zhmKcwhjTK8RRGCnTz	Snap Fingers					0			1	Lightning, Runeblade, Equipment, Arms			Instant					**Instant** - {r}, destroy this: Target Lightning attack action card you control on the active chain link deals 1 arcane damage to the defending hero.	Lightning Runeblade Equipment - Arms						
 rqcn9Q6JDG6FRCrpt9tb7	Snap Shot	Red	1	0	4	3				Elemental, Ranger, Action, Arrow, Attack		Lightning Fusion						"**Lightning Fusion**
 
 If Snap Shot was **fused**, you may activate abilities of bows you control an additional time this turn and as though they were an instant."	Elemental Ranger Action - Arrow Attack					No	
@@ -10499,6 +10437,9 @@ ct8dbmGW77wb6TkJwJkFT	Spell Fray Gloves					0				Generic, Equipment, Arms		Spell
 8JHRBmh8WLLgMgCrP7Tpk	Spell Fray Leggings					0				Generic, Equipment, Legs		Spellvoid 1						**Spellvoid 1**	Generic Equipment - Legs						
 997QbbqzqGhMQP6HqFghP	Spell Fray Tiara					0				Generic, Equipment, Head		Spellvoid 1						**Spellvoid 1**	Generic Equipment - Head						
 pdMgMzHwDgBpCNjD7WGLD	Spellbane Aegis									Generic, Token, Aura		Spellvoid 1						**Spellvoid 1**	Generic Token - Aura						
+knGQQqjCfQqzWj6JjN6CR	Spellbane Sigil	Blue	3	0						Lightning, Instant, Aura		Arcane Barrier X						"At the beginning of your action phase, destroy this.
+
+**Arcane Barrier X**"	Lightning Instant - Aura						
 Q7MwD7d9tcbhG9bjm7qQW	Spellbane Trap	Red	1	0		2				Ranger, Action, Trap		Go again						"Your next arrow attack this turn gets +3{p}.
 
 **Go again**
@@ -10727,11 +10668,14 @@ kRwtJCMHKNcKNrdk8LFnC	Starfield Touch					1				Lightning, Illusionist, Equipment
 MkzmkbbNf7DMHkzMkDrLk	Starfield Veil					2				Lightning, Illusionist, Equipment, Head		Guardwell	Instant				Fragment	"**Instant** - Destroy this: The next aura you play this turn enters the arena with a holo counter. Activate this only if an attack has fragmented this turn.
 
 **Guardwell**"	Lightning Illusionist Equipment - Head				No	No	
+7cRzGcKGcWdbccLB8KnRn	Starflow Robes					0				Lightning, Equipment, Chest			Instant					**Instant** - {r}{r}, destroy this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Lightning Flow token.	Lightning Equipment - Chest						
+Qrk8RRBkp7q98qbGDTgDB	Starlight Road	Blue	3	0						Lightning, Instant								Create an Embodiment of Lightning or Lightning Flow token.	Lightning Instant						
 dCkbCnQ7pcjfbQ7k8GhFk	Starlight Striders					1				Lightning, Runeblade, Equipment, Legs		Blade Break						"When this defends, you may reveal an instant card from your hand. If you do, create an Embodiment of Lightning token.
 
 **Blade Break**"	Lightning Runeblade Equipment - Legs				No	No	
 h8WG7GncNP7qN7hnzTdN9	Starting Point					0				Assassin, Warrior, Equipment, Legs			Attack Reaction		Go again			**Attack Reaction** - Destroy this: Target attack gets **go again**. Activate this only if you've played a card or activated an ability this reaction step.	Assassin / Warrior Equipment - Legs						
 kD798qm7kWr9fhCLM9dDm	Starting Stake	Yellow	2	0		3				Generic, Action								If you control no Gold tokens, create a Gold token.	Generic Action						
+CPGCwntgcMqcqCBLh6nBL	Starworld Warning	Yellow	2	1						Lightning, Instant								Create 2 Lightning Flow tokens.	Lightning Instant						
 fdQ8rf8W6d7KgDhprdm9k	Stasis Cell	Blue	3	0						Mechanologist, Action, Item			Action	Go again				"When this enters or leaves the arena, activated abilities of target equipment can't be activated until the end of its controller's next turn.
 
 **Action** - Put this on the bottom of its owner's deck: Choose an equipment. It can't defend this turn. **Go again**"	Mechanologist Action - Item				No	No	
@@ -10764,6 +10708,9 @@ Until end of turn, target weapon gains +2{p} and ""Whenever this weapon hits, dr
 
 **Go again**"	Warrior Action				No	No	
 fDMpDJm8JHF7zkQcDq8mn	Steelbraid Buckler					2				Guardian, Equipment, Off-Hand		Temper						**Temper**	Guardian Equipment - Off-Hand						
+RcbDmpjTgR9FJbgqzb8Tq	Stellar Glide	Red	1	2	5	2				Lightning, Action, Attack		Go again						When this attacks, you may destroy a Lightning Flow you control. If you do, this gets **go again**.	Lightning Action - Attack						
+chPp6ddLWdLWWM7fTMLfp	Stellar Glide	Yellow	2	2	4	2				Lightning, Action, Attack		Go again						When this attacks, you may destroy a Lightning Flow you control. If you do, this gets **go again**.	Lightning Action - Attack						
+FPThjmfgpwBHmGzd66FCF	Stellar Glide	Blue	3	2	3	2				Lightning, Action, Attack		Go again						When this attacks, you may destroy a Lightning Flow you control. If you do, this gets **go again**.	Lightning Action - Attack						
 BFczG87kDHQnkhk8FmJnP	Step Between	Red	1	0	4	2				Generic, Action, Attack			Instant					"While this is attacking or on the stack, opponents can't play or activate instants.
 
 **Instant** - {r}, {t} your hero: This gets +1{p} and {p} damage can't be prevented this combat chain."	Generic Action - Attack				No	No	
@@ -10777,6 +10724,9 @@ cqMtqGpkpQKD6bPB8pT9N	Sting of Sorcery	Blue	3	0		2			1	Runeblade, Action, Aura		
 Attack action cards you control gain ""When you attack with this, deal 1 arcane damage to target hero.""
 
 At the beginning of your end phase, destroy Sting of Sorcery."	Runeblade Action - Aura				No	No	
+9g9FTKT6DqqrcKHnMGdWD	Stinging Sprite	Red	1	0	3	2			1	Lightning, Runeblade, Action, Attack								When this attacks or defends, deal 1 arcane damage to target hero.	Lightning Runeblade Action - Attack					No	
+NTfKzDBrKMPQ8LjGcWn6q	Stinging Sprite	Yellow	2	0	2	2			1	Lightning, Runeblade, Action, Attack								When this attacks or defends, deal 1 arcane damage to target hero.	Lightning Runeblade Action - Attack					No	
+Fccdnhg8DpLB6cTgjFgcw	Stinging Sprite	Blue	3	0	1	2			1	Lightning, Runeblade, Action, Attack								When this attacks or defends, deal 1 arcane damage to target hero.	Lightning Runeblade Action - Attack					No	
 fMdnz9D9MRDrzMrBFf7Kr	Stir the Aetherwinds	Red	1	2		2				Wizard, Action								You may play your next Wizard 'non-attack' action card this turn as though it were an instant and if it has an effect that deals arcane damage, instead that effect deals that much arcane damage plus 3.	Wizard Action					No	
 nPwjcRFWBmzNQWM6BMcgB	Stir the Aetherwinds	Yellow	2	2		2				Wizard, Action								You may play your next Wizard 'non-attack' action card this turn as though it were an instant and if it has an effect that deals arcane damage, instead that effect deals that much arcane damage plus 2.	Wizard Action					No	
 k8wMFCFHtGTtTRfnzKGqQ	Stir the Aetherwinds	Blue	3	2		2				Wizard, Action								You may play your next Wizard 'non-attack' action card this turn as though it were an instant and if it has an effect that deals arcane damage, instead that effect deals that much arcane damage plus 1.	Wizard Action					No	
@@ -10833,9 +10783,15 @@ PQm7zFjBPCzc68JDd8D6z	Storm of Sandikai									Draconic, Illusionist, Weapon, S
 CpC7qQBbgTjCDJDwWprG7	Stormshard	Red	1	1						Lightning, Instant								"You may destroy a Lightning Flow you control rather than pay this card's {r} cost.
 
 Target Lightning attack gets +3{p}."	Lightning Instant						
+HDkhnPHFCdnwmfMDrmHPN	Stormshatter	Yellow	2	1						Lightning, Instant								"You may destroy a Lightning Flow you control rather than pay this card's {r} cost.
+
+Target Lightning attack gets -3{p}."	Lightning Instant						
 jGpmP7RtNPqn6WnmJkLwQ	Stormweaver's Aegis					0				Lightning, Equipment, Chest		Arcane Barrier 1	Instant					"**Instant** - Destroy this: Until end of turn, instant cards you own get ""**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.""
 
 **Arcane Barrier 1**"	Lightning Equipment - Chest				No	No	
+bmGcLFqnPwP6k88kJH6Bw	Stormwhirl	Blue	3	1						Lightning, Instant					Go again			"You may destroy a Lightning Flow you control rather than pay this card's {r} cost.
+
+Target Lightning attack gets **go again**."	Lightning Instant						
 jwDzJCPgGpnn6QgPJkNTH	Stormwind Sheath	Red	1	1		5				Elemental, Defense, Reaction		Lightning Bond						**Lightning Bond** - If a Lightning card was pitched to play this, create an Embodiment of Lightning token.	Elemental Defense Reaction						
 9Lkp6qzHGh7z78K9cFjrJ	Story Beats	Red	1	3	7	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack					No	
 DwhgmJpg6hHzFJPPK6n7T	Story Beats	Yellow	2	3	6	2				Guardian, Action, Attack							Suspense	When this attacks or defends, you may put a suspense counter on, or remove one from, an aura of suspense you control.	Guardian Action - Attack					No	
@@ -10915,6 +10871,15 @@ czMNmPkcRdNwQ87L77gW8	Stun Star	Blue	3	0	1	2				Ninja, Instant, Shuriken, Item		
 **Action** - {r}, {t}, destroy this when the combat chain closes: **Attack**. **Go again**
 
 When this hits a hero, {t} them."	Ninja Instant - Shuriken Item				No	No	
+fg6fdKmQkGmCgkGprpKRR	Stunning Swipe	Red	1	0	3	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
+
+The first time this deals damage to a Lightning hero, {t} them or a weapon they control."	Lightning Runeblade Action - Attack						
+zn8NpMnDBcKzGhLj9Cp6J	Stunning Swipe	Yellow	2	0	2	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
+
+The first time this deals damage to a Lightning hero, {t} them or a weapon they control."	Lightning Runeblade Action - Attack						
+T7GW8p6RPN7C9Bk8bLWDd	Stunning Swipe	Blue	3	0	1	3			1	Lightning, Runeblade, Action, Attack		Quickstrike					Go again	"**Quickstrike** - If this has go again, it gets ""When this attacks a hero, deal 1 arcane damage to them.""
+
+The first time this deals damage to a Lightning hero, {t} them or a weapon they control."	Lightning Runeblade Action - Attack						
 JPwjprFjTWqcQJdcJLqmJ	Submerge	Red	1	0	6	3				Pirate, Action, Attack								As an additional cost to play this, put a card from your hand into your deck fifth from the top.	Pirate Action - Attack						
 8HczDHq8DGPQrpqcRLMmm	Submerge	Yellow	2	0	5	3				Pirate, Action, Attack								As an additional cost to play this, put a card from your hand into your deck fifth from the top.	Pirate Action - Attack						
 TwwCRKdKRK7BLDfNWdL7w	Submerge	Blue	3	0	4	3				Pirate, Action, Attack								As an additional cost to play this, put a card from your hand into your deck fifth from the top.	Pirate Action - Attack						
@@ -11186,6 +11151,15 @@ Cqr7rhqq8hQPPhpHQBCHr	Talk a Big Game	Blue	3	0		3				Brute, Guardian, Action		Go
 JWhM8H7f8tLhnHtgtGkMn	Tame the Beastly Behavior	Red	1	3	7	3				Revered, Action, Attack								"When this attacks a Reviled hero, this gets +1{p}.
 
 When this hits a Reviled hero, put a card from their arsenal on the bottom of their deck."	Revered Action - Attack					No	
+pJ9nmwqTCCHnPdCKhmCpj	Tap Lessons Past	Red	1	1		3			4	Lightning, Wizard, Action								"Deal 4 arcane damage to any target.
+
+If this deals damage, you may {t} your hero. If you do, put an instant card from your graveyard on the bottom of your deck."	Lightning Wizard Action						
+qJTtff8cWtnkLngCdnfGt	Tap Lessons Past	Yellow	2	1		3			3	Lightning, Wizard, Action								"Deal 3 arcane damage to any target.
+
+If this deals damage, you may {t} your hero. If you do, put an instant card from your graveyard on the bottom of your deck."	Lightning Wizard Action						
+npt7bHwQtJJr8wKKgB79N	Tap Lessons Past	Blue	3	1		3			2	Lightning, Wizard, Action								"Deal 2 arcane damage to any target.
+
+If this deals damage, you may {t} your hero. If you do, put an instant card from your graveyard on the bottom of your deck."	Lightning Wizard Action						
 BfCHDqCQHfNgqQGckhq7d	Tarantula Toxin	Red	1	0		3				Assassin, Attack Reaction							Stealth	"Choose 1 or both;
 
 * Target dagger attack gets +3{p}.
@@ -11309,6 +11283,7 @@ QF7w8mPkmCmLGmtzDLDPM	Templar Spellbane					1				Warrior, Equipment, Head		Battl
 
 **Battleworn**"	Warrior Equipment - Head				No	No	
 Lw6p6ntgdBwB7tDPJtDjG	Temporal Wobble	Red	1	0						Wizard, Instant		Negate						**Negate** target non-attack action card with cost less than the number of aura permanents you control with Sigil in their name. Its controller gains 1 action point.	Wizard Instant				No	No	
+gQztCktdLJmWRdNfPNM6q	Tempt Over	Yellow	2	0	3	3				Generic, Action, Attack		Steal						When this attacks a hero, **steal** an aura token they control until end of turn.	Generic Action - Attack				No	No	
 F8hkwqJTR9m8bRKnbr6JB	Ten Foot Tall and Bulletproof	Red	1	3	10	10				Generic, Action, Attack								When this attacks or defends, your hero gets -2{i} during your next end phase.	Generic Action - Attack				No	No	
 hJbgjmKWm7PKWGrrRhMf6	Tenacity	Yellow	2	0	2	3				Generic, Action, Attack								When this attacks, it gets +X{p}, where X is the number of defending cards on the combat chain.	Generic Action - Attack				No	No	
 hGrNPzMgNPK9zJ68bk987	Tension in the Air	Red	1	2		3				Guardian, Instant, Aura		Suspense						"**Suspense**
@@ -11435,6 +11410,15 @@ JdNthFgr8LrmfPffWTmGd	Thump	Blue	3	4	4	3				Guardian, Action, Attack		Dominate		
 8L9nbmwtGjCRCDdDBqRQc	Thunder Quake	Red	1	6	10	3				Guardian, Action, Attack		Heave 3						**Heave 3**	Guardian Action - Attack						
 P8CJhgBHBcQwFQrK6jzWq	Thunder Quake	Yellow	2	6	9	3				Guardian, Action, Attack		Heave 3						**Heave 3**	Guardian Action - Attack						
 MfFH89gTLWnFjfJjF9WFw	Thunder Quake	Blue	3	6	8	3				Guardian, Action, Attack		Heave 3						**Heave 3**	Guardian Action - Attack						
+hmgMzMGKkrgdQKkJdF7GQ	Thunderous Retort	Red	1	0						Lightning, Instant, Aura		Arcane Barrier 3			Go again			"At the beginning of your action phase, destroy this, then your next attack this turn gets **go again**.
+
+**Arcane Barrier 3**"	Lightning Instant - Aura						
+RrBgm8mpnBdCqMgfjDp7z	Thunderous Retort	Yellow	2	0						Lightning, Instant, Aura		Arcane Barrier 2			Go again			"At the beginning of your action phase, destroy this, then your next attack this turn gets **go again**.
+
+**Arcane Barrier 2**"	Lightning Instant - Aura						
+LhRPD8cdgP7LBDjdj7nfT	Thunderous Retort	Blue	3	0						Lightning, Instant, Aura		Arcane Barrier 1			Go again			"At the beginning of your action phase, destroy this, then your next attack this turn gets **go again**.
+
+**Arcane Barrier 1**"	Lightning Instant - Aura						
 PDPbhCGj7twzTP8HGfhBb	Thunk	Red	1	5	8	3				Guardian, Action, Attack							Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack						
 KqtjpgTftPFhRbhwQkcBQ	Thunk	Yellow	2	5	7	3				Guardian, Action, Attack							Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack						
 7HFBMWtFrdmQpQkLLwHGJ	Thunk	Blue	3	5	6	3				Guardian, Action, Attack							Clash	When you win a **clash** revealing this, create a Might token.	Guardian Action - Attack						
@@ -12187,6 +12171,7 @@ z78cKCmLRbWfftGfpcJGd	Virulent Touch	Blue	3	0	2	2				Assassin, Ranger, Action, A
 When this chain link resolves, if Virulent Touch is defended by a card from hand, create a Bloodrot Pox token under the defending hero's control."	Assassin / Ranger Action - Attack						
 RHnFkKb8FKdFzp9rdzGjF	Viserai						20	4		Runeblade, Hero, Young								Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.	Runeblade Hero - Young			No			No
 TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood						40	4		Runeblade, Hero								Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.	Runeblade Hero		No		No	No	
+LKrMGGMMHFKbbcM6LQ9WN	Visionary of Orbits	Red	1	3	7	2				Lightning, Action, Attack								When this hits, you may put an instant card from your graveyard on the bottom of your deck.	Lightning Action - Attack					No	
 mTbD9zFpgmNQc7qzmfG8M	Visit Anvilheim	Blue	3	X		3				Guardian, Action								Remove X -1{d} counters from a Guardian off-hand you have equipped.	Guardian Action				No	No	
 n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	Blue	3	1		3				Guardian, Action		Victor Specialization, Go again						"**Victor Specialization**
 
@@ -12230,11 +12215,29 @@ fPrdbzqrg9NLzGgdMT8L7	Void Wraith	Yellow	2	2	4	3				Shadow, Action, Attack		Bloo
 8cCcw6wqqbhzgDPCTNzmR	Void Wraith	Blue	3	2	3	3				Shadow, Action, Attack		Blood Debt						"You may play Void Wraith from your banished zone.
 
 **Blood Debt**"	Shadow Action - Attack						
+mLQbHGnCHtLpmJh6LWLbP	Volatile Fluxor	Red	1	0	0	3				Lightning, Action, Attack		Go again						"If you've played an instant card this chain link, this gets +3{p}.
+
+When this hits, create a Lightning Flow token.
+
+**Go again**"	Lightning Action - Attack						
+gDcLCrcfPQKNNpq8DkMFp	Volatile Fluxor	Yellow	2	0	0	3				Lightning, Action, Attack		Go again						"If you've played an instant card this chain link, this gets +2{p}.
+
+When this hits, create a Lightning Flow token.
+
+**Go again**"	Lightning Action - Attack						
+cQcb7dCwJWGt6jMrDdtRz	Volatile Fluxor	Blue	3	0	0	3				Lightning, Action, Attack		Go again						"If you've played an instant card this chain link, this gets +1{p}.
+
+When this hits, create a Lightning Flow token.
+
+**Go again**"	Lightning Action - Attack						
 8tGLHwNjzzJdqkjhhKBRb	Volcanic Vice					0				Guardian, Equipment, Arms		Spellvoid 3						If you've created a Seismic Surge this turn, this gets **spellvoid 3**.	Gaurdian Equipment - Arms						
 Nzpgn9HrbNfkzM8CkwCQp	Voltaire, Strike Twice									Elemental, Ranger, Weapon, Bow, 2H			Twice per Turn Instant		Go again			"**Twice per Turn Instant** - {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;
 
 - It gains +1{p} until end of turn.
 - It gains **go again** until end of turn."	Elemental Ranger Weapon - Bow (2H)				No	No	
+NwMtf6bWr68tRnfzzgzmt	Voltaris	Blue	3							Lightning, Resource, Gem		Legendary						"**Legendary**
+
+When this is pitched, create a Lightning Flow token."	Lightning Resource - Gem				No	No	
 ChgnM7DhdJNqhDRww6Qbz	Voltbound Duality	Red	1	0	4	3			1	Lightning, Runeblade, Action, Attack			Instant					**Instant** - {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.	Lightning Runeblade Action - Attack						
 rLDftPkdRdRH8bwwwhWkg	Voltbound Duality	Yellow	2	0	3	3			1	Lightning, Runeblade, Action, Attack			Instant					**Instant** - {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.	Lightning Runeblade Action - Attack						
 dpLGTBmrFfpKctGmQcHtw	Voltbound Duality	Blue	3	0	2	3			1	Lightning, Runeblade, Action, Attack			Instant					**Instant** - {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.	Lightning Runeblade Action - Attack						
