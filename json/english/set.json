@@ -1218,6 +1218,27 @@
         ]
     },
     {
+        "unique_id": "qJrJThgkdr8NzCz8C8hLM",
+        "id": "IAR",
+        "name": "??? Set 20 ???",
+        "printings": [
+            {
+                "unique_id": "qPHBhhWF8Mb8pfGcmztnF",
+                "edition": "N",
+                "start_card_id": "IAR145",
+                "end_card_id": "IAR222",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "NJH6TM8ThDgd6GKNbMbKm",
         "id": "IRA",
         "name": "Ira Welcome Deck",
@@ -1605,7 +1626,7 @@
                 "collectors_center": null,
                 "card_gallery": null,
                 "release_notes": null,
-                "set_logo": null
+                "set_logo": "https://cdn.fabtcg.com/uploads/2026/03/omens_of_the_third_age_logo.png"
             }
         ]
     },
