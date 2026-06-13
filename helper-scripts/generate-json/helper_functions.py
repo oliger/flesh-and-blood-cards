@@ -1,7 +1,16 @@
 import re
 
+# Keeps Essence keywords with 3+ talents atomic (e.g. "Essence of Earth, Ice, and
+# Lightning"), so their commas aren't split on the ", " array delimiter.
+ESSENCE_PATTERN = re.compile(r"Essence of (?:[A-Z][a-zA-Z]*, )+and [A-Z][a-zA-Z]*")
+
 def convert_to_array(field):
-    return [convert_to_null(x) for x in field.split(", ") if x.strip() != ""]
+    placeholders = {}
+    for index, value in enumerate(dict.fromkeys(ESSENCE_PATTERN.findall(field))):
+        token = f"\x00{index}\x00"
+        field = field.replace(value, token)
+        placeholders[token] = value
+    return [convert_to_null(placeholders.get(x, x)) for x in field.split(", ") if x.strip() != ""]
 
 def convert_to_null(field):
     if field.strip().lower() == "null":
