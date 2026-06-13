@@ -754,7 +754,7 @@ CdnTg7KmhKzWpJcd9JHrR	Bask in Your Own Greatness	Blue	3	0	2	2				Reviled, Action
 **Temper**"	Guardian Equipment - Off-Hand						
 QKgbfzgpnzfq7HKgWTzRg	Bastion of Unity					1				Warrior, Equipment, Off-Hand		Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
 
-**Temper**"	Warrior Equipment - Off-hand				No	No	
+**Temper**"	Warrior Equipment - Off-Hand				No	No	
 jBMwChDGmJjp7GrhnzdwQ	Battalion Barque	Red	1	4	7	3				Pirate, Action, Attack		High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets +2{p}.	Pirate Action - Attack						
 gPkmHM8hGHGdkDTfCdbDP	Battalion Barque	Yellow	2	4	6	3				Pirate, Action, Attack		High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets +2{p}.	Pirate Action - Attack						
 CKgkPBMkGRkNzrDbdRttC	Battalion Barque	Blue	3	4	5	3				Pirate, Action, Attack		High Tide						High Tide - If there are 2 or more blue cards in your pitch zone, this gets +2{p}.	Pirate Action - Attack						
@@ -2220,13 +2220,13 @@ nHTwDwq8BDnkdPrc9c9bW	Comeback Kid	Blue	3	3	5	3				Revered, Action, Attack		The 
 If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack					No	
 BRdKgPG6pJk8pGT7CWCpB	Comet Collision	Red	1	0		3			3	Lightning, Wizard, Action		Starfall						"Deal 3 arcane damage to any target.
 
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 4 arcane damage."	Lightning Wizard Instant					No	
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 4 arcane damage."	Lightning Wizard Action					No	
 kLgnHP8nHtnMwHfqN9zkp	Comet Collision	Yellow	2	0		3			2	Lightning, Wizard, Action		Starfall						"Deal 2 arcane damage to any target.
 
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 3 arcane damage."	Lightning Wizard Instant					No	
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 3 arcane damage."	Lightning Wizard Action					No	
 Mbrg9P78qm9PGCdPLbncD	Comet Collision	Blue	3	0		3			1	Lightning, Wizard, Action		Starfall						"Deal 1 arcane damage to any target.
 
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 2 arcane damage."	Lightning Wizard Instant					No	
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 2 arcane damage."	Lightning Wizard Action					No	
 hNtpt77b8dGgTbkCqzCLB	Comet Storm // Shock	Red	1	2		3			6	Wizard, Action, Lightning, Instant		Meld						"**Meld**
 
 Deal 5 arcane damage to any target.
@@ -2812,7 +2812,7 @@ MrNgmfGDfJmF6rcLbFcrm	Demolition Crew	Blue	3	2	4	2				Generic, Action, Attack		D
 **Dominate**"	Generic Action - Attack						
 MWfDtTFgd8f8zNzQgDJjt	Demolition Protocol	Red	1	3	7	3				Mechanologist, Action, Attack		Evo Upgrade						**Evo Upgrade** - When this attacks a hero, remove all steam counters from up to X equipment, items, and/or weapons they control, where X is the number of Evos you have equipped.	Mechanologist Action - Attack				No	No	
 wmdN6gnj6gdcdfWDMnqK6	Demonstrate Devotion	Red	1	1	4	2				Draconic, Ninja, Action, Attack		Go again						"If you control 2 or more Draconic chain links, this gets **go again** and ""When this attacks a hero, create a Fealty token."""	Draconic Ninja Action - Attack					No	
-jmNMNj8FrgJCR8dCcbmTr	Den of the Spider	Red	1	0		3				Assassin, Warrior, Defense Reaction, Trap					Mark			When this defends an attack with {p} greater than its base, **mark** the attacking hero.	Assassin / Warrior Action Defense Reaction - Trap						
+jmNMNj8FrgJCR8dCcbmTr	Den of the Spider	Red	1	0		3				Assassin, Warrior, Defense Reaction, Trap					Mark			When this defends an attack with {p} greater than its base, **mark** the attacking hero.	Assassin / Warrior Defense Reaction - Trap						
 hNdDhKhhpGwKTCT7wMRCp	Dense Blue Mist	Blue	3	1						Mystic, Instant								"Attacks that target you this turn get -1{p}.
 
 If a Chi was pitched to play this, effects don't trigger if an attack hits you this turn."	Mystic Instant				No	No	
@@ -3036,7 +3036,7 @@ If a hero would create 1 or more tokens from a **wager** this turn, instead they
 **Go again**"	Guardian / Warrior Action				No	No	
 PrzDDzhJCLMPdrJDzrrpr	Double Strike	Red	1	0	1	2				Ninja, Action, Attack		Go again						"When Double Strike's chain link resolves, banish it. You may play it this combat chain. If you do, it loses this ability.
 
-**Go again**"	Nina Action - Attack				No	No	
+**Go again**"	Ninja Action - Attack				No	No	
 qHT6BFpP7DTCFHwGz6hDR	Double Trouble	Red	1	0	3	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
 If you've played or activated 2 or more attack reactions this chain link, this gets +2{p} and ""When this hits a hero, banish the top 2 cards of their deck."""	Assassin Action - Attack					No	
@@ -6154,7 +6154,7 @@ kg8PPbzPQHbJBccCwwh6f	Laden with Lightning	Red	1	1		2				Elemental, Action		Ligh
 rpqF9GbWN7Kkb6hPKPnJk	Lady Barthimont					3				Brute, Mentor					Dominate		Specialization	"While Barthimont is face down in arsenal, at the start of your turn, you may turn her face up.
 
 While Barthimont is face up in arsenal, whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, the attack gains **dominate** and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on her, banish her, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Brute Mentor			No	No	No	No
-mMzzGF76cFfFHJQJTFcnB	Lair of the Spider	Red	1	0		3				Assassin, Ninja, Defense Reaction, Trap		Mark					Go again	When this defends an attack with **go again**, **mark** the attacking hero.	Assassin / Ninja Action Defense Reaction - Trap						
+mMzzGF76cFfFHJQJTFcnB	Lair of the Spider	Red	1	0		3				Assassin, Ninja, Defense Reaction, Trap		Mark					Go again	When this defends an attack with **go again**, **mark** the attacking hero.	Assassin / Ninja Defense Reaction - Trap						
 qmzNwRPnh8gkrdKdLwCbt	Last Ditch Effort	Blue	3	3	4	3				Generic, Action, Attack		Go again						When you play Last Ditch Effort, if you have no cards in your deck, it gains +4{p} and **go again**.	Generic Action - Attack					No	
 mm6rHKbCkKKfD6h6tCMcK	Laughing Knee-Slappers					1				Reviled, Brute, Equipment, Legs		Blade Break						"If you control a Might and a Vigor token, this gets +2{d}.
 
@@ -7490,7 +7490,7 @@ At the beginning of your end phase, put a sand counter on this, then destroy it 
 
 This gets +2{d} while defending a weapon attack.
 
-**Blade Break**"	Warror Weapon Equipment - Sword (1H)						
+**Blade Break**"	Warrior Weapon Equipment - Sword (1H)						
 m9tj8WGNNjQPt8wjMqFFf	Pass Over	Blue	3	0						Mystic, Instant		Legendary, Transcend						"**Legendary**
 
 Banish target card from an opposing hero's graveyard.
@@ -9220,9 +9220,9 @@ LKtdCkW87n6dJCtKqqkMw	Rust Belt					1				Mechanologist, Equipment, Chest		Battle
 **Battleworn**"	Mechanologist Equipment - Chest						
 CCwMfr7DptzKNpLPDwtDc	Rusted Relic	Blue	3	0						Generic, Action, Item		Arcane Barrier 1						**Arcane Barrier 1**	Generic Action - Item					No	
 CMbMkj6F86Kj9kPKNBwPN	Rusty Harpoon	Blue	3	0	1	3				Pirate, Ranger, Action, Arrow, Attack									Pirate Ranger Action - Arrow Attack						
-hRMhmf8qkn6pR7TWQLqgb	Ruu'di, Gem Keeper						40	4		Hero, Merchant			Once per Turn Action	Go again				"You may only have PSA graded cards in your deck.
+hRMhmf8qkn6pR7TWQLqgb	Ruu'di, Gem Keeper						40	4		Merchant, Hero			Once per Turn Action	Go again				"You may only have PSA graded cards in your deck.
 
-**Once per Turn Action** - {r}: Reveal the top card of your deck. If it's graded Gem Mint 10, put it into your hand, otherwise each opponent may draw a card. **Go again**"	Hero - Merchant		No		No	No	
+**Once per Turn Action** - {r}: Reveal the top card of your deck. If it's graded Gem Mint 10, put it into your hand, otherwise each opponent may draw a card. **Go again**"	Merchant Hero		No		No	No	
 bdCCWJQKkgjTNrH8PbnwQ	Sack the Shifty	Red	1	0	4	3				Assassin, Action, Attack		Contract					Go again	"**Contract** - You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack						
@@ -9734,7 +9734,7 @@ RD7rFNprgNp9HBwwTTk88	Sharpened Senses	Yellow	2	0		3				Warrior, Action, Aura		G
 
 Your weapon attacks get +1{p}. If their {p} is greater than twice their base, they get **go again**.
 
-At the beginning of your end phase, destroy this."	Warior Action - Aura				No	No	
+At the beginning of your end phase, destroy this."	Warrior Action - Aura				No	No	
 HRKwRGWdmgQrf7BGPnzK7	Sharpening Sparks	Red	1	0		3				Warrior, Attack Reaction					Sharpen			"Target sword attack gets +2{p} and ""When this hits, **sharpen** this sword."""	Warrior Attack Reaction				No	No	
 RJNjgKCzrKtWJfdqRPMhg	Shatter	Yellow	2	0		3				Warrior, Attack Reaction								"Until end of turn, target 2H weapon gains ""Whenever this would deal {p} damage, instead you may destroy target defending equipment with {d} less than the damage that would be dealt this way."	Warrior Attack Reaction				No	No	
 KCRhRBTqwf9mRfjmGnQL6	Shatter Sorcery	Blue	3	0						Generic, Instant								"Choose 1 or both;
@@ -12264,7 +12264,7 @@ cQcb7dCwJWGt6jMrDdtRz	Volatile Fluxor	Blue	3	0	0	3				Lightning, Action, Attack	
 When this hits, create a Lightning Flow token.
 
 **Go again**"	Lightning Action - Attack						
-8tGLHwNjzzJdqkjhhKBRb	Volcanic Vice					0				Guardian, Equipment, Arms		Spellvoid 3						If you've created a Seismic Surge this turn, this gets **spellvoid 3**.	Gaurdian Equipment - Arms						
+8tGLHwNjzzJdqkjhhKBRb	Volcanic Vice					0				Guardian, Equipment, Arms		Spellvoid 3						If you've created a Seismic Surge this turn, this gets **spellvoid 3**.	Guardian Equipment - Arms						
 Nzpgn9HrbNfkzM8CkwCQp	Voltaire, Strike Twice									Elemental, Ranger, Weapon, Bow, 2H			Twice per Turn Instant		Go again			"**Twice per Turn Instant** - {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;
 
 - It gains +1{p} until end of turn.
